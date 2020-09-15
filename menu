@@ -1,12 +1,10 @@
 <items>
- <item>
-      <title>[B]Woppegong [COLORorange]TV[/COLOR][/B]</title>
-      <thumbnail>http://psyco.tv/woppegong.png</thumbnail><fanart>http://psyco.tv/woppefan.jpg</fanart>
-   
-      <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/tv</externallink>
-</item>
 
 
+
+
+
+ <item> <title>[B]Woppegong [COLORorange]TV[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/woppegong.png</thumbnail>  <fanart>http://psyco.tv/woppefan.jpg</fanart> <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/tv</externallink> <info></info> </item> 
 
 
  <item> <title>- - - - - - - - - - - - - - - - - - - - - - - - - - - - -<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/woppegong.png</thumbnail>  <fanart>http://psyco.tv/woppefan.jpg</fanart> <externallink></externallink> <info></info> </item> 
