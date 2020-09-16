@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,RTL
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/26c135e92ed8bf3.m3u8
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/26c135e92ed8bf3.m3u_plus
 #EXTINF:-1,RTL 2
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/ebd45ae4d0ab9aa.m3u8
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/ebd45ae4d0ab9aa.m3u_plus
 #EXTINF:-1,SUPER RTL
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/30f44898b9f3e97.m3u8
 #EXTINF:-1,RTL NITRO
