@@ -1,87 +1,98 @@
-#EXTINF:-1,RTL
+#EXTM3U
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/26c135e92ed8bf3.m3u8
-#EXTINF:-1,RTL 2
+#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",RTL 2
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/ebd45ae4d0ab9aa.m3u8
-#EXTINF:-1,SUPER RTL
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="Channels",SUPER RTL
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/30f44898b9f3e97.m3u8
-#EXTINF:-1,RTL NITRO
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",RTL NITRO
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/0ee84c2b80ed40f.m3u8
-#EXTINF:-1,RTL PASSION
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",RTL PASSION
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/d44276144e4e810.m3u8
-#EXTINF:-1,RTL CRIME
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",RTL CRIME
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/d69788dce200a3b.m3u8
-#EXTINF:-1,AXN DE
+#EXTINF:0 tvg-id="AXN.de" group-title="Channels",AXN DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/be91b4933d53674.m3u8
-#EXTINF:-1,SKY CINEMA
+#EXTINF:0 tvg-id="SkyCinema.de" group-title="Channels",SKY CINEMA
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/1c63853f0a651ba.m3u8
-#EXTINF:-1,SKY CINEMA 1
+#EXTINF:0 tvg-id="SkyCinema.de" group-title="Channels",SKY CINEMA 1
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/cbe90fbdbf88a5a.m3u8
-#EXTINF:-1,SKY CINEMA 24
+#EXTINF:0 tvg-id="SkyCinemaPlus24.de" group-title="Channels",SKY CINEMA 24
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/461de8d0024aebc.m3u8
-#EXTINF:-1,SKY ACTION
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels",SKY ACTION
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/1e1e0931919438f.m3u8
-#EXTINF:-1,SKY ATLATNIC
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY ATLATNIC
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/94d30851c63a55c.m3u8
-#EXTINF:-1,SKY COMEDY
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Channels",SKY COMEDY
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/5a1f8dbfb2d656b.m3u8
-#EXTINF:-1,KIKA TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",KIKA TV
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/4071faca32ad528.m3u8
-#EXTINF:-1,PRO 7
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",PRO 7
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/aeeacb258365cc6.m3u8
-#EXTINF:-1,VOX DE
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",VOX DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/992c676f6116160.m3u8
-#EXTINF:-1,ZDF TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF TV
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/584af63a546588c.m3u8
-#EXTINF:-1,SAT 1
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",SAT 1
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/6127e44214882c6.m3u8
-#EXTINF:-1,ARD 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARD 1
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/119037c5b8a9663.m3u8
-#EXTINF:-1,NTV
+#EXTINF:0 tvg-id="ntv" group-title="Channels",NTV
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/e81694ca09a626e.m3u8
-#EXTINF:-1,N24
+#EXTINF:0 tvg-id="n24.de" group-title="Channels",N24
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/c11f979ed25912d.m3u8
-#EXTINF:-1,DISCOVERY DE
+#EXTINF:0 tvg-id="DiscoveryChannel.de" group-title="Channels",DISCOVERY DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/c5ff5f6a1802925.m3u8
-#EXTINF:-1,HISTORY DE
+#EXTINF:0 tvg-id="History.de" group-title="Channels",HISTORY DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/03bb003a298c2ad.m3u8
-#EXTINF:-1,NAT GEO WILD DE
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Channels",NAT GEO WILD DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/ac4be1502501489.m3u8
-#EXTINF:-1,SKY HITS
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Channels",SKY HITS
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/cd6c008e727785c.m3u8
-#EXTINF:-1,SKY SELECT 1
+#EXTINF:0 tvg-id="SkySelect1.de" group-title="Channels",SKY SELECT 1
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/4ea9305ea4c7bb6.m3u8
-#EXTINF:-1,SKY SELECT 2
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="Channels",SKY SELECT 2
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/1b34c82aa95e488.m3u8
-#EXTINF:-1,SKY SELECT 3
+#EXTINF:0 tvg-id="SkySelect3.de" group-title="Channels",SKY SELECT 3
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/bd778da8bdd5361.m3u8
-#EXTINF:-1,SKY SELECT 4
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="Channels",SKY SELECT 4
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/047a6674cef251d.m3u8
-#EXTINF:-1,SKY SELECT 5
+#EXTINF:0 tvg-id="SkySelect5.de" group-title="Channels",SKY SELECT 5
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/a892d962d6f8056.m3u8
-#EXTINF:-1,SKY SPORTS 1 DE
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Channels",SKY SPORTS 1 DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/dce9addb1c5cb5d.m3u8
-#EXTINF:-1,SKY SPORTS 2 DE
+#EXTINF:0 tvg-id="SkySport2.de" group-title="Channels",SKY SPORTS 2 DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/9debe54b19a5f78.m3u8
-#EXTINF:-1,SKY SPORTS 3 DE
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS 3 DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/8fcb6b065e000ff.m3u8
-#EXTINF:-1,SKY SPORTS 4 DE
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS 4 DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/51ad23909020c28.m3u8
-#EXTINF:-1,SKY SPORTS 5 DE
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS 5 DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/f92115213ab187d.m3u8
-#EXTINF:-1,SKY SPORTS 6 DE
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS 6 DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/ba89a5b5c6c226e.m3u8
-#EXTINF:-1,SKY SPORTS AUSTRIA DE
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS AUSTRIA DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/a8a5bab2b3785d7.m3u8
-#EXTINF:-1,SKY SPORTS BUNDESLIGA 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS BUNDESLIGA 1
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/50c3f5e97f97846.m3u8
-#EXTINF:-1,SKY SPORTS BUNDESLIGA 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS BUNDESLIGA 2
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/6bf330f23a8707b.m3u8
-#EXTINF:-1,DISNEY CHANNEL DE
+#EXTINF:0 tvg-id="disneychannel.de" group-title="Channels",DISNEY CHANNEL DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/a4bd4f81549a9d1.m3u8
-#EXTINF:-1,DISNEY XD DE
+#EXTINF:0 tvg-id="DisneyXD.de" group-title="Channels",DISNEY XD DE
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/0476c6f03095451.m3u8
-#EXTINF:-1,TNT FILM
+#EXTINF:0 tvg-id="tnt-film-lt" group-title="Channels",TNT FILM
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/7a1c80cbdd2aa24.m3u8
-#EXTINF:-1,TNT SERIES
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT SERIES
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/34290610d9b7e9a.m3u8
-#EXTINF:-1,PRO7
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",PRO7 MAXX
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/40cd412efde8bc1.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="Channels",ANIMAL PLANET DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/bccd1762555582b.m3u8
+#EXTINF:0 tvg-id="NatGeo.de" group-title="Channels",NAT GEO DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/8d64a5f47269ed5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT GEO PEOPLE DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/75941549a705cf7.m3u8
+#EXTINF:0 tvg-id="ZeeOne.de" group-title="Channels",ZEE ONE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/410c51e60941a90.m3u8
+
