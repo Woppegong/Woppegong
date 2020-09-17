@@ -1,98 +1,572 @@
-#EXTM3U
-#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/26c135e92ed8bf3.m3u8
-#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",RTL 2
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/ebd45ae4d0ab9aa.m3u8
-#EXTINF:0 tvg-id="SuperRTL.de" group-title="Channels",SUPER RTL
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/30f44898b9f3e97.m3u8
-#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",RTL NITRO
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/0ee84c2b80ed40f.m3u8
-#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",RTL PASSION
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/d44276144e4e810.m3u8
-#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",RTL CRIME
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/d69788dce200a3b.m3u8
-#EXTINF:0 tvg-id="AXN.de" group-title="Channels",AXN DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/be91b4933d53674.m3u8
-#EXTINF:0 tvg-id="SkyCinema.de" group-title="Channels",SKY CINEMA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/1c63853f0a651ba.m3u8
-#EXTINF:0 tvg-id="SkyCinema.de" group-title="Channels",SKY CINEMA 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/cbe90fbdbf88a5a.m3u8
-#EXTINF:0 tvg-id="SkyCinemaPlus24.de" group-title="Channels",SKY CINEMA 24
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/461de8d0024aebc.m3u8
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels",SKY ACTION
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/1e1e0931919438f.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY ATLATNIC
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/94d30851c63a55c.m3u8
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Channels",SKY COMEDY
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/5a1f8dbfb2d656b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KIKA TV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/4071faca32ad528.m3u8
-#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",PRO 7
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/aeeacb258365cc6.m3u8
-#EXTINF:0 tvg-id="Vox.de" group-title="Channels",VOX DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/992c676f6116160.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZDF TV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/584af63a546588c.m3u8
-#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",SAT 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/6127e44214882c6.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ARD 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/119037c5b8a9663.m3u8
-#EXTINF:0 tvg-id="ntv" group-title="Channels",NTV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/e81694ca09a626e.m3u8
-#EXTINF:0 tvg-id="n24.de" group-title="Channels",N24
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/c11f979ed25912d.m3u8
-#EXTINF:0 tvg-id="DiscoveryChannel.de" group-title="Channels",DISCOVERY DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/c5ff5f6a1802925.m3u8
-#EXTINF:0 tvg-id="History.de" group-title="Channels",HISTORY DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/03bb003a298c2ad.m3u8
-#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Channels",NAT GEO WILD DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/ac4be1502501489.m3u8
-#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Channels",SKY HITS
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/cd6c008e727785c.m3u8
-#EXTINF:0 tvg-id="SkySelect1.de" group-title="Channels",SKY SELECT 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/4ea9305ea4c7bb6.m3u8
-#EXTINF:0 tvg-id="SkySelect2.de" group-title="Channels",SKY SELECT 2
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/1b34c82aa95e488.m3u8
-#EXTINF:0 tvg-id="SkySelect3.de" group-title="Channels",SKY SELECT 3
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/bd778da8bdd5361.m3u8
-#EXTINF:0 tvg-id="SkySelect4.de" group-title="Channels",SKY SELECT 4
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/047a6674cef251d.m3u8
-#EXTINF:0 tvg-id="SkySelect5.de" group-title="Channels",SKY SELECT 5
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/a892d962d6f8056.m3u8
-#EXTINF:0 tvg-id="SkySport1.de" group-title="Channels",SKY SPORTS 1 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/dce9addb1c5cb5d.m3u8
-#EXTINF:0 tvg-id="SkySport2.de" group-title="Channels",SKY SPORTS 2 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/9debe54b19a5f78.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS 3 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/8fcb6b065e000ff.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS 4 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/51ad23909020c28.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS 5 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/f92115213ab187d.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS 6 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/ba89a5b5c6c226e.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS AUSTRIA DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/a8a5bab2b3785d7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS BUNDESLIGA 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/50c3f5e97f97846.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS BUNDESLIGA 2
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/6bf330f23a8707b.m3u8
-#EXTINF:0 tvg-id="disneychannel.de" group-title="Channels",DISNEY CHANNEL DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/a4bd4f81549a9d1.m3u8
-#EXTINF:0 tvg-id="DisneyXD.de" group-title="Channels",DISNEY XD DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/0476c6f03095451.m3u8
-#EXTINF:0 tvg-id="tnt-film-lt" group-title="Channels",TNT FILM
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/7a1c80cbdd2aa24.m3u8
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT SERIES
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/34290610d9b7e9a.m3u8
-#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",PRO7 MAXX
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/40cd412efde8bc1.m3u8
-#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="Channels",ANIMAL PLANET DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/bccd1762555582b.m3u8
-#EXTINF:0 tvg-id="NatGeo.de" group-title="Channels",NAT GEO DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/8d64a5f47269ed5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NAT GEO PEOPLE DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/75941549a705cf7.m3u8
-#EXTINF:0 tvg-id="ZeeOne.de" group-title="Channels",ZEE ONE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u/Germany/410c51e60941a90.m3u8
-
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste HD DE" tvg-logo="http://pici.life/DE/daserstehd.png" group-title="Germany",Das Erste HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13166.ts
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-logo="http://pici.life/daserstehd_2.png" group-title="Germany",Das Erste DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6256.ts
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste (B) DE" tvg-logo="http://pici.life/daserstehd_2.png" group-title="Germany",Das Erste (B) DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6262.ts
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF FHD DE" tvg-logo="http://pici.life/zdfhd.png" group-title="Germany",ZDF FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6151.ts
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD DE" tvg-logo="http://pici.life/DE/zdf.png" group-title="Germany",ZDF HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/17011.ts
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF Neo HD DE" tvg-logo="http://pici.life/DE/zdfneoo.png" group-title="Germany",ZDF Neo HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/17304.ts
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL FHD DE" tvg-logo="http://pici.life/DE/rtlhd.png" group-title="Germany",RTL FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13565.ts
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD DE" tvg-logo="http://pici.life/rtlhd_2.png" group-title="Germany",RTL HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6216.ts
+#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="Sat.1 FHD DE" tvg-logo="http://pici.life/sat1hd_2.png" group-title="Germany",Sat.1 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6210.ts
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="Pro 7 FHD DE" tvg-logo="http://pici.life/DE/prosiebenhd.png" group-title="Germany",Pro 7 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6220.ts
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="Pro Sieben FHD DE" tvg-logo="http://pici.life/DE/prosiebenhd.png" group-title="Germany",Pro Sieben FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8235.ts
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="Pro Sieben HD DE" tvg-logo="http://pici.life/DE/prosiebenhd.png" group-title="Germany",Pro Sieben HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13144.ts
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX FHD DE" tvg-logo="http://pici.life/DE/voxhd.png" group-title="Germany",VOX FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13553.ts
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX DE" tvg-logo="http://pici.life/vox_de.png" group-title="Germany",VOX DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6153.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOX UP DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",VOX UP DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679836.ts
+#EXTINF:-1 tvg-id="kabel eins DE" tvg-name="Kabel 1 FHD DE" tvg-logo="http://pici.life/DE/kabeleinshd.png" group-title="Germany",Kabel 1 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6242.ts
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classic HD DE" tvg-logo="http://pici.life/DE/kabeleinsclassics.png" group-title="Germany",Kabel 1 Classic HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kabel Eins Classics HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Kabel Eins Classics HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679844.ts
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 FHD DE" tvg-logo="http://pici.life/rtl2hd.png" group-title="Germany",RTL 2 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6215.ts
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD DE" tvg-logo="http://pici.life/DE/rtl2.png" group-title="Germany",RTL 2 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13136.ts
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL Nitro FHD DE" tvg-logo="http://pici.life/rtlnitrohd.png" group-title="Germany",RTL Nitro FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6212.ts
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL Nitro HD DE" tvg-logo="http://pici.life/DE/rtlnitrohd.png" group-title="Germany",RTL Nitro HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13137.ts
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL Passion FHD DE" tvg-logo="http://pici.life/rtlpassion.png" group-title="Germany",RTL Passion FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8219.ts
+#EXTINF:-1 tvg-id="RTLplus DE" tvg-name="RTL Plus DE" tvg-logo="http://pici.life/rtlplus.png" group-title="Germany",RTL Plus DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9152.ts
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime FHD DE" tvg-logo="http://pici.life/rtlcrime_2.png" group-title="Germany",RTL Crime FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6214.ts
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime HD DE" tvg-logo="http://pici.life/DE/rtlcrime.png" group-title="Germany",RTL Crime HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/17012.ts
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation FHD DE" tvg-logo="http://pici.life/aande.png" group-title="Germany",Crime & Investigation FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6263.ts
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation HD DE" tvg-logo="http://pici.life/DE/aehd.png" group-title="Germany",Crime & Investigation HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8197.ts
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living HD DE" tvg-logo="http://pici.life/rtlliving.png" group-title="Germany",RTL Living HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6150.ts
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living DE" tvg-logo="http://pici.life/rtlliving.png" group-title="Germany",RTL Living DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6213.ts
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="Sat1 Emotion DE" tvg-logo="http://pici.life/DE/sat1emotions.png" group-title="Germany",Sat1 Emotion DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13135.ts
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat1 Gold FHD DE" tvg-logo="http://pici.life/sat1gold.png" group-title="Germany",Sat1 Gold FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6209.ts
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="Pro 7 Fun FHD DE" tvg-logo="http://pici.life/DE/prosiebenfunhd_2.png" group-title="Germany",Pro 7 Fun FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6219.ts
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="Pro 7 Fun HD DE" tvg-logo="http://pici.life/DE/prosiebenfunhd.png" group-title="Germany",Pro 7 Fun HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13145.ts
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="Pro Sieben Fun HD DE" tvg-logo="http://pici.life/DE/prosiebenfunhd_2.png" group-title="Germany",Pro Sieben Fun HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13142.ts
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro 7 Max FHD DE" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Germany",Pro 7 Max FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6218.ts
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro Sieben Maxx HD DE" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Germany",Pro Sieben Maxx HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13143.ts
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro Sieben Maxx FHD DE" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Germany",Pro Sieben Maxx FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8234.ts
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment FHD DE" tvg-logo="http://pici.life/US/e.png" group-title="Germany",E! Entertainment FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13569.ts
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment HD DE" tvg-logo="http://pici.life/US/e.png" group-title="Germany",E! Entertainment HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9137.ts
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment DE" tvg-logo="http://pici.life/DE/e.png" group-title="Germany",E! Entertainment DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5095.ts
+#EXTINF:-1 tvg-id="" tvg-name="SRF 1 DE" tvg-logo="http://pici.life/srf_1_ch.png" group-title="Germany",SRF 1 DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6170.ts
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR HD DE" tvg-logo="http://pici.life/mdrsanhalthd.png" group-title="Germany",MDR HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6238.ts
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR S-Anhalt HD DE" tvg-logo="http://pici.life/DE/mdrsanhalthd.png" group-title="Germany",MDR S-Anhalt HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8240.ts
+#EXTINF:-1 tvg-id="sachsenfernsehen.de" tvg-name="MDR Sachsen HD DE" tvg-logo="http://pici.life/DE/Mdr_SACHSEN.png" group-title="Germany",MDR Sachsen HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8239.ts
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3Sat FHD DE" tvg-logo="http://pici.life/DE/3sat.png" group-title="Germany",3Sat FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/16289.ts
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="http://pici.life/3sathd.png" group-title="Germany",3sat HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6265.ts
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="http://pici.life/ndrhd.png" group-title="Germany",NDR HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6225.ts
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR FHD DE" tvg-logo="http://pici.life/DE/Hr_HD.png" group-title="Germany",HR FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13150.ts
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR HD DE" tvg-logo="http://pici.life/hrfernsehen.png" group-title="Germany",HR HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6243.ts
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR Fernsehen HD DE" tvg-logo="http://pici.life/DE/srfernsehenhd.png" group-title="Germany",HR Fernsehen HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8225.ts
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="RBB Berlin HD DE" tvg-logo="http://pici.life/rbbberlinhd.png" group-title="Germany",RBB Berlin HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6217.ts
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR DE" tvg-logo="http://pici.life/DE/br.png" group-title="Germany",BR DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13168.ts
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR HD DE" tvg-logo="http://pici.life/swrhd.png" group-title="Germany",SWR HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6165.ts
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD DE" tvg-logo="http://pici.life/wdrhd.png" group-title="Germany",WDR HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6152.ts
+#EXTINF:-1 tvg-id="" tvg-name="Franken Fernsehen FHD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Franken_Fernsehen_Logo_2010.svg/300px-Franken_Fernsehen_Logo_2010.svg.png" group-title="Germany",Franken Fernsehen FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/677835.ts
+#EXTINF:-1 tvg-id="familytv.de" tvg-name="BW Family TV FHD DE" tvg-logo="http://pici.life/familytv.png" group-title="Germany",BW Family TV FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6246.ts
+#EXTINF:-1 tvg-id="familytv.de" tvg-name="BW Family TV HD DE" tvg-logo="http://pici.life/DE/familytv.png" group-title="Germany",BW Family TV HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/23772.ts
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="QVC HD DE" tvg-logo="http://pici.life/DE/QVC.de.png" group-title="Germany",QVC HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13140.ts
+#EXTINF:-1 tvg-id="qvcbeautyandstyle.de" tvg-name="QVC Beauty & Style DE" tvg-logo="http://pici.life/qvc.png" group-title="Germany",QVC Beauty & Style DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13141.ts
+#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-logo="http://pici.life/DE/Augsburg_tv.PNG" group-title="Germany",Augsburg TV DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13170.ts
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="Sonnenklar TV FHD DE" tvg-logo="http://pici.life/DE/Sonnenklar.tv%20hd.png" group-title="Germany",Sonnenklar TV FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13130.ts
+#EXTINF:-1 tvg-id="" tvg-name="Event - Covid Info FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Event - Covid Info FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679845.ts
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News FHD DE" tvg-logo="http://pici.life/DE/skysportnewshd.png" group-title="Germany",Sky Sports News FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13555.ts
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News HD DE" tvg-logo="http://pici.life/skysportnewshd.png" group-title="Germany",Sky Sports News HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6176.ts
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="http://pici.life/DE/skysport1hd.png" group-title="Germany",Sky Sport 1 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13564.ts
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 HD DE" tvg-logo="http://pici.life/skysport1hd_2.png" group-title="Germany",Sky Sport 1 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6184.ts
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 DE" tvg-logo="http://pici.life/DE/skysport11hd.png" group-title="Germany",Sky Sport 1 DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9125.ts
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 [B] DE" tvg-logo="http://pici.life/skysport1hd_2.png" group-title="Germany",Sky Sport 1 [B] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/52533.ts
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="http://pici.life/skysport2hd_2.png" group-title="Germany",Sky Sport 2 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7362.ts
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="http://pici.life/DE/skysport2.png" group-title="Germany",Sky Sport 2 DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/61835.ts
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="Sky Sport 3 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysport3hd.png" group-title="Germany",Sky Sport 3 [Match Time] FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13563.ts
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="Sky Sport 3 [Match Time] HD DE" tvg-logo="http://pici.life/DE/skysport3.png" group-title="Germany",Sky Sport 3 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6182.ts
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="Sky Sport 4 FHD DE" tvg-logo="http://pici.life/DE/skysport4hd.png" group-title="Germany",Sky Sport 4 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13562.ts
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="Sky Sport 4 HD DE" tvg-logo="http://pici.life/DE/skysport4hd.png" group-title="Germany",Sky Sport 4 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9127.ts
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="http://pici.life/DE/skysport5hd.png" group-title="Germany",Sky Sport 5 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13561.ts
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="Sky Sport 5 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysport5hd.png" group-title="Germany",Sky Sport 5 [Match Time] FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9126.ts
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="Sky Sport 6 [Match Time] HD DE" tvg-logo="http://pici.life/DE/skysport6hd.png" group-title="Germany",Sky Sport 6 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6181.ts
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="Sky Sport 7 [Match Time] HD DE" tvg-logo="http://pici.life/skysport7hd.png" group-title="Germany",Sky Sport 7 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6180.ts
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="Sky Sport 8 [Match Time] HD DE" tvg-logo="http://pici.life/skysport8hd.png" group-title="Germany",Sky Sport 8 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6179.ts
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="Sky Sport 9 [Match Time] HD DE" tvg-logo="http://pici.life/skysport9hd.png" group-title="Germany",Sky Sport 9 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6178.ts
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="Sky Sport 10 [Match Time] HD DE" tvg-logo="http://pici.life/skysport10hd.png" group-title="Germany",Sky Sport 10 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6177.ts
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga1hd.png" group-title="Germany",Sky Sport Bundesliga 1 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/620245.ts
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-logo="http://pici.life/DE/skysportbundesliga1.png" group-title="Germany",Sky Sport Bundesliga 1 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13538.ts
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 DE" tvg-logo="http://pici.life/skysportbundesliga1hd_2.png" group-title="Germany",Sky Sport Bundesliga 1 DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/73136.ts
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga2hd.png" group-title="Germany",Sky Sport Bundesliga 2 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/135258.ts
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 HD DE" tvg-logo="http://pici.life/DE/skysportbundesliga2.png" group-title="Germany",Sky Sport Bundesliga 2 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/62223.ts
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga3hd.png" group-title="Germany",Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/135671.ts
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 [Match Time] HD DE" tvg-logo="http://pici.life/skysportbundesliga3.png" group-title="Germany",Sky Sport Bundesliga 3 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/62220.ts
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4 FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga4hd.png" group-title="Germany",Sky Sport Bundesliga 4 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/91235.ts
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga5.png" group-title="Germany",Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/135335.ts
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 DE" tvg-logo="http://pici.life/DE/skysportbundesliga5.png" group-title="Germany",Sky Sport Bundesliga 5 DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/62002.ts
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6 DE" tvg-logo="http://pici.life/DE/skysportbundesliga6.png" group-title="Germany",Sky Sport Bundesliga 6 DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/619225.ts
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="Sky Sport Bundesliga 7 DE" tvg-logo="http://pici.life/DE/skysportbundesliga7hd.png" group-title="Germany",Sky Sport Bundesliga 7 DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6198.ts
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8 FHD DE" tvg-logo="http://pici.life/skysportbundesliga8hd.png" group-title="Germany",Sky Sport Bundesliga 8 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6197.ts
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="Sky Sport Bundesliga 9 [Match Time] DE" tvg-logo="http://pici.life/skysportbundesliga9.png" group-title="Germany",Sky Sport Bundesliga 9 [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6196.ts
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 10 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga10hd.png" group-title="Germany",Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6195.ts
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DAZN 1 FHD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany",DAZN 1 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/661090.ts
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DAZN 1 HD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany",DAZN 1 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/625243.ts
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DAZN 1 [B] HD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany",DAZN 1 [B] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/661088.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD DE" tvg-logo="http://pici.life/DE/DAZN-Logo-Perform-Group.png" group-title="Germany",DAZN 2 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/661089.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD DE" tvg-logo="http://pici.life/DE/DAZN2.png" group-title="Germany",DAZN 2 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/50775.ts
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1 FHD DE" tvg-logo="http://pici.life/DE/sport1-duslelaslu.png" group-title="Germany",Sport1 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6173.ts
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1 HD  DE" tvg-logo="http://pici.life/DE/sport1hd-duslelaslu.png" group-title="Germany",Sport1 HD  DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8221.ts
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1 HD DE" tvg-logo="http://pici.life/DE/sport1hd-duslelaslu.png" group-title="Germany",Sport1 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8226.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport1+ FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Sport1+ FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679847.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport1+ HD [B] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Sport1+ HD [B] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679848.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 2 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 2 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679822.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 1 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 1 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679821.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 3 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 3 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679823.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 4 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 4 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679824.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 5 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 5 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679825.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 6 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 6 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679826.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 7 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 7 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679827.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Fußball 8 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Fußball 8 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679828.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 1 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 1 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 2 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 2 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679672.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 3 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 3 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 4 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 4 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679676.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 1 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Basketball 1 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 2 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Basketball 2 [Match Time] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679675.ts
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="eSports1 [En] HD DE" tvg-logo="http://pici.life/sport1ushd.png" group-title="Germany",eSports1 [En] HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6172.ts
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="Eurosport 1 FHD DE" tvg-logo="http://pici.life/eurosport1hd_2.png" group-title="Germany",Eurosport 1 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8218.ts
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="Eurosport 2 FHD DE" tvg-logo="http://pici.life/UK/Eurosport-2-UK.jpg" group-title="Germany",Eurosport 2 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9131.ts
+#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="http://pici.life/eurosport2Xtrahd.png" group-title="Germany",Eurosport 2 Xtra FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13163.ts
+#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="Eurosport 2 Xtra HD DE" tvg-logo="http://pici.life/eurosport2Xtrahd.png" group-title="Germany",Eurosport 2 Xtra HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9130.ts
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital FHD DE" tvg-logo="http://pici.life/DE/Sport-Digital_hd.png" group-title="Germany",Sport Digital FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8244.ts
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital HD DE" tvg-logo="http://pici.life/sportdigital.png" group-title="Germany",Sport Digital HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6171.ts
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="Motorvision HD DE" tvg-logo="http://pici.life/DE/Motorvision%20hd.png" group-title="Germany",Motorvision HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8222.ts
+#EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="Auto Motor Sport FHD DE" tvg-logo="http://pici.life/Bulgarian/auto-motor-sport.png" group-title="Germany",Auto Motor Sport FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9132.ts
+#EXTINF:-1 tvg-id="FC Bayern TV DE" tvg-name="FC Bayern TV HD DE" tvg-logo="http://pici.life/bayerntv.png" group-title="Germany",FC Bayern TV HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9128.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 1 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 1 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679851.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 2 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 2 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679852.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 3 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 3 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679853.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 4 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 4 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679854.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 5 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 5 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679855.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 6 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 6 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679856.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 7 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 7 HD [Match Time] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679857.ts
+#EXTINF:-1 tvg-id="skyaction.de" tvg-name="Sky Action HD DE" tvg-logo="http://pici.life/skyaksion.png" group-title="Germany",Sky Action HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5093.ts
+#EXTINF:-1 tvg-id="skyaction.de" tvg-name="Sky Action DE" tvg-logo="http://pici.life/sky_de_action.png" group-title="Germany",Sky Action DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6205.ts
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="Sky Cinema Special FHD DE" tvg-logo="http://pici.life/disneycinemagichd_2.png" group-title="Germany",Sky Cinema Special FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8217.ts
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="Sky Cinema Special HD DE" tvg-logo="http://pici.life/disneycinemagichd_2.png" group-title="Germany",Sky Cinema Special HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6252.ts
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller FHD DE" tvg-logo="http://pici.life/skycinema1hd-phibruspel.png" group-title="Germany",Sky Cinema Thriller FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5089.ts
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller HD DE" tvg-logo="http://pici.life/skycinemahd_2.png" group-title="Germany",Sky Cinema Thriller HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7372.ts
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller DE" tvg-logo="http://pici.life/skycinemaplus1hd_2.png" group-title="Germany",Sky Cinema Thriller DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6193.ts
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren FHD DE" tvg-logo="http://pici.life/skycinema1hd-phibruspel.png" group-title="Germany",Sky Cinema Premieren FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6194.ts
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren HD DE" tvg-logo="http://pici.life/skycinemahd_2.png" group-title="Germany",Sky Cinema Premieren HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7373.ts
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="http://pici.life/skycinemaplus24hd.png" group-title="Germany",Sky Cinema Premieren +24 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6192.ts
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 HD DE" tvg-logo="http://pici.life/DE/skycinemaplus24hd.png" group-title="Germany",Sky Cinema Premieren +24 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13133.ts
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action HD DE" tvg-logo="http://pici.life/skycinemaactionhd_2.png" group-title="Germany",Sky Cinema Action HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7370.ts
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action DE" tvg-logo="http://pici.life/skycinemaactionhd_2.png" group-title="Germany",Sky Cinema Action DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9146.ts
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun HD DE" tvg-logo="http://pici.life/skycinemacomedyhd.png" group-title="Germany",Sky Cinema Fun HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9144.ts
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="http://pici.life/skycomedy.png" group-title="Germany",Sky Cinema Fun DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6190.ts
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="Sky Cinema Best Of FHD DE" tvg-logo="http://pici.life/skycinemahits.png" group-title="Germany",Sky Cinema Best Of FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7368.ts
+#EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="Sky Cinema Best Of HD DE" tvg-logo="http://pici.life/DE/skycinemahitshd.png" group-title="Germany",Sky Cinema Best Of HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8223.ts
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family FHD DE" tvg-logo="http://pici.life/skycinemafamilyhd_2.png" group-title="Germany",Sky Cinema Family FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9145.ts
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family HD DE" tvg-logo="http://pici.life/skycinemafamilyhd_2.png" group-title="Germany",Sky Cinema Family HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7369.ts
+#EXTINF:-1 tvg-id="Sky Cinema Emotion DE" tvg-name="Sky Cinema Emotion DE" tvg-logo="http://pici.life/DE/Sky_Cinema_Emotion_DE.png" group-title="Germany",Sky Cinema Emotion DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13132.ts
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics HD DE" tvg-logo="http://pici.life/DE/Sky_Cinema_Nostalgie_DE.png" group-title="Germany",Sky Cinema Classics HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13131.ts
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics DE" tvg-logo="http://pici.life/skynostalgie.png" group-title="Germany",Sky Cinema Classics DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6186.ts
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic HD DE" tvg-logo="http://pici.life/DE/skyatlantichd.png" group-title="Germany",Sky Atlantic HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7367.ts
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic DE" tvg-logo="http://pici.life/skyatlantic.png" group-title="Germany",Sky Atlantic DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6204.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic +1 HD DE" tvg-logo="http://pici.life/DE/Sky_Atlantic_HD_+1.PNG" group-title="Germany",Sky Atlantic +1 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13134.ts
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street HD DE" tvg-logo="http://pici.life/13thstreethd.png" group-title="Germany",Sky 13TH Street HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7365.ts
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13th Street FHD DE" tvg-logo="http://pici.life/13thstreethd.png" group-title="Germany",13th Street FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5098.ts
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13th Street HD DE" tvg-logo="http://pici.life/13thstreethd.png" group-title="Germany",13th Street HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8198.ts
+#EXTINF:-1 tvg-id="skyemotion.de" tvg-name="Sky Emotion DE" tvg-logo="http://pici.life/skyemotion.png" group-title="Germany",Sky Emotion DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6189.ts
+#EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="Sky Cinema Best of DE" tvg-logo="http://pici.life/skycinemahits.png" group-title="Germany",Sky Cinema Best of DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5088.ts
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="Sky One FHD DE" tvg-logo="http://pici.life/sky1hd.png" group-title="Germany",Sky One FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9138.ts
+#EXTINF:-1 tvg-id="one.de" tvg-name="One HD DE" tvg-logo="http://pici.life/onehd.png" group-title="Germany",One HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9147.ts
+#EXTINF:-1 tvg-id="fox.de" tvg-name="Fox FHD DE" tvg-logo="http://pici.life/DE/foxhd_2.png" group-title="Germany",Fox FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13567.ts
+#EXTINF:-1 tvg-id="fox.de" tvg-name="Fox HD DE" tvg-logo="http://pici.life/foxhd_2.png" group-title="Germany",Fox HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6245.ts
+#EXTINF:-1 tvg-id="fox.de" tvg-name="Fox DE" tvg-logo="http://pici.life/DE/fox.png" group-title="Germany",Fox DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/23770.ts
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy FHD DE" tvg-logo="http://pici.life/syfyhd_2.png" group-title="Germany",Syfy FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7364.ts
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy HD DE" tvg-logo="http://pici.life/syfyhd_2.png" group-title="Germany",Syfy HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5087.ts
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy DE" tvg-logo="http://pici.life/syfy_2.png" group-title="Germany",Syfy DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6164.ts
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="Sky Krimi HD DE" tvg-logo="http://pici.life/skykrimi.png" group-title="Germany",Sky Krimi HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8220.ts
+#EXTINF:-1 tvg-id="tntcomedy.de" tvg-name="TNT Comedy FHD DE" tvg-logo="http://pici.life/tntcomedyhd.png" group-title="Germany",TNT Comedy FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6157.ts
+#EXTINF:-1 tvg-id="tntfilm.de" tvg-name="TNT Film FHD DE" tvg-logo="http://pici.life/DE/tntfilmhd.png" group-title="Germany",TNT Film FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6156.ts
+#EXTINF:-1 tvg-id="tntserie.de" tvg-name="TNT Serie FHD DE" tvg-logo="http://pici.life/tntserie_2.png" group-title="Germany",TNT Serie FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5084.ts
+#EXTINF:-1 tvg-id="tntserie.de" tvg-name="TNT Serie HD DE" tvg-logo="http://pici.life/tntseriehd.png" group-title="Germany",TNT Serie HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6155.ts
+#EXTINF:-1 tvg-id="tntserie.de" tvg-name="TNT Serie DE" tvg-logo="http://pici.life/DE/tntserie.png" group-title="Germany",TNT Serie DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13154.ts
+#EXTINF:-1 tvg-id="universal.de" tvg-name="Universal FHD DE" tvg-logo="http://pici.life/DE/universalchannelhd.png" group-title="Germany",Universal FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5265.ts
+#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="Sony HD DE" tvg-logo="http://pici.life/sonytv.png" group-title="Germany",Sony HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6167.ts
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt DE" tvg-logo="http://pici.life/kinowelttv.png" group-title="Germany",Kinowelt DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6240.ts
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt [B] DE" tvg-logo="http://pici.life/DE/kinowelttv.png" group-title="Germany",Kinowelt [B] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/672086.ts
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 FHD DE" tvg-logo="http://pici.life/DE/SkySelect1.de.png" group-title="Germany",Sky Select 1 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/655131.ts
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 HD DE" tvg-logo="http://pici.life/DE/Sky%20select%20hd.png" group-title="Germany",Sky Select 1 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7375.ts
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="Sky Select 2 FHD DE" tvg-logo="http://pici.life/DE/SkySelect2.de.png" group-title="Germany",Sky Select 2 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/655130.ts
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="Sky Select 2 HD DE" tvg-logo="http://pici.life/DE/Sky%20select%20hd.png" group-title="Germany",Sky Select 2 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7376.ts
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="Sky Select 3 FHD DE" tvg-logo="http://pici.life/DE/SkySelect3.de.png" group-title="Germany",Sky Select 3 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/655129.ts
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="Sky Select 3 HD DE" tvg-logo="http://pici.life/DE/Sky%20select%20hd.png" group-title="Germany",Sky Select 3 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7377.ts
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="Sky Select 4 FHD DE" tvg-logo="http://pici.life/DE/SkySelect4.de.png" group-title="Germany",Sky Select 4 FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/655128.ts
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="Sky Select 4 HD DE" tvg-logo="http://pici.life/DE/Sky%20select%20hd.png" group-title="Germany",Sky Select 4 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/7378.ts
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="Sky Select 5 HD DE" tvg-logo="http://pici.life/skyselect_2.png" group-title="Germany",Sky Select 5 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8977.ts
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="Sky Select 5 HD (demnächst) DE" tvg-logo="http://pici.life/DE/SkySelect5.de.png" group-title="Germany",Sky Select 5 HD (demnächst) DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/655127.ts
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="Sky Select 6 HD DE" tvg-logo="http://pici.life/DE/SkySelect6.de.png" group-title="Germany",Sky Select 6 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8976.ts
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="Sky Select 6 FHD (demnächst) DE" tvg-logo="http://pici.life/DE/SkySelect6.de.png" group-title="Germany",Sky Select 6 FHD (demnächst) DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/655126.ts
+#EXTINF:-1 tvg-id="skyselect7.de" tvg-name="Sky Select 7 HD DE" tvg-logo="http://pici.life/DE/SkySelect7.de.png" group-title="Germany",Sky Select 7 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8975.ts
+#EXTINF:-1 tvg-id="skyselect8.de" tvg-name="Sky Select 8 HD DE" tvg-logo="http://pici.life/DE/SkySelect8.de.png" group-title="Germany",Sky Select 8 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8974.ts
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 1 DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Germany",PopCorn Select 1 DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/23778.ts
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2 DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Germany",PopCorn Select 2 DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/23777.ts
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3 DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Germany",PopCorn Select 3 DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/23776.ts
+#EXTINF:-1 tvg-id="rheinneckarfernsehen.de" tvg-name="PopCorn Select 4 DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Germany",PopCorn Select 4 DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/23775.ts
+#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN FHD DE" tvg-logo="http://pici.life/axn_2.png" group-title="Germany",AXN FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5097.ts
+#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN HD DE" tvg-logo="http://pici.life/axn_2.png" group-title="Germany",AXN HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6259.ts
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="Comedy Central FHD DE" tvg-logo="http://pici.life/DE/VIVA-COMEDY-CENTRAL.png" group-title="Germany",Comedy Central FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6154.ts
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV HD DE" tvg-logo="http://pici.life/DE/romancetv.png" group-title="Germany",Romance TV HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13152.ts
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV DE" tvg-logo="http://pici.life/romancetv.png" group-title="Germany",Romance TV DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6211.ts
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="Sky Heimat Kanal DE" tvg-logo="http://pici.life/heimatkanal.png" group-title="Germany",Sky Heimat Kanal DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6188.ts
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="Sky Heimat Kanal [B] DE" tvg-logo="" group-title="Germany",Sky Heimat Kanal [B] DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/678481.ts
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="http://pici.life/sixxhd.png" group-title="Germany",Sixx FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6207.ts
+#EXTINF:-1 tvg-id="ServusTV Deutschland DE" tvg-name="Servus TV HD DE" tvg-logo="http://pici.life/servustv_2.png" group-title="Germany",Servus TV HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6208.ts
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="Tele 5 HD DE" tvg-logo="http://pici.life/tele5hd.png" group-title="Germany",Tele 5 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9150.ts
+#EXTINF:-1 tvg-id="bibeltv.de" tvg-name="Bibel TV HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bibel_TV_logo.png/300px-Bibel_TV_logo.png" group-title="Germany",Bibel TV HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/677497.ts
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDF Info HD DE" tvg-logo="http://pici.life/zdfinfohd.png" group-title="Germany",ZDF Info HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9148.ts
+#EXTINF:-1 tvg-id="" tvg-name="N24 Doku DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",N24 Doku DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679837.ts
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="Kabel Eins Doku FHD DE" tvg-logo="http://pici.life/DE/kabeleinsdoku.png" group-title="Germany",Kabel Eins Doku FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13147.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1 Doku DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Kabel 1 Doku DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679843.ts
+#EXTINF:-1 tvg-id="history.de" tvg-name="History Channel FHD DE" tvg-logo="http://pici.life/historyhd_2.png" group-title="Germany",History Channel FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6244.ts
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="http://pici.life/spiegelgeschichte.png" group-title="Germany",Spiegel Geschichte HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6174.ts
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-name="Spiegel TV Wissen HD DE" tvg-logo="http://pici.life/spiegeltvwissenhd.png" group-title="Germany",Spiegel TV Wissen HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9135.ts
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="Discovery FHD DE" tvg-logo="http://pici.life/DE/discoverychannelhd_2.png" group-title="Germany",Discovery FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13570.ts
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="Discovery HD DE" tvg-logo="http://pici.life/discovery_2.png" group-title="Germany",Discovery HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5096.ts
+#EXTINF:-1 tvg-id="planet.de" tvg-name="Planet HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Planet HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679846.ts
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="Animal Planet FHD DE" tvg-logo="http://pici.life/animalplanethd_2.png" group-title="Germany",Animal Planet FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8196.ts
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="Animal Planet HD DE" tvg-logo="http://pici.life/DE/animalplanethd_2.png" group-title="Germany",Animal Planet HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13173.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="National Geographic HD DE" tvg-logo="http://pici.life/DE/nationalgeographichd.png" group-title="Germany",National Geographic HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8194.ts
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="National Geographic DE" tvg-logo="http://pici.life/nationalgeographichd_2.png" group-title="Germany",National Geographic DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6226.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo wild FHD DE" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="Germany",Nat Geo wild FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6227.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo Wild HD DE" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="Germany",Nat Geo Wild HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9136.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo Wild DE" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="Germany",Nat Geo Wild DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5085.ts
+#EXTINF:-1 tvg-id="travelchannel.de" tvg-name="Travel Channel Ch.DE" tvg-logo="http://pici.life/travelchannel_2.png" group-title="Germany",Travel Channel Ch.DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9134.ts
+#EXTINF:-1 tvg-id="" tvg-name="Welt der Wunder HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Welt der Wunder HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679838.ts
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="Welt der Wunder DE" tvg-logo="http://pici.life/DE/weltderwunder.png" group-title="Germany",Welt der Wunder DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13129.ts
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="Anixe HD DE" tvg-logo="http://pici.life/anixehd.png" group-title="Germany",Anixe HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6264.ts
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="Dmax FHD DE" tvg-logo="http://pici.life/DE/DMAX_HD.png" group-title="Germany",Dmax FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6249.ts
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC HD DE" tvg-logo="http://pici.life/DE/tlchd.png" group-title="Germany",TLC HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8224.ts
+#EXTINF:-1 tvg-id="" tvg-name="Luxe TV FHD DE" tvg-logo="https://en.wikipedia.org/wiki/Luxe.tv#/media/File:Luxe_TV.png" group-title="Germany",Luxe TV FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/676714.ts
+#EXTINF:-1 tvg-id="arte DE" tvg-name="Arte HD DE" tvg-logo="http://pici.life/DE/artehd.png" group-title="Germany",Arte HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13172.ts
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Arte DE" tvg-logo="http://pici.life/arte.png" group-title="Germany",Arte DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6261.ts
+#EXTINF:-1 tvg-id="skyarts.de" tvg-name="Sky Arts FHD DE" tvg-logo="http://pici.life/skyartehd_2.png" group-title="Germany",Sky Arts FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5091.ts
+#EXTINF:-1 tvg-id="skyarts.de" tvg-name="Sky Arts HD DE" tvg-logo="http://pici.life/skyartehd_2.png" group-title="Germany",Sky Arts HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9139.ts
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="Alpha HD DE" tvg-logo="http://pici.life/DE/astrotv.png" group-title="Germany",Alpha HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13171.ts
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="Euronews DE" tvg-logo="http://pici.life/euronews_2.png" group-title="Germany",Euronews DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6248.ts
+#EXTINF:-1 tvg-id="welt.de" tvg-name="Welt HD DE" tvg-logo="http://pici.life/n24.png" group-title="Germany",Welt HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6228.ts
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV FHD DE" tvg-logo="http://pici.life/DE/InTV.jpg" group-title="Germany",N-TV FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13149.ts
+#EXTINF:-1 tvg-id="n-tv DE" tvg-name="N-TV HD DE" tvg-logo="http://pici.life/DE/ntvhd.png" group-title="Germany",N-TV HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/8195.ts
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV DE" tvg-logo="http://pici.life/DE/ntvhd.png" group-title="Germany",N-TV DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13566.ts
+#EXTINF:-1 tvg-id="munchentv.de" tvg-name="Munchen TV DE" tvg-logo="http://pici.life/munchentv.png" group-title="Germany",Munchen TV DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6229.ts
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix HD DE" tvg-logo="http://pici.life/phoenixhd.png" group-title="Germany",Phoenix HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6221.ts
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau 24 DE" tvg-logo="http://pici.life/tagesschau24hd.png" group-title="Germany",Tagesschau 24 DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6163.ts
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL FHD DE" tvg-logo="http://pici.life/DE/superrtlhd.png" group-title="Germany",Super RTL FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13554.ts
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL HD DE" tvg-logo="http://pici.life/superrtlhd.png" group-title="Germany",Super RTL HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6166.ts
+#EXTINF:-1 tvg-id="kika.de" tvg-name="Kika HD DE" tvg-logo="http://pici.life/kikahd.png" group-title="Germany",Kika HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6241.ts
+#EXTINF:-1 tvg-id="babytv.de" tvg-name="Baby TV DE" tvg-logo="http://pici.life/DE/baby_tv_eu.png" group-title="Germany",Baby TV DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13169.ts
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="Toggo Plus HD DE" tvg-logo="http://pici.life/DE/toggoplus.png" group-title="Germany",Toggo Plus HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/5086.ts
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="Toggo Plus DE" tvg-logo="http://pici.life/toggoplus.png" group-title="Germany",Toggo Plus DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/9133.ts
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="Boomerang HD DE" tvg-logo="http://pici.life/boomerang_2.png" group-title="Germany",Boomerang HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6258.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="Cartoon Network FHD DE" tvg-logo="http://pici.life/cartoonnethd.png" group-title="Germany",Cartoon Network FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6257.ts
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel FHD DE" tvg-logo="http://pici.life/disneychannelhd_2.png" group-title="Germany",Disney Channel FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6253.ts
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="Disney Junior FHD DE" tvg-logo="http://pici.life/DE/disneyjnrhd.png" group-title="Germany",Disney Junior FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13568.ts
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="Disney Junior DE" tvg-logo="http://pici.life/disneyjunior_2.png" group-title="Germany",Disney Junior DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6251.ts
+#EXTINF:-1 tvg-id="disneyxd.de" tvg-name="Disney XD DE" tvg-logo="http://pici.life/disneyxd_2.png" group-title="Germany",Disney XD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6250.ts
+#EXTINF:-1 tvg-id="junior.de" tvg-name="Junior DE" tvg-logo="http://pici.life/juniortv.png" group-title="Germany",Junior DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6239.ts
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="Nickelodeon HD DE" tvg-logo="http://pici.life/nickelodeon_2.png" group-title="Germany",Nickelodeon HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6224.ts
+#EXTINF:-1 tvg-id="fixandfoxi.de" tvg-name="Fix & Foxi DE" tvg-logo="http://pici.life/DE/FIXandFOXI.de.png" group-title="Germany",Fix & Foxi DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/23771.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kids Peppa Wutz FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Kids Peppa Wutz FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kids PJ Masks FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Kids PJ Masks FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kids Tom&Jerry DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Kids Tom&Jerry DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679840.ts
+#EXTINF:-1 tvg-id="" tvg-name="KiKa DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",KiKa DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679839.ts
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="MTV FHD DE" tvg-logo="http://pici.life/DE/mtvhd.png" group-title="Germany",MTV FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/35466.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV +1 HD DE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-germany-plus-1-us-de.png" group-title="Germany",MTV +1 HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679793.ts
+#EXTINF:-1 tvg-id="mtvbrandnew.de" tvg-name="MTV Brand New DE" tvg-logo="http://pici.life/DE/mtvbrandnew.png" group-title="Germany",MTV Brand New DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/638079.ts
+#EXTINF:-1 tvg-id="vh1classic.de" tvg-name="VH1 Classic DE" tvg-logo="http://pici.life/DE/VH1Classic.de.png" group-title="Germany",VH1 Classic DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/638080.ts
+#EXTINF:-1 tvg-id="classica.de" tvg-name="Sky Classica DE" tvg-logo="http://pici.life/skycalcio1hd_2.png" group-title="Germany",Sky Classica DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6191.ts
+#EXTINF:-1 tvg-id="classica.de" tvg-name="Classica HD DE" tvg-logo="http://pici.life/DE/classica.png" group-title="Germany",Classica HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13167.ts
+#EXTINF:-1 tvg-id="" tvg-name="Deep House Radio FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Deep House Radio FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679832.ts
+#EXTINF:-1 tvg-id="" tvg-name="Urban Radio FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Urban Radio FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679833.ts
+#EXTINF:-1 tvg-id="" tvg-name="Classic Radio FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Classic Radio FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679834.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trap Radio FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Trap Radio FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679835.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rainy Jazz Radio HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Rainy Jazz Radio HD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/679831.ts
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="Jukebox DE" tvg-logo="http://pici.life/DE/jukebox.png" group-title="Germany",Jukebox DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13148.ts
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="Deluxe Music DE" tvg-logo="http://pici.life/deluxemusic.png" group-title="Germany",Deluxe Music DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/6255.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kronehit FHD DE" tvg-logo="http://pici.life/DE/KronHit.jpg" group-title="Germany",Kronehit FHD DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/14200.ts
+#EXTINF:-1 tvg-id="deutschesmusikfernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://pici.life/DE/deutschesmusikfernsehen.png" group-title="Germany",Deutsches Musik Fernsehen DE
+http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13165.ts
