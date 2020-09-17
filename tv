@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste HD DE" tvg-logo="http://pici.life/DE/daserstehd.png" group-title="Germany",Das Erste HD DE
 http://mypanel.tv:8080/live/ntmm9ono1/ocbmbtzrgr/13166.ts
 #EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-logo="http://pici.life/daserstehd_2.png" group-title="Germany",Das Erste DE
