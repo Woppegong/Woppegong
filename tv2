@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT:-1,Testlauf (unstable)
+#EXTINF:-1,Testlauf (unstable)
 #EXTINF:-1,|DE| 3 Sat HD
 http://62.210.209.138:41000/v52/v43/3546
 #EXTINF:-1,|DE| 13th Street
