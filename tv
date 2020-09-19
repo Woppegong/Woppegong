@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Ablauf der Liste /20.09.2020/
-#EXTINF:-1,Ihr wollt diese Tv Qualität dauerhaft?
-#EXTINF:-1,Sucht mich auf Telegram @Woppegong
+#EXTINF:-1,Ablauf der Liste /21:09:2020
+#EXTINF:-1,Dieses Qualität 4ever? Kontakt: Telegram @Woppegong
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="DE:: Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/320px-Das_Erste_2014.svg.png" group-title="GERMANY",DE:: Das Erste
 http://live.darkside-iptv.com:8080/Randy/Glatzpunk/80416
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="DE:: Das Erste HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Das_Erste_HD_Corner-Logo_2015.png" group-title="GERMANY",DE:: Das Erste HD
