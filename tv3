@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1,Regional Sender/Für Stabiles IPTV Kontakt auf Telegram @Woppegong
 #EXTINF:-1,Germany: Allgäu TV
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
 #EXTINF:-1,Germany: ARD
