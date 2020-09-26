@@ -1,599 +1,332 @@
 #EXTM3U
 #EXTINF:-1,TestLINE für kurze Zeit /Für Stabiles IPTV Kontakt auf Telegram @Woppegong
-http://google.de
-#EXTINF:-1,Das Erste HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13166|User-Agent=1m3u8
-#EXTINF:-1,Das Erste DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6256|User-Agent=1m3u8
-#EXTINF:-1,Das Erste (B) DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6262|User-Agent=1m3u8
-#EXTINF:-1,ZDF FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6151|User-Agent=1m3u8
-#EXTINF:-1,ZDF HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/17011|User-Agent=1m3u8
-#EXTINF:-1,ZDF Neo HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/17304|User-Agent=1m3u8
-#EXTINF:-1,RTL FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13565
-#EXTINF:-1,RTL HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6216
-#EXTINF:-1,Sat.1 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6210
-#EXTINF:-1,Pro 7 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6220
-#EXTINF:-1,Pro Sieben FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8235
-#EXTINF:-1,Pro Sieben HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13144
-#EXTINF:-1,VOX FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13553
-#EXTINF:-1,VOX DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6153
-#EXTINF:-1,VOX UP DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679836
-#EXTINF:-1,Kabel 1 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6242
-#EXTINF:-1,Kabel 1 Classic HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9151
-#EXTINF:-1,Kabel Eins Classics HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679844
-#EXTINF:-1,RTL 2 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6215
-#EXTINF:-1,RTL 2 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13136
-#EXTINF:-1,RTL Nitro FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6212
-#EXTINF:-1,RTL Nitro HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13137
-#EXTINF:-1,RTL Passion FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8219
-#EXTINF:-1,RTL Plus DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9152
-#EXTINF:-1,RTL Crime FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6214
-#EXTINF:-1,RTL Crime HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/17012
-#EXTINF:-1,Crime & Investigation FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6263
-#EXTINF:-1,Crime & Investigation HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8197
-#EXTINF:-1,RTL Living FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6150
-#EXTINF:-1,RTL Living HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6213
-#EXTINF:-1,Sat1 Emotion DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13135
-#EXTINF:-1,Sat1 Gold FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6209
-#EXTINF:-1,Pro 7 Fun FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6219
-#EXTINF:-1,Pro 7 Fun HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13145
-#EXTINF:-1,Pro Sieben Fun HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13142
-#EXTINF:-1,Pro 7 Max FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6218
-#EXTINF:-1,Pro Sieben Maxx HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13143
-#EXTINF:-1,Pro Sieben Maxx FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8234
-#EXTINF:-1,E! Entertainment FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13569
-#EXTINF:-1,E! Entertainment HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9137
-#EXTINF:-1,E! Entertainment DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5095
-#EXTINF:-1,SRF 1 DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6170
-#EXTINF:-1,MDR HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6238
-#EXTINF:-1,MDR S-Anhalt HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8240
-#EXTINF:-1,MDR Sachsen HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8239
-#EXTINF:-1,3Sat FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/16289
-#EXTINF:-1,3sat HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6265
-#EXTINF:-1,NDR HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6225
-#EXTINF:-1,HR FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13150
-#EXTINF:-1,HR HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6243
-#EXTINF:-1,HR Fernsehen HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8225
-#EXTINF:-1,RBB Berlin HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6217
-#EXTINF:-1,BR DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13168
-#EXTINF:-1,SWR HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6165
-#EXTINF:-1,WDR HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6152
-#EXTINF:-1,Franken Fernsehen FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/677835
-#EXTINF:-1,BW Family TV FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6246
-#EXTINF:-1,BW Family TV HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/23772
-#EXTINF:-1,QVC HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13140
-#EXTINF:-1,QVC Beauty & Style DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13141
-#EXTINF:-1,Augsburg TV DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13170
-#EXTINF:-1,Sonnenklar TV FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13130
-#EXTINF:-1,Event - Covid Info FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679845
-#EXTINF:-1,------- Sports -------
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/678834
-#EXTINF:-1,Sky Sports News FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13555
-#EXTINF:-1,Sky Sports News HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6176
-#EXTINF:-1,Sky Sport 1 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13564
-#EXTINF:-1,Sky Sport 1 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6184
-#EXTINF:-1,Sky Sport 1 DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9125
-#EXTINF:-1,Sky Sport 1 [B] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/52533
-#EXTINF:-1,Sky Sport 2 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7362
-#EXTINF:-1,Sky Sport 2 DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/61835
-#EXTINF:-1,Sky Sport 3 [Match Time] FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13563
-#EXTINF:-1,Sky Sport 3 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6182
-#EXTINF:-1,Sky Sport 4 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13562
-#EXTINF:-1,Sky Sport 4 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9127
-#EXTINF:-1,Sky Sport 5 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13561
-#EXTINF:-1,Sky Sport 5 [Match Time] FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9126
-#EXTINF:-1,Sky Sport 6 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6181
-#EXTINF:-1,Sky Sport 7 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6180
-#EXTINF:-1,Sky Sport 8 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6179
-#EXTINF:-1,Sky Sport 9 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6178
-#EXTINF:-1,Sky Sport 10 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6177
-#EXTINF:-1,Sky Sport Bundesliga 1 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/620245
-#EXTINF:-1,Sky Sport Bundesliga 1 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13538
-#EXTINF:-1,Sky Sport Bundesliga 1 DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/73136
-#EXTINF:-1,Sky Sport Bundesliga 2 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/135258
-#EXTINF:-1,Sky Sport Bundesliga 2 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/62223
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/135671
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/62220
-#EXTINF:-1,Sky Sport Bundesliga 4 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/91235
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/135335
-#EXTINF:-1,Sky Sport Bundesliga 5 DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/62002
-#EXTINF:-1,Sky Sport Bundesliga 6 DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/619225
-#EXTINF:-1,Sky Sport Bundesliga 7 DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6198
-#EXTINF:-1,Sky Sport Bundesliga 8 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6197
-#EXTINF:-1,Sky Sport Bundesliga 9 [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6196
-#EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6195
-#EXTINF:-1,DAZN 1 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/661090
-#EXTINF:-1,DAZN 1 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/625243
-#EXTINF:-1,DAZN 1 [B] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/661088
-#EXTINF:-1,DAZN 2 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/661089
-#EXTINF:-1,DAZN 2 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/50775
-#EXTINF:-1,Sport1 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6173
-#EXTINF:-1,Sport1 HD  DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8221
-#EXTINF:-1,Sport1 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8226
-#EXTINF:-1,Sport1+ FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679847
-#EXTINF:-1,Sport1+ HD [B] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679848
-#EXTINF:-1,Telekom FuÃball 2 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679822
-#EXTINF:-1,Telekom FuÃball 1 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679821
-#EXTINF:-1,Telekom FuÃball 3 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679823
-#EXTINF:-1,Telekom FuÃball 4 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679824
-#EXTINF:-1,Telekom FuÃball 5 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679825
-#EXTINF:-1,Telekom FuÃball 6 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679826
-#EXTINF:-1,Telekom FuÃball 7 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679827
-#EXTINF:-1,Telekom Eishockey 1 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679671
-#EXTINF:-1,Telekom Eishockey 2 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679672
-#EXTINF:-1,Telekom Eishockey 3 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679673
-#EXTINF:-1,Telekom Eishockey 4 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679676
-#EXTINF:-1,Telekom Basketball 1 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679674
-#EXTINF:-1,Telekom Basketball 2 [Match Time] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679675
-#EXTINF:-1,eSports1 [En] HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6172
-#EXTINF:-1,Eurosport 1 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8218
-#EXTINF:-1,Eurosport 2 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9131
-#EXTINF:-1,Eurosport 2 Xtra FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13163
-#EXTINF:-1,Eurosport 2 Xtra HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9130
-#EXTINF:-1,Sport Digital FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8244
-#EXTINF:-1,Sport Digital HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6171
-#EXTINF:-1,Motorvision HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8222
-#EXTINF:-1,Auto Motor Sport FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9132
-#EXTINF:-1,FC Bayern TV HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9128
-#EXTINF:-1,DEL Sport 1 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679851
-#EXTINF:-1,DEL Sport 2 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679852
-#EXTINF:-1,DEL Sport 3 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679853
-#EXTINF:-1,DEL Sport 4 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679854
-#EXTINF:-1,DEL Sport 5 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679855
-#EXTINF:-1,DEL Sport 6 HD [Match Time] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679856
-#EXTINF:-1,------- Movies & Series -------
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/678836
-#EXTINF:-1,Sky Action HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5093
-#EXTINF:-1,Sky Action DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6205
-#EXTINF:-1,Sky Cinema Special FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8217
-#EXTINF:-1,Sky Cinema Special HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6252
-#EXTINF:-1,Sky Cinema Thriller FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5089
-#EXTINF:-1,Sky Cinema Thriller HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7372
-#EXTINF:-1,Sky Cinema Thriller DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6193
-#EXTINF:-1,Sky Cinema Premieren FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6194
-#EXTINF:-1,Sky Cinema Premieren HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7373
-#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6192
-#EXTINF:-1,Sky Cinema Premieren +24 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13133
-#EXTINF:-1,Sky Cinema Action HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7370
-#EXTINF:-1,Sky Cinema Action DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9146
-#EXTINF:-1,Sky Cinema Fun HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9144
-#EXTINF:-1,Sky Cinema Fun DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6190
-#EXTINF:-1,Sky Cinema Best Of FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7368
-#EXTINF:-1,Sky Cinema Best Of HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8223
-#EXTINF:-1,Sky Cinema Family FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9145
-#EXTINF:-1,Sky Cinema Family HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7369
-#EXTINF:-1,Sky Cinema Emotion DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13132
-#EXTINF:-1,Sky Cinema Classics HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13131
-#EXTINF:-1,Sky Cinema Classics DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6186
-#EXTINF:-1,Sky Atlantic HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7367
-#EXTINF:-1,Sky Atlantic DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6204
-#EXTINF:-1,Sky Atlantic +1 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13134
-#EXTINF:-1,Sky 13TH Street HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7365
-#EXTINF:-1,13th Street FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5098
-#EXTINF:-1,13th Street HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8198
-#EXTINF:-1,Sky Emotion DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6189
-#EXTINF:-1,Sky Cinema Best of DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5088
-#EXTINF:-1,Sky One FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9138
-#EXTINF:-1,One HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9147
-#EXTINF:-1,Fox FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13567
-#EXTINF:-1,Fox HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6245
-#EXTINF:-1,Fox DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/23770
-#EXTINF:-1,Syfy FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7364
-#EXTINF:-1,Syfy HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5087
-#EXTINF:-1,Syfy DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6164
-#EXTINF:-1,Sky Serien & Shows FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/681935
-#EXTINF:-1,Sky Krimi HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8220
-#EXTINF:-1,TNT Comedy FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6157
-#EXTINF:-1,TNT Film FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6156
-#EXTINF:-1,TNT Serie FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5084
-#EXTINF:-1,TNT Serie HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6155
-#EXTINF:-1,TNT Serie DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13154
-#EXTINF:-1,Universal FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5265
-#EXTINF:-1,Sony HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6167
-#EXTINF:-1,Kinowelt HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6240
-#EXTINF:-1,Kinowelt DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/672086
-#EXTINF:-1,Eagle Cinema Premiere FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/681946
-#EXTINF:-1,Eagle Cinema Aktion FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/681938
-#EXTINF:-1,Eagle Cinema Horror FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/681942
-#EXTINF:-1,Eagle Cinema Thriller FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/681950
-#EXTINF:-1,Eagle Cinema Sci-Fi FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/681949
-#EXTINF:-1,Eagle Cinema Animation HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/681939
-#EXTINF:-1,Eagle Cinema Mythologie HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/681945
-#EXTINF:-1,Eagle Cinema LÃ¤cheln HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/681944
-#EXTINF:-1,Eagle Cinema Geschichte HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/681941
-#EXTINF:-1,Eagle Cinema Romantisch FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/681948
-#EXTINF:-1,Sky Select 1 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/655131
-#EXTINF:-1,Sky Select 1 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7375
-#EXTINF:-1,Sky Select 2 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/655130
-#EXTINF:-1,Sky Select 2 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7376
-#EXTINF:-1,Sky Select 3 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/655129
-#EXTINF:-1,Sky Select 3 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7377
-#EXTINF:-1,Sky Select 4 FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/655128
-#EXTINF:-1,Sky Select 4 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/7378
-#EXTINF:-1,Sky Select 5 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8977
-#EXTINF:-1,Sky Select 5 HD (demnÃ¤chst) DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/655127
-#EXTINF:-1,Sky Select 6 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8976
-#EXTINF:-1,Sky Select 6 FHD (demnÃ¤chst) DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/655126
-#EXTINF:-1,Sky Select 7 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8975
-#EXTINF:-1,Sky Select 8 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8974
-#EXTINF:-1,PopCorn Select 1 DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/23778
-#EXTINF:-1,PopCorn Select 2 DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/23777
-#EXTINF:-1,PopCorn Select 3 DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/23776
-#EXTINF:-1,PopCorn Select 4 DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/23775
-#EXTINF:-1,AXN FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5097
-#EXTINF:-1,AXN HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6259
-#EXTINF:-1,Comedy Central FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6154
-#EXTINF:-1,Romance TV HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13152
-#EXTINF:-1,Romance TV DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6211
-#EXTINF:-1,Sky Heimat Kanal DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6188
-#EXTINF:-1,Sky Heimat Kanal [B] DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/678481
-#EXTINF:-1,Sixx FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6207
-#EXTINF:-1,Servus TV HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6208
-#EXTINF:-1,Tele 5 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9150
-#EXTINF:-1,Bibel TV HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/677497
-#EXTINF:-1,------- Documentary -------
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/678919
-#EXTINF:-1,ZDF Info HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9148
-#EXTINF:-1,N24 Doku DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679837
-#EXTINF:-1,Kabel Eins Doku FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13147
-#EXTINF:-1,Kabel 1 Doku DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679843
-#EXTINF:-1,History Channel FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6244
-#EXTINF:-1,Spiegel Geschichte HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6174
-#EXTINF:-1,Spiegel TV Wissen HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9135
-#EXTINF:-1,Discovery FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13570
-#EXTINF:-1,Discovery HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5096
-#EXTINF:-1,Planet HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679846
-#EXTINF:-1,Animal Planet FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8196
-#EXTINF:-1,Animal Planet HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13173
-#EXTINF:-1,National Geographic HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8194
-#EXTINF:-1,National Geographic DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6226
-#EXTINF:-1,Nat Geo wild FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6227
-#EXTINF:-1,Nat Geo Wild HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9136
-#EXTINF:-1,Nat Geo Wild DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5085
-#EXTINF:-1,Welt der Wunder HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679838
-#EXTINF:-1,Welt der Wunder DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13129
-#EXTINF:-1,Anixe HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6264
-#EXTINF:-1,Dmax FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6249
-#EXTINF:-1,TLC HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8224
-#EXTINF:-1,Luxe TV FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/676714
-#EXTINF:-1,Arte HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13172
-#EXTINF:-1,Arte DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6261
-#EXTINF:-1,Sky Arts FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5091
-#EXTINF:-1,Sky Arts HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9139
-#EXTINF:-1,Alpha HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13171
-#EXTINF:-1,------- News -------
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/678922
-#EXTINF:-1,Euronews DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6248
-#EXTINF:-1,Welt HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6228
-#EXTINF:-1,N-TV FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13149
-#EXTINF:-1,N-TV HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/8195
-#EXTINF:-1,N-TV DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13566
-#EXTINF:-1,Munchen TV DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6229
-#EXTINF:-1,Phoenix HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6221
-#EXTINF:-1,Tagesschau 24 DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6163
-#EXTINF:-1,------- Children -------
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/678923
-#EXTINF:-1,Super RTL FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13554
-#EXTINF:-1,Super RTL HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6166
-#EXTINF:-1,Kika HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6241
-#EXTINF:-1,Baby TV DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13169
-#EXTINF:-1,Toggo Plus HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/5086
-#EXTINF:-1,Toggo Plus DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/9133
-#EXTINF:-1,Boomerang HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6258
-#EXTINF:-1,Cartoon Network FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6257
-#EXTINF:-1,Disney Channel FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6253
-#EXTINF:-1,Disney Junior FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13568
-#EXTINF:-1,Disney Junior DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6251
-#EXTINF:-1,Disney XD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6250
-#EXTINF:-1,Junior DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6239
-#EXTINF:-1,Nickelodeon HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6224
-#EXTINF:-1,Fix & Foxi DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/23771
-#EXTINF:-1,Kids Tom&Jerry DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679840
-#EXTINF:-1,KiKa DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679839
-#EXTINF:-1,------- Music -------
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/678925
-#EXTINF:-1,MTV FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/35466
-#EXTINF:-1,MTV +1 HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679793
-#EXTINF:-1,MTV Brand New DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/638079
-#EXTINF:-1,VH1 Classic DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/638080
-#EXTINF:-1,Sky Classica DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6191
-#EXTINF:-1,Classica HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13167
-#EXTINF:-1,Deep House Radio FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679832
-#EXTINF:-1,Urban Radio FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679833
-#EXTINF:-1,Classic Radio FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679834
-#EXTINF:-1,Trap Radio FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679835
-#EXTINF:-1,Rainy Jazz Radio HD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/679831
-#EXTINF:-1,Jukebox DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13148
-#EXTINF:-1,Deluxe Music DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6255
-#EXTINF:-1,Kronehit FHD DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/14200
-#EXTINF:-1,Deutsches Musik Fernsehen DE
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13165
+#EXTINF:-1 tvg-id="Zee One DE" tvg-name="|DE| ZEE ONE HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/ZeeOne.de.png" group-title="GERMANY",|DE| ZEE ONE HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17506
+#EXTINF:-1 tvg-id="ZDFneo DE" tvg-name="|DE| ZDFNEO" tvg-logo="http://silvertv.net:1997/images/GERMANY/ZDFneo.de.png" group-title="GERMANY",|DE| ZDFNEO
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17507
+#EXTINF:-1 tvg-id="ZDFinfo DE" tvg-name="|DE| ZDFINFO HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/ZDFinfo.de.png" group-title="GERMANY",|DE| ZDFINFO HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17508
+#EXTINF:-1 tvg-id="ZDF DE" tvg-name="|DE| ZDF HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/ZDF.de.png" group-title="GERMANY",|DE| ZDF HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17509
+#EXTINF:-1 tvg-id="XITE DE" tvg-name="|DE| XITE HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Xite.de.png" group-title="GERMANY",|DE| XITE HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17510
+#EXTINF:-1 tvg-id="Welt der Wunder DE" tvg-name="|DE| WELT DER WUNDER HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/WeltDerWunder.de.png" group-title="GERMANY",|DE| WELT DER WUNDER HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17513
+#EXTINF:-1 tvg-id="VOX DE" tvg-name="|DE| Vox HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Vox.de.png" group-title="GERMANY",|DE| Vox HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17514
+#EXTINF:-1 tvg-id="VH1 Classic DE" tvg-name="|DE| VH1 CLASSIC" tvg-logo="http://silvertv.net:1997/images/GERMANY/VH1Classic.de.png" group-title="GERMANY",|DE| VH1 CLASSIC
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17515
+#EXTINF:-1 tvg-id="Universal Channel DE" tvg-name="|DE| UNIVERSAL TV HD" tvg-logo="http://silvertv.net:1997/images/USA/Universal.us.png" group-title="GERMANY",|DE| UNIVERSAL TV HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17516
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="|DE| TV OBERPFALZ HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Oberpfalztv.de.png" group-title="GERMANY",|DE| TV OBERPFALZ HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17518
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="|DE| NIEDERBAYERN TV HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/TRPTV.de.png" group-title="GERMANY",|DE| NIEDERBAYERN TV HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17519
+#EXTINF:-1 tvg-id="TOGGO plus DE" tvg-name="|DE| TOGGO PLUS HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/TOGGOplus.de.png" group-title="GERMANY",|DE| TOGGO PLUS HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17521
+#EXTINF:-1 tvg-id="TNT Serie DE" tvg-name="|DE| TNT Serie" tvg-logo="http://silvertv.net:1997/images/GERMANY/TNTSerie.de.png" group-title="GERMANY",|DE| TNT Serie
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17522
+#EXTINF:-1 tvg-id="TNT Film DE" tvg-name="|DE| TNT Film" tvg-logo="http://silvertv.net:1997/images/GERMANY/TNTFilm.de.png" group-title="GERMANY",|DE| TNT Film
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17523
+#EXTINF:-1 tvg-id="TNT Comedy DE" tvg-name="|DE| TNT COMEDY" tvg-logo="http://silvertv.net:1997/images/GERMANY/TNTComedy.de.png" group-title="GERMANY",|DE| TNT COMEDY
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17524
+#EXTINF:-1 tvg-id="TLC DE" tvg-name="|DE| TLC HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/TLC.de.png" group-title="GERMANY",|DE| TLC HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17525
+#EXTINF:-1 tvg-id="Tele 5 DE" tvg-name="|DE| TELE 5 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Tele5.de.png" group-title="GERMANY",|DE| TELE 5 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17528
+#EXTINF:-1 tvg-id="Syfy DE" tvg-name="|DE| SYFY HD" tvg-logo="http://silvertv.net:1997/images/USA/Syfy.us.png" group-title="GERMANY",|DE| SYFY HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17529
+#EXTINF:-1 tvg-id="Super RTL DE" tvg-name="|DE| Super RTL" tvg-logo="http://silvertv.net:1997/images/GERMANY/SuperRTL.de.png" group-title="GERMANY",|DE| Super RTL
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17530
+#EXTINF:-1 tvg-id="sportdigital DE" tvg-name="|DE| Sport Digital HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/sportdigital.de.png" group-title="GERMANY",|DE| Sport Digital HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17532
+#EXTINF:-1 tvg-id="Sony TV DE" tvg-name="|DE| Sony TV" tvg-logo="http://silvertv.net:1997/images/INDIAN/Sony_Tv.png" group-title="GERMANY",|DE| Sony TV
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17534
+#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-name="|DE| SKY SPORT NEWS HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySportNews.de.png" group-title="GERMANY",|DE| SKY SPORT NEWS HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17535
+#EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="|DE| SKY SPORT AUSTRIA HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySportAaustria.de.png" group-title="GERMANY",|DE| SKY SPORT AUSTRIA HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17536
+#EXTINF:-1 tvg-id="Sky Sport 11 DE" tvg-name="|DE| SKY SPORT 11 HD (event only)" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySport11.de.png" group-title="GERMANY",|DE| SKY SPORT 11 HD (event only)
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17537
+#EXTINF:-1 tvg-id="Sky Sport 10 DE" tvg-name="|DE| SKY SPORT 10 HD (event only)" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySport10.de.png" group-title="GERMANY",|DE| SKY SPORT 10 HD (event only)
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17538
+#EXTINF:-1 tvg-id="Sky Sport 9 DE" tvg-name="|DE| SKY SPORT 9 HD (event only)" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySport9.de.png" group-title="GERMANY",|DE| SKY SPORT 9 HD (event only)
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17539
+#EXTINF:-1 tvg-id="Sky Sport 8 DE" tvg-name="|DE| SKY SPORT 8 HD (event only)" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySport8.de.png" group-title="GERMANY",|DE| SKY SPORT 8 HD (event only)
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17540
+#EXTINF:-1 tvg-id="Sky Sport 7 DE" tvg-name="|DE| SKY SPORT 7 HD (event only)" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySport7.de.png" group-title="GERMANY",|DE| SKY SPORT 7 HD (event only)
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17541
+#EXTINF:-1 tvg-id="Sky Sport 6 DE" tvg-name="|DE| SKY SPORT 6 HD (event only)" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySport6.de.png" group-title="GERMANY",|DE| SKY SPORT 6 HD (event only)
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17542
+#EXTINF:-1 tvg-id="Sky Sport 5 DE" tvg-name="|DE| SKY SPORT 5 HD (event only)" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySport5.de.png" group-title="GERMANY",|DE| SKY SPORT 5 HD (event only)
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17543
+#EXTINF:-1 tvg-id="Sky Sport 4 DE" tvg-name="|DE| SKY SPORT 4 HD (event only)" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySport4.de.png" group-title="GERMANY",|DE| SKY SPORT 4 HD (event only)
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17544
+#EXTINF:-1 tvg-id="Sky Sport 3 DE" tvg-name="|DE| SKY SPORT 3 HD (event only)" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySport3.de.png" group-title="GERMANY",|DE| SKY SPORT 3 HD (event only)
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17545
+#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="|DE| SKY SPORT 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySport2.de.png" group-title="GERMANY",|DE| SKY SPORT 2 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17546
+#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="|DE| SKY SPORT 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySport1.de.png" group-title="GERMANY",|DE| SKY SPORT 1 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17547
+#EXTINF:-1 tvg-id="Sky Select 8 DE" tvg-name="|DE| SKY SELECT 8 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySelect8.de.png" group-title="GERMANY",|DE| SKY SELECT 8 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17548
+#EXTINF:-1 tvg-id="Sky Select 7 DE" tvg-name="|DE| SKY SELECT 7 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySelect7.de.png" group-title="GERMANY",|DE| SKY SELECT 7 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17549
+#EXTINF:-1 tvg-id="Sky Select 6 DE" tvg-name="|DE| SKY SELECT 6 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySelect6.de.png" group-title="GERMANY",|DE| SKY SELECT 6 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17550
+#EXTINF:-1 tvg-id="Sky Select 5 DE" tvg-name="|DE| SKY SELECT 5 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySelect5.de.png" group-title="GERMANY",|DE| SKY SELECT 5 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17551
+#EXTINF:-1 tvg-id="Sky Select 4 DE" tvg-name="|DE| SKY SELECT 4 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySelect4.de.png" group-title="GERMANY",|DE| SKY SELECT 4 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17552
+#EXTINF:-1 tvg-id="Sky Select 3 DE" tvg-name="|DE| SKY SELECT 3 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySelect3.de.png" group-title="GERMANY",|DE| SKY SELECT 3 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17553
+#EXTINF:-1 tvg-id="Sky Select 2 DE" tvg-name="|DE| SKY SELECT 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySelect2.de.png" group-title="GERMANY",|DE| SKY SELECT 2 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17554
+#EXTINF:-1 tvg-id="Sky Select 1 DE" tvg-name="|DE| SKY SELECT 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkySelect1.de.png" group-title="GERMANY",|DE| SKY SELECT 1 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17555
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="|DE| TNT SERIE HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/TNTSerie.de.png" group-title="GERMANY",|DE| TNT SERIE HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17556
+#EXTINF:-1 tvg-id="" tvg-name="|DE| RTL PASSION HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/RTLPassion.de.png" group-title="GERMANY",|DE| RTL PASSION HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17557
+#EXTINF:-1 tvg-id="Sky Cinema Nostalgie DE" tvg-name="|DE| SKY CINEMA CLASSICS" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyNostalgie.de.png" group-title="GERMANY",|DE| SKY CINEMA CLASSICS
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17558
+#EXTINF:-1 tvg-id="Sky Krimi DE" tvg-name="|DE| SKY KRIMI HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyKrimi.de.png" group-title="GERMANY",|DE| SKY KRIMI HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17559
+#EXTINF:-1 tvg-id="Sky Cinema Hits DE" tvg-name="|DE| SKY CINEMA BEST OF" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyHits.de.png" group-title="GERMANY",|DE| SKY CINEMA BEST OF
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17560
+#EXTINF:-1 tvg-id="Sky Cinema Emotion DE" tvg-name="|DE| SKY CINEMA EMOTION HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyEmotion.de.png" group-title="GERMANY",|DE| SKY CINEMA EMOTION HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17561
+#EXTINF:-1 tvg-id="Sky Cinema Comedy DE" tvg-name="|DE| SKY CINEMA FUN" tvg-logo="http://silvertv.net:1997/images/UK/SkyComedy.uk.png" group-title="GERMANY",|DE| SKY CINEMA FUN
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17562
+#EXTINF:-1 tvg-id="Sky Cinema DE" tvg-name="|DE| SKY CINEMA PREMIEREN" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyCinema.de.png" group-title="GERMANY",|DE| SKY CINEMA PREMIEREN
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17563
+#EXTINF:-1 tvg-id="Sky Cinema Family DE" tvg-name="|DE| SKY CINEMA FAMILY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-XbZFo4IBc4jNml0KqMsJxG8IOFWy10CxQNq2WrlnTTSj01MGBrhXYo5" group-title="GERMANY",|DE| SKY CINEMA FAMILY
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17564
+#EXTINF:-1 tvg-id="Sky Cinema Plus24 DE" tvg-name="|DE| SKY CINEMA PREMIEREN +24" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyCinemaPlus24.de.png" group-title="GERMANY",|DE| SKY CINEMA PREMIEREN +24
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17565
+#EXTINF:-1 tvg-id="Sky Cinema Plus1 DE" tvg-name="|DE| SKY CINEMA THRILLER HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyCinema1.de.png" group-title="GERMANY",|DE| SKY CINEMA THRILLER HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17566
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8 DE" tvg-name="|DE| SKY BUNDESLIGA 8 HD weekend only" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyBundesliga8.de.png" group-title="GERMANY",|DE| SKY BUNDESLIGA 8 HD weekend only
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17567
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 7 DE" tvg-name="|DE| SKY BUNDESLIGA 7 HD weekend only" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyBundesliga7.de.png" group-title="GERMANY",|DE| SKY BUNDESLIGA 7 HD weekend only
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17568
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 DE" tvg-name="|DE| SKY BUNDESLIGA 6 HD weekend only" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyBundesliga6.de.png" group-title="GERMANY",|DE| SKY BUNDESLIGA 6 HD weekend only
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17569
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 DE" tvg-name="|DE| SKY BUNDESLIGA 5 HD weekend only" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyBundesliga5.de.png" group-title="GERMANY",|DE| SKY BUNDESLIGA 5 HD weekend only
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17570
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 DE" tvg-name="|DE| SKY BUNDESLIGA 4 HD weekend only" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyBundesliga4.de.png" group-title="GERMANY",|DE| SKY BUNDESLIGA 4 HD weekend only
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17571
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 DE" tvg-name="|DE| SKY BUNDESLIGA 3 HD weekend only" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyBundesliga3.de.png" group-title="GERMANY",|DE| SKY BUNDESLIGA 3 HD weekend only
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17572
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 DE" tvg-name="|DE| SKY BUNDESLIGA 2 HD weekend only" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyBundesliga2.de.png" group-title="GERMANY",|DE| SKY BUNDESLIGA 2 HD weekend only
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17573
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="|DE| SKY BUNDESLIGA 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyBundesliga1.de.png" group-title="GERMANY",|DE| SKY BUNDESLIGA 1 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17574
+#EXTINF:-1 tvg-id="" tvg-name="|DE| AXN HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/AXN.de.png" group-title="GERMANY",|DE| AXN HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17575
+#EXTINF:-1 tvg-id="Sky Atlantic DE" tvg-name="|DE| DAZN 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyAtlantic.de.png" group-title="GERMANY",|DE| DAZN 2 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17576
+#EXTINF:-1 tvg-id="Sky Atlantic DE" tvg-name="|DE| SKY ATLANTIC HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyAtlantic.de.png" group-title="GERMANY",|DE| SKY ATLANTIC HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17577
+#EXTINF:-1 tvg-id="Sky Arts HD DE" tvg-name="|DE| SKY ARTS HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyArts.de.png" group-title="GERMANY",|DE| SKY ARTS HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17578
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY ACTION HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/SkyAction.de.png" group-title="GERMANY",|DE| SKY ACTION HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17579
+#EXTINF:-1 tvg-id="Sky 1 DE" tvg-name="|DE| SKY 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Sky1.de.png" group-title="GERMANY",|DE| SKY 1 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17580
+#EXTINF:-1 tvg-id="SIXX DE" tvg-name="|DE| SIXX HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/sixx.de.png" group-title="GERMANY",|DE| SIXX HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17581
+#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="|DE| SAT 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Sat1.de.png" group-title="GERMANY",|DE| SAT 1 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17583
+#EXTINF:-1 tvg-id="Sat.1 Gold DE" tvg-name="|DE| SAT 1 GOLD HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Sat1.de.png" group-title="GERMANY",|DE| SAT 1 GOLD HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17585
+#EXTINF:-1 tvg-id="RTL Passion DE" tvg-name="|DE| RTL PASSION HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/RTLPassion.de.png" group-title="GERMANY",|DE| RTL PASSION HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17586
+#EXTINF:-1 tvg-id="RTL NITRO DE" tvg-name="|DE| RTL NITRO HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/RTLNitro.de.png" group-title="GERMANY",|DE| RTL NITRO HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17587
+#EXTINF:-1 tvg-id="RTL Living DE" tvg-name="|DE| RTL LIVING HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/RTLLiving.de.png" group-title="GERMANY",|DE| RTL LIVING HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17588
+#EXTINF:-1 tvg-id="RTLplus DE" tvg-name="|DE| SUPER RTL HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/RTLPlus.de.png" group-title="GERMANY",|DE| SUPER RTL HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17589
+#EXTINF:-1 tvg-id="RTL DE" tvg-name="|DE| RTL HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/RTL.de.png" group-title="GERMANY",|DE| RTL HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17590
+#EXTINF:-1 tvg-id="RTL Crime DE" tvg-name="|DE| RTL CRIME HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/RTLCrime.de.png" group-title="GERMANY",|DE| RTL CRIME HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17591
+#EXTINF:-1 tvg-id="RTL II DE" tvg-name="|DE| RTL 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/RTL2.de.png" group-title="GERMANY",|DE| RTL 2 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17592
+#EXTINF:-1 tvg-id="Romance TV DE" tvg-name="|DE| ROMANCE TV HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Romance.de.png" group-title="GERMANY",|DE| ROMANCE TV HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17593
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="|DE| RNF HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/RheinNeckarFernsehen.de.png" group-title="GERMANY",|DE| RNF HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17594
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="|DE| WDR HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/WDR.de.png" group-title="GERMANY",|DE| WDR HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17595
+#EXTINF:-1 tvg-id="Pro7 Fun DE" tvg-name="|DE| PRO 7 FUN HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/ProSiebenFun.de.png" group-title="GERMANY",|DE| PRO 7 FUN HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17600
+#EXTINF:-1 tvg-id="Pro7 Maxx HD DE" tvg-name="|DE| PROSIEBEN MAXX HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/ProSiebenMaxx.de.png" group-title="GERMANY",|DE| PROSIEBEN MAXX HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17601
+#EXTINF:-1 tvg-id="ProSieben DE" tvg-name="|DE| PROSIEBEN HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Pro7.de.png" group-title="GERMANY",|DE| PROSIEBEN HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17602
+#EXTINF:-1 tvg-id="PHOENIX DE" tvg-name="|DE| PHOENIX HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Phoenix.de.png" group-title="GERMANY",|DE| PHOENIX HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17605
+#EXTINF:-1 tvg-id="" tvg-name="|DE| ORF SPORT + HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/ORFsport.de.png" group-title="GERMANY",|DE| ORF SPORT + HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17606
+#EXTINF:-1 tvg-id="ORF 2 DE" tvg-name="|DE| ORF 2 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/ORF2.de.png" group-title="GERMANY",|DE| ORF 2 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17609
+#EXTINF:-1 tvg-id="ORF eins DE" tvg-name="|DE| ORF 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/ORF1.de.png" group-title="GERMANY",|DE| ORF 1 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17610
+#EXTINF:-1 tvg-id="Nickelodeon DE" tvg-name="|DE| NICKELODEON HD" tvg-logo="http://silvertv.net:1997/images/france/Nickelodeon.fr.png" group-title="GERMANY",|DE| NICKELODEON HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17616
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="|DE| NDR HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/ndr.de.png" group-title="GERMANY",|DE| NDR HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17617
+#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="|DE| NAT GEO HD" tvg-logo="http://silvertv.net:1997/images/france/NatGeo.fr.png" group-title="GERMANY",|DE| NAT GEO HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17619
+#EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="|DE| NAT GEO WILD HD" tvg-logo="http://silvertv.net:1997/images/TURKISH/NatGeoWLD.png" group-title="GERMANY",|DE| NAT GEO WILD HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17620
+#EXTINF:-1 tvg-id="N24 DE" tvg-name="|DE| N24 DOKU HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/N24.de.png" group-title="GERMANY",|DE| N24 DOKU HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17622
+#EXTINF:-1 tvg-id="n-tv DE" tvg-name="|DE| N-TV HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/N-tv.de.png" group-title="GERMANY",|DE| N-TV HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17623
+#EXTINF:-1 tvg-id="MTV HD DE" tvg-name="|DE| MTV HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/MTVLive.de.png" group-title="GERMANY",|DE| MTV HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17624
+#EXTINF:-1 tvg-id="Kinowelt TV DE" tvg-name="|DE| KINOWELT HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Kinowelt.de.png" group-title="GERMANY",|DE| KINOWELT HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17627
+#EXTINF:-1 tvg-id="KiKa DE" tvg-name="|DE| KIKA HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Kika.de.png" group-title="GERMANY",|DE| KIKA HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17628
+#EXTINF:-1 tvg-id="kabel eins DE" tvg-name="|DE| KABEL EINS HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Kabel1.de.png" group-title="GERMANY",|DE| KABEL EINS HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17629
+#EXTINF:-1 tvg-id="kabel eins Doku DE" tvg-name="|DE| KABEL EINS DOKU HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/KabelEinsDoku.de.png" group-title="GERMANY",|DE| KABEL EINS DOKU HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17630
+#EXTINF:-1 tvg-id="Kabel eins CLASSICS DE" tvg-name="|DE| KABEL EINS CLASSICS HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/KabelEinsClassic.de.png" group-title="GERMANY",|DE| KABEL EINS CLASSICS HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17631
+#EXTINF:-1 tvg-id="Junior DE" tvg-name="|DE| JUNIOR HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Junior.de.png" group-title="GERMANY",|DE| JUNIOR HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17632
+#EXTINF:-1 tvg-id="Jukebox DE" tvg-name="|DE| JUKEBOX HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Jukebox.de.png" group-title="GERMANY",|DE| JUKEBOX HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17633
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="|DE| HR FERNSEHEN HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/HR.de.png" group-title="GERMANY",|DE| HR FERNSEHEN HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17635
+#EXTINF:-1 tvg-id="History DE" tvg-name="|DE| HISTORY HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/History.de.png" group-title="GERMANY",|DE| HISTORY HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17636
+#EXTINF:-1 tvg-id="Heimatkanal DE" tvg-name="|DE| HEIMATKANAL HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Heimatkanal.de.png" group-title="GERMANY",|DE| HEIMATKANAL HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17637
+#EXTINF:-1 tvg-id="FOX HD DE" tvg-name="|DE| FOX HD" tvg-logo="http://silvertv.net:1997/images/USA/FOX.us.png" group-title="GERMANY",|DE| FOX HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17641
+#EXTINF:-1 tvg-id="Fix and Foxi DE" tvg-name="|DE| FIX AND FOXI HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/FIXandFOXI.de.png" group-title="GERMANY",|DE| FIX AND FOXI HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17642
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="|DE| EUROSPORT 2 EXTRA HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Eurosport2Xtra.de.png" group-title="GERMANY",|DE| EUROSPORT 2 EXTRA HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17645
+#EXTINF:-1 tvg-id="Eurosport 2 DE" tvg-name="|DE| EUROSPORT 2 HD" tvg-logo="http://silvertv.net:1997/images/france/Eurosport2.fr.png" group-title="GERMANY",|DE| EUROSPORT 2 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17646
+#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="|DE| EUROSPORT 1 HD" tvg-logo="http://silvertv.net:1997/images/france/Eurosport1.fr.png" group-title="GERMANY",|DE| EUROSPORT 1 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17647
+#EXTINF:-1 tvg-id="E! Entertainment DE" tvg-name="|DE| E! ENTERTAINMENT HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/EEntertainment.de.png" group-title="GERMANY",|DE| E! ENTERTAINMENT HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17649
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="|DE| DRF 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/DR1.de.png" group-title="GERMANY",|DE| DRF 1 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17650
+#EXTINF:-1 tvg-id="DMAX DE" tvg-name="|DE| DMAX HD" tvg-logo="http://silvertv.net:1997/images/UK/DMAX.uk.png" group-title="GERMANY",|DE| DMAX HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17652
+#EXTINF:-1 tvg-id="Disney XD DE" tvg-name="|DE| DISNEY XD HD" tvg-logo="http://silvertv.net:1997/images/france/DisneyXD.fr.png" group-title="GERMANY",|DE| DISNEY XD HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17654
+#EXTINF:-1 tvg-id="Disney Junior DE" tvg-name="|DE| DISNEY JUNIOR HD" tvg-logo="http://silvertv.net:1997/images/france/DisneyJunior.fr.png" group-title="GERMANY",|DE| DISNEY JUNIOR HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17655
+#EXTINF:-1 tvg-id="Disney Cinemagic DE" tvg-name="|DE| DISNEY CINEMAGIC HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/DisneyCinemagic.de.png" group-title="GERMANY",|DE| DISNEY CINEMAGIC HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17656
+#EXTINF:-1 tvg-id="Disney Channel DE" tvg-name="|DE| DISNEY CHANNEL HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/DisneyChannel.de.png" group-title="GERMANY",|DE| DISNEY CHANNEL HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17657
+#EXTINF:-1 tvg-id="Discovery Channel HD DE" tvg-name="|DE| DISCOVERY CHANNEL HD" tvg-logo="http://silvertv.net:1997/images/USA/DiscoveryChannel.us.png" group-title="GERMANY",|DE| DISCOVERY CHANNEL HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17658
+#EXTINF:-1 tvg-id="Deluxe Music DE" tvg-name="|DE| DELUXE MUSIC HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/DeLuxeMusic.de.png" group-title="GERMANY",|DE| DELUXE MUSIC HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17659
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="|DE| DAS ERSTE HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/DasErst.de.png" group-title="GERMANY",|DE| DAS ERSTE HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17661
+#EXTINF:-1 tvg-id="CLASSICA DE" tvg-name="|DE| DAZN 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Classica.de.png" group-title="GERMANY",|DE| DAZN 1 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17663
+#EXTINF:-1 tvg-id="" tvg-name="|DE| CHEMNITZ FERNSEHEN HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/ChemnitzFernsehen.de.png" group-title="GERMANY",|DE| CHEMNITZ FERNSEHEN HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17664
+#EXTINF:-1 tvg-id="Cartoon Network DE" tvg-name="|DE| CARTOON NETWORK HD" tvg-logo="http://silvertv.net:1997/images/TURKISH/CartoonNetwork.de.png" group-title="GERMANY",|DE| CARTOON NETWORK HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17665
+#EXTINF:-1 tvg-id="" tvg-name="|DE| STINGRAY CLASSICA HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/BravaHD.de.png" group-title="GERMANY",|DE| STINGRAY CLASSICA HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17666
+#EXTINF:-1 tvg-id="Boomerang DE" tvg-name="|DE| BOOMERANG HD" tvg-logo="http://silvertv.net:1997/images/USA/Boomerang.us.png" group-title="GERMANY",|DE| BOOMERANG HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17667
+#EXTINF:-1 tvg-id="euronews DE" tvg-name="|DE| EURONEWS HD" tvg-logo="http://silvertv.net:1997/images/UK/EuroNews.uk.png" group-title="GERMANY",|DE| EURONEWS HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17668
+#EXTINF:-1 tvg-id="arte DE" tvg-name="|DE| ARTE HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Arte.de.png" group-title="GERMANY",|DE| ARTE HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17674
+#EXTINF:-1 tvg-id="ANIXE DE" tvg-name="|DE| ANIXE HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Anixe.de.png" group-title="GERMANY",|DE| ANIXE HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17676
+#EXTINF:-1 tvg-id="Animal Planet DE" tvg-name="|DE| ANIMAL PLANET HD" tvg-logo="http://silvertv.net:1997/images/USA/AnimalPlanet.us.png" group-title="GERMANY",|DE| ANIMAL PLANET HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17677
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="|DE| ALLGAU TV HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/allgautv.de.png" group-title="GERMANY",|DE| ALLGAU TV HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17678
+#EXTINF:-1 tvg-id="AandE DE" tvg-name="|DE| A&E HD" tvg-logo="http://silvertv.net:1997/images/USA/AandE.us.png" group-title="GERMANY",|DE| A&E HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17679
+#EXTINF:-1 tvg-id="3sat DE" tvg-name="|DE| 3SAT HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/3sat.de.png" group-title="GERMANY",|DE| 3SAT HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17680
+#EXTINF:-1 tvg-id="13th Street DE" tvg-name="|DE| 13TH STREET HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/13thStreet.de.png" group-title="GERMANY",|DE| 13TH STREET HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17681
+#EXTINF:-1 tvg-id="Sport1 DE" tvg-name="|DE| SKY SPORT 1 HD" tvg-logo="http://silvertv.net:1997/images/GERMANY/Sport1.de.png" group-title="GERMANY",|DE| SKY SPORT 1 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/18369
+#EXTINF:-1 tvg-id="" tvg-name="|DE| ORF 3 HD" tvg-logo="" group-title="GERMANY",|DE| ORF 3 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60515
+#EXTINF:-1 tvg-id="" tvg-name="|DE| TELEKOM BUNDESLIGA 7" tvg-logo="" group-title="GERMANY",|DE| TELEKOM BUNDESLIGA 7
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62202
+#EXTINF:-1 tvg-id="" tvg-name="|DE| TELEKOM BUNDESLIGA 6" tvg-logo="" group-title="GERMANY",|DE| TELEKOM BUNDESLIGA 6
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62201
+#EXTINF:-1 tvg-id="" tvg-name="|DE| TELEKOM BUNDESLIGA 5" tvg-logo="" group-title="GERMANY",|DE| TELEKOM BUNDESLIGA 5
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62200
+#EXTINF:-1 tvg-id="" tvg-name="|DE| TELEKOM BUNDESLIGA 4" tvg-logo="" group-title="GERMANY",|DE| TELEKOM BUNDESLIGA 4
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62199
+#EXTINF:-1 tvg-id="" tvg-name="|DE| TELEKOM BUNDESLIGA 3" tvg-logo="" group-title="GERMANY",|DE| TELEKOM BUNDESLIGA 3
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62198
+#EXTINF:-1 tvg-id="" tvg-name="|DE| TELEKOM BUNDESLIGA 2" tvg-logo="" group-title="GERMANY",|DE| TELEKOM BUNDESLIGA 2
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62197
+#EXTINF:-1 tvg-id="" tvg-name="|DE| TELEKOM BUNDESLIGA 1" tvg-logo="" group-title="GERMANY",|DE| TELEKOM BUNDESLIGA 1
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62196
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Eagle Cinema 007 HD" tvg-logo="" group-title="GERMANY",|DE| Eagle Cinema 007 HD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64208
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Eagle Cinema Abenteuer FHD" tvg-logo="" group-title="GERMANY",|DE| Eagle Cinema Abenteuer FHD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64209
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Eagle Cinema Animation FHD" tvg-logo="" group-title="GERMANY",|DE| Eagle Cinema Animation FHD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64210
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Eagle Cinema Drama FHD" tvg-logo="" group-title="GERMANY",|DE| Eagle Cinema Drama FHD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64211
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Eagle Cinema Geschichte FHD" tvg-logo="" group-title="GERMANY",|DE| Eagle Cinema Geschichte FHD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64212
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Eagle Cinema Horror FHD" tvg-logo="" group-title="GERMANY",|DE| Eagle Cinema Horror FHD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64213
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Eagle Cinema Komodie FHD" tvg-logo="" group-title="GERMANY",|DE| Eagle Cinema Komodie FHD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64214
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Eagle Cinema LĂ¤cheln FHD" tvg-logo="" group-title="GERMANY",|DE| Eagle Cinema LĂ¤cheln FHD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64215
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Eagle Cinema Premiere FHD" tvg-logo="" group-title="GERMANY",|DE| Eagle Cinema Premiere FHD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64216
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Eagle Cinema Romantisch FHD" tvg-logo="" group-title="GERMANY",|DE| Eagle Cinema Romantisch FHD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64217
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Eagle Cinema sci-fi FHD" tvg-logo="" group-title="GERMANY",|DE| Eagle Cinema sci-fi FHD
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64218
+#EXTINF:-1 tvg-id="" tvg-name="|DE| POPCORN SELECT 8" tvg-logo="" group-title="GERMANY",|DE| POPCORN SELECT 8
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64219
+#EXTINF:-1 tvg-id="" tvg-name="|DE| POPCORN SELECT 1" tvg-logo="" group-title="GERMANY",|DE| POPCORN SELECT 1
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64220
+#EXTINF:-1 tvg-id="" tvg-name="|DE| POPCORN SELECT 2" tvg-logo="" group-title="GERMANY",|DE| POPCORN SELECT 2
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64221
+#EXTINF:-1 tvg-id="" tvg-name="|DE| POPCORN SELECT 3" tvg-logo="" group-title="GERMANY",|DE| POPCORN SELECT 3
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64222
+#EXTINF:-1 tvg-id="" tvg-name="|DE| POPCORN SELECT 5" tvg-logo="" group-title="GERMANY",|DE| POPCORN SELECT 5
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64223
+#EXTINF:-1 tvg-id="" tvg-name="|DE| POPCORN SELECT 6" tvg-logo="" group-title="GERMANY",|DE| POPCORN SELECT 6
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64224
+#EXTINF:-1 tvg-id="" tvg-name="|DE| POPCORN SELECT 7" tvg-logo="" group-title="GERMANY",|DE| POPCORN SELECT 7
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64225
+#EXTINF:-1 tvg-id="" tvg-name="|DE| POPCORN SELECT 4" tvg-logo="" group-title="GERMANY",|DE| POPCORN SELECT 4
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64226
+#EXTINF:-1 tvg-id="" tvg-name="|DE| POPCORN SELECT 9" tvg-logo="" group-title="GERMANY",|DE| POPCORN SELECT 9
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64227
+#EXTINF:-1 tvg-id="" tvg-name="|DE| RBB" tvg-logo="" group-title="GERMANY",|DE| RBB
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/66627
+#EXTINF:-1 tvg-id="" tvg-name="|DE| RFO" tvg-logo="" group-title="GERMANY",|DE| RFO
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/66628
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SWR" tvg-logo="" group-title="GERMANY",|DE| SWR
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/66629
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SERVUS TV" tvg-logo="" group-title="GERMANY",|DE| SERVUS TV
+http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/66630
