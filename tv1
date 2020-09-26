@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1,TestLINE für kurze Zeit/Für Stabiles IPTV Kontakt auf Telegram @Woppegong
 #EXTINF:-1,########## Germany ##########
-http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6267
 #EXTINF:-1,------- Main & Regional -------
-http://google.de
 http://mytv.fun:8080/3a68u17woi/eemio0q2q7/678832
 #EXTINF:-1,Das Erste HD DE
 http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13166
@@ -601,4 +599,6 @@ http://mytv.fun:8080/3a68u17woi/eemio0q2q7/6255
 http://mytv.fun:8080/3a68u17woi/eemio0q2q7/14200
 #EXTINF:-1,Deutsches Musik Fernsehen DE
 http://mytv.fun:8080/3a68u17woi/eemio0q2q7/13165
+
+
 
