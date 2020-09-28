@@ -1,221 +1,99 @@
 #EXTM3U
 #EXTINF:-1,TestLINE für kurze Zeit /Für Stabiles IPTV Kontakt auf Telegram @Woppegong
-#EXTINF:-1 tvg-id="" tvg-name="===GERMANY===" tvg-logo="" group-title="DEUTSCHLAND",===GERMANY===
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/9102
-#EXTINF:-1 tvg-id="DE| SKY ATLANTIC HD" tvg-name="DE:Sky Atlantic  Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Atlantic  Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/51
-#EXTINF:-1 tvg-id="24 TV TR" tvg-name="DE:Sky Cinema  1 Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Cinema  1 Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/62
-#EXTINF:-1 tvg-id="de.Sky Cinema+24" tvg-name="DE:Sky Cinema  24 HD 1080p Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Cinema  24 HD 1080p Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/61
-#EXTINF:-1 tvg-id="DE| SKY CINEMA  24" tvg-name="DE:Sky Cinema  24 Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Cinema  24 Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/60
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Cinema Action HD Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Cinema Action HD Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/59
-#EXTINF:-1 tvg-id="DE| SKY CINEMA COMEDY HD" tvg-name="DE:Sky Cinema Comedy Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Cinema Comedy Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/53
-#EXTINF:-1 tvg-id="de.Sky Cinema Emotion" tvg-name="DE:Sky Cinema Emotion Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Cinema Emotion Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/54
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Cinema Family HD 1080p Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Cinema Family HD 1080p Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/57
-#EXTINF:-1 tvg-id="DE| SKY CINEMA FAMILY HD" tvg-name="DE:Sky cinema Family Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky cinema Family Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/56
-#EXTINF:-1 tvg-id="DE| SKY CINEMA HITS" tvg-name="DE:Sky Cinema Hits HD 1080p Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Cinema Hits HD 1080p Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/65
-#EXTINF:-1 tvg-id="DE| SKY CINEMA HITS" tvg-name="DE:Sky Cinema Hits Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Cinema Hits Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/64
-#EXTINF:-1 tvg-id="de.Sky Cinema" tvg-name="DE:Sky Cinema Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Cinema Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/66
-#EXTINF:-1 tvg-id="de.Sky Cinema Nostalgie" tvg-name="DE:Sky Cinema Nostalgie Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Cinema Nostalgie Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/55
-#EXTINF:-1 tvg-id="DE| SKY KRIMI" tvg-name="DE:Sky Krimi Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Krimi Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/50
-#EXTINF:-1 tvg-id="" tvg-name="DE:POPCORN SELECT 5" tvg-logo="" group-title="DEUTSCHLAND",DE:POPCORN SELECT 5
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/5779
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Select 5 HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Select 5 HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/5781
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Select 1 HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Select 1 HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2519
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Select 2 HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Select 2 HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2518
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Select 3 HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Select 3 HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2517
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Select 4 HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Select 4 HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2516
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Select 5 HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Select 5 HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2515
-#EXTINF:-1 tvg-id="DE| TNT FILM HD" tvg-name="DE:TNT film HD" tvg-logo="" group-title="DEUTSCHLAND",DE:TNT film HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3691
-#EXTINF:-1 tvg-id="DE| TNT SERIE HD" tvg-name="DE:TNT Serie HD" tvg-logo="" group-title="DEUTSCHLAND",DE:TNT Serie HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3692
-#EXTINF:-1 tvg-id="de.Universal HD" tvg-name="DE:Universal Channel HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Universal Channel HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3693
-#EXTINF:-1 tvg-id="24 TV TR" tvg-name="DE:13th Street HD" tvg-logo="" group-title="DEUTSCHLAND",DE:13th Street HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/1405
-#EXTINF:-1 tvg-id="de.RTL Crime HD" tvg-name="DE:RTL Crime HD Local" tvg-logo="" group-title="DEUTSCHLAND",DE:RTL Crime HD Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/1114
-#EXTINF:-1 tvg-id="DE| RTL HD" tvg-name="DE:RTL HD  Local" tvg-logo="" group-title="DEUTSCHLAND",DE:RTL HD  Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/1119
-#EXTINF:-1 tvg-id="DE| RTL 2 HD" tvg-name="DE:RTL II SD Local" tvg-logo="" group-title="DEUTSCHLAND",DE:RTL II SD Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/1117
-#EXTINF:-1 tvg-id="de.RTL Nitro HD" tvg-name="DE:RTL Nitro HD Local" tvg-logo="" group-title="DEUTSCHLAND",DE:RTL Nitro HD Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/1116
-#EXTINF:-1 tvg-id="de.Passion HD" tvg-name="DE:RTL Passion Local" tvg-logo="" group-title="DEUTSCHLAND",DE:RTL Passion Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/1112
-#EXTINF:-1 tvg-id="de.RTLplus" tvg-name="DE:RIC local" tvg-logo="" group-title="DEUTSCHLAND",DE:RIC local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/1113
-#EXTINF:-1 tvg-id="de.RTL Living HD" tvg-name="DE:RTL Living HD" tvg-logo="" group-title="DEUTSCHLAND",DE:RTL Living HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2616
-#EXTINF:-1 tvg-id="DE| SUPER RTL HD" tvg-name="DE:Super RTL" tvg-logo="" group-title="DEUTSCHLAND",DE:Super RTL
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3785
-#EXTINF:-1 tvg-id="DE| ZDF HD" tvg-name="DE:ZDF HD Local" tvg-logo="" group-title="DEUTSCHLAND",DE:ZDF HD Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/1122
-#EXTINF:-1 tvg-id="DE| ZDF INFO HD" tvg-name="DE:zdf info local" tvg-logo="" group-title="DEUTSCHLAND",DE:zdf info local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/1120
-#EXTINF:-1 tvg-id="DE| ZDF NEO" tvg-name="DE:ZDFneo HD local" tvg-logo="" group-title="DEUTSCHLAND",DE:ZDFneo HD local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/1121
-#EXTINF:-1 tvg-id="DE| PROSIEBEN HD" tvg-name="DE:ProSieben HD" tvg-logo="" group-title="DEUTSCHLAND",DE:ProSieben HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/1404
-#EXTINF:-1 tvg-id="DE| ARTE" tvg-name="DE:ARTE HD" tvg-logo="" group-title="DEUTSCHLAND",DE:ARTE HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2582
-#EXTINF:-1 tvg-id="de.Disney Junior" tvg-name="DE:JUNIOR HD" tvg-logo="" group-title="DEUTSCHLAND",DE:JUNIOR HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3694
-#EXTINF:-1 tvg-id="DE| SAT 1" tvg-name="DE:SAT 1 HD" tvg-logo="" group-title="DEUTSCHLAND",DE:SAT 1 HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2581
-#EXTINF:-1 tvg-id="DE| TELE 5" tvg-name="DE:TELE5 HD" tvg-logo="" group-title="DEUTSCHLAND",DE:TELE5 HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2580
-#EXTINF:-1 tvg-id="" tvg-name="DE:VOX HD" tvg-logo="" group-title="DEUTSCHLAND",DE:VOX HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2578
-#EXTINF:-1 tvg-id="de.WDR" tvg-name="DE:WDR HD" tvg-logo="" group-title="DEUTSCHLAND",DE:WDR HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2579
-#EXTINF:-1 tvg-id="DE| KABEL EINS" tvg-name="DE:KABEL 1 HD" tvg-logo="" group-title="DEUTSCHLAND",DE:KABEL 1 HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2617
-#EXTINF:-1 tvg-id="" tvg-name="DE:Tagesschau 24" tvg-logo="" group-title="DEUTSCHLAND",DE:Tagesschau 24
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2618
-#EXTINF:-1 tvg-id="DE| SPIEGEL GESCHICHTE HD" tvg-name="DE:Spiegel Geschichte HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Spiegel Geschichte HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2622
-#EXTINF:-1 tvg-id="DE| CARTOON NETWORK" tvg-name="DE:Cartoon Network HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Cartoon Network HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3536
-#EXTINF:-1 tvg-id="DE| DISNEY CHANNEL" tvg-name="DE:Disney Channel HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Disney Channel HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3538
-#EXTINF:-1 tvg-id="DE| DISNEY CINEMAGIC" tvg-name="DE:Disney Cinemagic HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Disney Cinemagic HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3534
-#EXTINF:-1 tvg-id="de.Disney XD" tvg-name="DE:Disney XD HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Disney XD HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3535
-#EXTINF:-1 tvg-id="DE| KIKA" tvg-name="DE:KiKa HD" tvg-logo="" group-title="DEUTSCHLAND",DE:KiKa HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3539
-#EXTINF:-1 tvg-id="de.Nickelodeon" tvg-name="DE:Nickelodeon" tvg-logo="" group-title="DEUTSCHLAND",DE:Nickelodeon
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3537
-#EXTINF:-1 tvg-id="24 TV TR" tvg-name="DE:Discovery" tvg-logo="" group-title="DEUTSCHLAND",DE:Discovery
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3690
-#EXTINF:-1 tvg-id="be.één HD" tvg-name="DE:HISTORY" tvg-logo="" group-title="DEUTSCHLAND",DE:HISTORY
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3687
-#EXTINF:-1 tvg-id="DE| NAT GEO WILD HD" tvg-name="DE:Nat Geo Wild HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Nat Geo Wild HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3688
-#EXTINF:-1 tvg-id="be.één HD" tvg-name="DE:National Geographic HD" tvg-logo="" group-title="DEUTSCHLAND",DE:National Geographic HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/3689
-#EXTINF:-1 tvg-id="DE| DMAX HD" tvg-name="DE:DMAX HD" tvg-logo="" group-title="DEUTSCHLAND",DE:DMAX HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/5212
-#EXTINF:-1 tvg-id="DE| MTV" tvg-name="DE:MTV HD Local" tvg-logo="" group-title="DEUTSCHLAND",DE:MTV HD Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/5209
-#EXTINF:-1 tvg-id="DE| N-TV" tvg-name="DE:N-TV HD" tvg-logo="" group-title="DEUTSCHLAND",DE:N-TV HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/5210
-#EXTINF:-1 tvg-id="de.Welt der Wunder" tvg-name="DE:WELT 24HD" tvg-logo="" group-title="DEUTSCHLAND",DE:WELT 24HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/5211
-#EXTINF:-1 tvg-id="DE| SKY SPORT 1 HD" tvg-name="DE:Sky Sports1 HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sports1 HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/68
-#EXTINF:-1 tvg-id="DE| SKY SPORT 2 HD" tvg-name="DE:Sky Sports2 HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sports2 HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/1541
-#EXTINF:-1 tvg-id="de.Sky Sport 3" tvg-name="DE:Sky Sport 3 Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport 3 Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2630
-#EXTINF:-1 tvg-id="de.Sky Sport 4" tvg-name="DE:Sky Sport 4 Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport 4 Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2629
-#EXTINF:-1 tvg-id="de.Sky Sport 5 HD" tvg-name="DE:Sky Sport 5 Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport 5 Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2628
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport 6 Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport 6 Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2627
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport 7 Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport 7 Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2626
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport 8 Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport 8 Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2625
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport 9 Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport 9 Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2624
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport 10 Local" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport 10 Local
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2623
-#EXTINF:-1 tvg-id="DE| SKY SPORT BUNDESLIGA 1 HD" tvg-name="DE:Sky Sport Bundesliga 1" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport Bundesliga 1
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2030
-#EXTINF:-1 tvg-id="DE| SKY SPORT BUNDESLIGA 2 HD" tvg-name="DE:Sky Sport Bundesliga 2" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport Bundesliga 2
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2031
-#EXTINF:-1 tvg-id="DE| SKY SPORT BUNDESLIGA 3" tvg-name="DE:Sky Sport Bundesliga 3" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport Bundesliga 3
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2572
-#EXTINF:-1 tvg-id="DE| SKY SPORT BUNDESLIGA 4" tvg-name="DE:Sky Sport Bundesliga 4" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport Bundesliga 4
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2571
-#EXTINF:-1 tvg-id="DE| SKY SPORT BUNDESLIGA 5 HD" tvg-name="DE:Sky Sport Bundesliga 5" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport Bundesliga 5
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2570
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport Bundesliga 6" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport Bundesliga 6
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2569
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport Bundesliga 7" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport Bundesliga 7
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2568
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport Bundesliga 8" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport Bundesliga 8
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2567
-#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport Bundesliga 9" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport Bundesliga 9
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2566
-#EXTINF:-1 tvg-id="de.Sky Bundesliga 10" tvg-name="DE:Sky Sport Bundesliga 10" tvg-logo="" group-title="DEUTSCHLAND",DE:Sky Sport Bundesliga 10
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2565
-#EXTINF:-1 tvg-id="DE| DAZN SPORT 1" tvg-name="DE:DAZN 1 Bar HD" tvg-logo="" group-title="DEUTSCHLAND",DE:DAZN 1 Bar HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2076
-#EXTINF:-1 tvg-id="24 TV TR" tvg-name="DE:DAZN 2 Bar HD" tvg-logo="" group-title="DEUTSCHLAND",DE:DAZN 2 Bar HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/2075
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - FC Bayern TV SD" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - FC Bayern TV SD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8303
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - FC Bayern TV Full HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - FC Bayern TV Full HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8304
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Bundesliga 3 - 1  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Bundesliga 3 - 1  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8305
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Bundesliga 3 - 2  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Bundesliga 3 - 2  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8306
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Bundesliga 3 - 3  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Bundesliga 3 - 3  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8307
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Bundesliga 3 - 4  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Bundesliga 3 - 4  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8308
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Bundesliga 3 - 5  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Bundesliga 3 - 5  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8309
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Bundesliga 3 - 6  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Bundesliga 3 - 6  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8310
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Bundesliga 3 - 7  nur Spiel tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Bundesliga 3 - 7  nur Spiel tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8311
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Bundesliga 3 - 8  nur Spiel tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Bundesliga 3 - 8  nur Spiel tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8312
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Frauen Bundesliga HD" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Frauen Bundesliga HD
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8313
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Sky SPORT KOMPAKT 1 HD  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Sky SPORT KOMPAKT 1 HD  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8314
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Sky SPORT KOMPAKT 2 HD  nur Spiel Tag)" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Sky SPORT KOMPAKT 2 HD  nur Spiel Tag)
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8315
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Sky SPORT KOMPAKT 3 HD  nur Spiel Tag)" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Sky SPORT KOMPAKT 3 HD  nur Spiel Tag)
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8316
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - Sky SPORT KOMPAKT 4 HD  nur Spiel Tag)" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - Sky SPORT KOMPAKT 4 HD  nur Spiel Tag)
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8317
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - BBL Sport 1  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - BBL Sport 1  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8318
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - BBL Sport 2  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - BBL Sport 2  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8319
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - BBL Sport 3  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - BBL Sport 3  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8320
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - BBL Sport 4  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - BBL Sport 4  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8321
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - DEL Sport 1  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - DEL Sport 1  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8322
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - DEL Sport 2  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - DEL Sport 2  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8323
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - DEL Sport 3  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - DEL Sport 3  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8324
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - DEL Sport 4  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - DEL Sport 4  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8325
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - DEL Sport 5  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - DEL Sport 5  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8326
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - DEL Sport 6  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - DEL Sport 6  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8327
-#EXTINF:-1 tvg-id="" tvg-name="DE:Telekom - DEL Sport 7  nur Spiel Tag" tvg-logo="" group-title="DEUTSCHLAND",DE:Telekom - DEL Sport 7  nur Spiel Tag
-http://2kmid62kv2r6k6q.niacam.com:8080/dindin1734/VcgCv6nKAS/8328
+#EXTINF:-1,RTL
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/87799c9ca735801.ts|User-Agent=1m3u8
+#EXTINF:-1,RTL 2
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/20a82bfef5750c5.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER RTL
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/e2954b4033db7e4.ts|User-Agent=1m3u8
+#EXTINF:-1,RTL NITRO
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/132d5ef9290bd59.ts|User-Agent=1m3u8
+#EXTINF:-1,RTL PASSION
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/36494fcb4e9f573.ts|User-Agent=1m3u8
+#EXTINF:-1,RTL CRIME
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/86d3bf2bf88835d.ts|User-Agent=1m3u8
+#EXTINF:-1,AXN DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/02a23bd095136fd.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY CINEMA
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/815796dc0e5a351.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY CINEMA 1
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/8efdf47e5225228.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY CINEMA 24
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/e41876c5d975134.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY ACTION
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/14a65ee5b9b141d.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY ATLATNIC
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/b5c2f714b497675.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY COMEDY
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/983ff95f5a580b7.ts|User-Agent=1m3u8
+#EXTINF:-1,KIKA TV
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/980919b66bd990a.ts|User-Agent=1m3u8
+#EXTINF:-1,PRO 7
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/47ae0f1877d1d84.ts|User-Agent=1m3u8
+#EXTINF:-1,VOX DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/f16fec33123360b.ts|User-Agent=1m3u8
+#EXTINF:-1,ZDF TV
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/29bc6a7004141fb.ts|User-Agent=1m3u8
+#EXTINF:-1,SAT 1
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/22ec0bec7291b1d.ts|User-Agent=1m3u8
+#EXTINF:-1,ARD 1
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/41c3f218d69796a.ts|User-Agent=1m3u8
+#EXTINF:-1,NTV
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/f2672f38fd545ed.ts|User-Agent=1m3u8
+#EXTINF:-1,N24
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/f67eba63fd742b4.ts|User-Agent=1m3u8
+#EXTINF:-1,DISCOVERY DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/72ac5987f239dad.ts|User-Agent=1m3u8
+#EXTINF:-1,HISTORY DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/b3f982548c1dcad.ts|User-Agent=1m3u8
+#EXTINF:-1,NAT GEO WILD DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/d3b3e72eebe0c36.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY HITS
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/3802056df107566.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SELECT 1
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/d0a463742363f83.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SELECT 2
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6a7c4bf87e9b11b.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SELECT 3
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/0f1d115ddbd250c.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SELECT 4
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/c1cdc20a09af008.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SELECT 5
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/1749c5af39bf6dd.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS 1 DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/40b2b2ca12f1bc1.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS 2 DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/faf2fa74957654e.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS 3 DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/8c4badcc7546b41.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS 4 DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/7fdd48847a74a2e.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS 5 DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6f152cde8c0d97b.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS 6 DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/9649463383bf51c.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS AUSTRIA DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/ef2fd3293ab8f1e.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS BUNDESLIGA 1
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/c4f680a4fc729bc.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS BUNDESLIGA 2
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/fff6f99081fcbf9.ts|User-Agent=1m3u8
+#EXTINF:-1,DISNEY CHANNEL DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/47fa045425655cb.ts|User-Agent=1m3u8
+#EXTINF:-1,DISNEY XD DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/626f96bf89b5c61.ts|User-Agent=1m3u8
+#EXTINF:-1,TNT FILM
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/41523a487701aa2.ts|User-Agent=1m3u8
+#EXTINF:-1,TNT SERIES
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/a2316c6b50da93a.ts|User-Agent=1m3u8
+#EXTINF:-1,PRO7 MAXX
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6e24a8810e66728.ts|User-Agent=1m3u8
+#EXTINF:-1,ANIMAL PLANET DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/9da77393d8b5a15.ts|User-Agent=1m3u8
+#EXTINF:-1,NAT GEO DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6352bc270315ac0.ts|User-Agent=1m3u8
+#EXTINF:-1,NAT GEO PEOPLE DE
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6339fc17ca319ba.ts|User-Agent=1m3u8
+#EXTINF:-1,ZEE ONE 
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/ef48da6e623face.ts|User-Agent=1m3u8
 
