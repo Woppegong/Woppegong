@@ -1,267 +1,391 @@
 #EXTM3U
 #EXTINF:-1,TestLINE für kurze Zeit /Für Stabiles IPTV Kontakt auf Telegram @Woppegong
-#EXTINF:-1,DE: ZDF NEO
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15721
-#EXTINF:-1,DE: ZDF INFO
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15720
-#EXTINF:-1,DE: ZDF HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15719
-#EXTINF:-1,DE: ZDF
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15718
-#EXTINF:-1,DE: WELT
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15717
-#EXTINF:-1,DE: VOX HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15716
-#EXTINF:-1,DE: VOX
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15715
-#EXTINF:-1,DE: SIXX
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15638
-#EXTINF:-1,DE: SAT 1
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15632
-#EXTINF:-1,DE: NITRO
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15616
-#EXTINF:-1,DE: KABEL EINS
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15600
 #EXTINF:-1,DE: DAS ERSTE
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15568
-#EXTINF:-1,DE: ARTE
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15561
-#EXTINF:-1,DE: 3SAT HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15556
-#EXTINF:-1,DE: 3SAT
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15555
-#EXTINF:-1,DE: ZEE ONE HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/17138
-#EXTINF:-1,DE: TOGGO PLUS HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15713
-#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15697
-#EXTINF:-1,DE: SPIEGEL GESCHICHTE
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15696
-#EXTINF:-1,DE: ROMANCE TV
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15625
-#EXTINF:-1,DE: PROSIEBEN HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15624
-#EXTINF:-1,DE: KIKA
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15601
-#EXTINF:-1,DE: CLASSICA HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15566
-#EXTINF:-1,DE: SUPER RTL HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15700
-#EXTINF:-1,DE: Super RTL
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15699
-#EXTINF:-1,DE: RTL PASSION HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15630
-#EXTINF:-1,DE: RTL HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15629
-#EXTINF:-1,DE: RTL 2 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15628
-#EXTINF:-1,DE: RTL 2
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15627
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14418
+#EXTINF:-1,DE: DAS ERSTE HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14339
 #EXTINF:-1,DE: RTL
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15626
-#EXTINF:-1,DE: DAZN 1 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/16243
-#EXTINF:-1,DE: DAZN 1
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/16237
-#EXTINF:-1,DE: DAZN 2 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/16244
-#EXTINF:-1,DE: DAZN 2
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/16238
-#EXTINF:-1,DE: MOTORVISION TV HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15606
-#EXTINF:-1,DE: MOTORVISION HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15605
-#EXTINF:-1,DE: MOTORVISION
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15604
-#EXTINF:-1,DE: EUROSPORT 2 XTRA
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15592
-#EXTINF:-1,DE: EUROSPORT 1 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15589
-#EXTINF:-1,DE: EUROSPORT 1
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15588
-#EXTINF:-1,DE: NICKELODEON HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15615
-#EXTINF:-1,DE: NICKELODEON
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15614
-#EXTINF:-1,DE: KINOWELT TV HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15603
-#EXTINF:-1,DE: KINOWELT TV
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15602
-#EXTINF:-1,DE: DISNEY JUNIOR HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15583
-#EXTINF:-1,DE: DISNEY JR
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15582
-#EXTINF:-1,DE: DISNEY XD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15584
-#EXTINF:-1,DE: DISNEY CINEMAGIC
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15581
-#EXTINF:-1,DE: DISNEY CHANNEL
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15580
-#EXTINF:-1,DE: CARTOON NETWORK HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15567
-#EXTINF:-1,DE: JUKEBOX
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15599
-#EXTINF:-1,DE: NAT GEO WILD HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15612
-#EXTINF:-1,DE: NAT GEO WILD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15611
-#EXTINF:-1,DE: DISCOVERY HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15579
-#EXTINF:-1,DE: DISCOVERY
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15578
-#EXTINF:-1,DE: DMAX HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15586
-#EXTINF:-1,DE: DMAX
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15585
-#EXTINF:-1,DE: HISTORY HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15598
-#EXTINF:-1,DE: HISTORY
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15597
-#EXTINF:-1,DE: SYFY HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15703
-#EXTINF:-1,DE: SYFY
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15702
-#EXTINF:-1,DE: 13TH STREET HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15553
-#EXTINF:-1,DE: 13TH STREET
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15554
-#EXTINF:-1,DE: HEIMATKANAL HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15596
-#EXTINF:-1,DE: HEIMAT
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15595
-#EXTINF:-1,DE: BOOMERANG HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15563
-#EXTINF:-1,DE: BOOMERANG
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15562
-#EXTINF:-1,DE: NAT GEO
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15610
-#EXTINF:-1,DE: UNIVERSAL
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15714
-#EXTINF:-1,DE: TLC
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15706
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15681
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15680
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15684
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15683
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 3 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15685
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 3 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15686
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 4 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15688
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 4 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15687
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 5 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15689
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 5 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15690
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14530
+#EXTINF:-1,DE: RTL HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14410
+#EXTINF:-1,DE: RTL 2 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14316
+#EXTINF:-1,DE: RTL II HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14411
+#EXTINF:-1,DE: ZDF HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14342
+#EXTINF:-1,DE: ZDF HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14415
+#EXTINF:-1,DE: VOX HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14326
+#EXTINF:-1,DE: VOX HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14419
+#EXTINF:-1,DE: PROSIEBEN HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14421
+#EXTINF:-1,DE: PRO SIEBEN HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14327
+#EXTINF:-1,DE: SAT 1 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14323
+#EXTINF:-1,DE: KABEL 1 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14429
+#EXTINF:-1,DE: FOX HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14420
+#EXTINF:-1,DE: FOX HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14532
+#EXTINF:-1,DE: KABEL EINS Classics HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14322
+#EXTINF:-1,DE: KABEL EINS HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14321
+#EXTINF:-1,DE: ORF Sport PLUS
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14402
+#EXTINF:-1,DE: PRO SIEBEN FUN HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14329
+#EXTINF:-1,DE: PRO SIEBEN MAXX HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14330
+#EXTINF:-1,DE: Romance TV HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14371
+#EXTINF:-1,DE: RTL Living HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14318
+#EXTINF:-1,DE: RTL Nitro HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14319
+#EXTINF:-1,DE: RTL PASSION HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14320
+#EXTINF:-1,DE: RTL PLUS HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14314
+#EXTINF:-1,DE: SAT 1 EMOTIONS HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14325
+#EXTINF:-1,DE: SAT 1 Gold HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14324
+#EXTINF:-1,DE: WDR HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14341
+#EXTINF:-1,DE: ZEE ONE HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14337
+#EXTINF:-1,DE:  NDR HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14344
+#EXTINF:-1,DE:  SIXX HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14335
+#EXTINF:-1,DE: 3sat HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14343
+#EXTINF:-1,DE: ANIXE
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14363
+#EXTINF:-1,DE: ARD Alpha HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14340
+#EXTINF:-1,DE: Blue Vizyon HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14372
+#EXTINF:-1,DE: E! Entertainment HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14358
+#EXTINF:-1,DE: Dick & Doof Nostaji
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14406
+#EXTINF:-1,DE: 13th Street HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14357
+#EXTINF:-1,DE: FILMBOX DEUTSCH HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14365
+#EXTINF:-1,DE: SIXX HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14336
+#EXTINF:-1,DE: Sky 1 HD (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14556
+#EXTINF:-1,DE: Sky Atlantic HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14348
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14346
+#EXTINF:-1,DE: Sky Cinema  24 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14356
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14349
+#EXTINF:-1,DE: SKY Action (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14557
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14350
+#EXTINF:-1,DE: SKY CINEMA EMOTION HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14351
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14352
+#EXTINF:-1,DE: Sky Cinema HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14347
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14353
 #EXTINF:-1,DE: SKY CINEMA NOSTALGIE HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15654
-#EXTINF:-1,DE: SKY CINEMA NOSTALGIE
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15653
-#EXTINF:-1,DE: SKY CINEMA FAMILY HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15651
-#EXTINF:-1,DE: SKY CINEMA FAMILY
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15650
-#EXTINF:-1,DE: SKY CINEMA EMOTION
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15648
-#EXTINF:-1,DE: SKY CINEMA COMEDY HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15647
-#EXTINF:-1,DE: SKY CINEMA ACTION HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15646
-#EXTINF:-1,DE: SKY CINEMA ACTION
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15645
-#EXTINF:-1,DE: SKY ATLANTIC HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15640
-#EXTINF:-1,DE: SKY ATLANTIC
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15639
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14354
 #EXTINF:-1,DE: SKY KRIMI HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15656
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14355
+#EXTINF:-1,DE: SKY Thriller HD (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14568
+#EXTINF:-1,DE: SKY Atlantic HD (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14558
+#EXTINF:-1,DE: SKY Best of HD (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14559
+#EXTINF:-1,DE: SKY CINEMA BEST OF
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14537
+#EXTINF:-1,DE: SKY CINEMA CLASSIC
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14536
+#EXTINF:-1,DE: SKY CINEMA PREMIEREN
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14539
+#EXTINF:-1,DE: SKY CINEMA THRILLER
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14538
+#EXTINF:-1,DE: SKY Classic HD (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14560
+#EXTINF:-1,DE: SKY Familie HD (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14561
+#EXTINF:-1,DE: SKY Fun HD (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14562
+#EXTINF:-1,DE: SKY Krimi HD (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14563
+#EXTINF:-1,DE: Sky Premiere 24 HD (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14564
+#EXTINF:-1,DE: Sky Premiere HD (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14565
+#EXTINF:-1,DE: SKY CINEMA HITS HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14417
 #EXTINF:-1,DE: SKY KRIMI
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15655
-#EXTINF:-1,DE: SKY CINEMA HITS
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15652
-#EXTINF:-1,DE: SKY CINEMA 1
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15644
-#EXTINF:-1,DE: TNT SERIE HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15712
-#EXTINF:-1,DE: TNT SERIE
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15711
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14423
+#EXTINF:-1,DE: TNT COMEDY HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14428
 #EXTINF:-1,DE: TNT FILM HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15710
-#EXTINF:-1,DE: PRO 7 MAXX HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15623
-#EXTINF:-1,DE: PRO 7 MAXX
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15622
-#EXTINF:-1,DE: PRO 7
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15621
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15667
-#EXTINF:-1,DE: SKY SPORT 1
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15666
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15671
-#EXTINF:-1,DE: SKY SPORT 2
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15670
-#EXTINF:-1,DE: SKY SPORT 3 (matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15672
-#EXTINF:-1,DE: SKY SPORT 4 (matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15673
-#EXTINF:-1,DE: SKY SPORT 5 (matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15674
-#EXTINF:-1,DE: SKY SPORT 6 (matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15675
-#EXTINF:-1,DE: SKY SPORT 7 (Matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15676
-#EXTINF:-1,DE: SKY SPORT 8 (matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15677
-#EXTINF:-1,DE: SKY SPORT 9 (matchtime)
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15678
-#EXTINF:-1,DE: SKY SPORT NEWS HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15694
-#EXTINF:-1,DE: SKY SPORT NEWS
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15693
-#EXTINF:-1,DE: SKY SPORT AUSTRIA
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15679
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14426
+#EXTINF:-1,DE: TNT SERIE HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14427
+#EXTINF:-1,DE: SONY TV
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14527
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14522
+#EXTINF:-1,DE: SPORT 1 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14514
+#EXTINF:-1,DE: Sport1  HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14513
+#EXTINF:-1,DE: SYFY HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14534
+#EXTINF:-1,DE: Sony Channel HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14404
+#EXTINF:-1,DE: Sportdigital HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14405
+#EXTINF:-1,DE: Super RTL HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14334
+#EXTINF:-1,DE: SYFY HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14359
+#EXTINF:-1,DE: TELE 5 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14332
+#EXTINF:-1,DE: 13TH STREET HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14425
+#EXTINF:-1,DE: CARTOON NETWORK HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14424
+#EXTINF:-1,DE: DISNEY CHANNEL HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14431
+#EXTINF:-1,DE: DISNEY XD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14432
+#EXTINF:-1,DE: HISTORY HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14433
+#EXTINF:-1,DE: KINOWELT TV HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14434
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14436
+#EXTINF:-1,DE: NAT GEOGRAPHIC HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14435
+#EXTINF:-1,DE: PRO 7 FUN HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14422
+#EXTINF:-1,DE: RTL CRIME HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14413
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14409
+#EXTINF:-1,DE: UNIVERSAL CHANNEL HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14412
+#EXTINF:-1,DE: TLC HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14437
+#EXTINF:-1,DE: WELT HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14476
+#EXTINF:-1,DE: ZDF Info
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14492
+#EXTINF:-1,DE: ZDF NEO HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14446
+#EXTINF:-1,DE: Animal Planet
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14546
+#EXTINF:-1,DE: ARTE HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14486
+#EXTINF:-1,DE: AUTO MOTOR SPORT
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14495
+#EXTINF:-1,DE: AXN HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14482
+#EXTINF:-1,DE: Boomerang
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14478
+#EXTINF:-1,DE: Cartoon Network
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14528
+#EXTINF:-1,DE: COMEDY CENTRAL
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14461
+#EXTINF:-1,DE: Crime   Investigation
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14480
+#EXTINF:-1,DE: DELUXE MUSIC
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14463
+#EXTINF:-1,DE: Discovery Channel FHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14525
+#EXTINF:-1,DE: Disney Junior
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14489
+#EXTINF:-1,DE: DMAX FHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14453
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14545
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14544
+#EXTINF:-1,DE: Eurosport 2 Xtra FHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14543
+#EXTINF:-1,DE: Heimait kanal
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14487
+#EXTINF:-1,DE: KABEL 1 DOCU FHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14541
+#EXTINF:-1,DE: KIKA FHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14540
+#EXTINF:-1,DE: MOTORVISON SD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14479
+#EXTINF:-1,DE: MTV
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14462
+#EXTINF:-1,DE: n-tv HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14459
+#EXTINF:-1,DE: N24 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14490
+#EXTINF:-1,DE: NDR HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14497
+#EXTINF:-1,DE: Nickelodeon
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14547
+#EXTINF:-1,DE: NITRO HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14474
+#EXTINF:-1,DE: ONE HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14569
+#EXTINF:-1,DE: Planet
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14445
+#EXTINF:-1,DE: Pro7 MAXX FHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14456
+#EXTINF:-1,DE: ROMANCE
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14548
+#EXTINF:-1,DE: Servus TV
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14488
+#EXTINF:-1,DE: SKY 1 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14481
 #EXTINF:-1,DE: SKY SELECT 1 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15657
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14204
+#EXTINF:-1,DE: SKY SELECT 1 UHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14203
 #EXTINF:-1,DE: SKY SELECT 2 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15658
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14202
+#EXTINF:-1,DE: SKY SELECT 2 UHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14201
 #EXTINF:-1,DE: SKY SELECT 3 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15659
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14200
+#EXTINF:-1,DE: SKY SELECT 3 UHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14199
 #EXTINF:-1,DE: SKY SELECT 4 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15660
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14198
+#EXTINF:-1,DE: SKY SELECT 4 UHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14197
 #EXTINF:-1,DE: SKY SELECT 5 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15661
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14196
+#EXTINF:-1,DE: SKY SELECT 5 UHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14195
 #EXTINF:-1,DE: SKY SELECT 6 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15662
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14194
+#EXTINF:-1,DE: SKY SELECT 6 UHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14193
 #EXTINF:-1,DE: SKY SELECT 7 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15663
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14192
+#EXTINF:-1,DE: SKY SELECT 7 UHD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14191
 #EXTINF:-1,DE: SKY SELECT 8 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15664
-#EXTINF:-1,DE: SKY SELECT 9 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15665
-#EXTINF:-1,DE: NATIONAL GEOGRAPHIC HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15613
-#EXTINF:-1,DE: SAT 1 GOLD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15633
-#EXTINF:-1,DE: CLASSICA
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15565
-#EXTINF:-1,DE: DAS ERSTE HEVC
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/15569
-#EXTINF:-1,DE: E! HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/17139
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 6 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/42468
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 6 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/42469
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 7 FHD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/42470
-#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 7 HD
-http://medotv.nl:8000/samih991/dgV3ZGHwyX/42471
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14190
+#EXTINF:-1,DE: MAX SELECT HD 1
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14312
+#EXTINF:-1,DE: MAX SELECT HD 2
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14311
+#EXTINF:-1,DE: MAX SELECT HD 3
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14310
+#EXTINF:-1,DE: MAX SELECT HD 4
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14309
+#EXTINF:-1,DE: MAX SELECT HD 5
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14308
+#EXTINF:-1,DE: MAX SELECT HD 6
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14307
+#EXTINF:-1,DE: MAX SELECT HD 7
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14306
+#EXTINF:-1,DE: Moviesinema 1 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14366
+#EXTINF:-1,DE: Moviesinema 2 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14367
+#EXTINF:-1,DE: Moviesinema 3 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14368
+#EXTINF:-1,DE: Moviesinema 4 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14369
+#EXTINF:-1,DE: Moviesinema 5 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14370
+#EXTINF:-1,DE: Sky-Sport-Bundesliga-1
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14566
+#EXTINF:-1,DE: Sky-Sport-Bundesliga-2-HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14567
+#EXTINF:-1,DE: BUNDESLIGA 1 (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14551
+#EXTINF:-1,DE: BUNDESLIGA 1
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14378
+#EXTINF:-1,DE: BUNDESLIGA 2 (LOCAL)
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14552
+#EXTINF:-1,DE: Bundesliga 2
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14380
+#EXTINF:-1,DE: BUNDESLIGA 3 ( LOCAL )
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14553
+#EXTINF:-1,DE: BUNDESLIGA 3 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14384
+#EXTINF:-1,DE: BUNDESLIGA 4 ( LOCAL )
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14554
+#EXTINF:-1,DE: BUNDESLIGA 5 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14387
+#EXTINF:-1,DE: Eurosport 1 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14399
+#EXTINF:-1,DE: Eurosport 2 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14400
+#EXTINF:-1,DE: Eurosport 2 Xtra HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14401
+#EXTINF:-1,DE: DAZN 1
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14374
+#EXTINF:-1,DE: DAZN 1 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14373
+#EXTINF:-1,DE: DAZN 2
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14376
+#EXTINF:-1,DE: DAZN 2 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14375
+#EXTINF:-1,DE: Sky Sport News
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14512
+#EXTINF:-1,DE: SKY SPORT  1
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14389
+#EXTINF:-1,DE: SKY SPORT 1
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14390
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14388
+#EXTINF:-1,DE: SKY SPORT 2
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14392
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14391
+#EXTINF:-1,DE: SKY SPORT 3
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14394
+#EXTINF:-1,DE: SKY SPORT 3 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14393
+#EXTINF:-1,DE: SKY SPORT 4
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14396
+#EXTINF:-1,DE: SKY SPORT 4 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14395
+#EXTINF:-1,DE: SKY SPORT 5
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14398
+#EXTINF:-1,DE: SKY SPORT 5 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14397
+#EXTINF:-1,DE: Sky Sport Austria
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14403
+#EXTINF:-1,DE: Telekom Fussball 1 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14507
+#EXTINF:-1,DE: Telekom Fussball 2 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14438
+#EXTINF:-1,DE: Telekom Fussball 3 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14439
+#EXTINF:-1,DE: Telekom Fussball 4 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14440
+#EXTINF:-1,DE: Telekom Fussball 5 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14441
+#EXTINF:-1,DE: Telekom Fussball 6 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14442
+#EXTINF:-1,DE: Telekom Fussball 7 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14443
+#EXTINF:-1,DE: Telekom Fussball 8 HD
+http://viphd.de:8000/chP2grXHyq/vfSaNQDPNG/14444
 
