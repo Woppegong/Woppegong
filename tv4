@@ -1,682 +1,295 @@
 #EXTM3U
-#EXTINF:-1,########## Germany ##########
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6267
-#EXTINF:-1,------- Main & Regional -------
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/678832
-#EXTINF:-1,Das Erste HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13166
-#EXTINF:-1,Das Erste DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6256
-#EXTINF:-1,Das Erste (B) DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6262
-#EXTINF:-1,ZDF FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6151
-#EXTINF:-1,ZDF HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/17011
-#EXTINF:-1,ZDF Neo HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/17304
-#EXTINF:-1,RTL FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13565
-#EXTINF:-1,RTL HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6216
-#EXTINF:-1,Sat.1 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6210
-#EXTINF:-1,Pro 7 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6220
-#EXTINF:-1,Pro Sieben FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8235
-#EXTINF:-1,Pro Sieben HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13144
-#EXTINF:-1,VOX FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13553
-#EXTINF:-1,VOX DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6153
-#EXTINF:-1,VOX UP DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679836
-#EXTINF:-1,Kabel 1 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6242
-#EXTINF:-1,Kabel 1 Classic HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9151
-#EXTINF:-1,Kabel Eins Classics HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679844
-#EXTINF:-1,RTL 2 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6215
-#EXTINF:-1,RTL 2 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13136
-#EXTINF:-1,RTL Nitro FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6212
-#EXTINF:-1,RTL Nitro HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13137
-#EXTINF:-1,RTL Passion FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8219
-#EXTINF:-1,RTL Plus DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9152
-#EXTINF:-1,RTL Crime FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6214
-#EXTINF:-1,RTL Crime HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/17012
-#EXTINF:-1,Crime & Investigation FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6263
-#EXTINF:-1,Crime & Investigation HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8197
-#EXTINF:-1,RTL Living FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6150
-#EXTINF:-1,RTL Living HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6213
-#EXTINF:-1,Sat1 Emotion DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13135
-#EXTINF:-1,Sat1 Gold FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6209
-#EXTINF:-1,Pro 7 Fun FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6219
-#EXTINF:-1,Pro 7 Fun HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13145
-#EXTINF:-1,Pro Sieben Fun HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13142
-#EXTINF:-1,Pro 7 Max FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6218
-#EXTINF:-1,Pro Sieben Maxx HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13143
-#EXTINF:-1,Pro Sieben Maxx FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8234
-#EXTINF:-1,E! Entertainment FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13569
-#EXTINF:-1,E! Entertainment HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9137
-#EXTINF:-1,E! Entertainment DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5095
-#EXTINF:-1,SRF 1 DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6170
-#EXTINF:-1,MDR HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6238
-#EXTINF:-1,MDR S-Anhalt HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8240
-#EXTINF:-1,MDR Sachsen HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8239
-#EXTINF:-1,3Sat FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/16289
-#EXTINF:-1,3sat HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6265
-#EXTINF:-1,NDR HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6225
-#EXTINF:-1,HR FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13150
-#EXTINF:-1,HR HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6243
-#EXTINF:-1,HR Fernsehen HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8225
-#EXTINF:-1,RBB Berlin HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6217
-#EXTINF:-1,BR DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13168
-#EXTINF:-1,SWR HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6165
-#EXTINF:-1,WDR HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6152
-#EXTINF:-1,Franken Fernsehen FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/677835
-#EXTINF:-1,BW Family TV FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6246
-#EXTINF:-1,BW Family TV HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/23772
-#EXTINF:-1,QVC HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13140
-#EXTINF:-1,QVC Beauty & Style DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13141
-#EXTINF:-1,Augsburg TV DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13170
-#EXTINF:-1,Sonnenklar TV FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13130
-#EXTINF:-1,Event - Covid Info FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679845
-#EXTINF:-1,------- Sports -------
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/678834
-#EXTINF:-1,Sky Sports News FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13555
-#EXTINF:-1,Sky Sports News HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6176
-#EXTINF:-1,Sky Sport 1 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13564
-#EXTINF:-1,Sky Sport 1 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6184
-#EXTINF:-1,Sky Sport 1 DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9125
-#EXTINF:-1,Sky Sport 1 [B] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/52533
-#EXTINF:-1,Sky Sport 2 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7362
-#EXTINF:-1,Sky Sport 2 DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/61835
-#EXTINF:-1,Sky Sport 3 [Match Time] FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13563
-#EXTINF:-1,Sky Sport 3 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6182
-#EXTINF:-1,Sky Sport 4 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13562
-#EXTINF:-1,Sky Sport 4 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9127
-#EXTINF:-1,Sky Sport 5 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13561
-#EXTINF:-1,Sky Sport 5 [Match Time] FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9126
-#EXTINF:-1,Sky Sport 6 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6181
-#EXTINF:-1,Sky Sport 7 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6180
-#EXTINF:-1,Sky Sport 8 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6179
-#EXTINF:-1,Sky Sport 9 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6178
-#EXTINF:-1,Sky Sport 10 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6177
-#EXTINF:-1,Sky Sport Bundesliga 1 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/620245
-#EXTINF:-1,Sky Sport Bundesliga 1 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13538
-#EXTINF:-1,Sky Sport Bundesliga 1 DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/73136
-#EXTINF:-1,Sky Sport Bundesliga 2 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/135258
-#EXTINF:-1,Sky Sport Bundesliga 2 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/62223
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/135671
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/62220
-#EXTINF:-1,Sky Sport Bundesliga 4 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/91235
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/135335
-#EXTINF:-1,Sky Sport Bundesliga 5 DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/62002
-#EXTINF:-1,Sky Sport Bundesliga 6 DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/619225
-#EXTINF:-1,Sky Sport Bundesliga 7 DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6198
-#EXTINF:-1,Sky Sport Bundesliga 8 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6197
-#EXTINF:-1,Sky Sport Bundesliga 9 [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6196
-#EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6195
-#EXTINF:-1,DAZN 1 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/661090
-#EXTINF:-1,DAZN 1 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/625243
-#EXTINF:-1,DAZN 1 [B] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/661088
-#EXTINF:-1,DAZN 2 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/661089
-#EXTINF:-1,DAZN 2 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/50775
-#EXTINF:-1,Sport1 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6173
-#EXTINF:-1,Sport1 HD  DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8221
-#EXTINF:-1,Sport1 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8226
-#EXTINF:-1,Sport1+ FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679847
-#EXTINF:-1,Sport1+ HD [B] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679848
-#EXTINF:-1,Telekom Fußball 2 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679822
-#EXTINF:-1,Telekom Fußball 1 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679821
-#EXTINF:-1,Telekom Fußball 3 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679823
-#EXTINF:-1,Telekom Fußball 4 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679824
-#EXTINF:-1,Telekom Fußball 5 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679825
-#EXTINF:-1,Telekom Fußball 6 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679826
-#EXTINF:-1,Telekom Fußball 7 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679827
-#EXTINF:-1,Telekom Eishockey 1 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679671
-#EXTINF:-1,Telekom Eishockey 2 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679672
-#EXTINF:-1,Telekom Eishockey 3 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679673
-#EXTINF:-1,Telekom Eishockey 4 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679676
-#EXTINF:-1,Telekom Basketball 1 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679674
-#EXTINF:-1,Telekom Basketball 2 [Match Time] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679675
-#EXTINF:-1,eSports1 [En] HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6172
-#EXTINF:-1,Eurosport 1 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8218
-#EXTINF:-1,Eurosport 2 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9131
-#EXTINF:-1,Eurosport 2 Xtra FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13163
-#EXTINF:-1,Eurosport 2 Xtra HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9130
-#EXTINF:-1,Sport Digital FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8244
-#EXTINF:-1,Sport Digital HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6171
-#EXTINF:-1,Motorvision HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8222
-#EXTINF:-1,Auto Motor Sport FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9132
-#EXTINF:-1,FC Bayern TV HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9128
-#EXTINF:-1,DEL Sport 1 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679851
-#EXTINF:-1,DEL Sport 2 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679852
-#EXTINF:-1,DEL Sport 3 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679853
-#EXTINF:-1,DEL Sport 4 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679854
-#EXTINF:-1,DEL Sport 5 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679855
-#EXTINF:-1,DEL Sport 6 HD [Match Time] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679856
-#EXTINF:-1,------- Movies & Series -------
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/678836
-#EXTINF:-1,Sky Action HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5093
-#EXTINF:-1,Sky Action DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6205
-#EXTINF:-1,Sky Cinema Special FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8217
-#EXTINF:-1,Sky Cinema Special HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6252
-#EXTINF:-1,Sky Cinema Thriller FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5089
-#EXTINF:-1,Sky Cinema Thriller HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7372
-#EXTINF:-1,Sky Cinema Thriller DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6193
-#EXTINF:-1,Sky Cinema Premieren FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6194
-#EXTINF:-1,Sky Cinema Premieren HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7373
-#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6192
-#EXTINF:-1,Sky Cinema Premieren +24 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13133
-#EXTINF:-1,Sky Cinema Action HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7370
-#EXTINF:-1,Sky Cinema Action DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9146
-#EXTINF:-1,Sky Cinema Fun HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9144
-#EXTINF:-1,Sky Cinema Fun DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6190
-#EXTINF:-1,Sky Cinema Best Of FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7368
-#EXTINF:-1,Sky Cinema Best Of HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8223
-#EXTINF:-1,Sky Cinema Family FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9145
-#EXTINF:-1,Sky Cinema Family HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7369
-#EXTINF:-1,Sky Cinema Emotion DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13132
-#EXTINF:-1,Sky Cinema Classics HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13131
-#EXTINF:-1,Sky Cinema Classics DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6186
-#EXTINF:-1,Sky Atlantic HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7367
-#EXTINF:-1,Sky Atlantic DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6204
-#EXTINF:-1,Sky Atlantic +1 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13134
-#EXTINF:-1,Sky 13TH Street HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7365
-#EXTINF:-1,13th Street FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5098
-#EXTINF:-1,13th Street HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8198
-#EXTINF:-1,Sky Emotion DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6189
-#EXTINF:-1,Sky Cinema Best of DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5088
-#EXTINF:-1,Sky One FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9138
-#EXTINF:-1,One HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9147
-#EXTINF:-1,Fox FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13567
-#EXTINF:-1,Fox HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6245
-#EXTINF:-1,Fox DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/23770
-#EXTINF:-1,Syfy FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7364
-#EXTINF:-1,Syfy HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5087
-#EXTINF:-1,Syfy DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6164
-#EXTINF:-1,Sky Serien & Shows FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/681935
-#EXTINF:-1,Sky Krimi HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8220
-#EXTINF:-1,TNT Comedy FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6157
-#EXTINF:-1,TNT Film FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6156
-#EXTINF:-1,TNT Serie FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5084
-#EXTINF:-1,TNT Serie HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6155
-#EXTINF:-1,TNT Serie DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13154
-#EXTINF:-1,Universal FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5265
-#EXTINF:-1,Sony HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6167
-#EXTINF:-1,Kinowelt HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6240
-#EXTINF:-1,Kinowelt DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/672086
-#EXTINF:-1,Eagle Cinema Premiere FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/681946
-#EXTINF:-1,Eagle Cinema Aktion FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/681938
-#EXTINF:-1,Eagle Cinema Horror FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/681942
-#EXTINF:-1,Eagle Cinema Thriller FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/681950
-#EXTINF:-1,Eagle Cinema Sci-Fi FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/681949
-#EXTINF:-1,Eagle Cinema Animation HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/681939
-#EXTINF:-1,Eagle Cinema Mythologie HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/681945
-#EXTINF:-1,Eagle Cinema Lächeln HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/681944
-#EXTINF:-1,Eagle Cinema Geschichte HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/681941
-#EXTINF:-1,Eagle Cinema Romantisch FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/681948
-#EXTINF:-1,Sky Select 1 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/655131
-#EXTINF:-1,Sky Select 1 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7375
-#EXTINF:-1,Sky Select 2 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/655130
-#EXTINF:-1,Sky Select 2 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7376
-#EXTINF:-1,Sky Select 3 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/655129
-#EXTINF:-1,Sky Select 3 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7377
-#EXTINF:-1,Sky Select 4 FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/655128
-#EXTINF:-1,Sky Select 4 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7378
-#EXTINF:-1,Sky Select 5 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8977
-#EXTINF:-1,Sky Select 5 HD (demnächst) DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/655127
-#EXTINF:-1,Sky Select 6 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8976
-#EXTINF:-1,Sky Select 6 FHD (demnächst) DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/655126
-#EXTINF:-1,Sky Select 7 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8975
-#EXTINF:-1,Sky Select 8 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8974
-#EXTINF:-1,PopCorn Select 1 DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/23778
-#EXTINF:-1,PopCorn Select 2 DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/23777
-#EXTINF:-1,PopCorn Select 3 DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/23776
-#EXTINF:-1,PopCorn Select 4 DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/23775
-#EXTINF:-1,AXN FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5097
-#EXTINF:-1,AXN HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6259
-#EXTINF:-1,Comedy Central FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6154
-#EXTINF:-1,Romance TV HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13152
-#EXTINF:-1,Romance TV DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6211
-#EXTINF:-1,Sky Heimat Kanal DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6188
-#EXTINF:-1,Sky Heimat Kanal [B] DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/678481
-#EXTINF:-1,Sixx FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6207
-#EXTINF:-1,Servus TV HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6208
-#EXTINF:-1,Tele 5 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9150
-#EXTINF:-1,Bibel TV HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/677497
-#EXTINF:-1,------- Documentary -------
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/678919
-#EXTINF:-1,ZDF Info HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9148
-#EXTINF:-1,N24 Doku DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679837
-#EXTINF:-1,Kabel Eins Doku FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13147
-#EXTINF:-1,Kabel 1 Doku DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679843
-#EXTINF:-1,History Channel FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6244
-#EXTINF:-1,Spiegel Geschichte HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6174
-#EXTINF:-1,Spiegel TV Wissen HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9135
-#EXTINF:-1,Discovery FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13570
-#EXTINF:-1,Discovery HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5096
-#EXTINF:-1,Planet HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679846
-#EXTINF:-1,Animal Planet FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8196
-#EXTINF:-1,Animal Planet HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13173
-#EXTINF:-1,National Geographic HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8194
-#EXTINF:-1,National Geographic DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6226
-#EXTINF:-1,Nat Geo wild FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6227
-#EXTINF:-1,Nat Geo Wild HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9136
-#EXTINF:-1,Nat Geo Wild DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5085
-#EXTINF:-1,Welt der Wunder HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679838
-#EXTINF:-1,Welt der Wunder DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13129
-#EXTINF:-1,Anixe HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6264
-#EXTINF:-1,Dmax FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6249
-#EXTINF:-1,TLC HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8224
-#EXTINF:-1,Luxe TV FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/676714
-#EXTINF:-1,Arte HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13172
-#EXTINF:-1,Arte DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6261
-#EXTINF:-1,Sky Arts FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5091
-#EXTINF:-1,Sky Arts HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9139
-#EXTINF:-1,Alpha HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13171
-#EXTINF:-1,------- News -------
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/678922
-#EXTINF:-1,Euronews DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6248
-#EXTINF:-1,Welt HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6228
-#EXTINF:-1,N-TV FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13149
-#EXTINF:-1,N-TV HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/8195
-#EXTINF:-1,N-TV DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13566
-#EXTINF:-1,Munchen TV DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6229
-#EXTINF:-1,Phoenix HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6221
-#EXTINF:-1,Tagesschau 24 DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6163
-#EXTINF:-1,------- Children -------
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/678923
-#EXTINF:-1,Super RTL FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13554
-#EXTINF:-1,Super RTL HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6166
-#EXTINF:-1,Kika HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6241
-#EXTINF:-1,Baby TV DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13169
-#EXTINF:-1,Toggo Plus HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/5086
-#EXTINF:-1,Toggo Plus DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/9133
-#EXTINF:-1,Boomerang HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6258
-#EXTINF:-1,Cartoon Network FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6257
-#EXTINF:-1,Disney Channel FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6253
-#EXTINF:-1,Disney Junior FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13568
-#EXTINF:-1,Disney Junior DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6251
-#EXTINF:-1,Disney XD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6250
-#EXTINF:-1,Junior DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6239
-#EXTINF:-1,Nickelodeon HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6224
-#EXTINF:-1,Fix & Foxi DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/23771
-#EXTINF:-1,Kids Tom&Jerry DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679840
-#EXTINF:-1,KiKa DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679839
-#EXTINF:-1,------- Music -------
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/678925
-#EXTINF:-1,MTV FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/35466
-#EXTINF:-1,MTV +1 HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679793
-#EXTINF:-1,MTV Brand New DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/638079
-#EXTINF:-1,VH1 Classic DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/638080
-#EXTINF:-1,Sky Classica DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6191
-#EXTINF:-1,Classica HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13167
-#EXTINF:-1,Deep House Radio FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679832
-#EXTINF:-1,Urban Radio FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679833
-#EXTINF:-1,Classic Radio FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679834
-#EXTINF:-1,Trap Radio FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679835
-#EXTINF:-1,Rainy Jazz Radio HD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/679831
-#EXTINF:-1,Jukebox DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13148
-#EXTINF:-1,Deluxe Music DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/6255
-#EXTINF:-1,Kronehit FHD DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/14200
-#EXTINF:-1,Deutsches Musik Fernsehen DE
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/13165
-#EXTINF:-1,########## KURD ##########
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7738
-#EXTINF:-1,NRT HD KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7723
-#EXTINF:-1,Zagros TV KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7728
-#EXTINF:-1,Ronahi TV KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7725
-#EXTINF:-1,Med Music KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/7722
-#EXTINF:-1,BMC HD KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/12470
-#EXTINF:-1,Falcon HD KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/12463
-#EXTINF:-1,Cira KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20726
-#EXTINF:-1,Gali Kurdistan KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20719
-#EXTINF:-1,Kurdistan TV KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20718
-#EXTINF:-1,I Movies KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20716
-#EXTINF:-1,Ishtar TV KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20715
-#EXTINF:-1,K24 KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20712
-#EXTINF:-1,Kanal4 KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20710
-#EXTINF:-1,Korek TV KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20707
-#EXTINF:-1,Kurdistan24 KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20705
-#EXTINF:-1,Kurdmax Kurmanci KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20703
-#EXTINF:-1,Kurdsat KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20699
-#EXTINF:-1,Kurdsat News HD KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20698
-#EXTINF:-1,Med Muzik KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20697
-#EXTINF:-1,Medya Haber KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20696
-#EXTINF:-1,Mody Kids KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20695
-#EXTINF:-1,NRT1 HD KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20694
-#EXTINF:-1,NRT 2 KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20693
-#EXTINF:-1,NRT 2 HD KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20692
-#EXTINF:-1,Payam TV KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20686
-#EXTINF:-1,Rojava KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20684
-#EXTINF:-1,Ronahi HD KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20683
-#EXTINF:-1,Rudaw HD KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20682
-#EXTINF:-1,Rudaw KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20681
-#EXTINF:-1,Sahar Kurdish KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20680
-#EXTINF:-1,Sterk KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20678
-#EXTINF:-1,Vin HD KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20676
-#EXTINF:-1,Waar TV KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/20675
-#EXTINF:-1,Suroyo TV KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/626436
-#EXTINF:-1,Suryoyo Sat KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/627070
-#EXTINF:-1,Cihan TV HD KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/672044
-#EXTINF:-1,TRT Kurd KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/672045
-#EXTINF:-1,Afarin TV KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/672046
-#EXTINF:-1,Tishk TV KRD
-http://mytv.fun:8080/7jtrvzoaz/vd8r4e2sjs/672670
-#EXTINF:-1,########## Netherlands ##########
+#EXTM3U
+#EXTINF:-1,TestLINE für kurze Zeit /Für Stabiles IPTV Kontakt auf Telegram @Woppegong
+#EXTINF:-1 tvg-id="" tvg-name="- - - - - DEUTSCHLAND ALLGEMEIN - - - - -" tvg-logo="" group-title="GERMANY",- - - - - DEUTSCHLAND ALLGEMEIN - - - - -
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/16
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF NEO" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/zdfneo.png" group-title="GERMANY",DE: ZDF NEO
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15721
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF INFO" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/zdfinfo.png" group-title="GERMANY",DE: ZDF INFO
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15720
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/zdfhd.png" group-title="GERMANY",DE: ZDF HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15719
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/zdf.png" group-title="GERMANY",DE: ZDF
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15718
+#EXTINF:-1 tvg-id="de.Welt der Wunder" tvg-name="DE: WELT" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/welt.png" group-title="GERMANY",DE: WELT
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15717
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/voxhd.png" group-title="GERMANY",DE: VOX HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15716
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/vox.png" group-title="GERMANY",DE: VOX
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15715
+#EXTINF:-1 tvg-id="" tvg-name="DE: SIXX" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/sixxhd.png" group-title="GERMANY",DE: SIXX
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15638
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/sat1hd.png" group-title="GERMANY",DE: SAT 1
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15632
+#EXTINF:-1 tvg-id="" tvg-name="DE: NITRO" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/nitro.png" group-title="GERMANY",DE: NITRO
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15616
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL EINS" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/kabeleins.png" group-title="GERMANY",DE: KABEL EINS
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15600
+#EXTINF:-1 tvg-id="de.Das Erste" tvg-name="DE: DAS ERSTE" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/daserste.png" group-title="GERMANY",DE: DAS ERSTE
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15568
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARTE" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/arte.png" group-title="GERMANY",DE: ARTE
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15561
+#EXTINF:-1 tvg-id="" tvg-name="DE: 3SAT HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/3sathd.png" group-title="GERMANY",DE: 3SAT HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15556
+#EXTINF:-1 tvg-id="" tvg-name="DE: 3SAT" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/3sat.png" group-title="GERMANY",DE: 3SAT
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15555
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZEE ONE HD" tvg-logo="" group-title="GERMANY",DE: ZEE ONE HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/17138
+#EXTINF:-1 tvg-id="" tvg-name="- - - - - ANDERE KANALE - - - - -" tvg-logo="" group-title="GERMANY",- - - - - ANDERE KANALE - - - - -
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/12953
+#EXTINF:-1 tvg-id="de.TOGGO plus" tvg-name="DE: TOGGO PLUS HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/toggoplus.png" group-title="GERMANY",DE: TOGGO PLUS HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15713
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPIEGEL GESCHICHTE HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/spiegelgeschichte.png" group-title="GERMANY",DE: SPIEGEL GESCHICHTE HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15697
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPIEGEL GESCHICHTE" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/spiegelgeschichte.png" group-title="GERMANY",DE: SPIEGEL GESCHICHTE
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15696
+#EXTINF:-1 tvg-id="" tvg-name="DE: ROMANCE TV" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/romancetv.png" group-title="GERMANY",DE: ROMANCE TV
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15625
+#EXTINF:-1 tvg-id="" tvg-name="DE: PROSIEBEN HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/prosiebenhd.png" group-title="GERMANY",DE: PROSIEBEN HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15624
+#EXTINF:-1 tvg-id="" tvg-name="DE: KIKA" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/kika.png" group-title="GERMANY",DE: KIKA
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15601
+#EXTINF:-1 tvg-id="de.CLASSICA" tvg-name="DE: CLASSICA HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/classicahd-phibruspel.png" group-title="GERMANY",DE: CLASSICA HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15566
+#EXTINF:-1 tvg-id="" tvg-name="- - - - - RTL KANALE - - - - -" tvg-logo="" group-title="GERMANY",- - - - - RTL KANALE - - - - -
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/12950
+#EXTINF:-1 tvg-id="" tvg-name="DE: SUPER RTL HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/superrtlhd.png" group-title="GERMANY",DE: SUPER RTL HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15700
+#EXTINF:-1 tvg-id="de.Super RTL" tvg-name="DE: Super RTL" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/superrtl.png" group-title="GERMANY",DE: Super RTL
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15699
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL PASSION HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/rtlpassionhd.png" group-title="GERMANY",DE: RTL PASSION HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15630
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/rtl.png" group-title="GERMANY",DE: RTL HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15629
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/rtl2hd.png" group-title="GERMANY",DE: RTL 2 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15628
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/rtl2hd.png" group-title="GERMANY",DE: RTL 2
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15627
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/rtlhd.png" group-title="GERMANY",DE: RTL
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15626
+#EXTINF:-1 tvg-id="" tvg-name="- - - - - DEUTSCHLAND SPORT - - - - -" tvg-logo="" group-title="GERMANY",- - - - - DEUTSCHLAND SPORT - - - - -
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/18
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 HD" tvg-logo="" group-title="GERMANY",DE: DAZN 1 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/16243
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1" tvg-logo="" group-title="GERMANY",DE: DAZN 1
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/16237
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 HD" tvg-logo="" group-title="GERMANY",DE: DAZN 2 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/16244
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2" tvg-logo="" group-title="GERMANY",DE: DAZN 2
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/16238
+#EXTINF:-1 tvg-id="" tvg-name="DE: MOTORVISION TV HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/motorvisiontvhd.png" group-title="GERMANY",DE: MOTORVISION TV HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15606
+#EXTINF:-1 tvg-id="de.Motorvision TV" tvg-name="DE: MOTORVISION HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/motorvisiontvhd.png" group-title="GERMANY",DE: MOTORVISION HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15605
+#EXTINF:-1 tvg-id="" tvg-name="DE: MOTORVISION" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/motorvision.png" group-title="GERMANY",DE: MOTORVISION
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15604
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 XTRA" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/eurosporthd.png" group-title="GERMANY",DE: EUROSPORT 2 XTRA
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15592
+#EXTINF:-1 tvg-id="de.Eurosport 1" tvg-name="DE: EUROSPORT 1 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/eurosport1.png" group-title="GERMANY",DE: EUROSPORT 1 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15589
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 1" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/eurosport.png" group-title="GERMANY",DE: EUROSPORT 1
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15588
+#EXTINF:-1 tvg-id="" tvg-name="- - - - - DEUTSCHLAND KINDER - - - - -" tvg-logo="" group-title="GERMANY",- - - - - DEUTSCHLAND KINDER - - - - -
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/17
+#EXTINF:-1 tvg-id="de.Nickelodeon" tvg-name="DE: NICKELODEON HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/nickelodeonhd.png" group-title="GERMANY",DE: NICKELODEON HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15615
+#EXTINF:-1 tvg-id="" tvg-name="DE: NICKELODEON" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/nickelodeon.png" group-title="GERMANY",DE: NICKELODEON
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15614
+#EXTINF:-1 tvg-id="" tvg-name="DE: KINOWELT TV HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/kinowelttvhd.png" group-title="GERMANY",DE: KINOWELT TV HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15603
+#EXTINF:-1 tvg-id="de.Kinowelt TV" tvg-name="DE: KINOWELT TV" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/kinowelttv.png" group-title="GERMANY",DE: KINOWELT TV
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15602
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY JUNIOR HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/disneyjuniorhd.png" group-title="GERMANY",DE: DISNEY JUNIOR HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15583
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY JR" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/disneyjr.png" group-title="GERMANY",DE: DISNEY JR
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15582
+#EXTINF:-1 tvg-id="de.Disney XD" tvg-name="DE: DISNEY XD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/disneyxd.png" group-title="GERMANY",DE: DISNEY XD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15584
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY CINEMAGIC" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/disneycinemagic.png" group-title="GERMANY",DE: DISNEY CINEMAGIC
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15581
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY CHANNEL" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/disneychannel.png" group-title="GERMANY",DE: DISNEY CHANNEL
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15580
+#EXTINF:-1 tvg-id="" tvg-name="DE: CARTOON NETWORK HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/cartoonnetworkhd.png" group-title="GERMANY",DE: CARTOON NETWORK HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15567
+#EXTINF:-1 tvg-id="" tvg-name="DE: CARTOON NETWORK" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/cartoonnetwork.png" group-title="GERMANY",DE: CARTOON NETWORK
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15564
+#EXTINF:-1 tvg-id="" tvg-name="DE: JUKEBOX" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/jukebox.png" group-title="GERMANY",DE: JUKEBOX
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15599
+#EXTINF:-1 tvg-id="" tvg-name="- - - - - DEUTSCHLAND DOCU - - - - -" tvg-logo="" group-title="GERMANY",- - - - - DEUTSCHLAND DOCU - - - - -
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/19
+#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/natgeowildhd.png" group-title="GERMANY",DE: NAT GEO WILD HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15612
+#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO WILD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/natgeowildhdspain.png" group-title="GERMANY",DE: NAT GEO WILD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15611
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/discoveryhd.png" group-title="GERMANY",DE: DISCOVERY HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15579
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/discovery.png" group-title="GERMANY",DE: DISCOVERY
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15578
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/dmaxhd.png" group-title="GERMANY",DE: DMAX HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15586
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/dmax.png" group-title="GERMANY",DE: DMAX
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15585
+#EXTINF:-1 tvg-id="" tvg-name="DE: HISTORY HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/historyhd.png" group-title="GERMANY",DE: HISTORY HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15598
+#EXTINF:-1 tvg-id="" tvg-name="DE: HISTORY" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/history.png" group-title="GERMANY",DE: HISTORY
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15597
+#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/syfyhd.png" group-title="GERMANY",DE: SYFY HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15703
+#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/syfy.png" group-title="GERMANY",DE: SYFY
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15702
+#EXTINF:-1 tvg-id="" tvg-name="DE: 13TH STREET HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/13thstreethd.png" group-title="GERMANY",DE: 13TH STREET HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15553
+#EXTINF:-1 tvg-id="" tvg-name="DE: 13TH STREET" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/13thstreet.png" group-title="GERMANY",DE: 13TH STREET
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15554
+#EXTINF:-1 tvg-id="" tvg-name="DE: HEIMATKANAL HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/heimatkanal.png" group-title="GERMANY",DE: HEIMATKANAL HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15596
+#EXTINF:-1 tvg-id="be.Ã©Ã©n HD" tvg-name="DE: HEIMAT" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/heimatkanal.png" group-title="GERMANY",DE: HEIMAT
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15595
+#EXTINF:-1 tvg-id="" tvg-name="DE: BOOMERANG HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/boomerang.png" group-title="GERMANY",DE: BOOMERANG HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15563
+#EXTINF:-1 tvg-id="" tvg-name="DE: BOOMERANG" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/boomerang.png" group-title="GERMANY",DE: BOOMERANG
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15562
+#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/natgeowildhdspain.png" group-title="GERMANY",DE: NAT GEO
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15610
+#EXTINF:-1 tvg-id="" tvg-name="DE: UNIVERSAL" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/universal.png" group-title="GERMANY",DE: UNIVERSAL
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15714
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/tlc.png" group-title="GERMANY",DE: TLC
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15706
+#EXTINF:-1 tvg-id="" tvg-name="- - - - BUNDESLIGA KANALE - - - -" tvg-logo="" group-title="GERMANY",- - - - BUNDESLIGA KANALE - - - -
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/12952
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportbundesliga1hd.png" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 1 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15681
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportbundesliga1.png" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 1 FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15680
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 FHD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportbundesliga2hd.png" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 2 FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15684
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportbundesliga2.png" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 2 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15683
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 FHD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportbundesliga3.png" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 3 FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15685
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportbundesliga4.png" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 3 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15686
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportbundesliga5hd.png" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 4 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15688
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 FHD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportbundesliga5.png" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 4 FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15687
+#EXTINF:-1 tvg-id="de.Sky Bundesliga 6" tvg-name="DE: SKY SPORT BUNDESLIGA 5 FHD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportbundesliga6.png" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 5 FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15689
+#EXTINF:-1 tvg-id="de.Sky Bundesliga 7" tvg-name="DE: SKY SPORT BUNDESLIGA 5 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportbundesliga7.png" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 5 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15690
+#EXTINF:-1 tvg-id="" tvg-name="- - - - - DEUTSCHLAND CINEMA - - - - -" tvg-logo="" group-title="GERMANY",- - - - - DEUTSCHLAND CINEMA - - - - -
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/2817
+#EXTINF:-1 tvg-id="de.Sky Cinema Nostalgie" tvg-name="DE: SKY CINEMA NOSTALGIE HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skycinemanostalgie.png" group-title="GERMANY",DE: SKY CINEMA NOSTALGIE HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15654
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA NOSTALGIE" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skycinemanostalgie.png" group-title="GERMANY",DE: SKY CINEMA NOSTALGIE
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15653
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skycinemafamily.png" group-title="GERMANY",DE: SKY CINEMA FAMILY HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15651
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skycinemafamily.png" group-title="GERMANY",DE: SKY CINEMA FAMILY
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15650
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA EMOTION" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skycinemaemotion.png" group-title="GERMANY",DE: SKY CINEMA EMOTION
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15648
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA COMEDY HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skycinemacomedyhd.png" group-title="GERMANY",DE: SKY CINEMA COMEDY HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15647
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA ACTION HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skycinemaactionhd.png" group-title="GERMANY",DE: SKY CINEMA ACTION HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15646
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA ACTION" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skycinemaaction.png" group-title="GERMANY",DE: SKY CINEMA ACTION
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15645
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY ATLANTIC HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skyatlantichd.png" group-title="GERMANY",DE: SKY ATLANTIC HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15640
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY ATLANTIC" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skyatlantic.png" group-title="GERMANY",DE: SKY ATLANTIC
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15639
+#EXTINF:-1 tvg-id="de.Sky Krimi" tvg-name="DE: SKY KRIMI HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skykrimi-wispelutri.png" group-title="GERMANY",DE: SKY KRIMI HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15656
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY KRIMI" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skykrimi.png" group-title="GERMANY",DE: SKY KRIMI
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15655
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA HITS" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skycinemahits.png" group-title="GERMANY",DE: SKY CINEMA HITS
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15652
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA 1" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skycinemahd.png" group-title="GERMANY",DE: SKY CINEMA 1
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15644
+#EXTINF:-1 tvg-id="de.Sky Cinema" tvg-name="DE: SKY CINEMA" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skycinema.png" group-title="GERMANY",DE: SKY CINEMA
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15641
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT SERIE HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/tntseriehd.png" group-title="GERMANY",DE: TNT SERIE HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15712
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT SERIE" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/tntserie.png" group-title="GERMANY",DE: TNT SERIE
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15711
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT FILM HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/tntfilmhd.png" group-title="GERMANY",DE: TNT FILM HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15710
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT FILM" tvg-logo="" group-title="GERMANY",DE: TNT FILM
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15709
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO 7 MAXX HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/prosiebenmaxxhd.png" group-title="GERMANY",DE: PRO 7 MAXX HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15623
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO 7 MAXX" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/prosiebenmaxx.png" group-title="GERMANY",DE: PRO 7 MAXX
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15622
+#EXTINF:-1 tvg-id="de.ProSieben" tvg-name="DE: PRO 7" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/prosieben.png" group-title="GERMANY",DE: PRO 7
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15621
+#EXTINF:-1 tvg-id="" tvg-name="- - - - - SKY SPORT KANALE - - - - -" tvg-logo="" group-title="GERMANY",- - - - - SKY SPORT KANALE - - - - -
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/12954
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysport1.png" group-title="GERMANY",DE: SKY SPORT 1 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15667
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysport1.png" group-title="GERMANY",DE: SKY SPORT 1
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15666
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysport2.png" group-title="GERMANY",DE: SKY SPORT 2 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15671
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysport2.png" group-title="GERMANY",DE: SKY SPORT 2
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15670
+#EXTINF:-1 tvg-id="de.Sky Sport 3" tvg-name="DE: SKY SPORT 3 (matchtime)" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysport3.png" group-title="GERMANY",DE: SKY SPORT 3 (matchtime)
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15672
+#EXTINF:-1 tvg-id="de.Sky Sport 4" tvg-name="DE: SKY SPORT 4 (matchtime)" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysport4.png" group-title="GERMANY",DE: SKY SPORT 4 (matchtime)
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15673
+#EXTINF:-1 tvg-id="de.Sky Sport 5 HD" tvg-name="DE: SKY SPORT 5 (matchtime)" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysport5.png" group-title="GERMANY",DE: SKY SPORT 5 (matchtime)
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15674
+#EXTINF:-1 tvg-id="de.Sky Sport 6" tvg-name="DE: SKY SPORT 6 (matchtime)" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysport6.png" group-title="GERMANY",DE: SKY SPORT 6 (matchtime)
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15675
+#EXTINF:-1 tvg-id="de.Sky Sport 7" tvg-name="DE: SKY SPORT 7 (Matchtime)" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysport7.png" group-title="GERMANY",DE: SKY SPORT 7 (Matchtime)
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15676
+#EXTINF:-1 tvg-id="de.Sky Sport 8" tvg-name="DE: SKY SPORT 8 (matchtime)" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysport8.png" group-title="GERMANY",DE: SKY SPORT 8 (matchtime)
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15677
+#EXTINF:-1 tvg-id="de.Sky Sport 9" tvg-name="DE: SKY SPORT 9 (matchtime)" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysport9.png" group-title="GERMANY",DE: SKY SPORT 9 (matchtime)
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15678
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportnewshd.png" group-title="GERMANY",DE: SKY SPORT NEWS HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15694
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportnews.png" group-title="GERMANY",DE: SKY SPORT NEWS
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15693
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skysportaustria.png" group-title="GERMANY",DE: SKY SPORT AUSTRIA
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15679
+#EXTINF:-1 tvg-id="" tvg-name="- - - - - SKY SELECT - - - - -" tvg-logo="" group-title="GERMANY",- - - - - SKY SELECT - - - - -
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/12956
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 1 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skyselecthd-wispelutri.png" group-title="GERMANY",DE: SKY SELECT 1 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15657
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 2 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skyselecthd-wispelutri.png" group-title="GERMANY",DE: SKY SELECT 2 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15658
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 3 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skyselecthd-wispelutri.png" group-title="GERMANY",DE: SKY SELECT 3 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15659
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 4 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skyselecthd-wispelutri.png" group-title="GERMANY",DE: SKY SELECT 4 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15660
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 5 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skyselecthd-wispelutri.png" group-title="GERMANY",DE: SKY SELECT 5 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15661
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 6 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skyselecthd-wispelutri.png" group-title="GERMANY",DE: SKY SELECT 6 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15662
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 7 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skyselecthd-wispelutri.png" group-title="GERMANY",DE: SKY SELECT 7 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15663
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 8 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skyselecthd-wispelutri.png" group-title="GERMANY",DE: SKY SELECT 8 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15664
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 9 HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/skyselecthd-wispelutri.png" group-title="GERMANY",DE: SKY SELECT 9 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15665
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC HD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/nationalgeographichd.png" group-title="GERMANY",DE: NATIONAL GEOGRAPHIC HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15613
+#EXTINF:-1 tvg-id="de.Sat.1 Gold" tvg-name="DE: SAT 1 GOLD" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/sat1gold.png" group-title="GERMANY",DE: SAT 1 GOLD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15633
+#EXTINF:-1 tvg-id="" tvg-name="DE: CLASSICA" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/classica.png" group-title="GERMANY",DE: CLASSICA
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15565
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE HEVC" tvg-logo="http://tv.trexiptv.com:8000/picons/logos/daserstehd.png" group-title="GERMANY",DE: DAS ERSTE HEVC
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/15569
+#EXTINF:-1 tvg-id="" tvg-name="DE: E! HD" tvg-logo="" group-title="GERMANY",DE: E! HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/17139
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 FHD" tvg-logo="" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 6 FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/42468
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 HD" tvg-logo="" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 6 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/42469
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7 FHD" tvg-logo="" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 7 FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/42470
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7 HD" tvg-logo="" group-title="GERMANY",DE: SKY SPORT BUNDESLIGA 7 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/42471
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL LIVING HD" tvg-logo="" group-title="GERMANY",DE: RTL LIVING HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/43513
