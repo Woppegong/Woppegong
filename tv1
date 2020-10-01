@@ -1,101 +1,237 @@
 #EXTM3U
 #EXTINF:-1,TestLINE für kurze Zeit /Für Stabiles IPTV Kontakt auf Telegram @Woppegong
-#EXTINF:-1,RTL
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/87799c9ca735801.ts|User-Agent=1m3u8
-#EXTINF:-1,RTL 2
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/20a82bfef5750c5.ts|User-Agent=1m3u8
-#EXTINF:-1,SUPER RTL
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/e2954b4033db7e4.ts|User-Agent=1m3u8
-#EXTINF:-1,RTL NITRO
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/132d5ef9290bd59.ts|User-Agent=1m3u8
-#EXTINF:-1,RTL PASSION
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/36494fcb4e9f573.ts|User-Agent=1m3u8
-#EXTINF:-1,RTL CRIME
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/86d3bf2bf88835d.ts|User-Agent=1m3u8
-#EXTINF:-1,AXN DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/02a23bd095136fd.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY CINEMA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/815796dc0e5a351.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY CINEMA 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/8efdf47e5225228.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY CINEMA 24
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/e41876c5d975134.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY ACTION
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/14a65ee5b9b141d.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY ATLATNIC
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/b5c2f714b497675.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY COMEDY
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/983ff95f5a580b7.ts|User-Agent=1m3u8
-#EXTINF:-1,KIKA TV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/980919b66bd990a.ts|User-Agent=1m3u8
-#EXTINF:-1,PRO 7
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/47ae0f1877d1d84.ts|User-Agent=1m3u8
-#EXTINF:-1,VOX DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/f16fec33123360b.ts|User-Agent=1m3u8
-#EXTINF:-1,ZDF TV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/29bc6a7004141fb.ts|User-Agent=1m3u8
-#EXTINF:-1,SAT 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/22ec0bec7291b1d.ts|User-Agent=1m3u8
-#EXTINF:-1,ARD 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/41c3f218d69796a.ts|User-Agent=1m3u8
-#EXTINF:-1,NTV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/f2672f38fd545ed.ts|User-Agent=1m3u8
-#EXTINF:-1,N24
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/f67eba63fd742b4.ts|User-Agent=1m3u8
-#EXTINF:-1,DISCOVERY DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/72ac5987f239dad.ts|User-Agent=1m3u8
-#EXTINF:-1,HISTORY DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/b3f982548c1dcad.ts|User-Agent=1m3u8
-#EXTINF:-1,NAT GEO WILD DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/d3b3e72eebe0c36.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY HITS
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/3802056df107566.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SELECT 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/d0a463742363f83.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SELECT 2
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6a7c4bf87e9b11b.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SELECT 3
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/0f1d115ddbd250c.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SELECT 4
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/c1cdc20a09af008.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SELECT 5
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/1749c5af39bf6dd.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS 1 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/40b2b2ca12f1bc1.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS 2 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/faf2fa74957654e.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS 3 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/8c4badcc7546b41.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS 4 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/7fdd48847a74a2e.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS 5 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6f152cde8c0d97b.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS 6 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/9649463383bf51c.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS AUSTRIA DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/ef2fd3293ab8f1e.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS BUNDESLIGA 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/c4f680a4fc729bc.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS BUNDESLIGA 2
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/fff6f99081fcbf9.ts|User-Agent=1m3u8
-#EXTINF:-1,DISNEY CHANNEL DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/47fa045425655cb.ts|User-Agent=1m3u8
-#EXTINF:-1,DISNEY XD DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/626f96bf89b5c61.ts|User-Agent=1m3u8
-#EXTINF:-1,TNT FILM
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/41523a487701aa2.ts|User-Agent=1m3u8
-#EXTINF:-1,TNT SERIES
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/a2316c6b50da93a.ts|User-Agent=1m3u8
-#EXTINF:-1,PRO7 MAXX
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6e24a8810e66728.ts|User-Agent=1m3u8
-#EXTINF:-1,ANIMAL PLANET DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/9da77393d8b5a15.ts|User-Agent=1m3u8
-#EXTINF:-1,NAT GEO DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6352bc270315ac0.ts|User-Agent=1m3u8
-#EXTINF:-1,NAT GEO PEOPLE DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6339fc17ca319ba.ts|User-Agent=1m3u8
-#EXTINF:-1,ZEE ONE 
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/ef48da6e623face.ts|User-Agent=1m3u8
+#EXTM3U
+#EXTINF:0,DE: 13th Street
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/549
+#EXTINF:0,DE: 3sat
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/550
+#EXTINF:0,DE: A and E
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/551
+#EXTINF:0,DE: Anixe Deutschland
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/552
+#EXTINF:0,DE: Anixe HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/553
+#EXTINF:0,DE: ARTE
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/554
+#EXTINF:0,DE: AXN
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/555
+#EXTINF:0,DE: Boomerang
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/556
+#EXTINF:0,DE: BR
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/557
+#EXTINF:0,DE: DAZN Bar 1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/558
+#EXTINF:0,DE: DAZN Bar 2 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/559
+#EXTINF:0,DE: Deluxe Music HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/560
+#EXTINF:0,DE: Discovery HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/561
+#EXTINF:0,DE: Disney Channel
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/562
+#EXTINF:0,DE: Disney Cinemagic
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/563
+#EXTINF:0,DE: Dmax HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/564
+#EXTINF:0,DE: DW
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/565
+#EXTINF:0,DE: Eurosport
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/566
+#EXTINF:0,DE: Eurosport 2 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/567
+#EXTINF:0,DE: FOX HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/568
+#EXTINF:0,DE: Franken
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/569
+#EXTINF:0,DE: Heimat Kanal
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/570
+#EXTINF:0,DE: Heimatkanal
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/571
+#EXTINF:0,DE: KIKA HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/572
+#EXTINF:0,DE: Light Channel TV Deutschland
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/573
+#EXTINF:0,DE: MDR
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/574
+#EXTINF:0,DE: Munchen TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/575
+#EXTINF:0,DE: N24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/576
+#EXTINF:0,DE: NDR HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/577
+#EXTINF:0,DE: Nick HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/578
+#EXTINF:0,DE: NTV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/579
+#EXTINF:0,DE: ORF1
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/580
+#EXTINF:0,DE: ORF2 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/581
+#EXTINF:0,DE: Pro 7 Maxx HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/582
+#EXTINF:0,DE: Pro7
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/583
+#EXTINF:0,DE: Romance TV HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/584
+#EXTINF:0,DE: RTL
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/585
+#EXTINF:0,DE: RTL Passion HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/586
+#EXTINF:0,DE: RTL Super
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/587
+#EXTINF:0,DE: RTLNitro HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/588
+#EXTINF:0,DE: Sat1 Gold HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/589
+#EXTINF:0,DE: Sat1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/590
+#EXTINF:0,DE: Servus TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/591
+#EXTINF:0,DE: Sixx
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/592
+#EXTINF:0,DE: Sky Action
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/593
+#EXTINF:0,DE: Sky Atlantic
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/594
+#EXTINF:0,DE: Sky Cinema
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/595
+#EXTINF:0,DE: Sky Cinema  24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/596
+#EXTINF:0,DE: Sky Cinema +1
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/597
+#EXTINF:0,DE: SKY CINEMA 3D
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/598
+#EXTINF:0,DE: Sky Emotion
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/599
+#EXTINF:0,DE: Sky History
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/600
+#EXTINF:0,DE: Sky Hits
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/601
+#EXTINF:0,DE: Sky Krimi
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/602
+#EXTINF:0,DE: Sky Nat Geo wild
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/603
+#EXTINF:0,DE: Sky National Geographic
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/604
+#EXTINF:0,DE: Sky Nostalgie
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/605
+#EXTINF:0,DE: Sky Select 1
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/606
+#EXTINF:0,DE: Sky Select 2
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/607
+#EXTINF:0,DE: Sky Select 3
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/608
+#EXTINF:0,DE: Sky Select 4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/609
+#EXTINF:0,DE: Sky Select 5
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/610
+#EXTINF:0,DE: Sky Select 6
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/611
+#EXTINF:0,DE: Sky Select 7
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/612
+#EXTINF:0,DE: Sky Select 8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/613
+#EXTINF:0,DE: Sky Sport Austria
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/614
+#EXTINF:0,DE: Sky Sports 1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/615
+#EXTINF:0,DE: Sky Sports 2 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/616
+#EXTINF:0,DE: Sky Sports News
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/617
+#EXTINF:0,DE: Spiegel Geschichte HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/618
+#EXTINF:0,DE: Sport 1 + HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/619
+#EXTINF:0,DE: Sports1 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/620
+#EXTINF:0,DE: Sports1 US HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/621
+#EXTINF:0,DE: SWR HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/622
+#EXTINF:0,DE: SYFY hd
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/623
+#EXTINF:0,DE: Tagesschau 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/624
+#EXTINF:0,DE: TNT Serie
+#EXTVLCOPT:http-user-agent=ExoPlayer2/3.1.1 (Linux;Android 7.0) ExoPlayerLib/2.10.6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/ghjgvyufgjfgh/szsrtfwqwsert/625
 
 
 
