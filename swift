@@ -1,3 +1,4 @@
+#EXTM
 <item> <item> <title>WoppegongSwift [B][COLORgreen]Germany[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/telegram/de.png</thumbnail>	 <fanart>http://psyco.tv/telegram/de.png</fanart> <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/swiftde</externallink> <info></info> <item> 
 
 <item> <item> <title>WoppegongSwift [B][COLORgreen]Sports[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/telegram/sport.png</thumbnail>	 <fanart>http://psyco.tv/telegram/sport.png</fanart> <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/swiftsp</externallink> <info></info> <item> 
