@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Join+ Sender laufen!!! Fehlermeldung ignorieren
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/KUS-Buildportal/kustv/picons/de/primetime.png" group-title="Freie Sender",Joyn Primetime HD
 plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=LIVE&amp;season_id=&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22brand%22%3A+%22%22%2C+%22channelId%22%3A+%22joyn-primetime-de-hd%22%2C+%22videoId%22%3A+null%2C+%22startTime%22%3A+0%7D&amp;viewtype=&amp;compilation_id=&amp;fav_type=&amp;video_id=joyn-primetime-de-hd&amp;channel_id=&amp;mode=play_video
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das_Erste" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/KUS-Buildportal/kustv/picons/de/daserste_hd.png" group-title="Freie Sender",Das Erste HD
