@@ -1,98 +1,1667 @@
 #EXTM3U
 #EXTINF:-1,TestLINE /Für Stabiles IPTV Kontakt auf Telegram @Woppegong
-#EXTINF:-1,RTL
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/87799c9ca735801.ts|User-Agent=1m3u8
+#EXTM3U
+#EXTINF:-1,MBC 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4826
+#EXTINF:-1,MBC 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4825
+#EXTINF:-1,MBC 3
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4824
+#EXTINF:-1,MBC 4
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4823
+#EXTINF:-1,MBC IRAQ HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/20880
+#EXTINF:-1,MBC IRAQ SD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/21603
+#EXTINF:-1,MBC ACTION
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4822
+#EXTINF:-1,MBC MAX
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4818
+#EXTINF:-1,MBC  DRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4820
+#EXTINF:-1,MBC MASR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4819
+#EXTINF:-1,MBC M 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4817
+#EXTINF:-1,MBC BOLLYWOOD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4821
+#EXTINF:-1,ART AFLAM 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1714
+#EXTINF:-1,ART AFLAM 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1713
+#EXTINF:-1,ART HIKAYAT 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1711
+#EXTINF:-1,ART HIKAYAT 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1710
+#EXTINF:-1,ART CINEMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1712
+#EXTINF:-1,CINEMA 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4471
+#EXTINF:-1,CINEMA 2 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/6964
+#EXTINF:-1,AL YAWM HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4470
+#EXTINF:-1,Osn YAHALA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4166
+#EXTINF:-1,Osn YAHALA OULA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/6965
+#EXTINF:-1,Osn YAHALA CINEMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4164
+#EXTINF:-1,beIN  MOVIES HD1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4169
+#EXTINF:-1,beIN  MOVIES HD2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4168
+#EXTINF:-1,beIN  MOVIES HD3
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4175
+#EXTINF:-1,beIN  MOVIES HD4
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4176
+#EXTINF:-1,Osn MOVIES HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4174
+#EXTINF:-1,Osn MOVIES FRIST
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4163
+#EXTINF:-1,Osn MOVIES ACTION HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4161
+#EXTINF:-1,Osn MOVIES FIRST+2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/23719
+#EXTINF:-1,Osn ENIGMA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/23720
+#EXTINF:-1,Osn MOVIES COMEDY
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4162
+#EXTINF:-1,Osn Discovery Sc hd
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/23721
+#EXTINF:-1,Osn MOVIES KIDS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4171
+#EXTINF:-1,Osn E! HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/23722
+#EXTINF:-1,Osn DISCOVERY
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4167
+#EXTINF:-1,STAR MOVIES.HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/20882
+#EXTINF:-1,FOX MOVIES HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/12824
+#EXTINF:-1,FOX ACTION MOVIES
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7399
+#EXTINF:-1,FOX FAMILY MOVIES
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7400
+#EXTINF:-1,FOX LIFE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10050
+#EXTINF:-1,FOX CRIME HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/12825
+#EXTINF:-1,FOX REWAYAT HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/12823
+#EXTINF:-1,FX-HD MOVIES
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7401
+#EXTINF:-1,STAR. WORLD HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10048
+#EXTINF:-1,DOCUBOX HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10049
+#EXTINF:-1,MY CINEMA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10051
+#EXTINF:-1,NAT GEO HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4177
+#EXTINF:-1,NAT GEO WILD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/12234
+#EXTINF:-1,ANIMAL PLANET -HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4405
+#EXTINF:-1,OSN Discovry ID
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/25900
+#EXTINF:-1,MYHD-FilmBox-Arthouse
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/25901
+#EXTINF:-1,Osn Living Hd
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/25905
+#EXTINF:-1,MYHD-Planet-Earth
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/25907
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆LEBANON☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7871
+#EXTINF:-1,AL JADEED
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/9059
+#EXTINF:-1,MTV HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10053
+#EXTINF:-1,OTV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4582
+#EXTINF:-1,NBN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4587
+#EXTINF:-1,FUTURE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1604
+#EXTINF:-1,LBC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4604
+#EXTINF:-1,LBC I HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/34588
+#EXTINF:-1,AL MANAR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4670
+#EXTINF:-1,LEBANON TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4602
+#EXTINF:-1,ONE TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4615
+#EXTINF:-1,HAWACOM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7874
+#EXTINF:-1,AGHANI AGHANI
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7875
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆SYRYA CH☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7872
+#EXTINF:-1,SYRYA CHANNEL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/6174
+#EXTINF:-1,SYRYA NEWS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4687
+#EXTINF:-1,NOUR AL SHAM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/6173
+#EXTINF:-1,LANA TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7428
+#EXTINF:-1,LANA TV PLUS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7424
+#EXTINF:-1,AL ALAM SYRIA TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7427
+#EXTINF:-1,SYRYA tv DRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/25915
+#EXTINF:-1,SYRYA tv
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7425
+#EXTINF:-1,SHAM FM SYRYA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7426
+#EXTINF:-1,SAMA TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4572
+#EXTINF:-1,SYRIA MEDICAL TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4562
+#EXTINF:-1,Halab Today
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1435
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆IRAQI CH☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7873
+#EXTINF:-1,AL SHARQIYA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4656
+#EXTINF:-1,AL SHARQIYA SD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/30844
+#EXTINF:-1,IRAQIA TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4609
+#EXTINF:-1,IRAQIA NEWS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/11533
+#EXTINF:-1,IRAQIA SPORT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/11532
+#EXTINF:-1,IRAQIA KURD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7384
+#EXTINF:-1,AL MAWSLEYA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7376
+#EXTINF:-1,AL RAFIDEN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4662
+#EXTINF:-1,AL RASHEED
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4661
+#EXTINF:-1,AL SUMARIA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4655
+#EXTINF:-1,SAMARRA  HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4571
+#EXTINF:-1,ALFORAT HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7380
+#EXTINF:-1,DIJLAH HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4632
+#EXTINF:-1,AFAK HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4699
+#EXTINF:-1,IMAM REDA TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/34625
+#EXTINF:-1,DIJLAH TARAB
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/34659
+#EXTINF:-1,AL AHED
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/34627
+#EXTINF:-1,Altaghier
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/34633
+#EXTINF:-1,IRAQ NOW
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/34639
+#EXTINF:-1,AL HADATH IRAQ
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4696
+#EXTINF:-1,AL ANBAR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4695
+#EXTINF:-1,OWS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/14912
+#EXTINF:-1,FALLOUJA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7008
+#EXTINF:-1,FUTURE IRAQ
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7375
+#EXTINF:-1,ANB
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7007
+#EXTINF:-1,AL GHADEER
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4684
+#EXTINF:-1,HONA  BAGHDAD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4640
+#EXTINF:-1,ISHTAR IRAQ
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7374
+#EXTINF:-1,NRT HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7378
+#EXTINF:-1,KARBALA TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4151
+#EXTINF:-1,AL ITEJAH TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4679
+#EXTINF:-1,NAEEM TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4667
+#EXTINF:-1,(▁ ▂ ▄ ▅ ▆☆YEMEN CH ☆▆ ▅ ▄ ▂ ▁)
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4150
+#EXTINF:-1,Yemen tv
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8578
+#EXTINF:-1,Yemen Today
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8574
+#EXTINF:-1,Yemen suhail
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8575
+#EXTINF:-1,Yemen Shabab
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8576
+#EXTINF:-1,Yemen Belqees
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8579
+#EXTINF:-1,Yemen ADEN TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8577
+#EXTINF:-1,Yemen AL SAEEDAH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/20883
+#EXTINF:-1,Yemen AL MASYRAH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/21187
+#EXTINF:-1,Yemen 
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/34720
+#EXTINF:-1,Yemen Al Ghad Al Mushreq
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/34719
+#EXTINF:-1,Yemen  AL SHAREYYAH CHANNEL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/34717
+#EXTINF:-1,Yemen  HADRAMAUT TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/34716
+#EXTINF:-1,Yemen  Education
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/34714
+#EXTINF:-1,LIBYAN TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10064
+#EXTINF:-1,LIBYA 218
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4601
+#EXTINF:-1,LIBYA 218 NEWS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10059
+#EXTINF:-1,LIBYA PANORAMA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7386
+#EXTINF:-1,LIBYA AL AHRAR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10060
+#EXTINF:-1,LIBYA AL HADATH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4599
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ARABIC CH☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/30365
+#EXTINF:-1,AL MASRIYA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4741
+#EXTINF:-1,MASER AL OULA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4669
+#EXTINF:-1,AL THANYA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4739
+#EXTINF:-1,ON E HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7212
+#EXTINF:-1,DMC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3853
+#EXTINF:-1,CBC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4738
+#EXTINF:-1,CBC EXTRA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4736
+#EXTINF:-1,DREAM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4630
+#EXTINF:-1,AL HAYAT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7216
+#EXTINF:-1,AL HAYAT2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7218
+#EXTINF:-1,AL HAYAT MOSALSALAT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7219
+#EXTINF:-1,AL NAHAR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10056
+#EXTINF:-1,AL KAHERA WALNAS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4676
+#EXTINF:-1,SADA ELBALAD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4573
+#EXTINF:-1,SADA ELBALAD 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8797
+#EXTINF:-1,MEHWER
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4593
+#EXTINF:-1,TEN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4708
+#EXTINF:-1,PANORAMA FILM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4725
+#EXTINF:-1,NILE TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4727
+#EXTINF:-1,NILE CINEMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4734
+#EXTINF:-1,NILE COMEDY
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4733
+#EXTINF:-1,NILE CULTURE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4732
+#EXTINF:-1,NILE LIFE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4730
+#EXTINF:-1,NILE SPORT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4728
+#EXTINF:-1,CIMA TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4713
+#EXTINF:-1,APPLE HEKAYAT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8800
+#EXTINF:-1,APPLE MOSALSALAT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8801
+#EXTINF:-1,APPLE AFLAM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8802
+#EXTINF:-1,APPLE AL YOUM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8804
+#EXTINF:-1,ON E
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4717
+#EXTINF:-1,AL SHARQ
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/32437
+#EXTINF:-1,WATAN TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/32438
+#EXTINF:-1,MEKAMELEEN TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/32435
+#EXTINF:-1,TOKTOK CIMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4558
+#EXTINF:-1,CIMA ALIBABA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4716
+#EXTINF:-1,7ABESHA CIMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8798
+#EXTINF:-1,STAR CINEMA 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4566
+#EXTINF:-1,STAR CINEMA2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4565
+#EXTINF:-1,GOLD CINEMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4707
+#EXTINF:-1,CINEMA 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4712
+#EXTINF:-1,CINEMA 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4711
+#EXTINF:-1,CINEMA PRO
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4710
+#EXTINF:-1,CINEMA TUBE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4709
+#EXTINF:-1,BELODY AFLAM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4638
+#EXTINF:-1,M CLASSIC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4592
+#EXTINF:-1,AL BAIT BAITAK CINEMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4689
+#EXTINF:-1,Maspero Zaman
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/19023
+#EXTINF:-1,ROTANA CINEMA EGY
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4581
+#EXTINF:-1,ROTANA CINEMA KSA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4580
+#EXTINF:-1,ROTANA CLASSIC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4579
+#EXTINF:-1,ROTANA CLIP
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4578
+#EXTINF:-1,ROTANA KHALIJIAH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4576
+#EXTINF:-1,ROTANA  MUSIC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4575
+#EXTINF:-1,ZEE AFLAM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4554
+#EXTINF:-1,ZEE ALWAN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4553
+#EXTINF:-1,B4U AFLAM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4641
+#EXTINF:-1,B4U PLUS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10042
+#EXTINF:-1,ROYA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/30194
+#EXTINF:-1,HAWAS HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/30212
+#EXTINF:-1,Jordan HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/24589
+#EXTINF:-1,Jordan Ro2ya
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/24586
+#EXTINF:-1,Jordan Sports
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/24585
+#EXTINF:-1,AMMAN TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/32126
+#EXTINF:-1,JORDAN TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10066
+#EXTINF:-1,DUBAI ONE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4628
+#EXTINF:-1,DUBAI ZAMAN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4629
+#EXTINF:-1,DUBAI RACING
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4627
+#EXTINF:-1,SAUDI 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4761
+#EXTINF:-1,SAUDI 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4764
+#EXTINF:-1,SAUDI 24
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8909
+#EXTINF:-1,SAUDI SBC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8908
+#EXTINF:-1,SAUDI AL HAJJ
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4762
+#EXTINF:-1,ABUDHABI TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4701
+#EXTINF:-1,QATAR TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7222
+#EXTINF:-1,QATAR RAYYAN 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8885
+#EXTINF:-1,QATAR AL RAYYAN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8884
+#EXTINF:-1,OMAN TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8910
+#EXTINF:-1,OMAN LIVE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8911
+#EXTINF:-1,OMAN CULTURE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8913
+#EXTINF:-1,OMAN GENERAL HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8912
+#EXTINF:-1,KUWAIT 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8942
+#EXTINF:-1,KUWAIT 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8946
+#EXTINF:-1,KUWAIT KARIN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8941
+#EXTINF:-1,KUWAIT ALMAJLIS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8945
+#EXTINF:-1,KUWAIT-Alrai
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8944
+#EXTINF:-1,KUWAIT Ethraa
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8940
+#EXTINF:-1,KUWAIT Plus
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8939
+#EXTINF:-1,KUWAIT Sport hd
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8938
+#EXTINF:-1,PALESTINE TODAY
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8918
+#EXTINF:-1,PALESTINE AL KOFIYA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4672
+#EXTINF:-1,PALESTINE LIVE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8915
+#EXTINF:-1,PALESTINE MAAN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8916
+#EXTINF:-1,SUDANATV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8886
+#EXTINF:-1,SUDAN SHOUROUK
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8903
+#EXTINF:-1,SUDAN-Dabanga
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8900
+#EXTINF:-1,SUDAN OM DORMAN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8889
+#EXTINF:-1,SUDANia 24 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8888
+#EXTINF:-1,AL EMARAT TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4686
+#EXTINF:-1,AD NAT GEO HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4700
+#EXTINF:-1,AL AAN TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4750
+#EXTINF:-1,MEDI 1 TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4811
+#EXTINF:-1,NESSMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4783
+#EXTINF:-1,2M MAROC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4806
+#EXTINF:-1,AL   HAYAT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4726
+#EXTINF:-1,AL JANOUBIA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4677
+#EXTINF:-1,AL JAZEERA  DOCUMENTARY
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4747
+#EXTINF:-1,AL MAGHRIBIA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4813
+#EXTINF:-1,AL OULA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4807
+#EXTINF:-1,ALGERIE 3
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4804
+#EXTINF:-1,ALGERIE 4
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4803
+#EXTINF:-1,ALGERIE 5
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4798
+#EXTINF:-1,ANN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4649
+#EXTINF:-1,AL RABIAA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4814
+#EXTINF:-1,AL RIADIAH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4808
+#EXTINF:-1,ASSADISSA TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4810
+#EXTINF:-1,CANAL ALGERIE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4637
+#EXTINF:-1,DZAIR TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4802
+#EXTINF:-1,DZAIR24
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4801
+#EXTINF:-1,ELBILAD TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4625
+#EXTINF:-1,ELHIWAR ETTOUNSI TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4624
+#EXTINF:-1,ENNAHAR TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4621
+#EXTINF:-1,ENNAHAR LAKI
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4622
+#EXTINF:-1,HANNIBAL TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4785
+#EXTINF:-1,AL QUDS TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4768
+#EXTINF:-1,TUNISIA NAT 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4782
+#EXTINF:-1,TUNISNA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4781
+#EXTINF:-1,ARRYADIA LIVE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4809
+#EXTINF:-1,AL BILAD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4797
+#EXTINF:-1,AL DJAZAIRIA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4796
+#EXTINF:-1,AL   JANOUBIA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4779
+#EXTINF:-1,ATTESSIA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4776
+#EXTINF:-1,BEUR TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4795
+#EXTINF:-1,CANAL    ALGERIE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4794
+#EXTINF:-1,DZAIR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4793
+#EXTINF:-1,EL CHOUROUK BENA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4790
+#EXTINF:-1,EL HADDAF
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4789
+#EXTINF:-1,ELHIWAR ETTOUNSI
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4775
+#EXTINF:-1,ENNAHAR TV ALGERIE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4788
+#EXTINF:-1,TAMAZIGHT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4812
+#EXTINF:-1,TUNISIE NAT 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4774
+#EXTINF:-1,ZAYTOUNA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4773
+#EXTINF:-1,AL INSENE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4780
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆KIDS CH☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3008
+#EXTINF:-1,GULLI ARABI
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10054
+#EXTINF:-1,BARAEM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2870
+#EXTINF:-1,BABY CHANNEL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/11548
+#EXTINF:-1,JEEM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1550
+#EXTINF:-1,CARTOONNETARABIC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4771
+#EXTINF:-1,BATTOUT TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5320
+#EXTINF:-1,ATFAL W MAWAHEB
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4767
+#EXTINF:-1,SPACE TOON
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1548
+#EXTINF:-1,TOYOR BABY
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4955
+#EXTINF:-1,HODHOD TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7389
+#EXTINF:-1,KARAMEESH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/11458
+#EXTINF:-1,Majed
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1545
+#EXTINF:-1,TAHA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4561
+#EXTINF:-1,DISNEY XD FR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1373
+#EXTINF:-1,DISNEY CINEMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1190
+#EXTINF:-1,DISNEY JUNIOR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1191
+#EXTINF:-1,TELETOON+  HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2013
+#EXTINF:-1,PIWI  HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5056
+#EXTINF:-1,TiJI
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2305
+#EXTINF:-1,Gulli
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1201
+#EXTINF:-1,Nicklodeon
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1206
+#EXTINF:-1,Nicklodeon Junior
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1207
+#EXTINF:-1,FIX-FOXI
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4721
+#EXTINF:-1,NICKELODEON EN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/31400
+#EXTINF:-1,DISNEY CH-ENG
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7998
+#EXTINF:-1,DISNEY XD-ENG
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7996
+#EXTINF:-1,DISNEY JUNIOR-ENG
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7999
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆NEWS CH☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4751
+#EXTINF:-1,AL ARABIYA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1103
+#EXTINF:-1,AL ARABIYA HADATH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1542
+#EXTINF:-1,I24 NEWS HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/34587
+#EXTINF:-1,AL JAZEERA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1544
+#EXTINF:-1,AL JAZEERA NEWS ENG
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1052
+#EXTINF:-1,AL JAZEERA  MUBASHER
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4745
+#EXTINF:-1,AL MAYADEEN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4778
+#EXTINF:-1,AL ALAM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/6996
+#EXTINF:-1,AL HURRA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2249
+#EXTINF:-1,AL HURRA IRAQ
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2247
+#EXTINF:-1,AL Sharqiya News HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7379
+#EXTINF:-1,AL MUSTAKILAH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4777
+#EXTINF:-1,NILE NEWS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1426
+#EXTINF:-1,Orient
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1498
+#EXTINF:-1,AL ARABY TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4691
+#EXTINF:-1,AL HIWAR NEWS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1494
+#EXTINF:-1,CNN TURK HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1659
+#EXTINF:-1,CNN USA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2256
+#EXTINF:-1,FRANCE 24
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4743
+#EXTINF:-1,FRANCE 24 ARABIC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2248
+#EXTINF:-1,SAUDI ALEKHBARIA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2262
+#EXTINF:-1,TRT ARABIA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2259
+#EXTINF:-1,AL CHOROUK NEWS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2255
+#EXTINF:-1,AL IRAQIA NEWS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2253
+#EXTINF:-1,AL MAGARIBIA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2254
+#EXTINF:-1,BBC ARABIC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2251
+#EXTINF:-1,RUSIA TUDAY
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2261
+#EXTINF:-1,BBC WORLD NEWS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2263
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆MAROC CH☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3012
+#EXTINF:-1,AL OULAH HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2551
+#EXTINF:-1,AL RABIAAH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2555
+#EXTINF:-1,AL RIYADIYAH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2554
+#EXTINF:-1,ASSABIA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/25891
+#EXTINF:-1,AL SADISAH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2553
+#EXTINF:-1,TELE MAROC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2564
+#EXTINF:-1,2 M MAROC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2557
+#EXTINF:-1,Al Maghribia HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2556
+#EXTINF:-1,MEDI 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2552
+#EXTINF:-1,TAMAZIGH MAROC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2534
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ALGERY CH☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3010
+#EXTINF:-1,Al Jazairya TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2533
+#EXTINF:-1,ALGERIE  3
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2549
+#EXTINF:-1,Annahar TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2531
+#EXTINF:-1,Bahia Tv
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2530
+#EXTINF:-1,Berbere TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2545
+#EXTINF:-1,Beur  TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2544
+#EXTINF:-1,Canal  Algerie
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2550
+#EXTINF:-1,Chourouk TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2541
+#EXTINF:-1,Chourouk Benna
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2543
+#EXTINF:-1,Chourouk News
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2542
+#EXTINF:-1,Dzaier TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2547
+#EXTINF:-1,DZAIR NEWS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4792
+#EXTINF:-1,ECHOROUK TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4800
+#EXTINF:-1,El Bilad  TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2539
+#EXTINF:-1,Haddef Algerie
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2538
+#EXTINF:-1,Samira  TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2536
+#EXTINF:-1,Tamazight Alger
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2535
+#EXTINF:-1,ATTESSIA  TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2524
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆TUNSI CH☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4786
+#EXTINF:-1,TOUNESNA TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2525
+#EXTINF:-1,M TUNISIA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4784
+#EXTINF:-1,National 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2529
+#EXTINF:-1,National 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2528
+#EXTINF:-1,STV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4642
+#EXTINF:-1,CARTHAGE+ TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10058
+#EXTINF:-1,Elhiwar  Ettounsi
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2520
+#EXTINF:-1,Hannibal  TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2527
+#EXTINF:-1,Al Janoubia TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2522
+#EXTINF:-1,Nessma TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2526
+#EXTINF:-1,Telvza TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2521
+#EXTINF:-1,Zaytouna TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2523
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆DRAMA☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2991
+#EXTINF:-1,beIN DRAMA 1HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10162
+#EXTINF:-1,ROTANA DRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/6822
+#EXTINF:-1,DMC DRAMA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3920
+#EXTINF:-1,PANORAMA DRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4724
+#EXTINF:-1,PANORAMA DRAMA 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4723
+#EXTINF:-1,CBC DRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4737
+#EXTINF:-1,APPLE DRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8803
+#EXTINF:-1,CAIRO DRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7397
+#EXTINF:-1,ON Drama HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7214
+#EXTINF:-1,NILE DRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4731
+#EXTINF:-1,SYRIA DRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4563
+#EXTINF:-1,AL NAHAR DRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4665
+#EXTINF:-1,SADA EL BALADDRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4574
+#EXTINF:-1,ABU DHABI DRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4702
+#EXTINF:-1,(▁ ▂ ▄ ▅ ▆☆MUSIC ☆▆ ▅ ▄ ▂ ▁)
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8595
+#EXTINF:-1,Music Alhanen
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10266
+#EXTINF:-1,REMAC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/25913
+#EXTINF:-1,MUSIC NOW
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/25914
+#EXTINF:-1,WANASAH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4556
+#EXTINF:-1,Music-Aghani
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8593
+#EXTINF:-1,EAMAR MUSIC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8592
+#EXTINF:-1,ARABICA MUSIC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8591
+#EXTINF:-1,Music-Hawacom
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8590
+#EXTINF:-1,Music Mazzika
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8588
+#EXTINF:-1,Music-Mazzikan heats
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8587
+#EXTINF:-1,SHA3BIYAT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8586
+#EXTINF:-1,AFRAH MUSIC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8583
+#EXTINF:-1,Music-Rotana-Clip
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8581
+#EXTINF:-1,MUSIC ROTANA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/25924
+#EXTINF:-1,Music-Zweina-Baladna
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/8594
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ISLAM CH☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7410
+#EXTINF:-1,AL MAJD 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/11549
+#EXTINF:-1,AL MAJD 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/11550
+#EXTINF:-1,AL MAJD 3
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/11551
+#EXTINF:-1,AL MAJD 4
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/11552
+#EXTINF:-1,QURAN TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/11553
+#EXTINF:-1,AL RAHMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4755
+#EXTINF:-1,AL RESALAH
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7412
+#EXTINF:-1,MECCA TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4754
+#EXTINF:-1,IQRAA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4753
+#EXTINF:-1,AL IMAN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4757
+#EXTINF:-1,AYAT TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/33372
+#EXTINF:-1,AL NAS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4759
+#EXTINF:-1,ASSUNA NABAWIA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/7413
+#EXTINF:-1,KARBALA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4681
+#EXTINF:-1,Saudi  Quran HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4763
+#EXTINF:-1,AL ERTH NABAWI
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1455
+#EXTINF:-1,AHEL AL QURAN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4760
+#EXTINF:-1,AL ANWAR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4694
+#EXTINF:-1,AL INSAN TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4680
+#EXTINF:-1,AL KAWTHAR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4674
+#EXTINF:-1,AL SIRAT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4758
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆FRANCE CH☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2996
+#EXTINF:-1,TF1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1217
+#EXTINF:-1,TF1 SERIES
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/19686
+#EXTINF:-1,FRANCE 2 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5307
+#EXTINF:-1,FRANCE 3 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5304
+#EXTINF:-1,FRANCE 4 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5301
+#EXTINF:-1,FRANCE 5 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5298
+#EXTINF:-1,FRANCE 24 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5289
+#EXTINF:-1,FRANCE INFO HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5292
+#EXTINF:-1,FRANCE O HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5295
+#EXTINF:-1,CANAL+ HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5131
+#EXTINF:-1,CANAL  CINEMA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5128
+#EXTINF:-1,CANAL DECALE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5125
+#EXTINF:-1,CANAL FAMILY HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5122
+#EXTINF:-1,CANAL SERIES HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5119
+#EXTINF:-1,CANAL SPORT HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5116
+#EXTINF:-1,CANAL J HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5074
+#EXTINF:-1,CANAL8
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2571
+#EXTINF:-1,CANAL NEWS HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5286
+#EXTINF:-1,EQUIDIA LIVE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/31503
+#EXTINF:-1,CINE CLASSIC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5110
+#EXTINF:-1,CINE CLUB HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5107
+#EXTINF:-1,CINE EMOTION HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5104
+#EXTINF:-1,CINE FAMIZ HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5101
+#EXTINF:-1,CINE FRISSON HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5098
+#EXTINF:-1,CINE POLAR HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5089
+#EXTINF:-1,CINE PREMIER HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5095
+#EXTINF:-1,CINE FX HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5092
+#EXTINF:-1,13EME RUE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5266
+#EXTINF:-1,ARTE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5272
+#EXTINF:-1,6TER HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5263
+#EXTINF:-1,AB1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5233
+#EXTINF:-1,AB3 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5230
+#EXTINF:-1,AB MOTEUR HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5018
+#EXTINF:-1,USHUAIA TV HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4982
+#EXTINF:-1,W9 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5310
+#EXTINF:-1,ANIMAUX HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5015
+#EXTINF:-1,ACTION HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5206
+#EXTINF:-1,beIN SPORTS 1 FR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5189
+#EXTINF:-1,BeIN SPORTS 1 FR FullHD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5188
+#EXTINF:-1,beIN SPORTS 2 FR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5187
+#EXTINF:-1,BeIN SPORTS 2 FR FullHD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5186
+#EXTINF:-1,beIN SPORTS 3 FR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5185
+#EXTINF:-1,BeIN SPORTS 3 FR FullHD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5184
+#EXTINF:-1,EUROSPORTS 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2579
+#EXTINF:-1,EUROSPORTS 2 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2580
+#EXTINF:-1,BET HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5149
+#EXTINF:-1,BFM BUSINESS HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5278
+#EXTINF:-1,BFM TV HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5281
+#EXTINF:-1,C8 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5113
+#EXTINF:-1,CARTOON NETWORK HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5036
+#EXTINF:-1,CHASSE.&.PECHE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4971
+#EXTINF:-1,CHERIE 25 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5215
+#EXTINF:-1,COMEDIE  HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5212
+#EXTINF:-1,CRIME DISTRICT  HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4977
+#EXTINF:-1,CSTAR HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5209
+#EXTINF:-1,DISCOVERY HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4974
+#EXTINF:-1,DISNEY CHANNEL HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5033
+#EXTINF:-1,DISNEY CINEMA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5030
+#EXTINF:-1,DISNEY JUNIOR HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5027
+#EXTINF:-1,DISNEY XD HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5024
+#EXTINF:-1,E!ENTERTAINMENT HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4965
+#EXTINF:-1,GAME ONE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5071
+#EXTINF:-1,GULLI HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5068
+#EXTINF:-1,VH1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5257
+#EXTINF:-1,HISTOIRE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5012
+#EXTINF:-1,INFOSPORT  HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5194
+#EXTINF:-1,KTO HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4962
+#EXTINF:-1,LEQUIPE 21 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5191
+#EXTINF:-1,M6 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5313
+#EXTINF:-1,M6 MUSIC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5137
+#EXTINF:-1,MANGAS HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5065
+#EXTINF:-1,MCM HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5167
+#EXTINF:-1,MCM TOP HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5164
+#EXTINF:-1,MEZZO HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5161
+#EXTINF:-1,MEZZO LIVE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5158
+#EXTINF:-1,MTV DANCE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5134
+#EXTINF:-1,MTV FRANCE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5155
+#EXTINF:-1,MTV HITS HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5170
+#EXTINF:-1,NATGEO HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5009
+#EXTINF:-1,NATGEO WILD HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5006
+#EXTINF:-1,NICK Jr HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5062
+#EXTINF:-1,NICKELODEON HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5059
+#EXTINF:-1,BOOMERANG HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5039
+#EXTINF:-1,BOING HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5042
+#EXTINF:-1,NRJ12 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5152
+#EXTINF:-1,NT1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5254
+#EXTINF:-1,NUMERO 23 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5260
+#EXTINF:-1,OCS CHOC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5086
+#EXTINF:-1,OCS CITY HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5083
+#EXTINF:-1,OCS GEANTS HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5080
+#EXTINF:-1,OCS MAX  HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5077
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5003
+#EXTINF:-1,PARIS PREMIERE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5248
+#EXTINF:-1,PLANETE  HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5000
+#EXTINF:-1,PLANETE  CI HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4994
+#EXTINF:-1,PLANETE A&E HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4997
+#EXTINF:-1,RFM TV HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5227
+#EXTINF:-1,RMC DECOUVERTE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4991
+#EXTINF:-1,RTL9 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5224
+#EXTINF:-1,RTS DEUX HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5221
+#EXTINF:-1,RTS UN HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5218
+#EXTINF:-1,SCIENCES&VIE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4988
+#EXTINF:-1,SEASONS HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4985
+#EXTINF:-1,SERIE CLUB HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5245
+#EXTINF:-1,RMC SPORT 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5182
+#EXTINF:-1,RMC SPORT 2 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5179
+#EXTINF:-1,RMC SPORT 3 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5176
+#EXTINF:-1,RMC SPORT 4 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5173
+#EXTINF:-1,SYFY FR HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5251
+#EXTINF:-1,TCM CINEMA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5203
+#EXTINF:-1,TEVA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5242
+#EXTINF:-1,TIJI HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5051
+#EXTINF:-1,TMC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5239
+#EXTINF:-1,TOUTE L.HISTOIRE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4968
+#EXTINF:-1,TRACE URBAN HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5146
+#EXTINF:-1,TREK HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5045
+#EXTINF:-1,TV BREIZH HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5236
+#EXTINF:-1,TV5 MONDE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5269
+#EXTINF:-1,VOYAGE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4980
+#EXTINF:-1,(▁ ▂ ▄ ▅ ▆☆GERMANY CH ☆▆ ▅ ▄ ▂ ▁)
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3000
+#EXTINF:-1,Das Erste
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/4478
+#EXTINF:-1,ZDF
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1382
+#EXTINF:-1,VOX
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1384
 #EXTINF:-1,RTL 2
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/20a82bfef5750c5.ts|User-Agent=1m3u8
-#EXTINF:-1,SUPER RTL
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/e2954b4033db7e4.ts|User-Agent=1m3u8
-#EXTINF:-1,RTL NITRO
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/132d5ef9290bd59.ts|User-Agent=1m3u8
-#EXTINF:-1,RTL PASSION
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/36494fcb4e9f573.ts|User-Agent=1m3u8
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1394
+#EXTINF:-1,3 SAT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1378
+#EXTINF:-1,Pro Sieben
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1395
+#EXTINF:-1,Super RTL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2245
+#EXTINF:-1,KIKA 
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1368
+#EXTINF:-1,Sat 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1390
+#EXTINF:-1,RTL HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1393
+#EXTINF:-1,Kabel Eins
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1379
+#EXTINF:-1,Arte HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5474
+#EXTINF:-1,NDR HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5475
+#EXTINF:-1,A&E-GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/13210
+#EXTINF:-1,KINOWELT TV HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/5477
+#EXTINF:-1,TELE 5 GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2685
+#EXTINF:-1,TLC GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2696
+#EXTINF:-1,N24 GR HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2693
+#EXTINF:-1,JUNIOR GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2687
+#EXTINF:-1,AXN HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2679
+#EXTINF:-1,SIXX GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2692
+#EXTINF:-1,HISTORY GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2867
+#EXTINF:-1,EURO SPORT GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2678
+#EXTINF:-1,DISNEY JIUNIOR GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2686
+#EXTINF:-1,CARTOON NETWORK GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2689
+#EXTINF:-1,13H STREET GR HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2682
+#EXTINF:-1,ANIXE GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2684
+#EXTINF:-1,SKY ARTS GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2690
+#EXTINF:-1,SYFY HD GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2681
+#EXTINF:-1,ZEE ONE HD GR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2695
 #EXTINF:-1,RTL CRIME
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/86d3bf2bf88835d.ts|User-Agent=1m3u8
-#EXTINF:-1,AXN DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/02a23bd095136fd.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY CINEMA
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/815796dc0e5a351.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY CINEMA 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/8efdf47e5225228.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY CINEMA 24
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/e41876c5d975134.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY ACTION
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/14a65ee5b9b141d.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY ATLATNIC
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/b5c2f714b497675.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY COMEDY
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/983ff95f5a580b7.ts|User-Agent=1m3u8
-#EXTINF:-1,KIKA TV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/980919b66bd990a.ts|User-Agent=1m3u8
-#EXTINF:-1,PRO 7
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/47ae0f1877d1d84.ts|User-Agent=1m3u8
-#EXTINF:-1,VOX DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/f16fec33123360b.ts|User-Agent=1m3u8
-#EXTINF:-1,ZDF TV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/29bc6a7004141fb.ts|User-Agent=1m3u8
-#EXTINF:-1,SAT 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/22ec0bec7291b1d.ts|User-Agent=1m3u8
-#EXTINF:-1,ARD 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/41c3f218d69796a.ts|User-Agent=1m3u8
-#EXTINF:-1,NTV
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/f2672f38fd545ed.ts|User-Agent=1m3u8
-#EXTINF:-1,N24
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/f67eba63fd742b4.ts|User-Agent=1m3u8
-#EXTINF:-1,DISCOVERY DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/72ac5987f239dad.ts|User-Agent=1m3u8
-#EXTINF:-1,HISTORY DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/b3f982548c1dcad.ts|User-Agent=1m3u8
-#EXTINF:-1,NAT GEO WILD DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/d3b3e72eebe0c36.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY HITS
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/3802056df107566.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SELECT 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/d0a463742363f83.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SELECT 2
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6a7c4bf87e9b11b.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SELECT 3
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/0f1d115ddbd250c.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SELECT 4
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/c1cdc20a09af008.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SELECT 5
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/1749c5af39bf6dd.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS 1 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/40b2b2ca12f1bc1.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS 2 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/faf2fa74957654e.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS 3 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/8c4badcc7546b41.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS 4 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/7fdd48847a74a2e.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS 5 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6f152cde8c0d97b.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS 6 DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/9649463383bf51c.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS AUSTRIA DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/ef2fd3293ab8f1e.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS BUNDESLIGA 1
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/c4f680a4fc729bc.ts|User-Agent=1m3u8
-#EXTINF:-1,SKY SPORTS BUNDESLIGA 2
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/fff6f99081fcbf9.ts|User-Agent=1m3u8
-#EXTINF:-1,DISNEY CHANNEL DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/47fa045425655cb.ts|User-Agent=1m3u8
-#EXTINF:-1,DISNEY XD DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/626f96bf89b5c61.ts|User-Agent=1m3u8
-#EXTINF:-1,TNT FILM
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/41523a487701aa2.ts|User-Agent=1m3u8
-#EXTINF:-1,TNT SERIES
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/a2316c6b50da93a.ts|User-Agent=1m3u8
-#EXTINF:-1,PRO7 MAXX
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6e24a8810e66728.ts|User-Agent=1m3u8
-#EXTINF:-1,ANIMAL PLANET DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/9da77393d8b5a15.ts|User-Agent=1m3u8
-#EXTINF:-1,NAT GEO DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6352bc270315ac0.ts|User-Agent=1m3u8
-#EXTINF:-1,NAT GEO PEOPLE DE
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/6339fc17ca319ba.ts|User-Agent=1m3u8
-#EXTINF:-1,ZEE ONE 
-http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Germany/ef48da6e623face.ts|User-Agent=1m3u8
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1362
+#EXTINF:-1,RTL Nitro
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1391
+#EXTINF:-1,RTL Passion 
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1359
+#EXTINF:-1,WDR HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1383
+#EXTINF:-1,RNF
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3029
+#EXTINF:-1,ROMANCE TV HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3921
+#EXTINF:-1,ALEX TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3031
+#EXTINF:-1,KRONI HIT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3032
+#EXTINF:-1,13 TH STREET HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2869
+#EXTINF:-1,Dmax
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3004
+#EXTINF:-1,IN TV HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2704
+#EXTINF:-1,NO4A
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2706
+#EXTINF:-1,FOX DE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2680
+#EXTINF:-1,SKY 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2868
+#EXTINF:-1,SKY ATLANTIC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1353
+#EXTINF:-1,NAT GEO WILD HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1397
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1366
+#EXTINF:-1,DISCOVERY CHANNEL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2246
+#EXTINF:-1,TNT SERIES HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1385
+#EXTINF:-1,DISNEY CHANNEL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/1374
+#EXTINF:-1,SPIEGEL GESCHICHTE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2683
+#EXTINF:-1,DAZN 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/13211
+#EXTINF:-1,DAZN 2 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/13212
+#EXTINF:-1,SPORT1+ HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2677
+#EXTINF:-1,EUROSPORT 1 HD.
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3923
+#EXTINF:-1,EUROSPORT 2 HD.
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3924
+#EXTINF:-1,EUROSPORT 2XTRA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/3922
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2728
+#EXTINF:-1,Sky Bundesliga 2 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2727
+#EXTINF:-1,Sky Bundesliga 3 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2726
+#EXTINF:-1,Sky Bundesliga 4 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2725
+#EXTINF:-1,Sky Bundesliga 5 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2724
+#EXTINF:-1,Sky  Bundesliga 6 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2723
+#EXTINF:-1,Sky Bundesliga 7 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2722
+#EXTINF:-1,Sky  Bundesliga 8 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2721
+#EXTINF:-1,Sky Bundesliga 9 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2720
+#EXTINF:-1,Sky  Bundesliga 10 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/2719
+#EXTINF:-1,NL BABY TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49981
+#EXTINF:-1,NL ZIGGO SPORT VOETBAL HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49982
+#EXTINF:-1,NL ZIGGO SPORT SELECT HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49983
+#EXTINF:-1,NL ZIGGO SPORT RACING HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49984
+#EXTINF:-1,NL ZIGGO SPORT GOLF
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49985
+#EXTINF:-1,NL ZIGGO SPORT EXTRA 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49986
+#EXTINF:-1,NL ZIGGO SPORT EXTRA 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49987
+#EXTINF:-1,NL VERONICA  DISNEY XD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49988
+#EXTINF:-1,NL TLC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49989
+#EXTINF:-1,NL SPIKE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49990
+#EXTINF:-1,NL SBS 9 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49991
+#EXTINF:-1,NL SBS 6 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49992
+#EXTINF:-1,NL RTV DRENTHE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49993
+#EXTINF:-1,NL RTL Z
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49994
+#EXTINF:-1,NL RTL LOUNGE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49995
+#EXTINF:-1,NL RTL CRIME HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49996
+#EXTINF:-1,NL RTL 8 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49997
+#EXTINF:-1,NL RTL 7 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49998
+#EXTINF:-1,NL RTL 5 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/49999
+#EXTINF:-1,NL RTL 4 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50000
+#EXTINF:-1,NL NPO 3 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50001
+#EXTINF:-1,NL NPO 2 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50002
+#EXTINF:-1,NL NPO 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50003
+#EXTINF:-1,NL NICKTOONS HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50004
+#EXTINF:-1,NL NICKELODEON HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50005
+#EXTINF:-1,NL NICK JR.
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50006
+#EXTINF:-1,NL NET 5 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50007
+#EXTINF:-1,NL NATIONAL GEOGRAPHIC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50008
+#EXTINF:-1,NL NAT GEO WILD HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50009
+#EXTINF:-1,NL MTV HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50010
+#EXTINF:-1,NL INVESTIGATION DISCOVERY
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50011
+#EXTINF:-1,NL HISTORY HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50012
+#EXTINF:-1,NL FOX SPORTS 6 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50013
+#EXTINF:-1,NL FOX SPORTS 5 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50014
+#EXTINF:-1,NL FOX SPORTS 4 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50015
+#EXTINF:-1,NL FOX SPORTS 3 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50016
+#EXTINF:-1,NL FOX SPORTS 2 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50017
+#EXTINF:-1,NL FOX SPORT 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50018
+#EXTINF:-1,NL FOX CHANNEL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50019
+#EXTINF:-1,NL FILM 1 PREMIER HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50020
+#EXTINF:-1,NL FILM 1 DRAMA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50021
+#EXTINF:-1,NL FILM 1 ACTION HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50022
+#EXTINF:-1,NL EUROSPORT 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50023
+#EXTINF:-1,NL EUROSPORT 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50024
+#EXTINF:-1,NL E! ENTERTAINMENT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50025
+#EXTINF:-1,NL DISNEY CHANNEL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50026
+#EXTINF:-1,NL DISCOVERY SCIENCE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50027
+#EXTINF:-1,NL DISCOVERY CHANNEL HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50028
+#EXTINF:-1,NL CRIME AND INVESTIGATION
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50029
+#EXTINF:-1,NL COMEDY CENTRAL EXTRA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50030
+#EXTINF:-1,NL COMEDY CENTRAL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50031
+#EXTINF:-1,NL CARTOON NETWORK
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50032
+#EXTINF:-1,NL BOOMERANG
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/50033
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆DENMARK CH☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/10814
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆portugeuse☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/52048
+#EXTINF:-1,[PT] CANAL HISTORIA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51739
+#EXTINF:-1,[PT] BLAZE TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51740
+#EXTINF:-1,[PT] CRIME INVESTIGATION
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51741
+#EXTINF:-1,[PT] ID INVESTIGATION DISCOVERY
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51742
+#EXTINF:-1,[PT] TRAVEL CHANNEL HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51743
+#EXTINF:-1,[PT] MY CUSINE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51744
+#EXTINF:-1,[PT] 24 KITCHEN HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51745
+#EXTINF:-1,[PT] TVCINE 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51746
+#EXTINF:-1,[PT] TVCINE 2 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51747
+#EXTINF:-1,[PT] TVCINE 3 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51748
+#EXTINF:-1,[PT] TVCINE 4 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51749
+#EXTINF:-1,[PT] TV SERIES HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51750
+#EXTINF:-1,[PT] FOX HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51751
+#EXTINF:-1,[PT] FOX LIFE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51752
+#EXTINF:-1,[PT] FOX CRIME HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51753
+#EXTINF:-1,[PT] FOX MOVIES HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51754
+#EXTINF:-1,[PT] FOX COMEDY HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51755
+#EXTINF:-1,[PT] AXN HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51756
+#EXTINF:-1,[PT] AXN BLACK HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51757
+#EXTINF:-1,[PT] AXN WHITE HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51758
+#EXTINF:-1,[PT] AMC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51759
+#EXTINF:-1,[PT] CINEMUNDO HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51760
+#EXTINF:-1,[PT] HOLLYWOOD HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51761
+#EXTINF:-1,[PT] SYFY
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51762
+#EXTINF:-1,[PT] EUROCHANEL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51763
+#EXTINF:-1,[PT] NOS STUDIOS HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51764
+#EXTINF:-1,[PT] MTV PORTUGAL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51765
+#EXTINF:-1,[PT] VH1 MUSIC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51766
+#EXTINF:-1,[PT] MCM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51767
+#EXTINF:-1,[PT] SBT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51782
+#EXTINF:-1,[PT] TV RECORD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51781
+#EXTINF:-1,[PT] GLOBO NOW
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51780
+#EXTINF:-1,[PT] GLOBO
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51779
+#EXTINF:-1,[PT] ZAP VIVA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51778
+#EXTINF:-1,[PT] FOX SPORTS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51777
+#EXTINF:-1,[PT] CNN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51776
+#EXTINF:-1,[PT] BBC WORLD NEWS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51775
+#EXTINF:-1,[PT] BBC ENTERTAINEMENT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51774
+#EXTINF:-1,[PT] SKY NEWS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51773
+#EXTINF:-1,[PT] VINTAGE
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51772
+#EXTINF:-1,[PT] TRACE URBAN
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51771
+#EXTINF:-1,[PT] TRACE TOCA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51770
+#EXTINF:-1,[PT] AFRO MUSIC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51769
+#EXTINF:-1,[PT] MEZZO
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51768
+#EXTINF:-1,[PT] ODISSEIA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51738
+#EXTINF:-1,[PT] NAT GEO WILD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51737
+#EXTINF:-1,[PT] NATIONAL GEOGRAPHIC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51736
+#EXTINF:-1,[PT] NATIONAL GEOGRAPHIC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51735
+#EXTINF:-1,[PT] DISCOVERY CHANNEL HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51734
+#EXTINF:-1,[PT] E! ENTERTAINMENT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51733
+#EXTINF:-1,[PT] TLC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51732
+#EXTINF:-1,[PT] BABY TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51731
+#EXTINF:-1,[PT] CARTOON NETWORK
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51730
+#EXTINF:-1,[PT] SIC K
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51729
+#EXTINF:-1,[PT] CANAL PANDA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51728
+#EXTINF:-1,[PT] PANDA BIGS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51727
+#EXTINF:-1,[PT] JIMJAM
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51726
+#EXTINF:-1,[PT] NICKELODEON JUNIOR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51725
+#EXTINF:-1,[PT] NICKELODEON
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51724
+#EXTINF:-1,[PT] DISNEY JUNIOR
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51723
+#EXTINF:-1,[PT] DISNEY CHANNEL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51722
+#EXTINF:-1,[PT] CAÇA E PESCA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51721
+#EXTINF:-1,[PT] CAÇA E PESCA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51720
+#EXTINF:-1,[PT] CAÇAVISION
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51719
+#EXTINF:-1,[PT] FUEL TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51718
+#EXTINF:-1,[PT] MOTORVISION TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51717
+#EXTINF:-1,[PT] MOTOGP HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51716
+#EXTINF:-1,[PT] F1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51715
+#EXTINF:-1,[PT] KOMBAT SPORT
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51714
+#EXTINF:-1,[PT] PFC
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51713
+#EXTINF:-1,[PT] A BOLA TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51712
+#EXTINF:-1,[PT] EUROSPORT 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51710
+#EXTINF:-1,[PT] EUROSPORT 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51711
+#EXTINF:-1,[PT] PORTO CANAL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51709
+#EXTINF:-1,[PT] SPORTING TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51708
+#EXTINF:-1,[PT] CANAL 11
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51707
+#EXTINF:-1,[PT] ELEVEN SPORTS 6 FHD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51706
+#EXTINF:-1,[PT] ELEVEN SPORTS 5 FHD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51705
+#EXTINF:-1,[PT] ELEVEN SPORTS 4 FHD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51704
+#EXTINF:-1,[PT] ELEVEN SPORTS 3 FHD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51703
+#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51702
+#EXTINF:-1,[PT] ELEVEN SPORTS 3 SD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51701
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 FHD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51700
+#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51698
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51699
+#EXTINF:-1,[PT] SPORTTV NBA HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51697
+#EXTINF:-1,[PT] SPORT TV +
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51696
+#EXTINF:-1,[PT] SPORT TV 5 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51695
+#EXTINF:-1,[PT] SPORT TV 4 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51694
+#EXTINF:-1,[PT] SPORT TV 3
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51693
+#EXTINF:-1,[PT] SPORT TV 3 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51692
+#EXTINF:-1,[PT] SPORT TV 2 FHD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51691
+#EXTINF:-1,[PT] SPORT TV 1 FHD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51690
+#EXTINF:-1,[PT] BENFICA TV FHD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51689
+#EXTINF:-1,[PT] ARTV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51688
+#EXTINF:-1,[PT] CANAL Q
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51687
+#EXTINF:-1,[PT] CBS REALITY
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51686
+#EXTINF:-1,[PT] SIC RADICAL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51685
+#EXTINF:-1,[PT] SIC CARAS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51684
+#EXTINF:-1,[PT] SIC MULHER
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51683
+#EXTINF:-1,[PT] RTP INTERNACIONAL
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51682
+#EXTINF:-1,[PT] RTP MADEIRA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51680
+#EXTINF:-1,[PT] RTP ACORES
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51681
+#EXTINF:-1,[PT] RTP AFRICA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51679
+#EXTINF:-1,[PT] RTP MEMORIA
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51678
+#EXTINF:-1,[PT] RTP 3
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51677
+#EXTINF:-1,[PT] TVI FICÇAO
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51676
+#EXTINF:-1,[PT] TVI REALITY HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51675
+#EXTINF:-1,[PT] TVI24 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51674
+#EXTINF:-1,[PT] CMTV HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51673
+#EXTINF:-1,[PT] SIC NOTÍCIAS HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51672
+#EXTINF:-1,[PT] TVI HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51671
+#EXTINF:-1,[PT] SIC HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51670
+#EXTINF:-1,[PT] RTP 2 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51669
+#EXTINF:-1,[PT] RTP 1 HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51668
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆Russian Ch☆▆ ▅ ▄ ▂ ▁
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/51984
+#EXTINF:-1,Da Vinci Learning
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44359
+#EXTINF:-1,Disney
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44360
+#EXTINF:-1,TV1000
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44362
+#EXTINF:-1,TV1000 Action
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44363
+#EXTINF:-1,TV1000 COMEDY Full HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44364
+#EXTINF:-1,Questions and answers
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44366
+#EXTINF:-1,Home Cinema
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44368
+#EXTINF:-1,Drive
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44372
+#EXTINF:-1,romance
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44373
+#EXTINF:-1,Eurosport 2 ru
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44374
+#EXTINF:-1,Healthy tv
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44375
+#EXTINF:-1,Cinema Plus
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44376
+#EXTINF:-1,Cinema Plus 1
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44377
+#EXTINF:-1,Premium Cinema HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44378
+#EXTINF:-1,serial-world
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44380
+#EXTINF:-1,Kitchen TV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44382
+#EXTINF:-1,usadba
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44383
+#EXTINF:-1,match
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44385
+#EXTINF:-1,match arena
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44386
+#EXTINF:-1,match arena HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44387
+#EXTINF:-1,match our sport
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44391
+#EXTINF:-1,spas
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44393
+#EXTINF:-1,match footbal 3
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44394
+#EXTINF:-1,match footbal 2
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44395
+#EXTINF:-1,match footbal 31
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44396
+#EXTINF:-1,our cinema
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44397
+#EXTINF:-1,MooseTV
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44400
+#EXTINF:-1,mult
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44402
+#EXTINF:-1,NTV ru
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44406
+#EXTINF:-1,NTV HD
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44407
+#EXTINF:-1,fishing hunt
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44408
+#EXTINF:-1,Firstchannel
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44409
+#EXTINF:-1,psychology21
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44410
+#EXTINF:-1,tochka
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44412
+#EXTINF:-1,Russia 24
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44415
+#EXTINF:-1,bestseller
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44416
+#EXTINF:-1,detective
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44417
+#EXTINF:-1,illusion
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44418
+#EXTINF:-1,STS
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44421
+#EXTINF:-1,THT ru
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44422
+#EXTINF:-1,THT 4
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44423
+#EXTINF:-1,Home ru
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44424
+#EXTINF:-1,EB POKNHO
+http://x12tv.co:80/new-line-local/7wdIVc7ivH/44425
