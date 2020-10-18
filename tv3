@@ -1,697 +1,103 @@
 #EXTM3U
 #EXTINF:-1,TestLINE /Für Stabiles IPTV Kontakt auf Telegram @Woppegong
-#EXTINF:-1 tvg-id="" tvg-name="▬ Germany [DE] ▬" tvg-logo="https://picon-13398.kxcdn.com/germany.jpg" group-title="Live: Germany",▬ Germany [DE] ▬
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16532
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3451
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste HD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/22824
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste FHD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16493
-#EXTINF:-1 tvg-id="One.de" tvg-name="One FHD DE" tvg-logo="https://picon-13398.kxcdn.com/onehd.jpg" group-title="Live: Germany",One FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15751
-#EXTINF:-1 tvg-id="One.de" tvg-name="One TV FHD DE" tvg-logo="https://picon-13398.kxcdn.com/onetvde.jpg" group-title="Live: Germany",One TV FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/23043
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://picon-13398.kxcdn.com/zdf.jpg" group-title="Live: Germany",ZDF DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1629
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19098
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16484
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfo.jpg" group-title="Live: Germany",ZDFinfo DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12295
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfohd.jpg" group-title="Live: Germany",ZDFinfo FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16483
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfneo.jpg" group-title="Live: Germany",ZDFneo DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3453
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfneohd.jpg" group-title="Live: Germany",ZDFneo FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16482
-#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel Eins FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinshd.jpg" group-title="Live: Germany",Kabel Eins FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1649
-#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="Kabel Eins Classics DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsclassics.jpg" group-title="Live: Germany",Kabel Eins Classics DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16581
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsdoku.jpg" group-title="Live: Germany",Kabel Eins Doku DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17167
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben DE" tvg-logo="https://picon-13398.kxcdn.com/prosieben.jpg" group-title="Live: Germany",ProSieben DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1642
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenhd.jpg" group-title="Live: Germany",ProSieben HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14052
-#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenfunhd.jpg" group-title="Live: Germany",ProSieben Fun HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16627
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxx.jpg" group-title="Live: Germany",ProSieben Maxx DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3444
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx FHD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxxhd.jpg" group-title="Live: Germany",ProSieben Maxx FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14051
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL FS DE" tvg-logo="https://picon-13398.kxcdn.com/rtlfs.jpg" group-title="Live: Germany",RTL FS DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12300
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HB NDS DE" tvg-logo="https://picon-13398.kxcdn.com/rtl.jpg" group-title="Live: Germany",RTL HB NDS DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12299
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL WEST DE" tvg-logo="https://picon-13398.kxcdn.com/rtlwest.jpg" group-title="Live: Germany",RTL WEST DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12298
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3825
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14049
-#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL Crime HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlcrimehd.jpg" group-title="Live: Germany",RTL Crime HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15570
-#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="Live: Germany",RTL Living HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3202
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO DE" tvg-logo="https://picon-13398.kxcdn.com/rtlnitro.jpg" group-title="Live: Germany",NITRO DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1639
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlnitrohd.jpg" group-title="Live: Germany",NITRO FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14048
-#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlpassion.jpg" group-title="Live: Germany",RTL Passion HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9563
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus DE" tvg-logo="https://picon-13398.kxcdn.com/rtlplusde.jpg" group-title="Live: Germany",RTL Plus DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19655
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="Live: Germany",RTL II DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3826
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2hd.jpg" group-title="Live: Germany",RTL II FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14050
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL UHD 4K DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL UHD 4K DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/27220
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1637
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14047
-#EXTINF:-1 tvg-id="Sat1Emotions.de" tvg-name="SAT.1 Emotions DE" tvg-logo="https://picon-13398.kxcdn.com/sat1emotions.jpg" group-title="Live: Germany",SAT.1 Emotions DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16836
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="Live: Germany",SAT.1 Gold DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12309
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://picon-13398.kxcdn.com/sixx.jpg" group-title="Live: Germany",Sixx DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9560
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sixxhd.jpg" group-title="Live: Germany",Sixx FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14046
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Germany",Tele 5 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12325
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Germany",Tele 5 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/20208
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="Live: Germany",VOX DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1630
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX FHD DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="Live: Germany",VOX FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14291
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="https://picon-13398.kxcdn.com/3sat.jpg" group-title="Live: Germany",3sat DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12341
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="https://picon-13398.kxcdn.com/3sathd.jpg" group-title="Live: Germany",3sat HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16497
-#EXTINF:-1 tvg-id="Arte.de" tvg-name="Arte FHD DE" tvg-logo="https://picon-13398.kxcdn.com/artehd.jpg" group-title="Live: Germany",Arte FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16496
-#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal DE" tvg-logo="https://picon-13398.kxcdn.com/heimatkanal.jpg" group-title="Live: Germany",Heimatkanal DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9558
-#EXTINF:-1 tvg-id="Romance.de" tvg-name="Romance TV DE" tvg-logo="https://picon-13398.kxcdn.com/romancetv.jpg" group-title="Live: Germany",Romance TV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/13111
-#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="Servus TV HD DE" tvg-logo="https://picon-13398.kxcdn.com/servustv.jpg" group-title="Live: Germany",Servus TV HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/27566
-#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="ServusTV DE" tvg-logo="https://picon-13398.kxcdn.com/servustv.jpg" group-title="Live: Germany",ServusTV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12307
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Fernsehen Nord DE" tvg-logo="https://picon-13398.kxcdn.com/br.jpg" group-title="Live: Germany",BR Fernsehen Nord DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12322
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Fernsehen Nord HD DE" tvg-logo="https://picon-13398.kxcdn.com/brhd.jpg" group-title="Live: Germany",BR Fernsehen Nord HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16495
-#EXTINF:-1 tvg-id="hr-Fernsehen.de" tvg-name="hr-Fernsehen DE" tvg-logo="https://picon-13398.kxcdn.com/hrfernsehen.jpg" group-title="Live: Germany",hr-Fernsehen DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12316
-#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDR SACHSEN-ANHALT FHD DE" tvg-logo="https://picon-13398.kxcdn.com/mdrsanhalthd.jpg" group-title="Live: Germany",MDR SACHSEN-ANHALT FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15750
-#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3443
-#EXTINF:-1 tvg-id="NDRFSSH.de" tvg-name="NDR Fernsehen Schleswig-Holstein FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR Fernsehen Schleswig-Holstein FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16488
-#EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Berlin FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbberlinhd.jpg" group-title="Live: Germany",rbb Fernsehen Berlin FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15747
-#EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Brandenburg FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbbrandenburg.jpg" group-title="Live: Germany",rbb Fernsehen Brandenburg FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15754
-#EXTINF:-1 tvg-id="RegioTV.de" tvg-name="Regio TV DE" tvg-logo="https://picon-13398.kxcdn.com/regiotv.jpg" group-title="Live: Germany",Regio TV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12328
-#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen FHD DE" tvg-logo="https://picon-13398.kxcdn.com/srfernsehenhd.jpg" group-title="Live: Germany",SR Fernsehen FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15749
-#EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="https://picon-13398.kxcdn.com/swr.jpg" group-title="Live: Germany",SWR DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12296
-#EXTINF:-1 tvg-id="" tvg-name="SWR BW FHD DE" tvg-logo="https://picon-13398.kxcdn.com/swrhd.jpg" group-title="Live: Germany",SWR BW FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16486
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR DE" tvg-logo="https://picon-13398.kxcdn.com/wdrhd.jpg" group-title="Live: Germany",WDR DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3442
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR HD DE" tvg-logo="https://picon-13398.kxcdn.com/wdrhd.jpg" group-title="Live: Germany",WDR HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/23437
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Baby TV DE" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Germany",Baby TV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19622
-#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="Boomerang DE" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Live: Germany",Boomerang DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12315
-#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network DE" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Live: Germany",Cartoon Network DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15565
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannel.jpg" group-title="Live: Germany",Disney Channel DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3622
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel FHD DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Germany",Disney Channel FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14056
-#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney Junior HD DE" tvg-logo="https://picon-13398.kxcdn.com/disneyjnrhd.jpg" group-title="Live: Germany",Disney Junior HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15566
-#EXTINF:-1 tvg-id="FIXandFOXI.de" tvg-name="Fix & Foxi DE" tvg-logo="https://picon-13398.kxcdn.com/fixundfoxi.jpg" group-title="Live: Germany",Fix & Foxi DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/20263
-#EXTINF:-1 tvg-id="Junior.de" tvg-name="Junior DE" tvg-logo="https://picon-13398.kxcdn.com/junior.jpg" group-title="Live: Germany",Junior DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/20207
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKa DE" tvg-logo="https://picon-13398.kxcdn.com/kika.jpg" group-title="Live: Germany",KiKa DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1648
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kikahd.jpg" group-title="Live: Germany",KiKA FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16492
-#EXTINF:-1 tvg-id="NickJr.de" tvg-name="Nick Jr. DE" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Live: Germany",Nick Jr. DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19165
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon DE" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Germany",Nickelodeon DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19100
-#EXTINF:-1 tvg-id="nickMTV.de" tvg-name="Nick/MTV+ DE" tvg-logo="https://picon-13398.kxcdn.com/nickelodeonhd.jpg" group-title="Live: Germany",Nick/MTV+ DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14571
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://picon-13398.kxcdn.com/superrtl.jpg" group-title="Live: Germany",Super RTL DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3456
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL FHD DE" tvg-logo="https://picon-13398.kxcdn.com/superrtlhd.jpg" group-title="Live: Germany",Super RTL FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14044
-#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus DE" tvg-logo="https://picon-13398.kxcdn.com/toggoplus.jpg" group-title="Live: Germany",TOGGO plus DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12323
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Germany",DAZN 1 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/23280
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Germany",DAZN 2 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/23281
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg" group-title="Live: Germany",Eurosport 1 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19101
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Germany",Eurosport 1 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3435
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Germany",Eurosport 2 HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15568
-#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2xtrade.jpg" group-title="Live: Germany",Eurosport 2 Xtra HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17281
-#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2xtrade.jpg" group-title="Live: Germany",Eurosport 2 Xtra FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19099
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnews.jpg" group-title="Live: Germany",Sky Sport News DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14577
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnewshd.jpg" group-title="Live: Germany",Sky Sport News FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7337
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg" group-title="Live: Germany",Sky Bundesliga 1 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14550
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="Live: Germany",Sky Bundesliga 1 HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3436
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="Live: Germany",Sky Bundesliga 1 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7338
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga2.jpg" group-title="Live: Germany",Sky Bundesliga 2 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14551
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga2hd.jpg" group-title="Live: Germany",Sky Bundesliga 2 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7339
-#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga3.jpg" group-title="Live: Germany",Sky Bundesliga 3 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14552
-#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga3hd.jpg" group-title="Live: Germany",Sky Bundesliga 3 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7340
-#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga4.jpg" group-title="Live: Germany",Sky Bundesliga 4 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14553
-#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga4hd.jpg" group-title="Live: Germany",Sky Bundesliga 4 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7341
-#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga5.jpg" group-title="Live: Germany",Sky Bundesliga 5 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14554
-#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga5hd.jpg" group-title="Live: Germany",Sky Bundesliga 5 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7342
-#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga6.jpg" group-title="Live: Germany",Sky Bundesliga 6 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14555
-#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga6hd.jpg" group-title="Live: Germany",Sky Bundesliga 6 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7343
-#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga7.jpg" group-title="Live: Germany",Sky Bundesliga 7 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/24735
-#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga7hd.jpg" group-title="Live: Germany",Sky Bundesliga 7 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7344
-#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga8.jpg" group-title="Live: Germany",Sky Bundesliga 8 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14556
-#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga8hd.jpg" group-title="Live: Germany",Sky Bundesliga 8 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7345
-#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga9.jpg" group-title="Live: Germany",Sky Bundesliga 9 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14557
-#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga9hd.jpg" group-title="Live: Germany",Sky Bundesliga 9 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7346
-#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga10.jpg" group-title="Live: Germany",Sky Bundesliga 10 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14558
-#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga10hd.jpg" group-title="Live: Germany",Sky Bundesliga 10 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7347
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1.jpg" group-title="Live: Germany",Sky Sport 1 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14559
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1hd.jpg" group-title="Live: Germany",Sky Sport 1 HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1479
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1hd.jpg" group-title="Live: Germany",Sky Sport 1 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7326
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Germany",Sky Sport 2 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14560
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1480
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7327
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport3.jpg" group-title="Live: Germany",Sky Sport 3 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14561
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport3hd.jpg" group-title="Live: Germany",Sky Sport 3 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7328
-#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport4.jpg" group-title="Live: Germany",Sky Sport 4 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14562
-#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport4hd.jpg" group-title="Live: Germany",Sky Sport 4 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7329
-#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport5.jpg" group-title="Live: Germany",Sky Sport 5 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14563
-#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport5hd.jpg" group-title="Live: Germany",Sky Sport 5 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7330
-#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport6.jpg" group-title="Live: Germany",Sky Sport 6 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14564
-#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport6hd.jpg" group-title="Live: Germany",Sky Sport 6 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7331
-#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport7.jpg" group-title="Live: Germany",Sky Sport 7 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14565
-#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport7hd.jpg" group-title="Live: Germany",Sky Sport 7 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7332
-#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport8.jpg" group-title="Live: Germany",Sky Sport 8 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14566
-#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport8hd.jpg" group-title="Live: Germany",Sky Sport 8 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7333
-#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport9.jpg" group-title="Live: Germany",Sky Sport 9 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14567
-#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport9hd.jpg" group-title="Live: Germany",Sky Sport 9 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7334
-#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="Sky Sport 10 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport10hd.jpg" group-title="Live: Germany",Sky Sport 10 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7335
-#EXTINF:-1 tvg-id="SkySport11.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport11hd.jpg" group-title="Live: Germany",Sky Sport 11 HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/7336
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 DE" tvg-logo="https://picon-13398.kxcdn.com/sport1-duslelaslu.jpg" group-title="Live: Germany",SPORT1 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9552
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sport1hd-duslelaslu.jpg" group-title="Live: Germany",SPORT1 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15745
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigital.jpg" group-title="Live: Germany",sportdigital DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3841
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital HD DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigitalhd.jpg" group-title="Live: Germany",sportdigital HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16582
-#EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="Auto Motor und Sport HD DE" tvg-logo="https://picon-13398.kxcdn.com/automotorsporthd.jpg" group-title="Live: Germany",Auto Motor und Sport HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19658
-#EXTINF:-1 tvg-id="" tvg-name="Ginx eSports TV FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ginx.jpg" group-title="Live: Germany",Ginx eSports TV FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18820
-#EXTINF:-1 tvg-id="FCBayernTV.de" tvg-name="FC Bayern FHD DE" tvg-logo="https://picon-13398.kxcdn.com/fcbde.jpg" group-title="Live: Germany",FC Bayern FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16767
-#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorvision TV DE" tvg-logo="https://picon-13398.kxcdn.com/motorvisiontv.jpg" group-title="Live: Germany",Motorvision TV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9564
-#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: Germany",Animal Planet HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9561
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE DE" tvg-logo="https://picon-13398.kxcdn.com/anixe.jpg" group-title="Live: Germany",ANIXE DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3445
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE FHD DE" tvg-logo="https://picon-13398.kxcdn.com/anixehd.jpg" group-title="Live: Germany",ANIXE FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14576
-#EXTINF:-1 tvg-id="CrimeInvestigation.de" tvg-name="Crime + Investigation DE" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="Live: Germany",Crime + Investigation DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28577
-#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3426
-#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel FHD DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14063
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Live: Germany",DMAX DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3431
-#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX HD DE" tvg-logo="https://picon-13398.kxcdn.com/dmaxhd.jpg" group-title="Live: Germany",DMAX HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19683
-#EXTINF:-1 tvg-id="History.de" tvg-name="History DE" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="Live: Germany",History DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3424
-#EXTINF:-1 tvg-id="History.de" tvg-name="History FHD DE" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Live: Germany",History FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14311
-#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="National Geographic FHD DE" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Live: Germany",National Geographic FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14053
-#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild HD DE" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Germany",National Geographic Wild HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1646
-#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild FHD DE" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Germany",National Geographic Wild FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14062
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="https://picon-13398.kxcdn.com/ntv.jpg" group-title="Live: Germany",n-tv DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3449
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ntvhd.jpg" group-title="Live: Germany",n-tv FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14054
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="https://picon-13398.kxcdn.com/phoenix.jpg" group-title="Live: Germany",Phoenix DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3454
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix FHD DE" tvg-logo="https://picon-13398.kxcdn.com/phoenixhd.jpg" group-title="Live: Germany",Phoenix FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16487
-#EXTINF:-1 tvg-id="Planet.de" tvg-name="Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/planetde.jpg" group-title="Live: Germany",Planet HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18394
-#EXTINF:-1 tvg-id="SpiegelTVWissen.de" tvg-name="Spiegel TV Wissen DE" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissen.jpg" group-title="Live: Germany",Spiegel TV Wissen DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14045
-#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissenhd.jpg" group-title="Live: Germany",Spiegel Geschichte HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16573
-#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="tagesschau24 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tagesschau24hd.jpg" group-title="Live: Germany",tagesschau24 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15752
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: Germany",TLC DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12324
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Germany",TLC FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15757
-#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal Channel HD DE" tvg-logo="https://picon-13398.kxcdn.com/universalchannelhd.jpg" group-title="Live: Germany",Universal Channel HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3439
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3448
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt HD DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14573
-#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="https://picon-13398.kxcdn.com/weltderwunder.jpg" group-title="Live: Germany",Welt der Wunder DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12305
-#EXTINF:-1 tvg-id="Classica.de" tvg-name="CLASSICA DE" tvg-logo="https://picon-13398.kxcdn.com/classica.jpg" group-title="Live: Germany",CLASSICA DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9555
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusic.jpg" group-title="Live: Germany",Deluxe Music DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9554
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music FHD DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusichd.jpg" group-title="Live: Germany",Deluxe Music FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14057
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://picon-13398.kxcdn.com/deutschesmusikfernsehen.jpg" group-title="Live: Germany",Deutsches Musik Fernsehen DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12334
-#EXTINF:-1 tvg-id="FolxTV.de" tvg-name="Folx TV DE" tvg-logo="https://picon-13398.kxcdn.com/folxtv.jpg" group-title="Live: Germany",Folx TV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12319
-#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="JukeBox DE" tvg-logo="https://picon-13398.kxcdn.com/jukebox.jpg" group-title="Live: Germany",JukeBox DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15579
-#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV HD DE" tvg-logo="https://picon-13398.kxcdn.com/mtvhd.jpg" group-title="Live: Germany",MTV HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15759
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12317
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central HD DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19677
-#EXTINF:-1 tvg-id="Sky1.de" tvg-name="Sky 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/sky1hd.jpg" group-title="Live: Germany",Sky 1 HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9557
-#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren DE" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="Live: Germany",Sky Cinema Premieren DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1634
-#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemahd.jpg" group-title="Live: Germany",Sky Cinema Premieren FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14061
-#EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24 DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaplus24.jpg" group-title="Live: Germany",Sky Cinema Premieren +24 DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1633
-#EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaplus24hd.jpg" group-title="Live: Germany",Sky Cinema Premieren +24 FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15575
-#EXTINF:-1 tvg-id="SkyCinemaSpezial.de" tvg-name="Sky Cinema Special FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaspecialde.jpg" group-title="Live: Germany",Sky Cinema Special FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14312
-#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Cinema Action DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaactionhd.jpg" group-title="Live: Germany",Sky Cinema Action DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3432
-#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Cinema Action FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaactionhd.jpg" group-title="Live: Germany",Sky Cinema Action FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14307
-#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="Sky Atlantic FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skyatlantichd.jpg" group-title="Live: Germany",Sky Atlantic FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14306
-#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="Sky Cinema Thriller FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemathrillerde.jpg" group-title="Live: Germany",Sky Cinema Thriller FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/37451
-#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemacomedy.jpg" group-title="Live: Germany",Sky Cinema Fun DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3430
-#EXTINF:-1 tvg-id="" tvg-name="Sky Family FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemafamilyhd.jpg" group-title="Live: Germany",Sky Family FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15576
-#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="Sky Cinema Best Of DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemade.jpg" group-title="Live: Germany",Sky Cinema Best Of DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16803
-#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="Sky Cinema Best Of FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemade.jpg" group-title="Live: Germany",Sky Cinema Best Of FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14305
-#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="Sky Krimi DE" tvg-logo="https://picon-13398.kxcdn.com/skykrimi.jpg" group-title="Live: Germany",Sky Krimi DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3429
-#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaclassicsde.jpg" group-title="Live: Germany",Sky Cinema Classics DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9556
-#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 1 Live DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11265
-#EXTINF:-1 tvg-id="SkySelect2.de" tvg-name="Sky Select 2 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 2 Live DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11266
-#EXTINF:-1 tvg-id="SkySelect3.de" tvg-name="Sky Select 3 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 3 Live DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11267
-#EXTINF:-1 tvg-id="SkySelect4.de" tvg-name="Sky Select 4 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 4 Live DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11268
-#EXTINF:-1 tvg-id="SkySelect5.de" tvg-name="Sky Select 5 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 5 Live DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11269
-#EXTINF:-1 tvg-id="SkySelect6.de" tvg-name="Sky Select 6 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 6 Live DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11270
-#EXTINF:-1 tvg-id="SkySelect7.de" tvg-name="Sky Select 7 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 7 Live DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11271
-#EXTINF:-1 tvg-id="SkySelect8.de" tvg-name="Sky Select 8 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 8 Live DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11272
-#EXTINF:-1 tvg-id="SkySelect9.de" tvg-name="Sky Select 9 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 9 Live DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12290
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Dark Future DE" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="Live: Germany",Sky Cinema Dark Future DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28535
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street FHD DE" tvg-logo="https://picon-13398.kxcdn.com/13thstreethd.jpg" group-title="Live: Germany",13th Street FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14060
-#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! DE" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: Germany",E! DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16502
-#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! HD DE" tvg-logo="https://picon-13398.kxcdn.com/eentertainmenthd.jpg" group-title="Live: Germany",E! HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15567
-#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX HD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3425
-#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX FHD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14055
-#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="Kinowelt TV DE" tvg-logo="https://picon-13398.kxcdn.com/kinowelttv.jpg" group-title="Live: Germany",Kinowelt TV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12291
-#EXTINF:-1 tvg-id="AXN.de" tvg-name="Sony AXN FHD DE" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Live: Germany",Sony AXN FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9562
-#EXTINF:-1 tvg-id="AXN.de" tvg-name="Sony AXN HD DE" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Live: Germany",Sony AXN HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17498
-#EXTINF:-1 tvg-id="Syfy.de" tvg-name="Syfy FHD DE" tvg-logo="https://picon-13398.kxcdn.com/syfyhd.jpg" group-title="Live: Germany",Syfy FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14043
-#EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="TNT Comedy HD DE" tvg-logo="https://picon-13398.kxcdn.com/tntcomedyhd.jpg" group-title="Live: Germany",TNT Comedy HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15577
-#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT Film FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tntfilmhd.jpg" group-title="Live: Germany",TNT Film FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16628
-#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT Serie FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tntseriehd.jpg" group-title="Live: Germany",TNT Serie FHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14303
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 1 HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18234
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 2 HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18235
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 3 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 3 HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18236
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 4 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 4 HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18237
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 5 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 5 HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18238
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 6 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 6 HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18239
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 1 Premiere HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 1 Premiere HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/26323
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 2 Aktion HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 2 Aktion HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/26324
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 3 Komodie HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 3 Komodie HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/26325
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 4 Abenteuer HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 4 Abenteuer HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/26326
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 5 Animation HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 5 Animation HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/26327
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 6 Thriller HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 6 Thriller HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/26328
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 7 Horror HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 7 Horror HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/26329
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 8 Drama HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 8 Drama HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/26330
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 9 Sci-Fi HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 9 Sci-Fi HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/26331
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 10 Lacheln HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 10 Lacheln HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/26332
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Entdeckernatur 11 4K UHD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Entdeckernatur 11 4K UHD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/26333
-#EXTINF:-1 tvg-id="AstroTV.de" tvg-name="Astro TV DE" tvg-logo="https://picon-13398.kxcdn.com/astrotv.jpg" group-title="Live: Germany",Astro TV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12339
-#EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="München TV DE" tvg-logo="https://picon-13398.kxcdn.com/munchentv.jpg" group-title="Live: Germany",München TV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11659
-#EXTINF:-1 tvg-id="DeutscheWelleArabic.de" tvg-name="DW Arabia DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="Live: Germany",DW Arabia DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19620
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DW Deutsch DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="Live: Germany",DW Deutsch DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/27791
-#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DW English DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="Live: Germany",DW English DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17300
-#EXTINF:-1 tvg-id="" tvg-name="German Tote TV DE" tvg-logo="https://picon-13398.kxcdn.com/germantotede.jpg" group-title="Live: Germany",German Tote TV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/23945
-#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="https://picon-13398.kxcdn.com/hgtv.jpg" group-title="Live: Germany",HGTV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/27656
-#EXTINF:-1 tvg-id="" tvg-name="Health TV DE" tvg-logo="https://picon-13398.kxcdn.com/healthtvde.jpg" group-title="Live: Germany",Health TV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28231
-#EXTINF:-1 tvg-id="allgaeutv.de" tvg-name="Allgäu TV DE" tvg-logo="https://picon-13398.kxcdn.com/allgautvde.jpg" group-title="Live: Germany",Allgäu TV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28232
-#EXTINF:-1 tvg-id="" tvg-name="Baden TV DE" tvg-logo="https://picon-13398.kxcdn.com/badentvde.jpg" group-title="Live: Germany",Baden TV DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28233
-#EXTINF:-1 tvg-id="" tvg-name="noa4 Hamburg HD DE" tvg-logo="https://picon-13398.kxcdn.com/noa4de.jpg" group-title="Live: Germany",noa4 Hamburg HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28238
-#EXTINF:-1 tvg-id="" tvg-name="noa4 Norderstedt HD DE" tvg-logo="https://picon-13398.kxcdn.com/noa4de.jpg" group-title="Live: Germany",noa4 Norderstedt HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28239
-#EXTINF:-1 tvg-id="" tvg-name="RFO DE" tvg-logo="https://picon-13398.kxcdn.com/rfode.jpg" group-title="Live: Germany",RFO DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28243
-#EXTINF:-1 tvg-id="RheinNeckarFernsehen.de" tvg-name="Rhein Neckar Fernsehen DE" tvg-logo="https://picon-13398.kxcdn.com/rheinneckarfernsehende.jpg" group-title="Live: Germany",Rhein Neckar Fernsehen DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28244
-#EXTINF:-1 tvg-id="" tvg-name="TV Mainfranken DE" tvg-logo="https://picon-13398.kxcdn.com/tvmainfrankende.jpg" group-title="Live: Germany",TV Mainfranken DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28247
-#EXTINF:-1 tvg-id="" tvg-name="Frauen Bundesliga HD DE" tvg-logo="https://picon-13398.kxcdn.com/frauenbundesligade.jpg" group-title="Live: Germany",Frauen Bundesliga HD DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/35184
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport KOMPAKT 1 HD (nur Spiel Tag) DE" tvg-logo="https://picon-13398.kxcdn.com/skysportkombat.jpg" group-title="Live: Germany",Sky Sport KOMPAKT 1 HD (nur Spiel Tag) DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/35185
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport KOMPAKT 2 HD (nur Spiel Tag) DE" tvg-logo="https://picon-13398.kxcdn.com/skysportkombat.jpg" group-title="Live: Germany",Sky Sport KOMPAKT 2 HD (nur Spiel Tag) DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/35186
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport KOMPAKT 3 HD (nur Spiel Tag) DE" tvg-logo="https://picon-13398.kxcdn.com/skysportkombat.jpg" group-title="Live: Germany",Sky Sport KOMPAKT 3 HD (nur Spiel Tag) DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/35187
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport KOMPAKT 4 HD (nur Spiel Tag) DE" tvg-logo="https://picon-13398.kxcdn.com/skysportkombat.jpg" group-title="Live: Germany",Sky Sport KOMPAKT 4 HD (nur Spiel Tag) DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/35188
-#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="Nicktoons DE" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Live: Germany",Nicktoons DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/37836
-#EXTINF:-1 tvg-id="" tvg-name="Voxup DE" tvg-logo="https://picon-13398.kxcdn.com/voxupde.jpg" group-title="Live: Germany",Voxup DE
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/52134
-#EXTINF:-1 tvg-id="" tvg-name="▬ Austria [AT] ▬" tvg-logo="https://picon-13398.kxcdn.com/austria.jpg" group-title="Live: Austria",▬ Austria [AT] ▬
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16542
-#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF eins AT" tvg-logo="https://picon-13398.kxcdn.com/orfeinshd.jpg" group-title="Live: Austria",ORF eins AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12302
-#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF eins HD AT" tvg-logo="https://picon-13398.kxcdn.com/orfeinshd.jpg" group-title="Live: Austria",ORF eins HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1643
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2 AT" tvg-logo="https://picon-13398.kxcdn.com/orf2.jpg" group-title="Live: Austria",ORF 2 AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/1644
-#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF III AT" tvg-logo="https://picon-13398.kxcdn.com/orfiii.jpg" group-title="Live: Austria",ORF III AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12303
-#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF III HD AT" tvg-logo="https://picon-13398.kxcdn.com/orf3hd.jpg" group-title="Live: Austria",ORF III HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16388
-#EXTINF:-1 tvg-id="OE24.at" tvg-name="Oe24 TV AT" tvg-logo="https://picon-13398.kxcdn.com/oe24at.jpg" group-title="Live: Austria",Oe24 TV AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28228
-#EXTINF:-1 tvg-id="Puls4.at" tvg-name="Puls4 AT" tvg-logo="https://picon-13398.kxcdn.com/puls4.jpg" group-title="Live: Austria",Puls4 AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12511
-#EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV AT" tvg-logo="https://picon-13398.kxcdn.com/atv.jpg" group-title="Live: Austria",ATV AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12521
-#EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV HD AT" tvg-logo="https://picon-13398.kxcdn.com/atvhd.jpg" group-title="Live: Austria",ATV HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12520
-#EXTINF:-1 tvg-id="ATV2.at" tvg-name="ATV2 AT" tvg-logo="https://picon-13398.kxcdn.com/atv2.jpg" group-title="Live: Austria",ATV2 AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12519
-#EXTINF:-1 tvg-id="KT1.at" tvg-name="Kabel Eins AT" tvg-logo="https://picon-13398.kxcdn.com/kabel1.jpg" group-title="Live: Austria",Kabel Eins AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12518
-#EXTINF:-1 tvg-id="" tvg-name="ProSieben AT" tvg-logo="https://picon-13398.kxcdn.com/prosieben.jpg" group-title="Live: Austria",ProSieben AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12512
-#EXTINF:-1 tvg-id="" tvg-name="NITRO AT" tvg-logo="https://picon-13398.kxcdn.com/rtlnitro.jpg" group-title="Live: Austria",NITRO AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12510
-#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="Servus TV AT" tvg-logo="https://picon-13398.kxcdn.com/servustv.jpg" group-title="Live: Austria",Servus TV AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12509
-#EXTINF:-1 tvg-id="" tvg-name="Sixx AT" tvg-logo="https://picon-13398.kxcdn.com/sixx.jpg" group-title="Live: Austria",Sixx AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12306
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD AT" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Austria",TLC HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15758
-#EXTINF:-1 tvg-id="ORFSport.at" tvg-name="ORF Sport Plus AT" tvg-logo="https://picon-13398.kxcdn.com/orfsportplus.jpg" group-title="Live: Austria",ORF Sport Plus AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12516
-#EXTINF:-1 tvg-id="ORFSport.at" tvg-name="ORF Sport Plus HD AT" tvg-logo="https://picon-13398.kxcdn.com/orfsportplushd.jpg" group-title="Live: Austria",ORF Sport Plus HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16387
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria AT" tvg-logo="https://picon-13398.kxcdn.com/skysportaustria.jpg" group-title="Live: Austria",Sky Sport Austria AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9551
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria HD AT" tvg-logo="https://picon-13398.kxcdn.com/skysportaustriahd.jpg" group-title="Live: Austria",Sky Sport Austria HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15578
-#EXTINF:-1 tvg-id="" tvg-name="RedBull TV AT" tvg-logo="https://picon-13398.kxcdn.com/redbulltv.jpg" group-title="Live: Austria",RedBull TV AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18931
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD AT" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Austria",Disney Channel HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/15756
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon AT" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Austria",Nickelodeon AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/14570
-#EXTINF:-1 tvg-id="" tvg-name="Dorf TV AT" tvg-logo="https://picon-13398.kxcdn.com/dorfat.jpg" group-title="Live: Austria",Dorf TV AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28226
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2B HD AT" tvg-logo="https://picon-13398.kxcdn.com/orf2bhd.jpg" group-title="Live: Austria",ORF 2B HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16386
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2K HD AT" tvg-logo="https://picon-13398.kxcdn.com/orf2khd.jpg" group-title="Live: Austria",ORF 2K HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16385
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2O HD AT" tvg-logo="https://picon-13398.kxcdn.com/orf2ohd.jpg" group-title="Live: Austria",ORF 2O HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16384
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2S HD AT" tvg-logo="https://picon-13398.kxcdn.com/orf2shd.jpg" group-title="Live: Austria",ORF 2S HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16383
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2ST HD AT" tvg-logo="https://picon-13398.kxcdn.com/orf2sthd.jpg" group-title="Live: Austria",ORF 2ST HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16382
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2T HD AT" tvg-logo="https://picon-13398.kxcdn.com/orf2thd.jpg" group-title="Live: Austria",ORF 2T HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16381
-#EXTINF:-1 tvg-id="" tvg-name="R9 HD AT" tvg-logo="https://picon-13398.kxcdn.com/r9oesterreich.jpg" group-title="Live: Austria",R9 HD AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16380
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central AT" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Austria",Comedy Central AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/29863
-#EXTINF:-1 tvg-id="" tvg-name="Kronehit TV AT" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Live: Austria",Kronehit TV AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/9393
-#EXTINF:-1 tvg-id="" tvg-name="StarParadies AT" tvg-logo="https://picon-13398.kxcdn.com/starparadies.jpg" group-title="Live: Austria",StarParadies AT
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12507
-#EXTINF:-1 tvg-id="" tvg-name="▬ Switzerland [CH] ▬" tvg-logo="https://picon-13398.kxcdn.com/switzerland.jpg" group-title="Live: Switzerland",▬ Switzerland [CH] ▬
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16514
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1 HD CH" tvg-logo="https://picon-13398.kxcdn.com/srf1hd.jpg" group-title="Live: Switzerland",SRF 1 HD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/3446
-#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei HD CH" tvg-logo="https://picon-13398.kxcdn.com/srfzweihd.jpg" group-title="Live: Switzerland",SRF zwei HD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11645
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info HD CH" tvg-logo="https://picon-13398.kxcdn.com/srfinfohd.jpg" group-title="Live: Switzerland",SRF Info HD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11652
-#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ CH" tvg-logo="https://picon-13398.kxcdn.com/3plusch.jpg" group-title="Live: Switzerland",3+ CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19592
-#EXTINF:-1 tvg-id="4Plus.ch" tvg-name="4+ CH" tvg-logo="https://picon-13398.kxcdn.com/4plusch.jpg" group-title="Live: Switzerland",4+ CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19593
-#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+ CH" tvg-logo="https://picon-13398.kxcdn.com/schweiz5.jpg" group-title="Live: Switzerland",5+ CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19594
-#EXTINF:-1 tvg-id="" tvg-name="Nick HD CH" tvg-logo="https://picon-13398.kxcdn.com/nickhduk.jpg" group-title="Live: Switzerland",Nick HD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/35201
-#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn CH" tvg-logo="https://picon-13398.kxcdn.com/telebarnch.jpg" group-title="Live: Switzerland",TeleBärn CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16838
-#EXTINF:-1 tvg-id="TeleBasel.ch" tvg-name="Tele Basel CH" tvg-logo="https://picon-13398.kxcdn.com/telebaselch.jpg" group-title="Live: Switzerland",Tele Basel CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19599
-#EXTINF:-1 tvg-id="" tvg-name="Tele Bielingue CH" tvg-logo="https://picon-13398.kxcdn.com/telebielinguech.jpg" group-title="Live: Switzerland",Tele Bielingue CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16839
-#EXTINF:-1 tvg-id="" tvg-name="TeleZüri FHD CH" tvg-logo="https://picon-13398.kxcdn.com/telezurich.jpg" group-title="Live: Switzerland",TeleZüri FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12474
-#EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="Tele M1 HD CH" tvg-logo="https://picon-13398.kxcdn.com/telem1ch.jpg" group-title="Live: Switzerland",Tele M1 HD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19598
-#EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO CH" tvg-logo="https://picon-13398.kxcdn.com/tvoch.jpg" group-title="Live: Switzerland",TVO CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/19591
-#EXTINF:-1 tvg-id="" tvg-name="MySports FHD CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17483
-#EXTINF:-1 tvg-id="MySports1.ch" tvg-name="MySports 1 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 1 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17484
-#EXTINF:-1 tvg-id="MySports2.ch" tvg-name="MySports 2 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 2 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17485
-#EXTINF:-1 tvg-id="MySports3.ch" tvg-name="MySports 3 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 3 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17486
-#EXTINF:-1 tvg-id="MySports4.ch" tvg-name="MySports 4 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 4 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17487
-#EXTINF:-1 tvg-id="MySports5.ch" tvg-name="MySports 5 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 5 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17488
-#EXTINF:-1 tvg-id="MySports6.ch" tvg-name="MySports 6 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 6 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17489
-#EXTINF:-1 tvg-id="MySports7.ch" tvg-name="MySports 7 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 7 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18811
-#EXTINF:-1 tvg-id="MySports8.ch" tvg-name="MySports 8 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 8 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18812
-#EXTINF:-1 tvg-id="MySports9.ch" tvg-name="MySports 9 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 9 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18813
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 1 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg" group-title="Live: Switzerland",Sky Bundesliga 1 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18263
-#EXTINF:-1 tvg-id="TeleclubSport1.ch" tvg-name="Teleclub Sport 1 CH" tvg-logo="https://picon-13398.kxcdn.com/teleclubsport1.jpg" group-title="Live: Switzerland",Teleclub Sport 1 CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11660
-#EXTINF:-1 tvg-id="TeleclubSport1.ch" tvg-name="Teleclub Sport 1 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/teleclubsport1hd.jpg" group-title="Live: Switzerland",Teleclub Sport 1 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16307
-#EXTINF:-1 tvg-id="TeleclubSport2.ch" tvg-name="Teleclub Sport 2 CH" tvg-logo="https://picon-13398.kxcdn.com/teleclubsport2.jpg" group-title="Live: Switzerland",Teleclub Sport 2 CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/12475
-#EXTINF:-1 tvg-id="TeleclubSport2.ch" tvg-name="Teleclub Sport 2 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/teleclubsport2.jpg" group-title="Live: Switzerland",Teleclub Sport 2 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16306
-#EXTINF:-1 tvg-id="" tvg-name="Teleclub Sky Sport 1 CH" tvg-logo="https://picon-13398.kxcdn.com/skysport1.jpg" group-title="Live: Switzerland",Teleclub Sky Sport 1 CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28579
-#EXTINF:-1 tvg-id="" tvg-name="Teleclub Sky Sport 1 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/skysport1.jpg" group-title="Live: Switzerland",Teleclub Sky Sport 1 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28580
-#EXTINF:-1 tvg-id="" tvg-name="Teleclub Sky Sport 2 CH" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Switzerland",Teleclub Sky Sport 2 CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28581
-#EXTINF:-1 tvg-id="" tvg-name="Teleclub Sky Sport 2 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Switzerland",Teleclub Sky Sport 2 FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/28582
-#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="https://picon-13398.kxcdn.com/teleclubzoomch.jpg" group-title="Live: Switzerland",Teleclub Zoom CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18213
-#EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom FHD CH" tvg-logo="https://picon-13398.kxcdn.com/teleclubzoomch.jpg" group-title="Live: Switzerland",Teleclub Zoom FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18214
-#EXTINF:-1 tvg-id="TeleclubAction.ch" tvg-name="Teleclub Action CH" tvg-logo="https://picon-13398.kxcdn.com/teleclubactionch.jpg" group-title="Live: Switzerland",Teleclub Action CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11663
-#EXTINF:-1 tvg-id="TeleclubAction.ch" tvg-name="Teleclub Action FHD CH" tvg-logo="https://picon-13398.kxcdn.com/teleclubactionch.jpg" group-title="Live: Switzerland",Teleclub Action FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16308
-#EXTINF:-1 tvg-id="TeleclubCinema.ch" tvg-name="Teleclub Cinema CH" tvg-logo="https://picon-13398.kxcdn.com/teleclubcinema.jpg" group-title="Live: Switzerland",Teleclub Cinema CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11662
-#EXTINF:-1 tvg-id="TeleclubCinema.ch" tvg-name="Teleclub Cinema FHD CH" tvg-logo="https://picon-13398.kxcdn.com/teleclubcinemahdch.jpg" group-title="Live: Switzerland",Teleclub Cinema FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16304
-#EXTINF:-1 tvg-id="TeleclubEmotion.ch" tvg-name="Teleclub Emotion CH" tvg-logo="https://picon-13398.kxcdn.com/teleclubemotionch.jpg" group-title="Live: Switzerland",Teleclub Emotion CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11661
-#EXTINF:-1 tvg-id="TeleclubEmotion.ch" tvg-name="Teleclub Emotion FHD CH" tvg-logo="https://picon-13398.kxcdn.com/teleclubemotionch.jpg" group-title="Live: Switzerland",Teleclub Emotion FHD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/16305
-#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS Un HD CH" tvg-logo="https://picon-13398.kxcdn.com/rtsun.jpg" group-title="Live: Switzerland",RTS Un HD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11642
-#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS Deux HD CH" tvg-logo="https://picon-13398.kxcdn.com/rtsdeux.jpg" group-title="Live: Switzerland",RTS Deux HD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11643
-#EXTINF:-1 tvg-id="BeCuriousTV.ch" tvg-name="BeCurious TV CH" tvg-logo="https://picon-13398.kxcdn.com/becurious.jpg" group-title="Live: Switzerland",BeCurious TV CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/13160
-#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha HD CH" tvg-logo="https://picon-13398.kxcdn.com/canalalphahd.jpg" group-title="Live: Switzerland",Canal Alpha HD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/13150
-#EXTINF:-1 tvg-id="" tvg-name="MySports FHD French CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports FHD French CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17490
-#EXTINF:-1 tvg-id="MySports1.ch" tvg-name="MySports 1 FHD French CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 1 FHD French CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17491
-#EXTINF:-1 tvg-id="MySports2.ch" tvg-name="MySports 2 FHD French CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 2 FHD French CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17492
-#EXTINF:-1 tvg-id="MySports3.ch" tvg-name="MySports 3 FHD French CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 3 FHD French CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17493
-#EXTINF:-1 tvg-id="MySports4.ch" tvg-name="MySports 4 FHD French CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 4 FHD French CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17494
-#EXTINF:-1 tvg-id="MySports5.ch" tvg-name="MySports 5 FHD French CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 5 FHD French CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17495
-#EXTINF:-1 tvg-id="MySports6.ch" tvg-name="MySports 6 FHD French CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 6 FHD French CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/17496
-#EXTINF:-1 tvg-id="MySports7.ch" tvg-name="MySports 7 FHD French CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 7 FHD French CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18814
-#EXTINF:-1 tvg-id="MySports8.ch" tvg-name="MySports 8 FHD French CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 8 FHD French CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18815
-#EXTINF:-1 tvg-id="MySports9.ch" tvg-name="MySports 9 FHD French CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 9 FHD French CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/18816
-#EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA 1 HD CH" tvg-logo="https://picon-13398.kxcdn.com/rsila1.jpg" group-title="Live: Switzerland",RSI LA 1 HD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11650
-#EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="RSI LA 2 HD CH" tvg-logo="https://picon-13398.kxcdn.com/rsila2.jpg" group-title="Live: Switzerland",RSI LA 2 HD CH
-http://tv.iptvstack.net:80/JHowardedQj590/RZVfCa410/11651
+#EXTINF:-1,DE: RTL HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15579.ts
+#EXTINF:-1,DE: 13TH STREET HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15602.ts
+#EXTINF:-1,DE: ARTE
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15601.ts
+#EXTINF:-1,DE: RTL LIVING
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15600.ts
+#EXTINF:-1,DE: DAS ERSTE HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15599.ts
+#EXTINF:-1,DE: DISCOVERY HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15590.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15588.ts
+#EXTINF:-1,DE: DISNEY JUNIOR
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15595.ts
+#EXTINF:-1,DE: KIKA HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15594.ts
+#EXTINF:-1,DE: N-TV HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15591.ts
+#EXTINF:-1,DE: NATIONAL GEOGRAPHIC HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15587.ts
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15586.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15582.ts
+#EXTINF:-1,DE: PRO SIEBEN MAXX HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15580.ts
+#EXTINF:-1,DE: RTL CRIME UHD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15576.ts
+#EXTINF:-1,DE: RTL PASSION HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15574.ts
+#EXTINF:-1,DE: SAT 1 HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15573.ts
+#EXTINF:-1,DE: SIXX HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15570.ts
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15569.ts
+#EXTINF:-1,DE: SKY CINEMA 24  HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15624.ts
+#EXTINF:-1,DE: SKY CINEMA ACTION HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15623.ts
+#EXTINF:-1,DE: SKY CINEMA HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15621.ts
+#EXTINF:-1,DE: SKY CINEMA HITS HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15620.ts
+#EXTINF:-1,DE: SKY CINEMA FAMILY HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15618.ts
+#EXTINF:-1,DE: SKY KRIMI HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15614.ts
+#EXTINF:-1,DE: SKY CINEMA COMEDY
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15603.ts
+#EXTINF:-1,DE: E! ENTERTAINMENT HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15628.ts
+#EXTINF:-1,DE: SUPER RTL HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15567.ts
+#EXTINF:-1,DE: SYFY
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15566.ts
+#EXTINF:-1,DE: SAT 1 GOLD HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15565.ts
+#EXTINF:-1,DE: TNT COMEDY HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15564.ts
+#EXTINF:-1,DE: TNT FILM HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15563.ts
+#EXTINF:-1,DE: TNT SERIE HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15562.ts
+#EXTINF:-1,DE: VOX HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15561.ts
+#EXTINF:-1,DE: ZDF HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15560.ts
+#EXTINF:-1,DE: TLC HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15559.ts
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15627.ts
+#EXTINF:-1,DE: EUROSPORT 2
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15626.ts
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/318788.ts
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/318789.ts
+#EXTINF:-1,DE: TELEKOM BUNDESLIGA 1 HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15611.ts
+#EXTINF:-1,DE: TELEKOM BUNDESLIGA 2 HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15619.ts
+#EXTINF:-1,DE: TELEKOM BUNDESLIGA 3 HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/335066.ts
+#EXTINF:-1,DE: TELEKOM BUNDESLIGA 4 HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/335067.ts
+#EXTINF:-1,DE: TELEKOM BUNDESLIGA 5 HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/335068.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/318790.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/318791.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 3
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/318792.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 4
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/318793.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 5
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/318794.ts
 
