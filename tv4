@@ -1,4 +1,4 @@
-#EX
+#EXTM3U
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="beIN SPORTS News HD" tvg-logo="https://i.ibb.co/59Rqk9g/beinsportsnews.png" group-title="beIN SPORTS HD & SD | LIVE",beIN SPORTS News HD
 http://dmtn.tv:8080/mypaneltv/TrPz3bKeRfZE8/23691
 #EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="FR: Paris Premiere HD" tvg-logo="https://i.ibb.co/Km7qbzd/CHN43-FB-294.png" group-title="FRANCE HD | LIVE",FR: Paris Premiere HD
