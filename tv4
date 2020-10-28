@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:-1 Woppegong Sports Testphase
 #EXTINF:-1 tvg-id="" tvg-name="f1-obc-01" tvg-logo="https://69tv.rocks/logos/icons/MISC/F1TV.png" group-title="SPORTS - F1",f1-obc-01
 http://s1.mainevents.icu:8000/48212021AM4884820/47212021AM4784720/1329
 #EXTINF:-1 tvg-id="" tvg-name="f1-obc-02" tvg-logo="https://69tv.rocks/logos/icons/MISC/F1TV.png" group-title="SPORTS - F1",f1-obc-02
