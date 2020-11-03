@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, "TESTACCOUNT"... Stabiles IPTV unter ***  https://ogy.de/7kxh ***
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/44989.m3u8
+http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/13010.m3u8
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="DE:: Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/320px-Das_Erste_2014.svg.png" group-title="GERMANY",DE:: Das Erste
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/80416.m3u8
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="DE:: Das Erste HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Das_Erste_HD_Corner-Logo_2015.png" group-title="GERMANY",DE:: Das Erste HD
@@ -169,8 +169,8 @@ http://
 http://
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport Bundesliga 10 HD" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301666_Sky_Sport_Bundesliga_10_HD.png" group-title="GERMANY",DE:: Sky Sport Bundesliga 10 HD  ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="DE:: Sky Sport Bundesliga 1 FHD" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301657_Sky_Sport_Bundesliga_1_HD.png" group-title="GERMANY",DE:: Sky Sport Bundesliga 1 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/22922.m3u8
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="DE:: Sky Sport Bundesliga 1 FHD" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301657_Sky_Sport_Bundesliga_1_HD.png" group-title="GERMANY",DE:: Sky Sport Bundesliga 1 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
 #EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="DE:: Sky Sport Bundesliga 2 FHD" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301658_Sky_Sport_Bundesliga_2_HD.png" group-title="GERMANY",DE:: Sky Sport Bundesliga 2 FHD  ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
 #EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="DE:: Sky Sport Bundesliga 3 FHD" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301659_Sky_Sport_Bundesliga_3_HD.png" group-title="GERMANY",DE:: Sky Sport Bundesliga 3 FHD  ***  Freischaltung unter https://ogy.de/7kxh ***
@@ -199,16 +199,16 @@ http://
 http://
 #EXTINF:-1 tvg-id="" tvg-name="===== DE SPORT =====" tvg-logo="" group-title="GERMANY",===== DE SPORT =====
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/17812.m3u8
-#EXTINF:-1 tvg-id="Dazn1Bar.de" tvg-name="DE:: Dazn Bar 1 HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_84_b_85_c000000_0_0_01.png" group-title="GERMANY",DE:: Dazn Bar 1 HD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/96412.m3u8
-#EXTINF:-1 tvg-id="Dazn1Bar.de" tvg-name="DE:: DAZN Bar 1 FHD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_84_b_85_c000000_0_0_01.png" group-title="GERMANY",DE:: DAZN Bar 1 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/34123.m3u8
+#EXTINF:-1 tvg-id="Dazn1Bar.de" tvg-name="DE:: Dazn Bar 1 HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_84_b_85_c000000_0_0_01.png" group-title="GERMANY",DE:: Dazn Bar 1 HD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="Dazn1Bar.de" tvg-name="DE:: DAZN Bar 1 FHD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_84_b_85_c000000_0_0_01.png" group-title="GERMANY",DE:: DAZN Bar 1 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
 #EXTINF:-1 tvg-id="Dazn2Bar.de" tvg-name="DE:: Dazn Bar 2 HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png" group-title="GERMANY",DE:: Dazn Bar 2 HD ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
 #EXTINF:-1 tvg-id="Dazn2Bar.de" tvg-name="DE:: DAZN Bar 2 FHD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png" group-title="GERMANY",DE:: DAZN Bar 2 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
-#EXTINF:-1 tvg-id="" tvg-name="DE:: DAZN Event 1 FHD" tvg-logo="" group-title="GERMANY",DE:: DAZN Event 1 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/118896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: DAZN Event 1 FHD" tvg-logo="" group-title="GERMANY",DE:: DAZN Event 1 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE:: Eurosport 1" tvg-logo="https://cellkabel.hu/img/logo/Eurosport%201_logo.png" group-title="GERMANY",DE:: Eurosport 1
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23388.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE:: Eurosport 1 HD" tvg-logo="https://cellkabel.hu/img/logo/Eurosport%201_logo_hd.png" group-title="GERMANY",DE:: Eurosport 1 HD
@@ -221,16 +221,16 @@ http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23384.m3u8
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23385.m3u8
 #EXTINF:-1 tvg-id="Sky1.de" tvg-name="DE:: Eurosport 2 FHD" tvg-logo="https://cellkabel.hu/img/logo/Eurosport%202_logo_hd.png" group-title="GERMANY",DE:: Eurosport 2 FHD
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/22936.m3u8
-#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE:: Eurosport 2 Xtra SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png/795px-Eurosport_2_HD_XTRA_Logo_2017.png" group-title="GERMANY",DE:: Eurosport 2 Xtra SD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/21719.m3u8
-#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE:: Eurosport 2 Xtra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png/795px-Eurosport_2_HD_XTRA_Logo_2017.png" group-title="GERMANY",DE:: Eurosport 2 Xtra HD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/21718.m3u8
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE:: Eurosport 2 Xtra SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png/795px-Eurosport_2_HD_XTRA_Logo_2017.png" group-title="GERMANY",DE:: Eurosport 2 Xtra SD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE:: Eurosport 2 Xtra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png/795px-Eurosport_2_HD_XTRA_Logo_2017.png" group-title="GERMANY",DE:: Eurosport 2 Xtra HD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
 #EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE:: Eurosport 2 Xtra FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png/795px-Eurosport_2_HD_XTRA_Logo_2017.png" group-title="GERMANY",DE:: Eurosport 2 Xtra FHD  ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Eurosport360 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eurosport_360_Logo.svg/250px-Eurosport_360_Logo.svg.png" group-title="GERMANY",DE:: Eurosport360 1 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/80154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Eurosport360 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eurosport_360_Logo.svg/250px-Eurosport_360_Logo.svg.png" group-title="GERMANY",DE:: Eurosport360 2 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/80196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Eurosport360 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eurosport_360_Logo.svg/250px-Eurosport_360_Logo.svg.png" group-title="GERMANY",DE:: Eurosport360 1 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Eurosport360 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eurosport_360_Logo.svg/250px-Eurosport_360_Logo.svg.png" group-title="GERMANY",DE:: Eurosport360 2 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Eurosport360 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eurosport_360_Logo.svg/250px-Eurosport_360_Logo.svg.png" group-title="GERMANY",DE:: Eurosport360 3 FHD
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/80920.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Eurosport360 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eurosport_360_Logo.svg/250px-Eurosport_360_Logo.svg.png" group-title="GERMANY",DE:: Eurosport360 4 FHD
@@ -245,16 +245,16 @@ http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/80928.m3u8
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/80930.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Eurosport360 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eurosport_360_Logo.svg/250px-Eurosport_360_Logo.svg.png" group-title="GERMANY",DE:: Eurosport360 9 FHD
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/80932.m3u8
-#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="DE:: sport1 SD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1.png?m=1458724281" group-title="GERMANY",DE:: sport1 SD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/22917.m3u8
-#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="DE:: sport1 HD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1%20hd.png?m=1458724278" group-title="GERMANY",DE:: sport1 HD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/19806.m3u8
-#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="DE:: sport1 FHD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1%20hd.png?m=1458724278" group-title="GERMANY",DE:: sport1 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/30055.m3u8
-#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="DE:: sport1+ HD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1%2B%20hd-01.png?m=1458724281" group-title="GERMANY",DE:: sport1+ HD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/19081.m3u8
-#EXTINF:-1 tvg-id="eSports1.de" tvg-name="DE:: eSports1 FHD" tvg-logo="https://www.qmde.net/www.quotenmeter.de/pics/esports1/logo/esports1_ox2__W1000xh0.jpg" group-title="GERMANY",DE:: eSports1 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/47962.m3u8
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="DE:: sport1 SD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1.png?m=1458724281" group-title="GERMANY",DE:: sport1 SD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="DE:: sport1 HD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1%20hd.png?m=1458724278" group-title="GERMANY",DE:: sport1 HD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="DE:: sport1 FHD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1%20hd.png?m=1458724278" group-title="GERMANY",DE:: sport1 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="DE:: sport1+ HD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1%2B%20hd-01.png?m=1458724281" group-title="GERMANY",DE:: sport1+ HD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="eSports1.de" tvg-name="DE:: eSports1 FHD" tvg-logo="https://www.qmde.net/www.quotenmeter.de/pics/esports1/logo/esports1_ox2__W1000xh0.jpg" group-title="GERMANY",DE:: eSports1 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
 #EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE:: Sportdigital HD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sportdigital_tv.png?m=1458724283" group-title="GERMANY",DE:: Sportdigital HD
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7963.m3u8
 #EXTINF:-1 tvg-id="MotorVision.de" tvg-name="DE:: Motorvision TV HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_A8_B_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Motorvision TV HD
@@ -275,12 +275,12 @@ http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/24584.m3u8
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/24583.m3u8
 #EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="DE:: Sky Sport News FHD" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301679_Sky_Sport_News_HD.png" group-title="GERMANY",DE:: Sky Sport News FHD
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport Austria 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport Austria 1
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/40227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport Austria 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport Austria 1 HD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/40228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport Austria 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport Austria 1 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/22923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport Austria 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport Austria 1 ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport Austria 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport Austria 1 HD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport Austria 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport Austria 1 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport Austria 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport Austria 2 ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport Austria 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport Austria 2 HD ***  Freischaltung unter https://ogy.de/7kxh ***
@@ -299,40 +299,40 @@ http://
 http://
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport Austria 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport Austria 4 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 1" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_DD_4_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 1
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7966.m3u8
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="DE:: Sky Sport 2" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_DE_2_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 2
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7967.m3u8
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE:: Sky Sport 3" tvg-logo="http://apps.iptv.lu/images/channel/original/205.png" group-title="GERMANY",DE:: Sky Sport 3
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7968.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 4" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_111_2_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 4
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7969.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 5" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_11B_2_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 5
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7970.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 6" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_125_3_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 6
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7971.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 7" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_12F_3_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 7
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7972.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 8" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_139_3_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 8
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7973.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 9" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_143_3_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 9
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7974.m3u8
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 1" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_DD_4_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 1 ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="DE:: Sky Sport 2" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_DE_2_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 2 ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE:: Sky Sport 3" tvg-logo="http://apps.iptv.lu/images/channel/original/205.png" group-title="GERMANY",DE:: Sky Sport 3 ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 4" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_111_2_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 4 ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 5" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_11B_2_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 5 ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 6" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_125_3_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 6 ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 7" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_12F_3_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 7 ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 8" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_139_3_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 8 ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 9" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_143_3_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 9 ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
 #EXTINF:-1 tvg-id="skysport10.de" tvg-name="DE:: Sky Sport 10" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_14D_2_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 10
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7975.m3u8
 #EXTINF:-1 tvg-id="skysport11.de" tvg-name="DE:: Sky Sport 11" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1_FD_3_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 11
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/7976.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sky_Sport_1_HD_-_Logo_2015.svg/800px-Sky_Sport_1_HD_-_Logo_2015.svg.png" group-title="GERMANY",DE:: Sky Sport 1 HD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23614.m3u8
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="DE:: Sky Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_72_D_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 2 HD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23611.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_10C_6_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 3 HD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23610.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_116_D_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 4 HD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23609.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 5 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_120_C_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 5 HD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23608.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 6 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_12A_9_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 6 HD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23607.m3u8
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sky_Sport_1_HD_-_Logo_2015.svg/800px-Sky_Sport_1_HD_-_Logo_2015.svg.png" group-title="GERMANY",DE:: Sky Sport 1 HD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="DE:: Sky Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_72_D_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 2 HD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_10C_6_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 3 HD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_116_D_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 4 HD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 5 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_120_C_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 5 HD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 6 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_12A_9_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 6 HD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 7 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_134_4_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 7 HD
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23606.m3u8
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 8 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_13E_2_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 8 HD
@@ -350,13 +350,13 @@ http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/40606.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport 14 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_187_B_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 14 HD
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/40608.m3u8
 #EXTINF:-1 tvg-id="SkySportUHD.de" tvg-name="DE:: Sky Sport UHD (AuÃer Betrieb)" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1F_229_10_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport UHD (AuÃer Betrieb)
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/49422.m3u8
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sky_Sport_1_HD_-_Logo_2015.svg/800px-Sky_Sport_1_HD_-_Logo_2015.svg.png" group-title="GERMANY",DE:: Sky Sport 1 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23625.m3u8
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="DE:: Sky Sport 2 FHD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_72_D_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 2 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23624.m3u8
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE:: Sky Sport 3 FHD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_10C_6_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 3 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23623.m3u8
+http://
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sky_Sport_1_HD_-_Logo_2015.svg/800px-Sky_Sport_1_HD_-_Logo_2015.svg.png" group-title="GERMANY",DE:: Sky Sport 1 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="DE:: Sky Sport 2 FHD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_72_D_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 2 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE:: Sky Sport 3 FHD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_10C_6_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 3 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 4 FHD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_116_D_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 4 FHD
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23622.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport 5 FHD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_120_C_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 5 FHD
@@ -381,7 +381,7 @@ http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/40604.m3u8
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/40607.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="===== Telekom =====" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Telekom_Logo_2013.svg/289px-Telekom_Logo_2013.svg.png" group-title="GERMANY",===== Telekom =====
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/29435.m3u8
-#EXTINF:-1 tvg-id="TelekomFussball1.de" tvg-name="DE:: Telekom FuÃball 1 HD" tvg-logo="https://png2.kisspng.com/sh/c4d0fc17172b0d9a2ae3260f6a5ddbde/L0KzQYm4UcA6N6hve5H0aYP2gLBuTfxwb5CyeuRqbnSwQ37zifdiNZd0huY2cILydMbqlL1lbaRuf9C2NXLoRYSBV8NjQWI5fqk3NEO7QYG6UcIyPWU2T6YDOEW0R4aBUb5xdpg=/kisspng-logo-brand-3-liga-font-product-design-5be53873b914f7.4381031215417488517581.png" group-title="GERMANY",DE:: Telekom FuÃball 1 HD
+#EXTINF:-1 tvg-id="TelekomFussball1.de" tvg-name="DE:: Telekom FuÃball 1 HD" tvg-logo="https://png2.kisspng.com/sh/c4d0fc17172b0d9a2ae3260f6a5ddbde/L0KzQYm4UcA6N6hve5H0aYP2gLBuTfxwb5CyeuRqbnSwQ37zifdiNZd0huY2cILydMbqlL1lbaRuf9C2NXLoRYSBV8NjQWI5fqk3NEO7QYG6UcIyPWU2T6YDOEW0R4aBUb5xdpg=/kisspng-logo-brand-3-liga-font-product-design-5be53873b914f7.4381031215417488517581.png" group-title="GERMANY",DE:: Telekom FuÃball 1 HD ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
 #EXTINF:-1 tvg-id="TelekomFussball2.de" tvg-name="DE:: Telekom FuÃball 2 HD" tvg-logo="https://png2.kisspng.com/sh/c4d0fc17172b0d9a2ae3260f6a5ddbde/L0KzQYm4UcA6N6hve5H0aYP2gLBuTfxwb5CyeuRqbnSwQ37zifdiNZd0huY2cILydMbqlL1lbaRuf9C2NXLoRYSBV8NjQWI5fqk3NEO7QYG6UcIyPWU2T6YDOEW0R4aBUb5xdpg=/kisspng-logo-brand-3-liga-font-product-design-5be53873b914f7.4381031215417488517581.png" group-title="GERMANY",DE:: Telekom FuÃball 2 HD ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
@@ -759,8 +759,8 @@ http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/23503.m3u8
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/26932.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AT:: Puls 24 FHD" tvg-logo="https://www.prosiebensat1.com/uploads/2019/08/26/PULS_24_496x260_496x260.png" group-title="AUSTRIA / SWISS",AT:: Puls 24 FHD
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/100915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT:: ORF 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ORFeins_HD.svg/320px-ORFeins_HD.svg.png" group-title="AUSTRIA / SWISS",AT:: ORF 1 HD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/26930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AT:: ORF 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ORFeins_HD.svg/320px-ORFeins_HD.svg.png" group-title="AUSTRIA / SWISS",AT:: ORF 1 HD ***  Freischaltung unter https://ogy.de/7kxh ***
+http://
 #EXTINF:-1 tvg-id="" tvg-name="AT:: ORF 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ORF_2_HD.svg/320px-ORF_2_HD.svg.png" group-title="AUSTRIA / SWISS",AT:: ORF 2 FHD
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/26929.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AT: ORF 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ORF_III_HD_Logo.png/320px-ORF_III_HD_Logo.png" group-title="AUSTRIA / SWISS",AT: ORF 3
@@ -779,17 +779,7 @@ http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/26941.m3u8
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/27054.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Swiss: SRF Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Logo_SRF_info_HD.svg/800px-Logo_SRF_info_HD.svg.png" group-title="AUSTRIA / SWISS",Swiss: SRF Info
 http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/10565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Teleclub.svg/800px-Teleclub.svg.png" group-title="AUSTRIA / SWISS",Swiss: TC Cinema
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/26924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Teleclub.svg/800px-Teleclub.svg.png" group-title="AUSTRIA / SWISS",Swiss: TC Action
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/26922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Emotion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Teleclub.svg/800px-Teleclub.svg.png" group-title="AUSTRIA / SWISS",Swiss: TC Emotion
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/26923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Teleclub_Sport_HD.svg/320px-Teleclub_Sport_HD.svg.png" group-title="AUSTRIA / SWISS",Swiss: TC Sport 1 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/26921.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Teleclub_Sport_HD.svg/320px-Teleclub_Sport_HD.svg.png" group-title="AUSTRIA / SWISS",Swiss: TC Sport 2 FHD
-http://live.darkside-iptv.com:8080/live/7wWSRBrYmw/4tyJW0RSMc/26920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Out of order] Swiss: Mysports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MySports_Logo.svg/320px-MySports_Logo.svg.png" group-title="AUSTRIA / SWISS",[Out of order] Swiss: Mysports HD
+#EXTINF:-1 tvg-id="" tvg-name="[Out of order] Swiss: Mysports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MySports_Logo.svg/320px-MySports_Logo.svg.png" group-title="AUSTRIA / SWISS",[Out of order] Swiss: Mysports HD ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
 #EXTINF:-1 tvg-id="" tvg-name="[Out of order] Swiss: Mysports 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MySports_Logo.svg/320px-MySports_Logo.svg.png" group-title="AUSTRIA / SWISS",[Out of order] Swiss: Mysports 1 FHD ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
@@ -803,4 +793,6 @@ http://
 http://
 #EXTINF:-1 tvg-id="" tvg-name="[Out of order] Swiss: MySports 6 FHD (CH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MySports_Logo.svg/320px-MySports_Logo.svg.png" group-title="AUSTRIA / SWISS",[Out of order] Swiss: MySports 6 FHD (CH) ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
+
+
 
