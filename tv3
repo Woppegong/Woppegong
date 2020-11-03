@@ -33,7 +33,7 @@ http://live.darkside-iptv.com:8080/live/fbOrJ5m395/YbCYAbXpJz/61842.m3u8
 http://live.darkside-iptv.com:8080/live/fbOrJ5m395/YbCYAbXpJz/21560.m3u8
 #EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="DE:: Sat.1 Emotions" tvg-logo="https://upload.wikimedia.org/wikipedia/de/3/35/Sat.1_Emotions_2012.png" group-title="GERMANY",DE:: Sat.1 Emotions
 http://live.darkside-iptv.com:8080/live/fbOrJ5m395/YbCYAbXpJz/44990.m3u8
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE:: RTL" tvg-logo="https://www.twins-hairstyle.de/wp-content/uploads/2019/01/RTL-Logo.png" group-title="GERMANY",DE:: RTL
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE:: RTL" tvg-logo="https://www.twins-hairstyle.de/wp-content/uploads/2019/01/RTL-Logo.png" group-title="GERMANY",DE:: RTL ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="DE:: RTL HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_2E87_411_1_C00000_0_0_0.png" group-title="GERMANY",DE:: RTL HD ***  Freischaltung unter https://ogy.de/7kxh ***
 http://
@@ -854,4 +854,3 @@ http://live.darkside-iptv.com:8080/live/fbOrJ5m395/YbCYAbXpJz/26912.m3u8
 http://live.darkside-iptv.com:8080/live/fbOrJ5m395/YbCYAbXpJz/124717.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: ARD SENDER" tvg-logo="" group-title="GERMANY",DE: ARD SENDER
 http://live.darkside-iptv.com:8080/live/fbOrJ5m395/YbCYAbXpJz/170133.m3u8
-
