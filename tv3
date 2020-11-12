@@ -1,636 +1,512 @@
 #EXTM3U 
-#EXTINF:-1, "TESTACCOUNT"... Stabiles IPTV unter ***  https://ogy.de/i7s4 ***
+#EXTINF:-1,"TESTACCOUNT" Stabiles IPTV ***https://ogy.de/77q6***
 http://
-#EXTINF:-1,Das Erste HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13166
-#EXTINF:-1,Das Erste HD [B] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6262
 #EXTINF:-1,Das Erste DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6256
-#EXTINF:-1,ZDF FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6151
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3451
+#EXTINF:-1,Das Erste HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/22824
+#EXTINF:-1,Das Erste FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16493
+#EXTINF:-1,One FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15751
+#EXTINF:-1,One TV FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/23043
+#EXTINF:-1,ZDF DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/1629
 #EXTINF:-1,ZDF HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/17011
-#EXTINF:-1,ZDF Neo HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/17304
-#EXTINF:-1,RTL FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13565
-#EXTINF:-1,RTL FHD [B] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683243
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/19098
+#EXTINF:-1,ZDF FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16484
+#EXTINF:-1,ZDFinfo DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12295
+#EXTINF:-1,ZDFinfo FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16483
+#EXTINF:-1,ZDFneo DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3453
+#EXTINF:-1,ZDFneo FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16482
+#EXTINF:-1,Kabel Eins FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/1649
+#EXTINF:-1,Kabel Eins Classics DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16581
+#EXTINF:-1,Kabel Eins Doku DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/17167
+#EXTINF:-1,ProSieben DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/1642
+#EXTINF:-1,ProSieben HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14052
+#EXTINF:-1,ProSieben Fun HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16627
+#EXTINF:-1,ProSieben Maxx DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3444
+#EXTINF:-1,ProSieben Maxx FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14051
+#EXTINF:-1,RTL FS DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12300
+#EXTINF:-1,RTL HB NDS DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12299
+#EXTINF:-1,RTL WEST DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12298
 #EXTINF:-1,RTL HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6216
-#EXTINF:-1,Sat.1 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6210
-#EXTINF:-1,Sat.1 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683455
-#EXTINF:-1,Pro 7 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6220
-#EXTINF:-1,Pro 7 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683393
-#EXTINF:-1,Pro Sieben FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8235
-#EXTINF:-1,Pro Sieben HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13144
-#EXTINF:-1,VOX FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13553
-#EXTINF:-1,VOX DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6153
-#EXTINF:-1,VOXup DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679836
-#EXTINF:-1,Kabel 1 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6242
-#EXTINF:-1,Kabel 1 Classic HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9151
-#EXTINF:-1,Kabel 1 Classic DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679844
-#EXTINF:-1,RTL 2 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6215
-#EXTINF:-1,RTL 2 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13136
-#EXTINF:-1,RTL Nitro FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6212
-#EXTINF:-1,RTL Nitro HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13137
-#EXTINF:-1,RTL Passion FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8219
-#EXTINF:-1,RTL Plus DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9152
-#EXTINF:-1,RTL Crime FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6214
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3825
+#EXTINF:-1,RTL FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14049
 #EXTINF:-1,RTL Crime HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/17012
-#EXTINF:-1,Crime & Investigation FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6263
-#EXTINF:-1,Crime & Investigation HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8197
-#EXTINF:-1,RTL Living FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6150
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15570
 #EXTINF:-1,RTL Living HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6213
-#EXTINF:-1,Sat1 Emotion DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13135
-#EXTINF:-1,Sat1 Gold FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6209
-#EXTINF:-1,Pro 7 Fun FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6219
-#EXTINF:-1,Pro 7 Fun HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13145
-#EXTINF:-1,Pro 7 Fun [B] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13142
-#EXTINF:-1,Pro 7 Max FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6218
-#EXTINF:-1,Pro 7 Max HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683394
-#EXTINF:-1,Pro Sieben Maxx HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13143
-#EXTINF:-1,Pro Sieben Maxx FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8234
-#EXTINF:-1,E! Entertainment FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13569
-#EXTINF:-1,E! Entertainment HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9137
-#EXTINF:-1,E! Entertainment DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5095
-#EXTINF:-1,SRF 1 DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6170
-#EXTINF:-1,MDR HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6238
-#EXTINF:-1,MDR S-Anhalt HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8240
-#EXTINF:-1,MDR Sachsen HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8239
-#EXTINF:-1,3Sat FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/16289
-#EXTINF:-1,3sat HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6265
-#EXTINF:-1,NDR HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6225
-#EXTINF:-1,HR FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13150
-#EXTINF:-1,HR HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6243
-#EXTINF:-1,HR Fernsehen HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8225
-#EXTINF:-1,RBB Berlin HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6217
-#EXTINF:-1,BR DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13168
-#EXTINF:-1,SWR HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6165
-#EXTINF:-1,WDR HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6152
-#EXTINF:-1,Franken Fernsehen FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/677835
-#EXTINF:-1,BW Family TV FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6246
-#EXTINF:-1,BW Family TV HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/23772
-#EXTINF:-1,QVC HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13140
-#EXTINF:-1,QVC Beauty & Style DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13141
-#EXTINF:-1,Augsburg TV HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13170
-#EXTINF:-1,Sonnenklar TV FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13130
-#EXTINF:-1,Event - Covid Info FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679845
-#EXTINF:-1,------- Sports -------
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/678834
-#EXTINF:-1,Sky Sports News FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13555
-#EXTINF:-1,Sky Sports News HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6176
-#EXTINF:-1,Sky Sport 1 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13564
-#EXTINF:-1,Sky Sport 1 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683895
-#EXTINF:-1,Sky Sport 1 DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9125
-#EXTINF:-1,Sky Sport 1 [B] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/52533
-#EXTINF:-1,Sky Sport 2 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7362
-#EXTINF:-1,Sky Sport 2 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683896
-#EXTINF:-1,Sky Sport 3 [Match Time] FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13563
-#EXTINF:-1,Sky Sport 3 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6182
-#EXTINF:-1,Sky Sport 4 [Match Time] FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13562
-#EXTINF:-1,Sky Sport 4 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9127
-#EXTINF:-1,Sky Sport 5 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13561
-#EXTINF:-1,Sky Sport 5 [Match Time] FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9126
-#EXTINF:-1,Sky Sport 6 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6181
-#EXTINF:-1,Sky Sport 7 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6180
-#EXTINF:-1,Sky Sport 8 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6179
-#EXTINF:-1,Sky Sport 9 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6178
-#EXTINF:-1,Sky Sport 10 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6177
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/620245
-#EXTINF:-1,Sky Sport Bundesliga 1 [B] FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683408
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13538
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683409
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/73136
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/684005
-#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/135258
-#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/62223
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/135671
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/62220
-#EXTINF:-1,Sky Sport Bundesliga 4 [Match Time] FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/91235
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/135335
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/62002
-#EXTINF:-1,Sky Sport Bundesliga 6 DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/619225
-#EXTINF:-1,Sky Sport Bundesliga 7 DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6198
-#EXTINF:-1,Sky Sport Bundesliga 8 [Match Time] FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6197
-#EXTINF:-1,Sky Sport Bundesliga 9 [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6196
-#EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6195
-#EXTINF:-1,DAZN 1 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/625243
-#EXTINF:-1,DAZN 2 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/50775
-#EXTINF:-1,Sport1 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6173
-#EXTINF:-1,Sport1 HD  DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8221
-#EXTINF:-1,Sport1 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8226
-#EXTINF:-1,Sport1+ FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679847
-#EXTINF:-1,Sport1+ HD [B] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679848
-#EXTINF:-1,Telekom Fußball 2 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679822
-#EXTINF:-1,Telekom Fußball 1 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679821
-#EXTINF:-1,Telekom Fußball 3 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679823
-#EXTINF:-1,Telekom Fußball 4 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679824
-#EXTINF:-1,Telekom Fußball 5 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679825
-#EXTINF:-1,Telekom Fußball 6 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679826
-#EXTINF:-1,Telekom Fußball 7 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679827
-#EXTINF:-1,Telekom Eishockey 1 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679671
-#EXTINF:-1,Telekom Eishockey 2 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679672
-#EXTINF:-1,Telekom Eishockey 3 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679673
-#EXTINF:-1,Telekom Eishockey 4 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679676
-#EXTINF:-1,Telekom Basketball 1 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679674
-#EXTINF:-1,Telekom Basketball 2 [Match Time] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679675
-#EXTINF:-1,eSports1 [En] HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6172
-#EXTINF:-1,Eurosport 1 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8218
-#EXTINF:-1,Eurosport 2 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9131
-#EXTINF:-1,Eurosport 2 Xtra FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13163
-#EXTINF:-1,Eurosport 2 Xtra HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9130
-#EXTINF:-1,Sport Digital FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8244
-#EXTINF:-1,Sport Digital HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6171
-#EXTINF:-1,Motorvision HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8222
-#EXTINF:-1,Auto Motor Sport FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9132
-#EXTINF:-1,FC Bayern TV HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9128
-#EXTINF:-1,DEL Sport 1 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679851
-#EXTINF:-1,DEL Sport 2 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679852
-#EXTINF:-1,DEL Sport 3 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679853
-#EXTINF:-1,DEL Sport 4 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679854
-#EXTINF:-1,DEL Sport 5 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679855
-#EXTINF:-1,DEL Sport 6 HD [Match Time] DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679856
-#EXTINF:-1,------- Movies & Series -------
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/678836
-#EXTINF:-1,Sky Action HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5093
-#EXTINF:-1,Sky Action DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6205
-#EXTINF:-1,Sky Cinema Special FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8217
-#EXTINF:-1,Sky Cinema Special HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6252
-#EXTINF:-1,Sky Cinema Thriller FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5089
-#EXTINF:-1,Sky Cinema Thriller HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7372
-#EXTINF:-1,Sky Cinema Thriller DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6193
-#EXTINF:-1,Sky Cinema Premieren FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6194
-#EXTINF:-1,Sky Cinema Premieren HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7373
-#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6192
-#EXTINF:-1,Sky Cinema Premieren +24 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13133
-#EXTINF:-1,Sky Cinema Action HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7370
-#EXTINF:-1,Sky Cinema Action DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9146
-#EXTINF:-1,Sky Cinema Fun HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9144
-#EXTINF:-1,Sky Cinema Fun DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6190
-#EXTINF:-1,Sky Cinema Best Of FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7368
-#EXTINF:-1,Sky Cinema Best Of HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8223
-#EXTINF:-1,Sky Cinema Family FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9145
-#EXTINF:-1,Sky Cinema Family HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7369
-#EXTINF:-1,Sky Cinema Emotion DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13132
-#EXTINF:-1,Sky Cinema Classics HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13131
-#EXTINF:-1,Sky Cinema Classics DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6186
-#EXTINF:-1,Sky Atlantic HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7367
-#EXTINF:-1,Sky Atlantic DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6204
-#EXTINF:-1,Sky Atlantic +1 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13134
-#EXTINF:-1,Sky 13TH Street HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7365
-#EXTINF:-1,13th Street FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5098
-#EXTINF:-1,13th Street HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8198
-#EXTINF:-1,Sky Emotion DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6189
-#EXTINF:-1,Sky Cinema Best of DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5088
-#EXTINF:-1,Sky One FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9138
-#EXTINF:-1,One HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9147
-#EXTINF:-1,Fox FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13567
-#EXTINF:-1,Fox HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6245
-#EXTINF:-1,Fox DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/23770
-#EXTINF:-1,Syfy FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7364
-#EXTINF:-1,Syfy HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5087
-#EXTINF:-1,Syfy DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6164
-#EXTINF:-1,Sky Krimi HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8220
-#EXTINF:-1,TNT Comedy FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6157
-#EXTINF:-1,TNT Film FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6156
-#EXTINF:-1,TNT Film HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683894
-#EXTINF:-1,TNT Serie FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5084
-#EXTINF:-1,TNT Serie HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6155
-#EXTINF:-1,TNT Serie DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13154
-#EXTINF:-1,Universal FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5265
-#EXTINF:-1,Sony HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6167
-#EXTINF:-1,Kinowelt HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6240
-#EXTINF:-1,Kinowelt DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/672086
-#EXTINF:-1,Eagle Cinema Premiere FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/681946
-#EXTINF:-1,Eagle Cinema Horror FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/681942
-#EXTINF:-1,Eagle Cinema Thriller FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/681950
-#EXTINF:-1,Eagle Cinema Sci-Fi FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/681949
-#EXTINF:-1,Eagle Cinema Animation HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/681939
-#EXTINF:-1,Eagle Cinema Mythologie HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/681945
-#EXTINF:-1,Eagle Cinema Lächeln HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/681944
-#EXTINF:-1,Eagle Cinema Geschichte HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/681941
-#EXTINF:-1,Eagle Cinema Romantisch FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/681948
-#EXTINF:-1,Sky Select 1 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/655131
-#EXTINF:-1,Sky Select 1 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7375
-#EXTINF:-1,Sky Select 2 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/655130
-#EXTINF:-1,Sky Select 2 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7376
-#EXTINF:-1,Sky Select 3 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/655129
-#EXTINF:-1,Sky Select 3 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7377
-#EXTINF:-1,Sky Select 4 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/655128
-#EXTINF:-1,Sky Select 4 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/7378
-#EXTINF:-1,Sky Select 5 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8977
-#EXTINF:-1,Sky Select 5 HD (demnächst) DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/655127
-#EXTINF:-1,Sky Select 6 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8976
-#EXTINF:-1,Sky Select 6 FHD (demnächst) DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/655126
-#EXTINF:-1,Sky Select 7 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8975
-#EXTINF:-1,Sky Select 8 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8974
-#EXTINF:-1,PopCorn Select 1 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/23778
-#EXTINF:-1,PopCorn Select 2 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683536
-#EXTINF:-1,PopCorn Select 2 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/23777
-#EXTINF:-1,PopCorn Select 3 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683537
-#EXTINF:-1,PopCorn Select 3 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/23776
-#EXTINF:-1,PopCorn Select 4 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/23775
-#EXTINF:-1,PopCorn Select 5 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683540
-#EXTINF:-1,HiperCinema 4K DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683524
-#EXTINF:-1,HyperCinema Boxset FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683534
-#EXTINF:-1,HyperCinema INFO FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683523
-#EXTINF:-1,HyperCinema 1 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683535
-#EXTINF:-1,HyperCinema 2 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683525
-#EXTINF:-1,HyperCinema 3 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683526
-#EXTINF:-1,HyperCinema 4 4K DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683527
-#EXTINF:-1,HyperCinema 5 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683528
-#EXTINF:-1,HyperCinema 6 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683529
-#EXTINF:-1,HyperCinema 7 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683530
-#EXTINF:-1,HyperCinema 8 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683531
-#EXTINF:-1,HyperCinema 9 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683532
-#EXTINF:-1,HyperCinema 10 FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683533
-#EXTINF:-1,AXN FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5097
-#EXTINF:-1,AXN HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6259
-#EXTINF:-1,Comedy Central FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6154
-#EXTINF:-1,Romance TV HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13152
-#EXTINF:-1,Romance TV DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6211
-#EXTINF:-1,Sky Heimat Kanal HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/678481
-#EXTINF:-1,Sky Heimat Kanal DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6188
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3202
+#EXTINF:-1,NITRO DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/1639
+#EXTINF:-1,NITRO FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14048
+#EXTINF:-1,RTL Passion HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/9563
+#EXTINF:-1,RTL Plus DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/19655
+#EXTINF:-1,RTL II DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3826
+#EXTINF:-1,RTL II FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14050
+#EXTINF:-1,RTL UHD 4K DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/27220
+#EXTINF:-1,SAT.1 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/1637
+#EXTINF:-1,SAT.1 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14047
+#EXTINF:-1,SAT.1 Emotions DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16836
+#EXTINF:-1,SAT.1 Gold DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12309
+#EXTINF:-1,Sixx DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/9560
 #EXTINF:-1,Sixx FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6207
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14046
+#EXTINF:-1,Tele 5 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12325
+#EXTINF:-1,Tele 5 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/20208
+#EXTINF:-1,VOX DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/1630
+#EXTINF:-1,VOX FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14291
+#EXTINF:-1,3sat DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12341
+#EXTINF:-1,3sat HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16497
+#EXTINF:-1,Arte FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16496
+#EXTINF:-1,Heimatkanal DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/9558
+#EXTINF:-1,Romance TV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/13111
 #EXTINF:-1,Servus TV HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6208
-#EXTINF:-1,Tele 5 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9150
-#EXTINF:-1,Bibel TV HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/677497
-#EXTINF:-1,------- Documentary -------
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/678919
-#EXTINF:-1,ZDF Info HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9148
-#EXTINF:-1,N24 Doku DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679837
-#EXTINF:-1,Kabel Eins Doku FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13147
-#EXTINF:-1,Kabel 1 Doku DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679843
-#EXTINF:-1,History Channel FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6244
-#EXTINF:-1,Spiegel Geschichte HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6174
-#EXTINF:-1,Spiegel TV Wissen HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9135
-#EXTINF:-1,Discovery FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13570
-#EXTINF:-1,Discovery HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5096
-#EXTINF:-1,Planet HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679846
-#EXTINF:-1,Animal Planet FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8196
-#EXTINF:-1,Animal Planet HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13173
-#EXTINF:-1,National Geographic HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8194
-#EXTINF:-1,National Geographic DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6226
-#EXTINF:-1,Nat Geo wild FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6227
-#EXTINF:-1,Nat Geo Wild HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9136
-#EXTINF:-1,Nat Geo Wild DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5085
-#EXTINF:-1,Welt der Wunder HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679838
-#EXTINF:-1,Welt der Wunder DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13129
-#EXTINF:-1,Anixe HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6264
-#EXTINF:-1,Dmax FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6249
-#EXTINF:-1,TLC HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8224
-#EXTINF:-1,Luxe TV FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/676714
-#EXTINF:-1,Sky Arte FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5091
-#EXTINF:-1,Sky Arte HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9139
-#EXTINF:-1,Sky Arte DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6261
-#EXTINF:-1,ARD Alpha HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13171
-#EXTINF:-1,------- News -------
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/678922
-#EXTINF:-1,Euronews DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6248
-#EXTINF:-1,Welt HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6228
-#EXTINF:-1,N-TV FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13149
-#EXTINF:-1,N-TV HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/8195
-#EXTINF:-1,N-TV DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13566
-#EXTINF:-1,Munchen TV DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6229
-#EXTINF:-1,Phoenix HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6221
-#EXTINF:-1,Tagesschau 24 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6163
-#EXTINF:-1,------- Children -------
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/678923
-#EXTINF:-1,Super RTL FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13554
-#EXTINF:-1,Super RTL HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6166
-#EXTINF:-1,KiKa FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679839
-#EXTINF:-1,Kika HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6241
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/27566
+#EXTINF:-1,ServusTV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12307
+#EXTINF:-1,BR Fernsehen Nord DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12322
+#EXTINF:-1,BR Fernsehen Nord HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16495
+#EXTINF:-1,hr-Fernsehen DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12316
+#EXTINF:-1,MDR SACHSEN-ANHALT FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15750
+#EXTINF:-1,NDR HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3443
+#EXTINF:-1,NDR Fernsehen Schleswig-Holstein FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16488
+#EXTINF:-1,rbb Fernsehen Berlin FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15747
+#EXTINF:-1,rbb Fernsehen Brandenburg FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15754
+#EXTINF:-1,Regio TV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12328
+#EXTINF:-1,SR Fernsehen FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15749
+#EXTINF:-1,SWR DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12296
+#EXTINF:-1,SWR BW FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16486
+#EXTINF:-1,WDR DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3442
+#EXTINF:-1,WDR HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/23437
 #EXTINF:-1,Baby TV DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13169
-#EXTINF:-1,Toggo Plus HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/5086
-#EXTINF:-1,Toggo Plus DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/9133
-#EXTINF:-1,Boomerang HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6258
-#EXTINF:-1,Cartoon Network FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6257
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/19622
+#EXTINF:-1,Boomerang DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12315
+#EXTINF:-1,Cartoon Network DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15565
+#EXTINF:-1,Disney Channel DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3622
 #EXTINF:-1,Disney Channel FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6253
-#EXTINF:-1,Disney Junior FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13568
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14056
 #EXTINF:-1,Disney Junior HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6251
-#EXTINF:-1,Junior HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6239
-#EXTINF:-1,Nickelodeon HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6224
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15566
 #EXTINF:-1,Fix & Foxi DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/23771
-#EXTINF:-1,Kids Tom&Jerry DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679840
-#EXTINF:-1,------- Music -------
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/678925
-#EXTINF:-1,MTV FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/35466
-#EXTINF:-1,MTV +1 HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679793
-#EXTINF:-1,MTV Brand New DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/638079
-#EXTINF:-1,MTV 80s DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/638080
-#EXTINF:-1,Sky Classica DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6191
-#EXTINF:-1,Classica HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13167
-#EXTINF:-1,Gold Star TV DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/683427
-#EXTINF:-1,Deep House Radio FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679832
-#EXTINF:-1,Urban Radio FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679833
-#EXTINF:-1,Classic Radio FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679834
-#EXTINF:-1,Trap Radio FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679835
-#EXTINF:-1,Rainy Jazz Radio HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/679831
-#EXTINF:-1,Jukebox DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13148
-#EXTINF:-1,Deluxe Music HD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/6255
-#EXTINF:-1,Kronehit FHD DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/14200
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/20263
+#EXTINF:-1,Junior DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/20207
+#EXTINF:-1,KiKa DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/1648
+#EXTINF:-1,KiKA FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16492
+#EXTINF:-1,Nick Jr. DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/19165
+#EXTINF:-1,Nickelodeon DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/19100
+#EXTINF:-1,Nick/MTV+ DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14571
+#EXTINF:-1,Super RTL DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3456
+#EXTINF:-1,Super RTL FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14044
+#EXTINF:-1,TOGGO plus DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12323
+#EXTINF:-1,DAZN 1 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/23280
+#EXTINF:-1,DAZN 2 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/23281
+#EXTINF:-1,Eurosport 1 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/19101
+#EXTINF:-1,Eurosport 1 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3435
+#EXTINF:-1,Eurosport 2 HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15568
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/17281
+#EXTINF:-1,Eurosport 2 Xtra FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/19099
+#EXTINF:-1,Sky Sport News DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14577
+#EXTINF:-1,Sky Sport News FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7337
+#EXTINF:-1,Sky Bundesliga 1 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14550
+#EXTINF:-1,Sky Bundesliga 1 HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3436
+#EXTINF:-1,Sky Bundesliga 1 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7338
+#EXTINF:-1,Sky Bundesliga 2 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14551
+#EXTINF:-1,Sky Bundesliga 2 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7339
+#EXTINF:-1,Sky Bundesliga 3 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14552
+#EXTINF:-1,Sky Bundesliga 3 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7340
+#EXTINF:-1,Sky Bundesliga 4 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14553
+#EXTINF:-1,Sky Bundesliga 4 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7341
+#EXTINF:-1,Sky Bundesliga 5 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14554
+#EXTINF:-1,Sky Bundesliga 5 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7342
+#EXTINF:-1,Sky Bundesliga 6 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14555
+#EXTINF:-1,Sky Bundesliga 6 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7343
+#EXTINF:-1,Sky Bundesliga 7 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/24735
+#EXTINF:-1,Sky Bundesliga 7 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7344
+#EXTINF:-1,Sky Bundesliga 8 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14556
+#EXTINF:-1,Sky Bundesliga 8 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7345
+#EXTINF:-1,Sky Bundesliga 9 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14557
+#EXTINF:-1,Sky Bundesliga 9 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7346
+#EXTINF:-1,Sky Bundesliga 10 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14558
+#EXTINF:-1,Sky Bundesliga 10 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7347
+#EXTINF:-1,Sky Sport 1 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14559
+#EXTINF:-1,Sky Sport 1 HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/1479
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7326
+#EXTINF:-1,Sky Sport 2 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14560
+#EXTINF:-1,Sky Sport 2 HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/1480
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7327
+#EXTINF:-1,Sky Sport 3 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14561
+#EXTINF:-1,Sky Sport 3 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7328
+#EXTINF:-1,Sky Sport 4 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14562
+#EXTINF:-1,Sky Sport 4 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7329
+#EXTINF:-1,Sky Sport 5 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14563
+#EXTINF:-1,Sky Sport 5 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7330
+#EXTINF:-1,Sky Sport 6 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14564
+#EXTINF:-1,Sky Sport 6 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7331
+#EXTINF:-1,Sky Sport 7 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14565
+#EXTINF:-1,Sky Sport 7 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7332
+#EXTINF:-1,Sky Sport 8 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14566
+#EXTINF:-1,Sky Sport 8 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7333
+#EXTINF:-1,Sky Sport 9 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14567
+#EXTINF:-1,Sky Sport 9 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7334
+#EXTINF:-1,Sky Sport 10 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7335
+#EXTINF:-1,Sky Sport 11 HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/7336
+#EXTINF:-1,SPORT1 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/9552
+#EXTINF:-1,SPORT1 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15745
+#EXTINF:-1,sportdigital DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3841
+#EXTINF:-1,sportdigital HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16582
+#EXTINF:-1,Auto Motor und Sport HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/19658
+#EXTINF:-1,Ginx eSports TV FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/18820
+#EXTINF:-1,FC Bayern FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16767
+#EXTINF:-1,Motorvision TV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/9564
+#EXTINF:-1,Animal Planet HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/9561
+#EXTINF:-1,ANIXE DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3445
+#EXTINF:-1,ANIXE FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14576
+#EXTINF:-1,Crime + Investigation DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/28577
+#EXTINF:-1,Discovery Channel DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3426
+#EXTINF:-1,Discovery Channel FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14063
+#EXTINF:-1,DMAX DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3431
+#EXTINF:-1,DMAX HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/19683
+#EXTINF:-1,History DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3424
+#EXTINF:-1,History FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14311
+#EXTINF:-1,National Geographic FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14053
+#EXTINF:-1,National Geographic Wild HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/1646
+#EXTINF:-1,National Geographic Wild FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14062
+#EXTINF:-1,n-tv DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3449
+#EXTINF:-1,n-tv FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14054
+#EXTINF:-1,Phoenix DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3454
+#EXTINF:-1,Phoenix FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16487
+#EXTINF:-1,Planet HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/18394
+#EXTINF:-1,Spiegel TV Wissen DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14045
+#EXTINF:-1,Spiegel Geschichte HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16573
+#EXTINF:-1,tagesschau24 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15752
+#EXTINF:-1,TLC DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12324
+#EXTINF:-1,TLC FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15757
+#EXTINF:-1,Universal Channel HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3439
+#EXTINF:-1,Welt DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3448
+#EXTINF:-1,Welt HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14573
+#EXTINF:-1,Welt der Wunder DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12305
+#EXTINF:-1,CLASSICA DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/9555
+#EXTINF:-1,Deluxe Music DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/9554
+#EXTINF:-1,Deluxe Music FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14057
 #EXTINF:-1,Deutsches Musik Fernsehen DE
-http://mytv.fun:8080/wge4u6ockj/2oqwxsw36/13165
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12334
+#EXTINF:-1,Folx TV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12319
+#EXTINF:-1,JukeBox DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15579
+#EXTINF:-1,MTV HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15759
+#EXTINF:-1,Comedy Central DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12317
+#EXTINF:-1,Comedy Central HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/19677
+#EXTINF:-1,Sky 1 HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/9557
+#EXTINF:-1,Sky Cinema Premieren DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/1634
+#EXTINF:-1,Sky Cinema Premieren FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14061
+#EXTINF:-1,Sky Cinema Premieren +24 DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/1633
+#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15575
+#EXTINF:-1,Sky Cinema Special FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14312
+#EXTINF:-1,Sky Cinema Action DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3432
+#EXTINF:-1,Sky Cinema Action FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14307
+#EXTINF:-1,Sky Atlantic FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14306
+#EXTINF:-1,Sky Cinema Thriller FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/37451
+#EXTINF:-1,Sky Cinema Fun DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3430
+#EXTINF:-1,Sky Family FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15576
+#EXTINF:-1,Sky Cinema Best Of DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16803
+#EXTINF:-1,Sky Cinema Best Of FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14305
+#EXTINF:-1,Sky Krimi DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3429
+#EXTINF:-1,Sky Cinema Classics DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/9556
+#EXTINF:-1,Sky Select 1 Live DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/11265
+#EXTINF:-1,Sky Select 2 Live DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/11266
+#EXTINF:-1,Sky Select 3 Live DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/11267
+#EXTINF:-1,Sky Select 4 Live DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/11268
+#EXTINF:-1,Sky Select 5 Live DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/11269
+#EXTINF:-1,Sky Select 6 Live DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/11270
+#EXTINF:-1,Sky Select 7 Live DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/11271
+#EXTINF:-1,Sky Select 8 Live DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/11272
+#EXTINF:-1,Sky Select 9 Live DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12290
+#EXTINF:-1,Sky Cinema Dark Future DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/28535
+#EXTINF:-1,13th Street FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14060
+#EXTINF:-1,E! DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16502
+#EXTINF:-1,E! HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15567
+#EXTINF:-1,FOX HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/3425
+#EXTINF:-1,FOX FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14055
+#EXTINF:-1,Kinowelt TV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12291
+#EXTINF:-1,Sony AXN FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/9562
+#EXTINF:-1,Sony AXN HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/17498
+#EXTINF:-1,Syfy FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14043
+#EXTINF:-1,TNT Comedy HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/15577
+#EXTINF:-1,TNT Film FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/16628
+#EXTINF:-1,TNT Serie FHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/14303
+#EXTINF:-1,Kino Premiere 1 HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/18234
+#EXTINF:-1,Kino Premiere 2 HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/18235
+#EXTINF:-1,Kino Premiere 3 HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/18236
+#EXTINF:-1,Kino Premiere 4 HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/18237
+#EXTINF:-1,Kino Premiere 5 HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/18238
+#EXTINF:-1,Kino Premiere 6 HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/18239
+#EXTINF:-1,Eagle Cinema 1 Premiere HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/26323
+#EXTINF:-1,Eagle Cinema 2 Aktion HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/26324
+#EXTINF:-1,Eagle Cinema 3 Komodie HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/26325
+#EXTINF:-1,Eagle Cinema 4 Abenteuer HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/26326
+#EXTINF:-1,Eagle Cinema 5 Animation HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/26327
+#EXTINF:-1,Eagle Cinema 6 Thriller HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/26328
+#EXTINF:-1,Eagle Cinema 7 Horror HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/26329
+#EXTINF:-1,Eagle Cinema 8 Drama HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/26330
+#EXTINF:-1,Eagle Cinema 9 Sci-Fi HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/26331
+#EXTINF:-1,Eagle Cinema 10 Lacheln HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/26332
+#EXTINF:-1,Eagle Entdeckernatur 11 4K UHD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/26333
+#EXTINF:-1,Astro TV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/12339
+#EXTINF:-1,München TV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/11659
+#EXTINF:-1,DW Arabia DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/19620
+#EXTINF:-1,DW Deutsch DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/27791
+#EXTINF:-1,DW English DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/17300
+#EXTINF:-1,German Tote TV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/23945
+#EXTINF:-1,HGTV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/27656
+#EXTINF:-1,Health TV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/28231
+#EXTINF:-1,Allgäu TV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/28232
+#EXTINF:-1,Baden TV DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/28233
+#EXTINF:-1,noa4 Hamburg HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/28238
+#EXTINF:-1,noa4 Norderstedt HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/28239
+#EXTINF:-1,RFO DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/28243
+#EXTINF:-1,Rhein Neckar Fernsehen DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/28244
+#EXTINF:-1,TV Mainfranken DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/28247
+#EXTINF:-1,Frauen Bundesliga HD DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/35184
+#EXTINF:-1,Sky Sport KOMPAKT 1 HD (nur Spiel Tag) DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/35185
+#EXTINF:-1,Sky Sport KOMPAKT 2 HD (nur Spiel Tag) DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/35186
+#EXTINF:-1,Sky Sport KOMPAKT 3 HD (nur Spiel Tag) DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/35187
+#EXTINF:-1,Sky Sport KOMPAKT 4 HD (nur Spiel Tag) DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/35188
+#EXTINF:-1,Nicktoons DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/37836
+#EXTINF:-1,Voxup DE
+http://tv.mtbox.hitv.one:80/dlPJa840/V8y2Xb0/52134
 
