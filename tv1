@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://ogy.de/khvs","T E S T S E N D E R"  Stabiles IPTV in vielen Sprachen 
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png","T E S T S E N D E R"  Stabiles IPTV in vielen Sprachen 
 http://
-#EXTINF:-1 tvg-logo="https://ogy.de/khvs",Alle Info's auf Telegram *** https://ogy.de/77q6 ***
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Alle Info's auf Telegram *** https://ogy.de/77q6 ***
 http://
-#EXTINF:-1 tvg-logo="https://ogy.de/khvs",48 Std Test unserer kompletten "Topline" auf Anfrage ! 
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",48 Std Test unserer kompletten "Topline" auf Anfrage ! 
 http://
-#EXTINF:-1 tvg-logo="https://ogy.de/khvs",Incl ca 12.500 Filme + 1.500 Serien in vielen Sprachen
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl ca 12.500 Filme + 1.500 Serien in vielen Sprachen
 http://
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="DE:: Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/320px-Das_Erste_2014.svg.png" group-title="GERMANY",DE:: Das Erste
 http://live.darkside-iptv.com:8080/live/ABD0Z44Sat/uqlK0UW6F8/80416.m3u8
@@ -1069,6 +1069,7 @@ http://live.darkside-iptv.com:8080/movie/ABD0Z44Sat/uqlK0UW6F8/215970.avi
 http://live.darkside-iptv.com:8080/movie/ABD0Z44Sat/uqlK0UW6F8/215971.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Zarak Khan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Zarak Khan
 http://live.darkside-iptv.com:8080/movie/ABD0Z44Sat/uqlK0UW6F8/215972.mp4
+
 
 
 
