@@ -1,289 +1,519 @@
 #EXTM3U
-#EXTINF:-1, "TESTACCOUNT"... Stabiles IPTV unter ***  https://ogy.de/77q6 ***
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png","T E S T S E N D E R"  Stabiles IPTV in vielen Sprachen 
 http://
-#EXTINF:-1, 48 Std Test unserer "Topline" komplett auf Anfrage ! 
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Alle Info's auf Telegram *** https://ogy.de/77q6 ***
+http://
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",48 Std Test unserer kompletten "Topline" auf Anfrage ! 
+http://
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl ca 12.500 Filme + 1.500 Serien in vielen Sprachen
+http://
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl Programm Guide / EPG Daten 
 http://
 #EXTINF:-1,Das Erste DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3451
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3451
 #EXTINF:-1,Das Erste HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/22824
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/22824
 #EXTINF:-1,Das Erste FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16493
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16493
 #EXTINF:-1,One FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15751
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15751
 #EXTINF:-1,One TV FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/23043
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/23043
 #EXTINF:-1,ZDF DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/1629
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/1629
 #EXTINF:-1,ZDF HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/19098
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/19098
 #EXTINF:-1,ZDF FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16484
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16484
 #EXTINF:-1,ZDFinfo DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12295
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12295
 #EXTINF:-1,ZDFinfo FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16483
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16483
 #EXTINF:-1,ZDFneo DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3453
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3453
 #EXTINF:-1,ZDFneo FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16482
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16482
 #EXTINF:-1,Kabel Eins FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/1649
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/1649
 #EXTINF:-1,Kabel Eins Classics DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16581
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16581
 #EXTINF:-1,Kabel Eins Doku DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/17167
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/17167
 #EXTINF:-1,ProSieben DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/1642
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/1642
 #EXTINF:-1,ProSieben HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14052
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14052
 #EXTINF:-1,ProSieben Fun HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16627
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16627
 #EXTINF:-1,ProSieben Maxx DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3444
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3444
 #EXTINF:-1,ProSieben Maxx FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14051
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14051
+#EXTINF:-1,RTL FS DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12300
+#EXTINF:-1,RTL HB NDS DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12299
+#EXTINF:-1,RTL WEST DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12298
+#EXTINF:-1,RTL HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3825
+#EXTINF:-1,RTL FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14049
 #EXTINF:-1,RTL Crime HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15570
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15570
 #EXTINF:-1,RTL Living HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3202
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3202
 #EXTINF:-1,NITRO DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/1639
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/1639
 #EXTINF:-1,NITRO FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14048
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14048
 #EXTINF:-1,RTL Passion HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/9563
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/9563
 #EXTINF:-1,RTL Plus DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/19655
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/19655
 #EXTINF:-1,RTL II DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3826
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3826
 #EXTINF:-1,RTL II FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14050
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14050
 #EXTINF:-1,RTL UHD 4K DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/27220
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/27220
 #EXTINF:-1,SAT.1 DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/1637
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/1637
+#EXTINF:-1,SAT.1 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14047
 #EXTINF:-1,SAT.1 Emotions DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16836
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16836
 #EXTINF:-1,SAT.1 Gold DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12309
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12309
 #EXTINF:-1,Sixx DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/9560
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/9560
 #EXTINF:-1,Sixx FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14046
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14046
 #EXTINF:-1,Tele 5 DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12325
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12325
 #EXTINF:-1,Tele 5 FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/20208
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/20208
 #EXTINF:-1,VOX DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/1630
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/1630
 #EXTINF:-1,VOX FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14291
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14291
 #EXTINF:-1,3sat DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12341
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12341
 #EXTINF:-1,3sat HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16497
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16497
 #EXTINF:-1,Arte FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16496
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16496
 #EXTINF:-1,Heimatkanal DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/9558
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/9558
 #EXTINF:-1,Romance TV DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/13111
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/13111
 #EXTINF:-1,Servus TV HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/27566
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/27566
 #EXTINF:-1,ServusTV DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12307
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12307
 #EXTINF:-1,BR Fernsehen Nord DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12322
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12322
 #EXTINF:-1,BR Fernsehen Nord HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16495
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16495
 #EXTINF:-1,hr-Fernsehen DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12316
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12316
 #EXTINF:-1,MDR SACHSEN-ANHALT FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15750
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15750
 #EXTINF:-1,NDR HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3443
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3443
 #EXTINF:-1,NDR Fernsehen Schleswig-Holstein FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16488
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16488
 #EXTINF:-1,rbb Fernsehen Berlin FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15747
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15747
 #EXTINF:-1,rbb Fernsehen Brandenburg FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15754
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15754
 #EXTINF:-1,Regio TV DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12328
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12328
 #EXTINF:-1,SR Fernsehen FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15749
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15749
 #EXTINF:-1,SWR DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12296
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12296
 #EXTINF:-1,SWR BW FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16486
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16486
 #EXTINF:-1,WDR DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3442
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3442
 #EXTINF:-1,WDR HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/23437
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/23437
 #EXTINF:-1,Baby TV DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/19622
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/19622
 #EXTINF:-1,Boomerang DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12315
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12315
 #EXTINF:-1,Cartoon Network DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15565
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15565
 #EXTINF:-1,Disney Channel DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3622
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3622
 #EXTINF:-1,Disney Channel FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14056
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14056
 #EXTINF:-1,Disney Junior HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15566
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15566
 #EXTINF:-1,Fix & Foxi DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/20263
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/20263
 #EXTINF:-1,Junior DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/20207
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/20207
 #EXTINF:-1,KiKa DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/1648
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/1648
 #EXTINF:-1,KiKA FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16492
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16492
 #EXTINF:-1,Nick Jr. DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/19165
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/19165
 #EXTINF:-1,Nickelodeon DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/19100
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/19100
 #EXTINF:-1,Nick/MTV+ DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14571
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14571
 #EXTINF:-1,Super RTL DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3456
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3456
 #EXTINF:-1,Super RTL FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14044
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14044
 #EXTINF:-1,TOGGO plus DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12323
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12323
+#EXTINF:-1,DAZN 1 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/23280
 #EXTINF:-1,DAZN 2 FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/23281
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/23281
 #EXTINF:-1,Eurosport 1 DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/19101
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/19101
 #EXTINF:-1,Eurosport 1 FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3435
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3435
 #EXTINF:-1,Eurosport 2 HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15568
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15568
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/17281
+#EXTINF:-1,Eurosport 2 Xtra FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/19099
 #EXTINF:-1,Sky Sport News DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14577
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14577
 #EXTINF:-1,Sky Sport News FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/7337
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7337
 #EXTINF:-1,Sky Bundesliga 1 DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14550
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14550
 #EXTINF:-1,Sky Bundesliga 1 HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3436
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3436
 #EXTINF:-1,Sky Bundesliga 1 FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/7338
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7338
+#EXTINF:-1,Sky Bundesliga 2 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14551
+#EXTINF:-1,Sky Bundesliga 2 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7339
+#EXTINF:-1,Sky Bundesliga 3 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14552
+#EXTINF:-1,Sky Bundesliga 3 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7340
+#EXTINF:-1,Sky Bundesliga 4 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14553
+#EXTINF:-1,Sky Bundesliga 4 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7341
+#EXTINF:-1,Sky Bundesliga 5 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14554
+#EXTINF:-1,Sky Bundesliga 5 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7342
+#EXTINF:-1,Sky Bundesliga 6 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14555
+#EXTINF:-1,Sky Bundesliga 6 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7343
+#EXTINF:-1,Sky Bundesliga 7 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/24735
+#EXTINF:-1,Sky Bundesliga 7 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7344
+#EXTINF:-1,Sky Bundesliga 8 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14556
+#EXTINF:-1,Sky Bundesliga 8 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7345
+#EXTINF:-1,Sky Bundesliga 9 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14557
+#EXTINF:-1,Sky Bundesliga 9 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7346
+#EXTINF:-1,Sky Bundesliga 10 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14558
+#EXTINF:-1,Sky Bundesliga 10 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7347
+#EXTINF:-1,Sky Sport 1 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14559
+#EXTINF:-1,Sky Sport 1 HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/1479
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7326
 #EXTINF:-1,Sky Sport 2 DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14560
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14560
 #EXTINF:-1,Sky Sport 2 HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/1480
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/1480
 #EXTINF:-1,Sky Sport 2 FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/7327
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15745
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7327
+#EXTINF:-1,Sky Sport 3 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14561
+#EXTINF:-1,Sky Sport 3 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7328
+#EXTINF:-1,Sky Sport 4 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14562
+#EXTINF:-1,Sky Sport 4 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7329
+#EXTINF:-1,Sky Sport 5 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14563
+#EXTINF:-1,Sky Sport 5 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7330
+#EXTINF:-1,Sky Sport 6 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14564
+#EXTINF:-1,Sky Sport 6 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7331
+#EXTINF:-1,Sky Sport 7 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14565
+#EXTINF:-1,Sky Sport 7 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7332
+#EXTINF:-1,Sky Sport 8 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14566
+#EXTINF:-1,Sky Sport 8 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7333
+#EXTINF:-1,Sky Sport 9 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14567
+#EXTINF:-1,Sky Sport 9 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7334
+#EXTINF:-1,Sky Sport 10 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7335
+#EXTINF:-1,Sky Sport 11 HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/7336
+#EXTINF:-1,SPORT1 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/9552
+#EXTINF:-1,SPORT1 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15745
 #EXTINF:-1,sportdigital DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3841
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3841
 #EXTINF:-1,sportdigital HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16582
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16582
 #EXTINF:-1,Auto Motor und Sport HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/19658
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/19658
 #EXTINF:-1,Ginx eSports TV FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/18820
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/18820
 #EXTINF:-1,FC Bayern FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16767
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16767
 #EXTINF:-1,Motorvision TV DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/9564
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/9564
 #EXTINF:-1,Animal Planet HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/9561
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/9561
 #EXTINF:-1,ANIXE DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3445
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3445
 #EXTINF:-1,ANIXE FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14576
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14576
 #EXTINF:-1,Crime + Investigation DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/28577
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/28577
+#EXTINF:-1,Discovery Channel DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3426
+#EXTINF:-1,Discovery Channel FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14063
 #EXTINF:-1,DMAX DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3431
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3431
 #EXTINF:-1,DMAX HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/19683
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/19683
 #EXTINF:-1,History DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3424
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3424
 #EXTINF:-1,History FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14311
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14311
 #EXTINF:-1,National Geographic FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14053
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14053
+#EXTINF:-1,National Geographic Wild HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/1646
+#EXTINF:-1,National Geographic Wild FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14062
 #EXTINF:-1,n-tv DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3449
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3449
 #EXTINF:-1,n-tv FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14054
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14054
 #EXTINF:-1,Phoenix DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3454
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3454
 #EXTINF:-1,Phoenix FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16487
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16487
 #EXTINF:-1,Planet HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/18394
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/18394
 #EXTINF:-1,Spiegel TV Wissen DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14045
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14045
 #EXTINF:-1,Spiegel Geschichte HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16573
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16573
 #EXTINF:-1,tagesschau24 FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15752
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15752
 #EXTINF:-1,TLC DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12324
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12324
 #EXTINF:-1,TLC FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15757
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15757
 #EXTINF:-1,Universal Channel HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3439
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3439
 #EXTINF:-1,Welt DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3448
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3448
 #EXTINF:-1,Welt HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14573
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14573
 #EXTINF:-1,Welt der Wunder DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12305
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12305
 #EXTINF:-1,CLASSICA DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/9555
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/9555
 #EXTINF:-1,Deluxe Music DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/9554
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/9554
 #EXTINF:-1,Deluxe Music FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14057
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14057
 #EXTINF:-1,Deutsches Musik Fernsehen DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12334
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12334
 #EXTINF:-1,Folx TV DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12319
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12319
 #EXTINF:-1,JukeBox DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15579
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15579
 #EXTINF:-1,MTV HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15759
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15759
 #EXTINF:-1,Comedy Central DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12317
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12317
 #EXTINF:-1,Comedy Central HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/19677
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/19677
+#EXTINF:-1,Sky 1 HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/9557
+#EXTINF:-1,Sky Cinema Premieren DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/1634
+#EXTINF:-1,Sky Cinema Premieren FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14061
+#EXTINF:-1,Sky Cinema Premieren +24 DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/1633
+#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15575
+#EXTINF:-1,Sky Cinema Special FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14312
+#EXTINF:-1,Sky Cinema Action DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3432
+#EXTINF:-1,Sky Cinema Action FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14307
 #EXTINF:-1,Sky Atlantic FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14306
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14306
+#EXTINF:-1,Sky Cinema Thriller FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/37451
 #EXTINF:-1,Sky Cinema Fun DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3430
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3430
 #EXTINF:-1,Sky Family FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15576
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3429
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15576
+#EXTINF:-1,Sky Cinema Best Of DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16803
+#EXTINF:-1,Sky Cinema Best Of FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14305
+#EXTINF:-1,Sky Krimi DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3429
 #EXTINF:-1,Sky Cinema Classics DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/9556
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/9556
 #EXTINF:-1,Sky Select 1 Live DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/11265
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/11265
+#EXTINF:-1,Sky Select 2 Live DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/11266
+#EXTINF:-1,Sky Select 3 Live DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/11267
+#EXTINF:-1,Sky Select 4 Live DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/11268
+#EXTINF:-1,Sky Select 5 Live DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/11269
+#EXTINF:-1,Sky Select 6 Live DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/11270
+#EXTINF:-1,Sky Select 7 Live DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/11271
+#EXTINF:-1,Sky Select 8 Live DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/11272
+#EXTINF:-1,Sky Select 9 Live DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12290
+#EXTINF:-1,Sky Cinema Dark Future DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/28535
 #EXTINF:-1,13th Street FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14060
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14060
 #EXTINF:-1,E! DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16502
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16502
 #EXTINF:-1,E! HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15567
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15567
 #EXTINF:-1,FOX HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/3425
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/3425
 #EXTINF:-1,FOX FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14055
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14055
 #EXTINF:-1,Kinowelt TV DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/12291
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12291
+#EXTINF:-1,Sony AXN FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/9562
 #EXTINF:-1,Sony AXN HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/14043
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/17498
+#EXTINF:-1,Syfy FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14043
 #EXTINF:-1,TNT Comedy HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/15577
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/15577
 #EXTINF:-1,TNT Film FHD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/16628
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/16628
+#EXTINF:-1,TNT Serie FHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/14303
 #EXTINF:-1,Kino Premiere 1 HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/18234
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/18234
+#EXTINF:-1,Kino Premiere 2 HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/18235
+#EXTINF:-1,Kino Premiere 3 HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/18236
+#EXTINF:-1,Kino Premiere 4 HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/18237
+#EXTINF:-1,Kino Premiere 5 HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/18238
+#EXTINF:-1,Kino Premiere 6 HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/18239
 #EXTINF:-1,Eagle Cinema 1 Premiere HD DE
-http://cloudcdn.tk:80/RuA2dph6ED7456/ntfQCO765/26323
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/26323
+#EXTINF:-1,Eagle Cinema 2 Aktion HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/26324
+#EXTINF:-1,Eagle Cinema 3 Komodie HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/26325
+#EXTINF:-1,Eagle Cinema 4 Abenteuer HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/26326
+#EXTINF:-1,Eagle Cinema 5 Animation HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/26327
+#EXTINF:-1,Eagle Cinema 6 Thriller HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/26328
+#EXTINF:-1,Eagle Cinema 7 Horror HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/26329
+#EXTINF:-1,Eagle Cinema 8 Drama HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/26330
+#EXTINF:-1,Eagle Cinema 9 Sci-Fi HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/26331
+#EXTINF:-1,Eagle Cinema 10 Lacheln HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/26332
+#EXTINF:-1,Eagle Entdeckernatur 11 4K UHD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/26333
+#EXTINF:-1,Astro TV DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/12339
+#EXTINF:-1,München TV DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/11659
+#EXTINF:-1,DW Arabia DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/19620
+#EXTINF:-1,DW Deutsch DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/27791
+#EXTINF:-1,DW English DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/17300
+#EXTINF:-1,German Tote TV DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/23945
+#EXTINF:-1,HGTV DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/27656
+#EXTINF:-1,Health TV DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/28231
+#EXTINF:-1,Allgäu TV DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/28232
+#EXTINF:-1,Baden TV DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/28233
+#EXTINF:-1,noa4 Hamburg HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/28238
+#EXTINF:-1,noa4 Norderstedt HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/28239
+#EXTINF:-1,RFO DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/28243
+#EXTINF:-1,Rhein Neckar Fernsehen DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/28244
+#EXTINF:-1,TV Mainfranken DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/28247
+#EXTINF:-1,Frauen Bundesliga HD DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/35184
+#EXTINF:-1,Sky Sport KOMPAKT 1 HD (nur Spiel Tag) DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/35185
+#EXTINF:-1,Sky Sport KOMPAKT 2 HD (nur Spiel Tag) DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/35186
+#EXTINF:-1,Sky Sport KOMPAKT 3 HD (nur Spiel Tag) DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/35187
+#EXTINF:-1,Sky Sport KOMPAKT 4 HD (nur Spiel Tag) DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/35188
+#EXTINF:-1,Nicktoons DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/37836
+#EXTINF:-1,Voxup DE
+http://cloudcdn.tk:80/VRneKj2Vyx/OMKodgp32r/52134
