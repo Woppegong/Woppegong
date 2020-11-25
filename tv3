@@ -9,387 +9,575 @@ http://
 http://
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl Programm Guide / EPG Daten 
 http://
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3451
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste HD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/22824
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste FHD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/16493
-#EXTINF:-1 tvg-id="One.de" tvg-name="One FHD DE" tvg-logo="https://picon-13398.kxcdn.com/onehd.jpg" group-title="Live: Germany",One FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15751
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://picon-13398.kxcdn.com/zdf.jpg" group-title="Live: Germany",ZDF DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/1629
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/19098
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfo.jpg" group-title="Live: Germany",ZDFinfo DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12295
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfneo.jpg" group-title="Live: Germany",ZDFneo DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3453
-#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="Kabel Eins Classics DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsclassics.jpg" group-title="Live: Germany",Kabel Eins Classics DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/16581
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsdoku.jpg" group-title="Live: Germany",Kabel Eins Doku DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/17167
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben DE" tvg-logo="https://picon-13398.kxcdn.com/prosieben.jpg" group-title="Live: Germany",ProSieben DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/1642
-#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenfunhd.jpg" group-title="Live: Germany",ProSieben Fun HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/16627
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxx.jpg" group-title="Live: Germany",ProSieben Maxx DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3444
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL FS DE" tvg-logo="https://picon-13398.kxcdn.com/rtlfs.jpg" group-title="Live: Germany",RTL FS DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12300
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HB NDS DE" tvg-logo="https://picon-13398.kxcdn.com/rtl.jpg" group-title="Live: Germany",RTL HB NDS DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12299
-#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL Crime HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlcrimehd.jpg" group-title="Live: Germany",RTL Crime HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15570
-#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="Live: Germany",RTL Living HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3202
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO DE" tvg-logo="https://picon-13398.kxcdn.com/rtlnitro.jpg" group-title="Live: Germany",NITRO DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/1639
-#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlpassion.jpg" group-title="Live: Germany",RTL Passion HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/9563
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus DE" tvg-logo="https://picon-13398.kxcdn.com/rtlplusde.jpg" group-title="Live: Germany",RTL Plus DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/19655
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="Live: Germany",RTL II DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3826
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/1637
-#EXTINF:-1 tvg-id="Sat1Emotions.de" tvg-name="SAT.1 Emotions DE" tvg-logo="https://picon-13398.kxcdn.com/sat1emotions.jpg" group-title="Live: Germany",SAT.1 Emotions DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/16836
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="Live: Germany",SAT.1 Gold DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12309
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://picon-13398.kxcdn.com/sixx.jpg" group-title="Live: Germany",Sixx DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/9560
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Germany",Tele 5 DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12325
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="Live: Germany",VOX DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/1630
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="https://picon-13398.kxcdn.com/3sat.jpg" group-title="Live: Germany",3sat DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12341
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="https://picon-13398.kxcdn.com/3sathd.jpg" group-title="Live: Germany",3sat HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/16497
-#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal DE" tvg-logo="https://picon-13398.kxcdn.com/heimatkanal.jpg" group-title="Live: Germany",Heimatkanal DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/9558
-#EXTINF:-1 tvg-id="Romance.de" tvg-name="Romance TV DE" tvg-logo="https://picon-13398.kxcdn.com/romancetv.jpg" group-title="Live: Germany",Romance TV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/13111
-#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="Servus TV HD DE" tvg-logo="https://picon-13398.kxcdn.com/servustv.jpg" group-title="Live: Germany",Servus TV HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/27566
-#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="ServusTV DE" tvg-logo="https://picon-13398.kxcdn.com/servustv.jpg" group-title="Live: Germany",ServusTV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12307
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Fernsehen Nord DE" tvg-logo="https://picon-13398.kxcdn.com/br.jpg" group-title="Live: Germany",BR Fernsehen Nord DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12322
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Fernsehen Nord HD DE" tvg-logo="https://picon-13398.kxcdn.com/brhd.jpg" group-title="Live: Germany",BR Fernsehen Nord HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/16495
-#EXTINF:-1 tvg-id="hr-Fernsehen.de" tvg-name="hr-Fernsehen DE" tvg-logo="https://picon-13398.kxcdn.com/hrfernsehen.jpg" group-title="Live: Germany",hr-Fernsehen DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12316
-#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDR SACHSEN-ANHALT FHD DE" tvg-logo="https://picon-13398.kxcdn.com/mdrsanhalthd.jpg" group-title="Live: Germany",MDR SACHSEN-ANHALT FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15750
-#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3443
-#EXTINF:-1 tvg-id="NDRFSSH.de" tvg-name="NDR Fernsehen Schleswig-Holstein FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR Fernsehen Schleswig-Holstein FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/16488
-#EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Berlin FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbberlinhd.jpg" group-title="Live: Germany",rbb Fernsehen Berlin FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15747
-#EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Brandenburg FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbbrandenburg.jpg" group-title="Live: Germany",rbb Fernsehen Brandenburg FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15754
-#EXTINF:-1 tvg-id="RegioTV.de" tvg-name="Regio TV DE" tvg-logo="https://picon-13398.kxcdn.com/regiotv.jpg" group-title="Live: Germany",Regio TV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12328
-#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen FHD DE" tvg-logo="https://picon-13398.kxcdn.com/srfernsehenhd.jpg" group-title="Live: Germany",SR Fernsehen FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15749
-#EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="https://picon-13398.kxcdn.com/swr.jpg" group-title="Live: Germany",SWR DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12296
-#EXTINF:-1 tvg-id="" tvg-name="SWR BW FHD DE" tvg-logo="https://picon-13398.kxcdn.com/swrhd.jpg" group-title="Live: Germany",SWR BW FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/16486
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR DE" tvg-logo="https://picon-13398.kxcdn.com/wdrhd.jpg" group-title="Live: Germany",WDR DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3442
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR HD DE" tvg-logo="https://picon-13398.kxcdn.com/wdrhd.jpg" group-title="Live: Germany",WDR HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/23437
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Baby TV DE" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Germany",Baby TV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/19622
-#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="Boomerang DE" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Live: Germany",Boomerang DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12315
-#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network DE" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Live: Germany",Cartoon Network DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15565
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannel.jpg" group-title="Live: Germany",Disney Channel DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3622
-#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney Junior HD DE" tvg-logo="https://picon-13398.kxcdn.com/disneyjnrhd.jpg" group-title="Live: Germany",Disney Junior HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15566
-#EXTINF:-1 tvg-id="FIXandFOXI.de" tvg-name="Fix & Foxi DE" tvg-logo="https://picon-13398.kxcdn.com/fixundfoxi.jpg" group-title="Live: Germany",Fix & Foxi DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/20263
-#EXTINF:-1 tvg-id="Junior.de" tvg-name="Junior DE" tvg-logo="https://picon-13398.kxcdn.com/junior.jpg" group-title="Live: Germany",Junior DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/20207
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKa DE" tvg-logo="https://picon-13398.kxcdn.com/kika.jpg" group-title="Live: Germany",KiKa DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/1648
-#EXTINF:-1 tvg-id="NickJr.de" tvg-name="Nick Jr. DE" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Live: Germany",Nick Jr. DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/19165
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon DE" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Germany",Nickelodeon DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/19100
-#EXTINF:-1 tvg-id="nickMTV.de" tvg-name="Nick/MTV+ DE" tvg-logo="https://picon-13398.kxcdn.com/nickelodeonhd.jpg" group-title="Live: Germany",Nick/MTV+ DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/14571
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://picon-13398.kxcdn.com/superrtl.jpg" group-title="Live: Germany",Super RTL DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3456
-#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus DE" tvg-logo="https://picon-13398.kxcdn.com/toggoplus.jpg" group-title="Live: Germany",TOGGO plus DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12323
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Germany",DAZN 2 FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/23281
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Germany",Eurosport 2 HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15568
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnews.jpg" group-title="Live: Germany",Sky Sport News DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/14577
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnewshd.jpg" group-title="Live: Germany",Sky Sport News FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/7337
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg" group-title="Live: Germany",Sky Bundesliga 1 DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/14550
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="Live: Germany",Sky Bundesliga 1 HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3436
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="Live: Germany",Sky Bundesliga 1 FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/7338
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Germany",Sky Sport 2 DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/14560
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/1480
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/7327
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 DE" tvg-logo="https://picon-13398.kxcdn.com/sport1-duslelaslu.jpg" group-title="Live: Germany",SPORT1 DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/9552
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigital.jpg" group-title="Live: Germany",sportdigital DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3841
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital HD DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigitalhd.jpg" group-title="Live: Germany",sportdigital HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/16582
-#EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="Auto Motor und Sport HD DE" tvg-logo="https://picon-13398.kxcdn.com/automotorsporthd.jpg" group-title="Live: Germany",Auto Motor und Sport HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/19658
-#EXTINF:-1 tvg-id="" tvg-name="Ginx eSports TV FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ginx.jpg" group-title="Live: Germany",Ginx eSports TV FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/18820
-#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorvision TV DE" tvg-logo="https://picon-13398.kxcdn.com/motorvisiontv.jpg" group-title="Live: Germany",Motorvision TV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/9564
-#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: Germany",Animal Planet HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/9561
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE DE" tvg-logo="https://picon-13398.kxcdn.com/anixe.jpg" group-title="Live: Germany",ANIXE DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3445
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE FHD DE" tvg-logo="https://picon-13398.kxcdn.com/anixehd.jpg" group-title="Live: Germany",ANIXE FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/14576
-#EXTINF:-1 tvg-id="CrimeInvestigation.de" tvg-name="Crime + Investigation DE" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="Live: Germany",Crime + Investigation DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/28577
-#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3426
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Live: Germany",DMAX DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3431
-#EXTINF:-1 tvg-id="History.de" tvg-name="History DE" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="Live: Germany",History DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3424
-#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild HD DE" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Germany",National Geographic Wild HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/1646
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="https://picon-13398.kxcdn.com/ntv.jpg" group-title="Live: Germany",n-tv DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3449
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ntvhd.jpg" group-title="Live: Germany",n-tv FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/14054
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="https://picon-13398.kxcdn.com/phoenix.jpg" group-title="Live: Germany",Phoenix DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3454
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix FHD DE" tvg-logo="https://picon-13398.kxcdn.com/phoenixhd.jpg" group-title="Live: Germany",Phoenix FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/16487
-#EXTINF:-1 tvg-id="Planet.de" tvg-name="Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/planetde.jpg" group-title="Live: Germany",Planet HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/18394
-#EXTINF:-1 tvg-id="SpiegelTVWissen.de" tvg-name="Spiegel TV Wissen DE" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissen.jpg" group-title="Live: Germany",Spiegel TV Wissen DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/14045
-#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissenhd.jpg" group-title="Live: Germany",Spiegel Geschichte HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/16573
-#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="tagesschau24 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tagesschau24hd.jpg" group-title="Live: Germany",tagesschau24 FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15752
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: Germany",TLC DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12324
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Germany",TLC FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15757
-#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal Channel HD DE" tvg-logo="https://picon-13398.kxcdn.com/universalchannelhd.jpg" group-title="Live: Germany",Universal Channel HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3439
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3448
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt HD DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/14573
-#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="https://picon-13398.kxcdn.com/weltderwunder.jpg" group-title="Live: Germany",Welt der Wunder DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12305
-#EXTINF:-1 tvg-id="Classica.de" tvg-name="CLASSICA DE" tvg-logo="https://picon-13398.kxcdn.com/classica.jpg" group-title="Live: Germany",CLASSICA DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/9555
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusic.jpg" group-title="Live: Germany",Deluxe Music DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/9554
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music FHD DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusichd.jpg" group-title="Live: Germany",Deluxe Music FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/14057
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://picon-13398.kxcdn.com/deutschesmusikfernsehen.jpg" group-title="Live: Germany",Deutsches Musik Fernsehen DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12334
-#EXTINF:-1 tvg-id="FolxTV.de" tvg-name="Folx TV DE" tvg-logo="https://picon-13398.kxcdn.com/folxtv.jpg" group-title="Live: Germany",Folx TV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12319
-#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="JukeBox DE" tvg-logo="https://picon-13398.kxcdn.com/jukebox.jpg" group-title="Live: Germany",JukeBox DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15579
-#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV HD DE" tvg-logo="https://picon-13398.kxcdn.com/mtvhd.jpg" group-title="Live: Germany",MTV HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15759
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12317
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central HD DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/19677
-#EXTINF:-1 tvg-id="Sky1.de" tvg-name="Sky 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/sky1hd.jpg" group-title="Live: Germany",Sky 1 HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/9557
-#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemacomedy.jpg" group-title="Live: Germany",Sky Cinema Fun DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3430
-#EXTINF:-1 tvg-id="" tvg-name="Sky Family FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemafamilyhd.jpg" group-title="Live: Germany",Sky Family FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15576
-#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="Sky Krimi DE" tvg-logo="https://picon-13398.kxcdn.com/skykrimi.jpg" group-title="Live: Germany",Sky Krimi DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3429
-#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 1 Live DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/11265
-#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! DE" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: Germany",E! DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/16502
-#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! HD DE" tvg-logo="https://picon-13398.kxcdn.com/eentertainmenthd.jpg" group-title="Live: Germany",E! HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15567
-#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX HD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/3425
-#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX FHD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/14055
-#EXTINF:-1 tvg-id="AXN.de" tvg-name="Sony AXN FHD DE" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Live: Germany",Sony AXN FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/9562
-#EXTINF:-1 tvg-id="Syfy.de" tvg-name="Syfy FHD DE" tvg-logo="https://picon-13398.kxcdn.com/syfyhd.jpg" group-title="Live: Germany",Syfy FHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/14043
-#EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="TNT Comedy HD DE" tvg-logo="https://picon-13398.kxcdn.com/tntcomedyhd.jpg" group-title="Live: Germany",TNT Comedy HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/15577
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 1 HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/18234
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 6 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 6 HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/18239
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 1 Premiere HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 1 Premiere HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/26323
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 10 Lacheln HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 10 Lacheln HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/26332
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Entdeckernatur 11 4K UHD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Entdeckernatur 11 4K UHD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/26333
-#EXTINF:-1 tvg-id="AstroTV.de" tvg-name="Astro TV DE" tvg-logo="https://picon-13398.kxcdn.com/astrotv.jpg" group-title="Live: Germany",Astro TV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/12339
-#EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="München TV DE" tvg-logo="https://picon-13398.kxcdn.com/munchentv.jpg" group-title="Live: Germany",München TV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/11659
-#EXTINF:-1 tvg-id="DeutscheWelleArabic.de" tvg-name="DW Arabia DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="Live: Germany",DW Arabia DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/19620
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DW Deutsch DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="Live: Germany",DW Deutsch DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/27791
-#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DW English DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="Live: Germany",DW English DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/17300
-#EXTINF:-1 tvg-id="" tvg-name="German Tote TV DE" tvg-logo="https://picon-13398.kxcdn.com/germantotede.jpg" group-title="Live: Germany",German Tote TV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/23945
-#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="https://picon-13398.kxcdn.com/hgtv.jpg" group-title="Live: Germany",HGTV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/27656
-#EXTINF:-1 tvg-id="" tvg-name="Health TV DE" tvg-logo="https://picon-13398.kxcdn.com/healthtvde.jpg" group-title="Live: Germany",Health TV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/28231
-#EXTINF:-1 tvg-id="allgaeutv.de" tvg-name="Allgäu TV DE" tvg-logo="https://picon-13398.kxcdn.com/allgautvde.jpg" group-title="Live: Germany",Allgäu TV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/28232
-#EXTINF:-1 tvg-id="" tvg-name="Baden TV DE" tvg-logo="https://picon-13398.kxcdn.com/badentvde.jpg" group-title="Live: Germany",Baden TV DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/28233
-#EXTINF:-1 tvg-id="" tvg-name="noa4 Hamburg HD DE" tvg-logo="https://picon-13398.kxcdn.com/noa4de.jpg" group-title="Live: Germany",noa4 Hamburg HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/28238
-#EXTINF:-1 tvg-id="" tvg-name="noa4 Norderstedt HD DE" tvg-logo="https://picon-13398.kxcdn.com/noa4de.jpg" group-title="Live: Germany",noa4 Norderstedt HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/28239
-#EXTINF:-1 tvg-id="" tvg-name="RFO DE" tvg-logo="https://picon-13398.kxcdn.com/rfode.jpg" group-title="Live: Germany",RFO DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/28243
-#EXTINF:-1 tvg-id="RheinNeckarFernsehen.de" tvg-name="Rhein Neckar Fernsehen DE" tvg-logo="https://picon-13398.kxcdn.com/rheinneckarfernsehende.jpg" group-title="Live: Germany",Rhein Neckar Fernsehen DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/28244
-#EXTINF:-1 tvg-id="" tvg-name="TV Mainfranken DE" tvg-logo="https://picon-13398.kxcdn.com/tvmainfrankende.jpg" group-title="Live: Germany",TV Mainfranken DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/28247
-#EXTINF:-1 tvg-id="" tvg-name="Frauen Bundesliga HD DE" tvg-logo="https://picon-13398.kxcdn.com/frauenbundesligade.jpg" group-title="Live: Germany",Frauen Bundesliga HD DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/35184
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport KOMPAKT 2 HD (nur Spiel Tag) DE" tvg-logo="https://picon-13398.kxcdn.com/skysportkombat.jpg" group-title="Live: Germany",Sky Sport KOMPAKT 2 HD (nur Spiel Tag) DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/35186
-#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="Nicktoons DE" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Live: Germany",Nicktoons DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/37836
-#EXTINF:-1 tvg-id="" tvg-name="Voxup DE" tvg-logo="https://picon-13398.kxcdn.com/voxupde.jpg" group-title="Live: Germany",Voxup DE
-http://channels227070.clientportal.link:80/NG123456789/FpYFnp0263/52134
-#EXTINF:-1 tvg-id="" tvg-name="Die unglaublichen Abenteuer von Bella [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg" group-title="Movie: German",Die unglaublichen Abenteuer von Bella [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Die Zahnfee wird dich holen [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uA6nSvazBeSKSDEgurpHXgmxLZ.jpg" group-title="Movie: German",Die Zahnfee wird dich holen [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Die zwei Paepste [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg" group-title="Movie: German",Die zwei Paepste [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Sleeps Erwachen [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p69QzIBbN06aTYqRRiCOY1emNBh.jpg" group-title="Movie: German",Doctor Sleeps Erwachen [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dolls - Schau hin oder stirb [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKjxng2LOhtdaIudGe4ZEOyFLey.jpg" group-title="Movie: German",Dolls - Schau hin oder stirb [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Domino [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ExrDZRhhmZkveXMjUzywc6266q.jpg" group-title="Movie: German",Domino [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Donnybrook - Below the Belt [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcuEDKnM3uThdz7p0YYWFjMla73.jpg" group-title="Movie: German",Donnybrook - Below the Belt [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dora und die goldene Stadt [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvYCZ740XvngXK0FNeSNVTJJJ5v.jpg" group-title="Movie: German",Dora und die goldene Stadt [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg" group-title="Movie: German",Downton Abbey [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragged Across Concrete [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVG4a27ImyPS4vvNMjCtan3QhDl.jpg" group-title="Movie: German",Dragged Across Concrete [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super - Broly [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f03YksE4NggUjG75toz4H1YAGRf.jpg" group-title="Movie: German",Dragon Ball Super - Broly [DE] [2018]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragonheart Vengeance [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmt3HRRgtsio4nRpaHZVKOTwH8W.jpg" group-title="Movie: German",Dragonheart Vengeance [DE] [2020]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drei Schritte zu dir [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg" group-title="Movie: German",Drei Schritte zu dir [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drunk Parents [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwFaM56RH2gZYdPZgnVyVABYedR.jpg" group-title="Movie: German",Drunk Parents [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dumbo [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg" group-title="Movie: German",Dumbo [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Einer von Sechs [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztGSEcowBoHyRwcK0s5kIKVVXwy.jpg" group-title="Movie: German",Einer von Sechs [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ein Funken Gerechtigkeit [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwIejqS8wU7cYXqnAJzMpxTWqsa.jpg" group-title="Movie: German",Ein Funken Gerechtigkeit [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ein ganz gewoehnlicher Held [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJeNI0jc2VKd3L2JswUhijNvs0.jpg" group-title="Movie: German",Ein ganz gewoehnlicher Held [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ein Gauner & Gentleman [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4BfxRK8dBgbQqbRxPs8kmLd8LG.jpg" group-title="Movie: German",Ein Gauner & Gentleman [DE] [2018]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eingeschneit - Weihnachten im Schneesturm [DE] [2003]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4BfxRK8dBgbQqbRxPs8kmLd8LG.jpg" group-title="Movie: German",Eingeschneit - Weihnachten im Schneesturm [DE] [2003]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ein leichtes Maedchen [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RPBO98muKOKf8FuddSnYlGHxm5.jpg" group-title="Movie: German",Ein leichtes Maedchen [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ein Mops zum Verlieben [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzo0rfLxgcbUPfjT3yjBYioFpv9.jpg" group-title="Movie: German",Ein Mops zum Verlieben [DE] [2018]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Electric Girl [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peUad2PDt9O8x51Tte2NyN1uIlO.jpg" group-title="Movie: German",Electric Girl [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Elefanten [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvRbUiOuqedyDmwToErkp7wuFCv.jpg" group-title="Movie: German",Elefanten [DE] [2020]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Elliot - Das kleinste Rentier [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYq809WTep01HO5oJR9o9VbEDJv.jpg" group-title="Movie: German",Elliot - Das kleinste Rentier [DE] [2018]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Emma. [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg" group-title="Movie: German",Emma. [DE] [2020]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enzo und die wundersame Welt der Menschen [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg" group-title="Movie: German",Enzo und die wundersame Welt der Menschen [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Erde und Blut [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23S0NEXXOMhhXhF566Pw5sx7hnZ.jpg" group-title="Movie: German",Erde und Blut [DE] [2020]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Es - Kapitel 2 [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfE0R94v1E8cuKAerbskfD3VfUt.jpg" group-title="Movie: German",Es - Kapitel 2 [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escape Plan - The Extractors [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r15SUgzjL8bablcdEkHk9T7TSRl.jpg" group-title="Movie: German",Escape Plan - The Extractors [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ewiger Winter - Die Vergessenen des 2. Weltkriegs [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmsKJ6oCDpscG18IDqgMVuHik4V.jpg" group-title="Movie: German",Ewiger Winter - Die Vergessenen des 2. Weltkriegs [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Falling Inn Love (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bzu5k5vwLKgwap6pHXlCY8nlh3.jpg" group-title="Movie: German",Falling Inn Love (2019)
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Familie Willoughby [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WrMmjdZvpxLQh1tCQ9tOd1asOb.jpg" group-title="Movie: German",Familie Willoughby [DE] [2020]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fantasy Island [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg" group-title="Movie: German",Fantasy Island [DE] [2020]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious - Hobbs & Shaw [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg" group-title="Movie: German",Fast & Furious - Hobbs & Shaw [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Feedback - Sende oder stirb [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ry96PlfzAsO93dZ1Cf1pRmCpNJ.jpg" group-title="Movie: German",Feedback - Sende oder stirb [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Feuer & Flamme [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ3jdaH8Z69THmRlyEN8T7grtif.jpg" group-title="Movie: German",Feuer & Flamme [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Feuerwehrmann Sam - Ploetzlich Filmheld! [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2atmRsuSA4tX6sbOEgFzquFWcCV.jpg" group-title="Movie: German",Feuerwehrmann Sam - Ploetzlich Filmheld! [DE] [2018]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fighting with My Family [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVhe15rJLRjolunSWLBN6xQLyGU.jpg" group-title="Movie: German",Fighting with My Family [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Flucht aus Leningrad [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHtfl6iKoyD6LQuXBjYOJIwZJS6.jpg" group-title="Movie: German",Flucht aus Leningrad [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Forsaken - Mission Mars [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0ZQ8PEGjVXY3GaNThRzDWGsidt.jpg" group-title="Movie: German",Forsaken - Mission Mars [DE] [2018]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fractured [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paZNRffT3kUckuRFKbeDBuX1YcZ.jpg" group-title="Movie: German",Fractured [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FrauMutterTier [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bR10VX32CXhaW313mssroK10Vhi.jpg" group-title="Movie: German",FrauMutterTier [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Freaks - Sie sehen aus wie wir [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc2cvuqESIiRX5QoZOoMTBq18kQ.jpg" group-title="Movie: German",Freaks - Sie sehen aus wie wir [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gemini Man [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg" group-title="Movie: German",Gemini Man [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Get Lucky - Sex veraendert alles [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ull3EXXOKNbpQTwLIJCpehJ8Qij.jpg" group-title="Movie: German",Get Lucky - Sex veraendert alles [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Glam Girls - Hinreissend verdorben [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHAD7cx1j2RAyjwREVgJeLcLVoi.jpg" group-title="Movie: German",Glam Girls - Hinreissend verdorben [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gloria - Das Leben wartet nicht [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dNPpu6AKqciIrZoLnJAE12DW9L.jpg" group-title="Movie: German",Gloria - Das Leben wartet nicht [DE] [2018]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla II - King of the Monsters [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU3bnutJU91u3b4IeRPQTOP8jhV.jpg" group-title="Movie: German",Godzilla II - King of the Monsters [DE] [2019]
-http://channels227070.clientportal.link:80/movie/NG123456789/FpYFnp0263/44888.mp4
+#EXTINF:-1 tvg-id="ard.alpha.de" tvg-name="DE006:Ard Alpha" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE006ArdAlpha.png" group-title="DE Ent",DE006:Ard Alpha
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2677
+#EXTINF:-1 tvg-id="arte.de" tvg-name="DE007:Arte" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE007Arte.png" group-title="DE Ent",DE007:Arte
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2676
+#EXTINF:-1 tvg-id="deluxe.music.de" tvg-name="DE012:Deluxe Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE012DeluxeMusic.png" group-title="DE Ent",DE012:Deluxe Music
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2671
+#EXTINF:-1 tvg-id="kabel.eins.doku.de" tvg-name="DE023:Kabel 1 Doku" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE023Kabel1Doku.png" group-title="DE Ent",DE023:Kabel 1 Doku
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2660
+#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="DE024:Kabel 1 Eins" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE024Kabel1Eins.png" group-title="DE Ent",DE024:Kabel 1 Eins
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2659
+#EXTINF:-1 tvg-id="" tvg-name="DE026:MGM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE026MGM.png" group-title="DE Ent",DE026:MGM
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2657
+#EXTINF:-1 tvg-id="mtv.de" tvg-name="DE027:MTV DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE027MTVDE.png" group-title="DE Ent",DE027:MTV DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2656
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE039:RTL 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE039RTL1.png" group-title="DE Ent",DE039:RTL 1
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2644
+#EXTINF:-1 tvg-id="rtl.ii.de" tvg-name="DE040:RTL 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE040RTL2.png" group-title="DE Ent",DE040:RTL 2
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2643
+#EXTINF:-1 tvg-id="rtl.living.de" tvg-name="DE042:RTL Living" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE042RTLLiving.png" group-title="DE Ent",DE042:RTL Living
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2641
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE048:Sixx" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE048Sixx.png" group-title="DE Ent",DE048:Sixx
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2635
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE076:VOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE076VOX.png" group-title="DE Ent",DE076:VOX
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2607
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="DE077:WDR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE077WDR.png" group-title="DE Ent",DE077:WDR
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2606
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE105:RTL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE105RTLHD.png" group-title="DE Ent",DE105:RTL HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29179
+#EXTINF:-1 tvg-id="classica.de" tvg-name="DE109:Classica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE109Classica.png" group-title="DE Ent",DE109:Classica
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29175
+#EXTINF:-1 tvg-id="" tvg-name="DE111:ZEE ONE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE111ZEEONE.png" group-title="DE Ent",DE111:ZEE ONE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29173
+#EXTINF:-1 tvg-id="" tvg-name="DE113:Pro7 Fun HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE113Pro7FunHD.png" group-title="DE Ent",DE113:Pro7 Fun HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29171
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE114:RTL Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE114RTLPlus.png" group-title="DE Ent",DE114:RTL Plus
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29170
+#EXTINF:-1 tvg-id="" tvg-name="DE115:Hr-fernsehen HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE115Hr-fernsehenHD.png" group-title="DE Ent",DE115:Hr-fernsehen HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29169
+#EXTINF:-1 tvg-id="mdr.s.anhalt.de" tvg-name="DE116:MDR S-Anhalt HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE116MDRS-AnhaltHD(1080P).png" group-title="DE Ent",DE116:MDR S-Anhalt HD ( 1080P )
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29168
+#EXTINF:-1 tvg-id="mdr.sachsen.de" tvg-name="DE117:MDR Sachsen HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE117MDRSachsenHD(1080P).png" group-title="DE Ent",DE117:MDR Sachsen HD ( 1080P )
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29167
+#EXTINF:-1 tvg-id="mdr.thuringen.de" tvg-name="DE118:MDR ThÃ¼ringen HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE118MDRThÃ¼ringenHD(1080P).png" group-title="DE Ent",DE118:MDR ThÃ¼ringen HD ( 1080P )
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29166
+#EXTINF:-1 tvg-id="" tvg-name="DE119:QVC BEAUTY & STYLE HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE119QVCBEAUTY&STYLEHD(1080P).png" group-title="DE Ent",DE119:QVC BEAUTY & STYLE HD ( 1080P )
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29165
+#EXTINF:-1 tvg-id="rbb.berlin.de" tvg-name="DE120:Rbb Berlin HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE120RbbBerlinHD(1080P).png" group-title="DE Ent",DE120:Rbb Berlin HD ( 1080P )
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29164
+#EXTINF:-1 tvg-id="rbb.brandenburg.de" tvg-name="DE121:rbb Brandenburg HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE121rbbBrandenburgHD(1080P).png" group-title="DE Ent",DE121:rbb Brandenburg HD ( 1080P )
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29163
+#EXTINF:-1 tvg-id="ard.alpha.de" tvg-name="DE122:ARD One HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE122ARD.png" group-title="DE Ent",DE122:ARD One HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29162
+#EXTINF:-1 tvg-id="spiegel.wissen.de" tvg-name="DE125:SPIEGEL TV Wissen HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE125SPIEGELTVWissenHD.png" group-title="DE Ent",DE125:SPIEGEL TV Wissen HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29159
+#EXTINF:-1 tvg-id="" tvg-name="DE127:SR Fernsehen HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE127SRFernsehenHD(1080P).png" group-title="DE Ent",DE127:SR Fernsehen HD ( 1080P )
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29157
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE129:TLC HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE129TLCHD(1080P).png" group-title="DE Ent",DE129:TLC HD ( 1080P )
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29155
+#EXTINF:-1 tvg-id="" tvg-name="DE130:Zee One HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE130ZeeOneHD(1080P).png" group-title="DE Ent",DE130:Zee One HD ( 1080P )
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29154
+#EXTINF:-1 tvg-id="e.entertainm.de" tvg-name="DE131:E! Entertainm HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE131E!EntertainmHD(1080P).png" group-title="DE Ent",DE131:E! Entertainm HD ( 1080P )
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29153
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE132:Motorvision TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE132MotorvisionTV.png" group-title="DE Ent",DE132:Motorvision TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29152
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE134:RTL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE134RTLHD.png" group-title="DE Ent",DE134:RTL HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29150
+#EXTINF:-1 tvg-id="munchen.tv.de" tvg-name="DE145:Munchen TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE145MunchenTV.png" group-title="DE Ent",DE145:Munchen TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29139
+#EXTINF:-1 tvg-id="" tvg-name="DE149:BAYERN FC TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE149BAYERNFCTV.png" group-title="DE Ent",DE149:BAYERN FC TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29134
+#EXTINF:-1 tvg-id="" tvg-name="DE151:BR FERNSEHEN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE151BRFERNSEHENHD.png" group-title="DE Ent",DE151:BR FERNSEHEN HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29132
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="DE152:ZDF INFO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE152ZDFINFOHD.png" group-title="DE Ent",DE152:ZDF INFO HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29131
+#EXTINF:-1 tvg-id="classica.de" tvg-name="DE158:Classica HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE158ClassicaHD.png" group-title="DE Ent",DE158:Classica HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29125
+#EXTINF:-1 tvg-id="" tvg-name="DE159:XITE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE159XITEHD.png" group-title="DE Ent",DE159:XITE HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29124
+#EXTINF:-1 tvg-id="chemnitz.de" tvg-name="DE160:Chemnitz TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE160ChemnitzTV.png" group-title="DE Ent",DE160:Chemnitz TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29123
+#EXTINF:-1 tvg-id="deutsches.musik.de" tvg-name="DE163:Deutsches Musik Fernsehen HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE163DeutschesMusikFernsehenHD.png" group-title="DE Ent",DE163:Deutsches Musik Fernsehen HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29120
+#EXTINF:-1 tvg-id="drf1.de" tvg-name="DE165:DRF 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE165DRF1HD.png" group-title="DE Ent",DE165:DRF 1 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29118
+#EXTINF:-1 tvg-id="e.entertainm.de" tvg-name="DE166:E! ENTERTAINM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE166E!ENTERTAINMHD.png" group-title="DE Ent",DE166:E! ENTERTAINM HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29116
+#EXTINF:-1 tvg-id="" tvg-name="DE167:ELBEKANAL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE167ELBEKANALHD.png" group-title="DE Ent",DE167:ELBEKANAL HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29115
+#EXTINF:-1 tvg-id="oberpfalz.de" tvg-name="DE172:TV Oberpfalz" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE172TVOberpfalz.png" group-title="DE Ent",DE172:TV Oberpfalz
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29110
+#EXTINF:-1 tvg-id="" tvg-name="DE182:HR Fernsehen HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE182HRFernsehenHD.png" group-title="DE Ent",DE182:HR Fernsehen HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29100
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="DE184:Jukebox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE184JukeboxHD.png" group-title="DE Ent",DE184:Jukebox HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29098
+#EXTINF:-1 tvg-id="dresden.de" tvg-name="DE186:Dresden TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE186DresdenTV.png" group-title="DE Ent",DE186:Dresden TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29096
+#EXTINF:-1 tvg-id="tele.5.de" tvg-name="DE187:Tele 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE187Tele5.png" group-title="DE Ent",DE187:Tele 5
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29095
+#EXTINF:-1 tvg-id="kabel.eins.doku.de" tvg-name="DE188:Kabel Doku" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE188KabelDoku.png" group-title="DE Ent",DE188:Kabel Doku
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29094
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="DE190:MDR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE190MDRHD.png" group-title="DE Ent",DE190:MDR HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29092
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE191:Motorvision HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE191MotorvisionHD.png" group-title="DE Ent",DE191:Motorvision HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29091
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="DE193:NDR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE193NDRHD.png" group-title="DE Ent",DE193:NDR HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29089
+#EXTINF:-1 tvg-id="nitro.de" tvg-name="DE194:NITRO FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE194NITROHD.png" group-title="DE Ent",DE194:NITRO FHD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29088
+#EXTINF:-1 tvg-id="" tvg-name="DE199:OK MAGDEBURG REGGIO TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE199OKMAGDEBURGREGGIOTVFHD.png" group-title="DE Ent",DE199:OK MAGDEBURG REGGIO TV FHD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29083
+#EXTINF:-1 tvg-id="" tvg-name="DE200:OK MERSEBURG HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE200OKMERSEBURGHD.png" group-title="DE Ent",DE200:OK MERSEBURG HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29082
+#EXTINF:-1 tvg-id="" tvg-name="DE201:OK Wernigerode" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE201OKWernigerode.png" group-title="DE Ent",DE201:OK Wernigerode
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29081
+#EXTINF:-1 tvg-id="" tvg-name="DE202:OKTO TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE202OKTOTV.png" group-title="DE Ent",DE202:OKTO TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29080
+#EXTINF:-1 tvg-id="" tvg-name="DE203:Oldenburg eins TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE203OldenburgeinsTVHD.png" group-title="DE Ent",DE203:Oldenburg eins TV HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29079
+#EXTINF:-1 tvg-id="one.de" tvg-name="DE205:ONE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE205ONEHD.png" group-title="DE Ent",DE205:ONE HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29077
+#EXTINF:-1 tvg-id="deluxe.music.de" tvg-name="DE216:Deluxe Music HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE216DeluxeMusicHD.png" group-title="DE Ent",DE216:Deluxe Music HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29066
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="DE217:QVC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE217QVCHD.png" group-title="DE Ent",DE217:QVC HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29065
+#EXTINF:-1 tvg-id="" tvg-name="DE218:RAN 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE218RAN1HD.png" group-title="DE Ent",DE218:RAN 1 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29064
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="DE219:rbb HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE219rbbHD.png" group-title="DE Ent",DE219:rbb HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29063
+#EXTINF:-1 tvg-id="" tvg-name="DE220:RFH HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE220RFHHD.png" group-title="DE Ent",DE220:RFH HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29062
+#EXTINF:-1 tvg-id="ric.de" tvg-name="DE221:RIC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE221RICHD.png" group-title="DE Ent",DE221:RIC HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29061
+#EXTINF:-1 tvg-id="romance.de" tvg-name="DE223:Romance TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE223RomanceTVHD.png" group-title="DE Ent",DE223:Romance TV HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29059
+#EXTINF:-1 tvg-id="rtl.ii.de" tvg-name="DE224:RTL II HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE224RTLIIHD.png" group-title="DE Ent",DE224:RTL II HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29057
+#EXTINF:-1 tvg-id="nitro.de" tvg-name="DE226:RTL Nitro HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE226RTLNitroHD.png" group-title="DE Ent",DE226:RTL Nitro HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29056
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE238:TLC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE238TLCHD.png" group-title="DE Ent",DE238:TLC HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29044
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="DE284:Sonnenklar TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE284SONNENKLARHD.png" group-title="DE Ent",DE284:Sonnenklar TV HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/28998
+#EXTINF:-1 tvg-id="spiegel.wissen.de" tvg-name="DE286:Spiegel TV Wissen HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE286SpiegelTVWissenHD.png" group-title="DE Ent",DE286:Spiegel TV Wissen HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/28996
+#EXTINF:-1 tvg-id="" tvg-name="DE296:Bibel TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE296BibelTV.png" group-title="DE Ent",DE296:Bibel TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/49036
+#EXTINF:-1 tvg-id="" tvg-name="DE298:1-2-3 TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE2981-2-3TV.png" group-title="DE Ent",DE298:1-2-3 TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/49034
+#EXTINF:-1 tvg-id="" tvg-name="DE297:Bon Gusto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE297BonGusto.png" group-title="DE Ent",DE297:Bon Gusto
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/49035
+#EXTINF:-1 tvg-id="" tvg-name="DE299:VoxUp" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE299VoxUp.png" group-title="DE Ent",DE299:VoxUp
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/49033
+#EXTINF:-1 tvg-id="allgau.tv.de" tvg-name="DE304:Allgau TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE304AllgauTV.png" group-title="DE Ent",DE304:Allgau TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/49038
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="DE303:Genius Plus TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE303GeniusPlusTV.png" group-title="DE Ent",DE303:Genius Plus TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/49039
+#EXTINF:-1 tvg-id="juwelo.de" tvg-name="DE302:Juwelo HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE302JuweloHD.png" group-title="DE Ent",DE302:Juwelo HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/49040
+#EXTINF:-1 tvg-id="rfo.de" tvg-name="DE301:RFO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE301RFOHD.png" group-title="DE Ent",DE301:RFO HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/49041
+#EXTINF:-1 tvg-id="die.neue.zeit.de" tvg-name="DE300:Die Neue Zeit TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE300DieNeueZeitTV.png" group-title="DE Ent",DE300:Die Neue Zeit TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/49042
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE018:Euro Sport 1 DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE018EuroSport1DE.png" group-title="DE Sports",DE018:Euro Sport 1 DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2665
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE112:SPORT 1+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE112Sport1HD.png" group-title="DE Sports",DE112:SPORT 1+
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29172
+#EXTINF:-1 tvg-id="" tvg-name="DE126:SPORT1 HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE126SPORT1HD(1080P).png" group-title="DE Sports",DE126:SPORT1 HD ( 1080P )
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29158
+#EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="DE135:Eurosport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE135Eurosport1HD.png" group-title="DE Sports",DE135:Eurosport 1 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29149
+#EXTINF:-1 tvg-id="auto.motor.sport.de" tvg-name="DE146:Auto Motor Sport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE146AutoMotorSportHD.png" group-title="DE Sports",DE146:Auto Motor Sport HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29137
+#EXTINF:-1 tvg-id="orf.sport+.de" tvg-name="DE150:ORF SPORT+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE150BLKTV.png" group-title="DE Sports",DE150:ORF SPORT+
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29133
+#EXTINF:-1 tvg-id="" tvg-name="DE162:DAZN BAR 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE162DAZNBAR2HD.png" group-title="DE Sports",DE162:DAZN BAR 2 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29121
+#EXTINF:-1 tvg-id="eurosport.1.de" tvg-name="DE169:EUROSPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE169EUROSPORT1HD.png" group-title="DE Sports",DE169:EUROSPORT 1 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29113
+#EXTINF:-1 tvg-id="eurosport.2.de" tvg-name="DE170:EUROSPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE170EUROSPORT2HD.png" group-title="DE Sports",DE170:EUROSPORT 2 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29112
+#EXTINF:-1 tvg-id="eurosport.2.hd.xtra.de" tvg-name="DE171:Eurosport 2 Xtra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE171Eurosport2Xtra.png" group-title="DE Sports",DE171:Eurosport 2 Xtra
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29111
+#EXTINF:-1 tvg-id="" tvg-name="DE204:OLYMPIC CHANNEL SPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE204OLYMPICCHANNELSPORT2HD.png" group-title="DE Sports",DE204:OLYMPIC CHANNEL SPORT 2 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29078
+#EXTINF:-1 tvg-id="" tvg-name="DE228:Telekom Fussball 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE228TelekomFussball1HD.png" group-title="DE Sports",DE228:Telekom Fussball 1 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29054
+#EXTINF:-1 tvg-id="dazn.de" tvg-name="DE230:DAZN 2 Bar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE230DAZN2Bar.png" group-title="DE Sports",DE230:DAZN 2 Bar
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29052
+#EXTINF:-1 tvg-id="eurosport.1.sky.de" tvg-name="DE234:Sky EUROSPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE234SkyEUROSPORT1HD.png" group-title="DE Sports",DE234:Sky EUROSPORT 1 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29048
+#EXTINF:-1 tvg-id="sky.sport.bundesliga.1.de" tvg-name="DE269:Sky Sport Bundesliga 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE269SkySportBundesliga1HD.png" group-title="DE Sports",DE269:Sky Sport Bundesliga 1 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29013
+#EXTINF:-1 tvg-id="sky.sport.1.de" tvg-name="DE279:Sky Sport Austria SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE279SkySportHD(AU).png" group-title="DE Sports",DE279:Sky Sport Austria SD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29003
+#EXTINF:-1 tvg-id="sky.sport.austria.de" tvg-name="DE289:Sky Sport Austria FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE289SkySportAustriaHD.png" group-title="DE Sports",DE289:Sky Sport Austria FHD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/28993
+#EXTINF:-1 tvg-id="" tvg-name="DE291:BBL Sport 1 (ONLY ON MATCHDAY)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE291BBLSport1(ONLYONMATCHDAY).png" group-title="DE Sports",DE291:BBL Sport 1 (ONLY ON MATCHDAY)
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/28991
+#EXTINF:-1 tvg-id="13th.street.de" tvg-name="DE001:13TH Street" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE00113THStreet.png" group-title="DE Cinema",DE001:13TH Street
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2682
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE002:3 SAT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE0023SATHD.png" group-title="DE Cinema",DE002:3 SAT HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2681
+#EXTINF:-1 tvg-id="a.e.de" tvg-name="DE003:A&E DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE003A&EDE.png" group-title="DE Cinema",DE003:A&E DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2680
+#EXTINF:-1 tvg-id="axn.de" tvg-name="DE008:AXN DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE008AXNDE.png" group-title="DE Cinema",DE008:AXN DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2675
+#EXTINF:-1 tvg-id="disney.cinemagic.de" tvg-name="DE015:Disney cine magic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE015Disneycinemagic.png" group-title="DE Cinema",DE015:Disney cine magic
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2668
+#EXTINF:-1 tvg-id="fox.de" tvg-name="DE020:Fox DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE020FoxDE.png" group-title="DE Cinema",DE020:Fox DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2663
+#EXTINF:-1 tvg-id="kabel.1.de" tvg-name="DE022:Kabel 1 Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE022Kabel1Classic.png" group-title="DE Cinema",DE022:Kabel 1 Classic
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2661
+#EXTINF:-1 tvg-id="orf1.de.se" tvg-name="DE034:ORF 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE034ORF1.png" group-title="DE Cinema",DE034:ORF 1
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2649
+#EXTINF:-1 tvg-id="orf.2.de" tvg-name="DE035:ORF 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE035ORF2.png" group-title="DE Cinema",DE035:ORF 2
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2648
+#EXTINF:-1 tvg-id="rtl.crime.de" tvg-name="DE041:RTL Crime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE041RTLCrime.png" group-title="DE Cinema",DE041:RTL Crime
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2642
+#EXTINF:-1 tvg-id="rtl.nitro.de" tvg-name="DE043:RTL Nitro" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE043RTLNitro.png" group-title="DE Cinema",DE043:RTL Nitro
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2640
+#EXTINF:-1 tvg-id="rtl.passion.de" tvg-name="DE044:RTL Passion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE044RTLPassion.png" group-title="DE Cinema",DE044:RTL Passion
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2639
+#EXTINF:-1 tvg-id="sat.1.gold.de" tvg-name="DE045:SAT 1 Gold" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE045SAT1Gold.png" group-title="DE Cinema",DE045:SAT 1 Gold
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2638
+#EXTINF:-1 tvg-id="sat.1.de" tvg-name="DE046:SAT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE046SAT1.png" group-title="DE Cinema",DE046:SAT 1
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2637
+#EXTINF:-1 tvg-id="servus.de" tvg-name="DE047:Servus TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE047ServusTV.png" group-title="DE Cinema",DE047:Servus TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2636
+#EXTINF:-1 tvg-id="sky.arts.de" tvg-name="DE049:Sky Arts" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE049SkyArts.png" group-title="DE Cinema",DE049:Sky Arts
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2634
+#EXTINF:-1 tvg-id="sky.atlantic.de" tvg-name="DE050:Sky Atlantic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE050SkyAtlantic.png" group-title="DE Cinema",DE050:Sky Atlantic
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2633
+#EXTINF:-1 tvg-id="sky.cinema+24.de" tvg-name="DE054:Sky Cinema 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE054SkyCinema24.png" group-title="DE Cinema",DE054:Sky Cinema 24
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2629
+#EXTINF:-1 tvg-id="sky.cinema.action.de" tvg-name="DE055:Sky Cinema Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE055SkyCinemaAction.png" group-title="DE Cinema",DE055:Sky Cinema Action
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2628
+#EXTINF:-1 tvg-id="sky.cinema.comedy.de" tvg-name="DE056:Sky Cinema Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE056SkyCinemaComedy.png" group-title="DE Cinema",DE056:Sky Cinema Comedy
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2627
+#EXTINF:-1 tvg-id="" tvg-name="DE057:Sky Disney" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE057SkyDisney.png" group-title="DE Cinema",DE057:Sky Disney
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2626
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE058:Sky DMAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE058SkyDMAX.png" group-title="DE Cinema",DE058:Sky DMAX
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2625
+#EXTINF:-1 tvg-id="sky.cinema.emotion.de" tvg-name="DE059:Sky Cinema Emotion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE059SkyCinemaEmotion.png" group-title="DE Cinema",DE059:Sky Cinema Emotion
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2624
+#EXTINF:-1 tvg-id="sky.cinema.family.de" tvg-name="DE060:Sky Cinema Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE060SkyCinemaFamily.png" group-title="DE Cinema",DE060:Sky Cinema Family
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2623
+#EXTINF:-1 tvg-id="sky.cinema.hits.de" tvg-name="DE061:Sky Cinema Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE061SkyCinemaHits.png" group-title="DE Cinema",DE061:Sky Cinema Hits
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2622
+#EXTINF:-1 tvg-id="sky.cinema.nostalgie.de" tvg-name="DE062:Sky Cinema Nostalgie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE062SkyCinemaNostalgie.png" group-title="DE Cinema",DE062:Sky Cinema Nostalgie
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2621
+#EXTINF:-1 tvg-id="sky.krimi.de" tvg-name="DE063:Sky Krimi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE063SkyKrimi.png" group-title="DE Cinema",DE063:Sky Krimi
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2620
+#EXTINF:-1 tvg-id="universal.de" tvg-name="DE068:Universal DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE068UniversalDE.png" group-title="DE Cinema",DE068:Universal DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2615
+#EXTINF:-1 tvg-id="tnt.comedy.de" tvg-name="DE073:TNT Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE073TNTComedy.png" group-title="DE Cinema",DE073:TNT Comedy
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2610
+#EXTINF:-1 tvg-id="tnt.film.de" tvg-name="DE074:TNT Film" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE074TNTFilm.png" group-title="DE Cinema",DE074:TNT Film
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2609
+#EXTINF:-1 tvg-id="" tvg-name="DE088:Sky Select 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE088SkySelect8.png" group-title="DE Cinema",DE088:Sky Select 8
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29196
+#EXTINF:-1 tvg-id="" tvg-name="DE095:SKY SELECT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE095SKYSELECT1.png" group-title="DE Cinema",DE095:SKY SELECT 1
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29189
+#EXTINF:-1 tvg-id="" tvg-name="DE106:Pro7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE106Pro7.png" group-title="DE Cinema",DE106:Pro7
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29178
+#EXTINF:-1 tvg-id="" tvg-name="DE108:Disney Cinemagic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE108DisneyCinemagicHD.png" group-title="DE Cinema",DE108:Disney Cinemagic HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29176
+#EXTINF:-1 tvg-id="" tvg-name="DE123:SAT GOLD 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE123SATGOLD1.png" group-title="DE Cinema",DE123:SAT GOLD 1
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29161
+#EXTINF:-1 tvg-id="" tvg-name="DE133:Sky Cinema Thriller" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE133SkyCinemaFamily.png" group-title="DE Cinema",DE133:Sky Cinema Thriller
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29151
+#EXTINF:-1 tvg-id="" tvg-name="DE153:Eagle Cinema Premiere HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE153CineDome1HD.png" group-title="DE Cinema",DE153:Eagle Cinema Premiere HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29130
+#EXTINF:-1 tvg-id="" tvg-name="DE157:Eagle Cinema Animation HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE157CineDome5HD.png" group-title="DE Cinema",DE157:Eagle Cinema Animation HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29126
+#EXTINF:-1 tvg-id="" tvg-name="DE173:FILM CLUB 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE173FILMCLUB1HD.png" group-title="DE Cinema",DE173:FILM CLUB 1 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29109
+#EXTINF:-1 tvg-id="" tvg-name="DE177:FILM CLUB 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE177FILMCLUB5HD.png" group-title="DE Cinema",DE177:FILM CLUB 5 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29105
+#EXTINF:-1 tvg-id="" tvg-name="DE179:Sky Cinema Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE179FriesischerRundfunkHD.png" group-title="DE Ent",DE179:Sky Cinema Premiere
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29103
+#EXTINF:-1 tvg-id="" tvg-name="DE180:ORF 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE180ORF3HD.png" group-title="DE Cinema",DE180:ORF 3 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29102
+#EXTINF:-1 tvg-id="" tvg-name="DE181:HEIMATKANAL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE181HEIMATKANALHD.png" group-title="DE Cinema",DE181:HEIMATKANAL HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29101
+#EXTINF:-1 tvg-id="" tvg-name="DE189:Welt Der Wunder" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE189WeltDerWunder.png" group-title="DE Cinema",DE189:Welt Der Wunder
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29093
+#EXTINF:-1 tvg-id="" tvg-name="DE207:POPCORN SELECT 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE207POPCORNSELECT1FHD.png" group-title="DE Cinema",DE207:POPCORN SELECT 1 FHD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29075
+#EXTINF:-1 tvg-id="" tvg-name="DE213:POPCORN SELECT 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE213POPCORNSELECT7HD.png" group-title="DE Cinema",DE213:POPCORN SELECT 7 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29069
+#EXTINF:-1 tvg-id="" tvg-name="DE214:Pro 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE214Pro7HD.png" group-title="DE Cinema",DE214:Pro 7 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29068
+#EXTINF:-1 tvg-id="" tvg-name="DE215:PRO 7 MAXX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE215PRO7MAXXFHD.png" group-title="DE Cinema",DE215:PRO 7 MAXX FHD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29067
+#EXTINF:-1 tvg-id="sky.1.de" tvg-name="DE229:Sky 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE229Sky1HD.png" group-title="DE Cinema",DE229:Sky 1 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29053
+#EXTINF:-1 tvg-id="" tvg-name="DE232:Sky Cinema WESTERN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE232SkyCinemaWESTERN.png" group-title="DE Cinema",DE232:Sky Cinema WESTERN
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29050
+#EXTINF:-1 tvg-id="" tvg-name="DE233:Sky Classica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE233SkyClassica.png" group-title="DE Cinema",DE233:Sky Classica
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29049
+#EXTINF:-1 tvg-id="" tvg-name="DE235:Kinowelt TV F" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE235KinoweltTVF.png" group-title="DE Cinema",DE235:Kinowelt TV F
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29047
+#EXTINF:-1 tvg-id="" tvg-name="DE240:Disney Plus Film HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE240SkyPopcornSelect1HD.png" group-title="DE Cinema",DE240:Disney Plus Film HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29042
+#EXTINF:-1 tvg-id="" tvg-name="DE241:Sky Popcorn Select 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE241SkyPopcornSelect2HD.png" group-title="DE Cinema",DE241:Sky Popcorn Select 2 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29041
+#EXTINF:-1 tvg-id="" tvg-name="DE242:Sky Popcorn Select 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE242SkyPopcornSelect5HD.png" group-title="DE Cinema",DE242:Sky Popcorn Select 5 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29040
+#EXTINF:-1 tvg-id="" tvg-name="DE243:SKY SELECT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE243SKYSELECT1HD.png" group-title="DE Cinema",DE243:SKY SELECT 1 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29039
+#EXTINF:-1 tvg-id="" tvg-name="DE259:SKY SELECT 17 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE259SKYSELECT17HD.png" group-title="DE Cinema",DE259:SKY SELECT 17 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29023
+#EXTINF:-1 tvg-id="" tvg-name="DE260:SKY SELECT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE260SKYSELECTHD.png" group-title="DE Cinema",DE260:SKY SELECT HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29022
+#EXTINF:-1 tvg-id="" tvg-name="DE280:Sky Popcorn Select 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE280SKYSTORE1POPCORN.png" group-title="DE Cinema",DE280:Sky Popcorn Select 1 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29002
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="DE005:Anixe" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE005Anixe.png" group-title="DE News",DE005:Anixe
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2678
+#EXTINF:-1 tvg-id="n24.doku.de" tvg-name="DE028:N24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE028N24.png" group-title="DE News",DE028:N24
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2655
+#EXTINF:-1 tvg-id="n.de" tvg-name="DE029:N TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE029NTV.png" group-title="DE News",DE029:N TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2654
+#EXTINF:-1 tvg-id="sky.sport.news.de" tvg-name="DE067:Sky Sport News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE067SkySportNews.png" group-title="DE News",DE067:Sky Sport News
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2616
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE078:ZDF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE078ZDF.png" group-title="DE News",DE078:ZDF
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2605
+#EXTINF:-1 tvg-id="" tvg-name="DE124:Augsburg TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE124AugsburgTV.png" group-title="DE News",DE124:Augsburg TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29160
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE128:tagesschau24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE128tagesschau24HD(1080P).png" group-title="DE News",DE128:tagesschau24 HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29156
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="DE168:EURONEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE168EURONEWSHD.png" group-title="DE News",DE168:EURONEWS HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29114
+#EXTINF:-1 tvg-id="n24.doku.de" tvg-name="DE192:N24 News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE192N24NewsHD.png" group-title="DE News",DE192:N24 News HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29090
+#EXTINF:-1 tvg-id="n24.doku.de" tvg-name="DE195:N24 Doku" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE195N24Doku.png" group-title="DE News",DE195:N24 Doku
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29087
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE197:NTV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE197NTVHD.png" group-title="DE News",DE197:NTV FHD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29085
+#EXTINF:-1 tvg-id="" tvg-name="DE198:OK DESSAU HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE198OKDESSAUHD.png" group-title="DE News",DE198:OK DESSAU HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29084
+#EXTINF:-1 tvg-id="rnf.de" tvg-name="DE222:RNF HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE222RNFHD.png" group-title="DE News",DE222:RNF HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29060
+#EXTINF:-1 tvg-id="" tvg-name="DE287:WELT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE287WELTHD.png" group-title="DE News",DE287:WELT HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/28995
+#EXTINF:-1 tvg-id="zdf.neo.de" tvg-name="DE295:ZDF NEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE295ZDFNEOHD.png" group-title="DE News",DE295:ZDF NEO HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/28970
+#EXTINF:-1 tvg-id="animal.planet.de" tvg-name="DE004:Animal Planet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE004AnimalPlanet.png" group-title="DE Doc",DE004:Animal Planet
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2679
+#EXTINF:-1 tvg-id="discovery.de" tvg-name="DE013:Discovery DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE013DiscoveryDE.png" group-title="DE Doc",DE013:Discovery DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2670
+#EXTINF:-1 tvg-id="history.de" tvg-name="DE021:History DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE021HistoryDE.png" group-title="DE Doc",DE021:History DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2662
+#EXTINF:-1 tvg-id="NatGeoPeople.de" tvg-name="DE030:NAT GEO People" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE030NATGEOPeople.png" group-title="DE Doc",DE030:NAT GEO People
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2653
+#EXTINF:-1 tvg-id="nat.geo.wild.de" tvg-name="DE031:NAT GEO Wild DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE031NATGEOWildDE.png" group-title="DE Doc",DE031:NAT GEO Wild DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2652
+#EXTINF:-1 tvg-id="nat.geo.de" tvg-name="DE032:NAT GEO DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE032NATGEODE.png" group-title="DE Doc",DE032:NAT GEO DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2651
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE036:Phoenix" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE036Phoenix.png" group-title="DE Doc",DE036:Phoenix
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2647
+#EXTINF:-1 tvg-id="prosieben.de" tvg-name="DE037:ProSieben" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE037ProSieben.png" group-title="DE Doc",DE037:ProSieben
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2646
+#EXTINF:-1 tvg-id="prosieben.maxx.de" tvg-name="DE038:ProSieben MAXX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE038ProSiebenMAXX.png" group-title="DE Doc",DE038:ProSieben MAXX
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2645
+#EXTINF:-1 tvg-id="nat.geo.de" tvg-name="DE107:National Geographic HD Germany" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE107NationalGeographicHDGermany.png" group-title="DE Doc",DE107:National Geographic HD Germany
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29177
+#EXTINF:-1 tvg-id="discovery.de" tvg-name="DE110:DE110:Crime Investigation HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE110CrimeInvestigationHD.png" group-title="DE Doc",DE110:DE110:Crime Investigation HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29174
+#EXTINF:-1 tvg-id="baden.de" tvg-name="DE148:Baden TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE148BadenTV.png" group-title="DE Doc",DE148:Baden TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29135
+#EXTINF:-1 tvg-id="planet.de" tvg-name="DE206:PLANET HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE206PLANETHD.png" group-title="DE Doc",DE206:PLANET HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29076
+#EXTINF:-1 tvg-id="swr.bw.de" tvg-name="DE288:SWR BW HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE288SWRBWHD.png" group-title="DE Doc",DE288:SWR BW HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/28994
+#EXTINF:-1 tvg-id="super.rtl.de" tvg-name="DE071:Super RTL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE071SuperRTL.png" group-title="DE Kids",DE071:Super RTL
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2612
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="DE033:Nickelodeon DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE033NickelodeonDE.png" group-title="DE Kids",DE033:Nickelodeon DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2650
+#EXTINF:-1 tvg-id="kika.de" tvg-name="DE025:Kika" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE025Kika.png" group-title="DE Kids",DE025:Kika
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2658
+#EXTINF:-1 tvg-id="disney.xd.de" tvg-name="DE017:Disney XD DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE017DisneyXDDE.png" group-title="DE Kids",DE017:Disney XD DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2666
+#EXTINF:-1 tvg-id="disney.junior.de" tvg-name="DE016:Disney JR DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE016DisneyJRDE.png" group-title="DE Kids",DE016:Disney JR DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2667
+#EXTINF:-1 tvg-id="disney.de" tvg-name="DE014:Disney DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE014DisneyDE.png" group-title="DE Kids",DE014:Disney DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2669
+#EXTINF:-1 tvg-id="cartoon.network.de" tvg-name="DE010:Cartoon Network DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE010CartoonNetworkDE.png" group-title="DE Kids",DE010:Cartoon Network DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2673
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="DE009:Boomerang DE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE009BoomerangDE.png" group-title="DE Kids",DE009:Boomerang DE
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/2674
+#EXTINF:-1 tvg-id="" tvg-name="DE147:Baby TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE147BabyTV.png" group-title="DE Kids",DE147:Baby TV
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29136
+#EXTINF:-1 tvg-id="" tvg-name="DE164:COMEDY CENTRAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE164VIVA/COMEDYCENTRAL.png" group-title="DE Kids",DE164:COMEDY CENTRAL
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29119
+#EXTINF:-1 tvg-id="fix.foxi.de" tvg-name="DE178:FIX and FOXI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE178FIXandFOXI.png" group-title="DE Kids",DE178:FIX and FOXI
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29104
+#EXTINF:-1 tvg-id="junior.de" tvg-name="DE185:Junior HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE185JuniorHD.png" group-title="DE Kids",DE185:Junior HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29097
+#EXTINF:-1 tvg-id="" tvg-name="DE196:Nick HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE196NickHD.png" group-title="DE Kids",DE196:Nick HD
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29086
+#EXTINF:-1 tvg-id="toggo.plus.de" tvg-name="DE227:Toggo Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE227ToggoPlus.png" group-title="DE Kids",DE227:Toggo Plus
+http://c2.tvboxgroup.com:8880/kw12m311/33338800/29055
+#EXTINF:-1 tvg-id="" tvg-name="21 Bridges (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/0222eeb69bf953a5989a29ff80892d66.jpg" group-title="Germany",21 Bridges (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="47 Meters Down: Uncaged (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/56ae8fd0324a2e3b46d919f4ae1b736f.jpg" group-title="Germany",47 Meters Down: Uncaged (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Underground (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/c8dfdba48b1e66bd1b6a18e1bc85464c.jpg" group-title="Germany",6 Underground (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8 (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/cf7c40611bbf2fd1b6628bc2bf3d675a.jpg" group-title="Germany",8 (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9 Tage wach (2020)" tvg-logo="http://mu01.iflyhd.com:8880/images/65fc1a339551bbd94c6ead0b63d0178f.jpg" group-title="Germany",9 Tage wach (2020)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Score to Settle (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/dbe9f773ceba801ae087eb803ca51541.jpg" group-title="Germany",A Score to Settle (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abduction (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/b07b7bb4ae613374c0b63af363a71cfc.jpg" group-title="Germany",Abduction (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abikalypse (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/24e5aeae396d43fa8e413ae687c7622a.jpg" group-title="Germany",Abikalypse (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ad Astra - Zu den Sternen (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/5b06fa10ed54e9babfdd4cb6ac2996c7.jpg" group-title="Germany",Ad Astra - Zu den Sternen (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angel of Mine (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/bbdbd3412368dc7bb6707b57f8a676d8.jpg" group-title="Germany",Angel of Mine (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aniara (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/c255b326b77de3606f55e3658bd2785b.jpg" group-title="Germany",Aniara (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Auge.um.Auge.Quien.hierro.mata" tvg-logo="http://mu01.iflyhd.com:8880/images/c255b326b77de3606f55e3658bd2785b.jpg" group-title="Germany",Auge.um.Auge.Quien.hierro.mata
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Back of the Net (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/1e8e174e2c5059032f8a98e437a4b4bb.jpg" group-title="Germany",Back of the Net (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bayala - Das magische Elfenabenteuer (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/0126093c113480aa6b270f256de0ba88.jpg" group-title="Germany",Bayala - Das magische Elfenabenteuer (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big.Daddy.Make.America.Stoned.Again.High.on.the.Hog" tvg-logo="http://mu01.iflyhd.com:8880/images/0126093c113480aa6b270f256de0ba88.jpg" group-title="Germany",Big.Daddy.Make.America.Stoned.Again.High.on.the.Hog
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Body at Brighton Rock (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/0126093c113480aa6b270f256de0ba88.jpg" group-title="Germany",Body at Brighton Rock (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bombshell.Das.Ende.des.Schweigens.Bombshell" tvg-logo="http://mu01.iflyhd.com:8880/images/0126093c113480aa6b270f256de0ba88.jpg" group-title="Germany",Bombshell.Das.Ende.des.Schweigens.Bombshell
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Book of Monsters (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/0126093c113480aa6b270f256de0ba88.jpg" group-title="Germany",Book of Monsters (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Burn - Hell of a Night (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/15cdcc611cb45e360c84b26efb1d4bba.jpg" group-title="Germany",Burn - Hell of a Night (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curiosa.Die.Kunst.der.VerfÃ¼hrung.Curiosa" tvg-logo="http://mu01.iflyhd.com:8880/images/15cdcc611cb45e360c84b26efb1d4bba.jpg" group-title="Germany",Curiosa.Die.Kunst.der.VerfÃ¼hrung.Curiosa
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dark Encounter (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/af56004ff512f8bb218eac23fcf43da6.jpg" group-title="Germany",Dark Encounter (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Das perfekte Geheimnis (2019)" tvg-logo="http://mu01.iflyhd.com:8880/images/2c54cc6b8b55446a49c32ffbeb8368e1.jpg" group-title="Germany",Das perfekte Geheimnis (2019)
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/61910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DE:10 Cloverfield Lane" tvg-logo="http://mu01.iflyhd.com:8880/images/w6019Iy8qe3tcEYlv2ljbIhrqA3_small.jpg" group-title="Germany",DE:10 Cloverfield Lane
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:100 Streets" tvg-logo="http://mu01.iflyhd.com:8880/images/1s5j2raM0vSQ5pqB41TKN44oO0d_small.jpg" group-title="Germany",DE:100 Streets
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39742.avi
+#EXTINF:-1 tvg-id="" tvg-name="DE:13 Hours" tvg-logo="http://mu01.iflyhd.com:8880/images/hWBr3UFfFSE0FMGI4ESK5jtqxwt_small.jpg" group-title="Germany",DE:13 Hours
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:15 17 To Paris" tvg-logo="http://mu01.iflyhd.com:8880/images/umk5JlqOczGxrIpgBvRvRcR2FzN_small.jpg" group-title="Germany",DE:15 17 To Paris
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:1944" tvg-logo="http://mu01.iflyhd.com:8880/images/frtdgWiG58LwpiiJ3KQwwvSzA4g_small.jpg" group-title="Germany",DE:1944
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:22 Jump Street" tvg-logo="http://mu01.iflyhd.com:8880/images/tOUp3hSFhiA40FyOeWlatPBSQMr_small.jpg" group-title="Germany",DE:22 Jump Street
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:24 Wochen" tvg-logo="http://mu01.iflyhd.com:8880/images/j03pnsMcCqLHDA4um03I1XFm9Oj_small.jpg" group-title="Germany",DE:24 Wochen
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:3 AM" tvg-logo="http://mu01.iflyhd.com:8880/images/30W7c30zrpPO50T9Fb9KX6jiAU7_small.jpg" group-title="Germany",DE:3 AM
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:31 - A Rob Zombie Film" tvg-logo="http://mu01.iflyhd.com:8880/images/ijXSIyhyA78jC74jgVozQzWpxCo_small.jpg" group-title="Germany",DE:31 - A Rob Zombie Film
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39749.avi
+#EXTINF:-1 tvg-id="" tvg-name="DE:90 Minutes in Heaven" tvg-logo="http://mu01.iflyhd.com:8880/images/uObp4Dq0IiBi420Z03qYRyUBzaD_small.jpg" group-title="Germany",DE:90 Minutes in Heaven
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:A Hologram for the King" tvg-logo="http://mu01.iflyhd.com:8880/images/eaHsqm6V9w4AMtlYMUd57ICBM73_small.jpg" group-title="Germany",DE:A Hologram for the King
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:A Horse for Summer" tvg-logo="http://mu01.iflyhd.com:8880/images/vUNfMHms0msKAnYMAkHFQCeVoXk_small.jpg" group-title="Germany",DE:A Horse for Summer
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:A Kind of Murder" tvg-logo="http://mu01.iflyhd.com:8880/images/hqMaLPUW8DHjO1SvTunHaidsBT8_small.jpg" group-title="Germany",DE:A Kind of Murder
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:A Perfect Day" tvg-logo="http://mu01.iflyhd.com:8880/images/ux5IOfE1Sl31yYlj8f4ArcRc1Ua_small.jpg" group-title="Germany",DE:A Perfect Day
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Accident Man" tvg-logo="http://mu01.iflyhd.com:8880/images/aqFdZYjgCv3gfaQZqw90oBZEM8i_small.jpg" group-title="Germany",DE:Accident Man
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Acts of Violence" tvg-logo="http://mu01.iflyhd.com:8880/images/1qohyYmlrDapf6zjSQdX6SxRiPW_small.jpg" group-title="Germany",DE:Acts of Violence
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Air Speed Fast and Ferocious" tvg-logo="http://mu01.iflyhd.com:8880/images/trCO2JduAp85DgfqqCXTSOtiiRM_small.jpg" group-title="Germany",DE:Air Speed Fast and Ferocious
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Albion Der Verzauberte Hengst" tvg-logo="http://mu01.iflyhd.com:8880/images/d4xeVqGCiOYAsPg2Bu60kfU6aUz_small.jpg" group-title="Germany",DE:Albion Der Verzauberte Hengst
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Alice Through the Looking Glass" tvg-logo="http://mu01.iflyhd.com:8880/images/4Ovp26eI7afqe2igSLWnPlADbOr_small.jpg" group-title="Germany",DE:Alice Through the Looking Glass
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Allmen Und Der Rosa Diamant" tvg-logo="http://mu01.iflyhd.com:8880/images/iDd1gq4OsjC6nvDXfbedm86D2a1_small.jpg" group-title="Germany",DE:Allmen Und Der Rosa Diamant
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Aloys" tvg-logo="http://mu01.iflyhd.com:8880/images/jammoLDdyjGJoI1j7MhrbbI5G86_small.jpg" group-title="Germany",DE:Aloys
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39761.avi
+#EXTINF:-1 tvg-id="" tvg-name="DE:American Sniper" tvg-logo="http://mu01.iflyhd.com:8880/images/oKJtbxRusjmu8sqzwnzhgUbojyg_small.jpg" group-title="Germany",DE:American Sniper
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Amy" tvg-logo="http://mu01.iflyhd.com:8880/images/hr0laiK7CVmsT87iQml153xs3Up_small.jpg" group-title="Germany",DE:Amy
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Animus - The Tell-Tale Heart" tvg-logo="http://mu01.iflyhd.com:8880/images/wSEmmuoncvDZ4P5UXRflBl6fqkL_small.jpg" group-title="Germany",DE:Animus - The Tell-Tale Heart
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Anne of Green Gables" tvg-logo="http://mu01.iflyhd.com:8880/images/xlYrYs3oZTd1ntkWX2B3PCOPuXn_small.jpg" group-title="Germany",DE:Anne of Green Gables
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Ant-Man" tvg-logo="http://mu01.iflyhd.com:8880/images/85qXWRFCorHNvjIiWUMXV7NMvP3_small.jpg" group-title="Germany",DE:Ant-Man
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Arrowhead" tvg-logo="http://mu01.iflyhd.com:8880/images/uUwSc7upxrALzjvO5tPZw4zTLlC_small.jpg" group-title="Germany",DE:Arrowhead
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Assassins Creed" tvg-logo="http://mu01.iflyhd.com:8880/images/6Obze1NgjBZMDHg3CgB10xHu9Rc_small.jpg" group-title="Germany",DE:Assassins Creed
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Attack from the Atlantic Rim 2" tvg-logo="http://mu01.iflyhd.com:8880/images/bvg3vt4zs8BwAu281Z4mJVDr1OZ_small.jpg" group-title="Germany",DE:Attack from the Atlantic Rim 2
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Ausloeschung" tvg-logo="http://mu01.iflyhd.com:8880/images/h0YDLqjT1ZtYjgduJscG0lXxOy7_small.jpg" group-title="Germany",DE:Ausloeschung
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Avengers Age of Ultron" tvg-logo="http://mu01.iflyhd.com:8880/images/4rnG5WO54qFTDOfJjQppTxdnc10_small.jpg" group-title="Germany",DE:Avengers Age of Ultron
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Bad Moms" tvg-logo="http://mu01.iflyhd.com:8880/images/wUlCRDFekthv5F8mv2hA6atDL9r_small.jpg" group-title="Germany",DE:Bad Moms
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Bad Neighbors 2." tvg-logo="http://mu01.iflyhd.com:8880/images/tNpNYMTmDaITz3adMmdxb23s4Aj_small.jpg" group-title="Germany",DE:Bad Neighbors 2.
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Bad Santa 2 - Noch Wilder Noch Besoffener Noch Fieser" tvg-logo="http://mu01.iflyhd.com:8880/images/gBxhndbi46ocI3VvJgkl5JbzuWa_small.jpg" group-title="Germany",DE:Bad Santa 2 - Noch Wilder Noch Besoffener Noch Fieser
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Ballerina Gib Deinen Traum Niemals Auf" tvg-logo="http://mu01.iflyhd.com:8880/images/bb2bZ5hL6zS4oJ7Zt8mvfXSnGkj_small.jpg" group-title="Germany",DE:Ballerina Gib Deinen Traum Niemals Auf
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Bang Bang Baby" tvg-logo="http://mu01.iflyhd.com:8880/images/o97NtvVdjRqE3mENyLqSesj8jHD_small.jpg" group-title="Germany",DE:Bang Bang Baby
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Barbershop - The Next Cut" tvg-logo="http://mu01.iflyhd.com:8880/images/aUPjbU8gnMtl84Qyybi873jawE5_small.jpg" group-title="Germany",DE:Barbershop - The Next Cut
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Barbie Spy Squad" tvg-logo="http://mu01.iflyhd.com:8880/images/1OEBJUTWYFkbaNY5CTONsQsPWAJ_small.jpg" group-title="Germany",DE:Barbie Spy Squad
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Barry" tvg-logo="http://mu01.iflyhd.com:8880/images/yttnkAg8lrL1AZgK3QztJRnj6oE_small.jpg" group-title="Germany",DE:Barry
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Batman Assault on Arkham" tvg-logo="http://mu01.iflyhd.com:8880/images/nYOoqnGuiUUNE4gccO0JJigfACP_small.jpg" group-title="Germany",DE:Batman Assault on Arkham
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Batman Bad Blood" tvg-logo="http://mu01.iflyhd.com:8880/images/UUuwP7PEiOzXWH2mP1QkAkFidI_small.jpg" group-title="Germany",DE:Batman Bad Blood
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Batman v Superman - Dawn of Justice" tvg-logo="http://mu01.iflyhd.com:8880/images/cmXc7PvZxtDNU3zrnxmdZ78fx9p_small.jpg" group-title="Germany",DE:Batman v Superman - Dawn of Justice
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Battlefield Drone Wars" tvg-logo="http://mu01.iflyhd.com:8880/images/l5ClL22Vh86sLKyZU06X9nDzdH3_small.jpg" group-title="Germany",DE:Battlefield Drone Wars
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Baymax - Riesiges Robowabohu" tvg-logo="http://mu01.iflyhd.com:8880/images/hlIl38exawtY2kRQU7pVu1OfqQ2_small.jpg" group-title="Germany",DE:Baymax - Riesiges Robowabohu
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Before i Fall" tvg-logo="http://mu01.iflyhd.com:8880/images/lmD5ec5gnexA3ZPAV3QHS5JoL42_small.jpg" group-title="Germany",DE:Before i Fall
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39785.avi
+#EXTINF:-1 tvg-id="" tvg-name="DE:Beirut" tvg-logo="http://mu01.iflyhd.com:8880/images/s2qIeFsI9TskZr1LkSwljQDh5nl_small.jpg" group-title="Germany",DE:Beirut
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Beltracchi - Die Kunst der FÃ¤lschung" tvg-logo="http://mu01.iflyhd.com:8880/images/yTBCIW5q4mamDEtn5fBTEBskuky_small.jpg" group-title="Germany",DE:Beltracchi - Die Kunst der FÃ¤lschung
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Benji" tvg-logo="http://mu01.iflyhd.com:8880/images/yvmhEcqzN2bUZvEmEIh9SjhTkr6_small.jpg" group-title="Germany",DE:Benji
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Beyond Reality Das Casino der Magier" tvg-logo="http://mu01.iflyhd.com:8880/images/olR97TBx3zrsGF9vSHCswaGjytB_small.jpg" group-title="Germany",DE:Beyond Reality Das Casino der Magier
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Beyond the Mask" tvg-logo="http://mu01.iflyhd.com:8880/images/AoKpzDzxCQbhcvPsDrJbRMCH6aq_small.jpg" group-title="Germany",DE:Beyond the Mask
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Bitva za Sevastopol" tvg-logo="http://mu01.iflyhd.com:8880/images/bNMVdY3iVTyprvxKiq1vQfgyaen_small.jpg" group-title="Germany",DE:Bitva za Sevastopol
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Black Beauty" tvg-logo="http://mu01.iflyhd.com:8880/images/e8LdBWsUzjjvUjMwgfaAukQXg3i_small.jpg" group-title="Germany",DE:Black Beauty
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Black Mass" tvg-logo="http://mu01.iflyhd.com:8880/images/zUZUpJv9FuJV9omKKwgzvRY0wpp_small.jpg" group-title="Germany",DE:Black Mass
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Black Panther" tvg-logo="http://mu01.iflyhd.com:8880/images/l6y476RPWK35Y7zmiMPcih4uU7A_small.jpg" group-title="Germany",DE:Black Panther
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Black Water" tvg-logo="http://mu01.iflyhd.com:8880/images/ilROjtuSGoNwPHwPI2pe5BCIIeo_small.jpg" group-title="Germany",DE:Black Water
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Black Wedding" tvg-logo="http://mu01.iflyhd.com:8880/images/84pE91qFDcPuksb3KYLD6QlOi7W_small.jpg" group-title="Germany",DE:Black Wedding
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Blood Father" tvg-logo="http://mu01.iflyhd.com:8880/images/pEAo2MjO8eFp2q4CH9PyolF6GMK_small.jpg" group-title="Germany",DE:Blood Father
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Blue Mountain State The Rise of Thadland" tvg-logo="http://mu01.iflyhd.com:8880/images/e2OvpfJkjBHe8Mw6G1mle5mR5Jm_small.jpg" group-title="Germany",DE:Blue Mountain State The Rise of Thadland
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Bob Der Streuner" tvg-logo="http://mu01.iflyhd.com:8880/images/1vxWsUEj8gNhZPmWoqCGvl8xMCb_small.jpg" group-title="Germany",DE:Bob Der Streuner
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Boost" tvg-logo="http://mu01.iflyhd.com:8880/images/sHCtGgNR7efs6rMaGbb4TRWnrt6_small.jpg" group-title="Germany",DE:Boost
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Boss Baby" tvg-logo="http://mu01.iflyhd.com:8880/images/y63mn0Djzhh6wAwTpeT9Xn1zTJW_small.jpg" group-title="Germany",DE:Boss Baby
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Boyhood" tvg-logo="http://mu01.iflyhd.com:8880/images/oX04O0BXr6QxNqGhoIuVGrr2tWY_small.jpg" group-title="Germany",DE:Boyhood
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DE:Bridge of Spies" tvg-logo="http://mu01.iflyhd.com:8880/images/5Vha1Aq7kFI43Zeb8nU79RtLju9_small.jpg" group-title="Germany",DE:Bridge of Spies
+http://c2.tvboxgroup.com:8880/movie/kw12m311/33338800/39803.mkv
