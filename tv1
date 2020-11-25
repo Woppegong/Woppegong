@@ -1,1036 +1,1077 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png","T E S T S E N D E R"  Stabiles IPTV in vielen Sprachen 
 http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",48 Std Test aller Sender unserer Topline auf Anfrage ! 
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Alle Info's auf Telegram *** https://ogy.de/77q6 ***
 http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Info's auf Telegram *** https://ogy.de/77q6 ***
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",48 Std Test unserer kompletten "Topline" auf Anfrage ! 
 http://
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl ca 12.500 Filme + 1.500 Serien in vielen Sprachen
 http://
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl Programm Guide / EPG Daten 
 http://
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="DE:: Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/320px-Das_Erste_2014.svg.png" group-title="GERMANY",DE:: Das Erste
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/80416.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/80416.m3u8
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="DE:: Das Erste HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Das_Erste_HD_Corner-Logo_2015.png" group-title="GERMANY",DE:: Das Erste HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/54552.m3u8
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE:: Das Erste FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Das_Erste_HD_Corner-Logo_2015.png" group-title="GERMANY",DE:: Das Erste FHD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/68533.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/54552.m3u8
 #EXTINF:-1 tvg-id="One.de" tvg-name="DE:: One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/320px-One_TV_Logo.svg.png" group-title="GERMANY",DE:: One
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/86469.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/86469.m3u8
 #EXTINF:-1 tvg-id="One.de" tvg-name="DE:: One HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-ARD-Transparent/master/1_0_19_2888_40F_1_C00000_0_0_0.png" group-title="GERMANY",DE:: One HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/44993.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/44993.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE:: ZDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/800px-ZDF_logo.svg.png" group-title="GERMANY",DE:: ZDF
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/54553.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/54553.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE:: ZDF HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-ARD-Transparent/master/1_0_19_2B66_3F3_1_C00000_0_0_0.png" group-title="GERMANY",DE:: ZDF HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/80442.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/80442.m3u8
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="DE:: Sat.1" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a1/Sat.1_Logo.svg/800px-Sat.1_Logo.svg.png" group-title="GERMANY",DE:: Sat.1
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7897.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7897.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="DE:: Sat.1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/c8/Sat.1_HD_Logo.png/800px-Sat.1_HD_Logo.png" group-title="GERMANY",DE:: Sat.1 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/61841.m3u8
 #EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="DE:: Sat.1 Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sat1Gold.svg/751px-Sat1Gold.svg.png" group-title="GERMANY",DE:: Sat.1 Gold
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7898.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7898.m3u8
 #EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="DE:: Sat.1 Gold HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_30D4_413_1_C00000_0_0_0.png" group-title="GERMANY",DE:: Sat.1 Gold HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/61842.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/61842.m3u8
 #EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="DE:: Sat.1 Emotions" tvg-logo="https://upload.wikimedia.org/wikipedia/de/3/35/Sat.1_Emotions_2012.png" group-title="GERMANY",DE:: Sat.1 Emotions
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/44990.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/44990.m3u8
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="DE:: RTL" tvg-logo="https://www.twins-hairstyle.de/wp-content/uploads/2019/01/RTL-Logo.png" group-title="GERMANY",DE:: RTL
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7887.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7887.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE:: RTL HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_2E87_411_1_C00000_0_0_0.png" group-title="GERMANY",DE:: RTL HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/61843.m3u8
 #EXTINF:-1 tvg-id="UHD1.de" tvg-name="DE:: SES UHD Demo Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/SES_S.A._2011_logo.svg/800px-SES_S.A._2011_logo.svg.png" group-title="GERMANY",DE:: SES UHD Demo Channel
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/40304.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/40304.m3u8
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="DE:: RTLZWEI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/800px-RTLZWEI_Logo_2019.svg.png" group-title="GERMANY",DE:: RTLZWEI
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7892.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7892.m3u8
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="DE:: RTLZWEI HD" tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/42778-1-0-19-EF15-421-1-C00000-0-0-0-png/" group-title="GERMANY",DE:: RTLZWEI HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/21727.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/21727.m3u8
 #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="DE:: RTL Nitro" tvg-logo="https://www.dvbviewer.tv/forum/uploads/monthly_2017_08/59a2f6ba9b006_rtlnitro.png.adb1dabb59471cf3d5ef838950c59e76.png" group-title="GERMANY",DE:: RTL Nitro
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7890.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7890.m3u8
 #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="DE:: RTL Nitro HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-HDPlus-Transparent/master/1_0_19_2EAF_411_1_C00000_0_0_0.png" group-title="GERMANY",DE:: RTL Nitro HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/23580.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23580.m3u8
 #EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="DE: RTL Passion" tvg-logo="https://www.dvbviewer.tv/forum/uploads/monthly_01_2017/post-1-0-18951000-1483431435.png" group-title="GERMANY",DE: RTL Passion
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/31731.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/31731.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: RTL Living" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/8/86/RTL_Living_logo.svg/602px-RTL_Living_logo.svg.png" group-title="GERMANY",DE: RTL Living
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/86990.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/86990.m3u8
 #EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="DE:: RTL Crime " tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/d6/RTL_Crime.svg/320px-RTL_Crime.svg.png" group-title="GERMANY",DE:: RTL Crime 
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/22932.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/22932.m3u8
 #EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="DE:: RTL PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTLplus_Logo_2016.png" group-title="GERMANY",DE:: RTL PLUS
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/12324.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/12324.m3u8
 #EXTINF:-1 tvg-id="Pro7.de" tvg-name="DE:: ProSieben" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ProSieben_logo.svg/240px-ProSieben_logo.svg.png" group-title="GERMANY",DE:: ProSieben
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7894.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7894.m3u8
 #EXTINF:-1 tvg-id="Pro7.de" tvg-name="DE:: ProSieben HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-HDPlus-Transparent/master/1_0_19_EF75_3F9_1_C00000_0_0_0.png" group-title="GERMANY",DE:: ProSieben HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/21724.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/21724.m3u8
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="DE:: Pro7 Maxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/320px-ProSieben_MAXX_Logo.svg.png" group-title="GERMANY",DE:: Pro7 Maxx
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7896.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7896.m3u8
 #EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="DE:: Pro7 Fun HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ProSieben_FUN_HD_Logo.svg/320px-ProSieben_FUN_HD_Logo.svg.png" group-title="GERMANY",DE:: Pro7 Fun HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/44169.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/44169.m3u8
 #EXTINF:-1 tvg-id="Kabel.de" tvg-name="DE:: Kabel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/320px-Kabel_eins_Logo_2015.svg.png" group-title="GERMANY",DE:: Kabel 1
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7899.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7899.m3u8
 #EXTINF:-1 tvg-id="Kabel.de" tvg-name="DE:: Kabel 1 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-HDPlus-Transparent/master/1_0_19_EF76_3F9_1_C00000_0_0_0.png" group-title="GERMANY",DE:: Kabel 1 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/21594.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/21594.m3u8
 #EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="DE:: Kabel 1 Classics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kabel_eins_classics_2011.svg/320px-Kabel_eins_classics_2011.svg.png" group-title="GERMANY",DE:: Kabel 1 Classics
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/44168.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/44168.m3u8
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="DE:: VOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/320px-VOX_Logo_2013.svg.png" group-title="GERMANY",DE:: VOX
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7901.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7901.m3u8
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="DE:: VOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/VOX_HD_Germany_Logo_2013.svg/320px-VOX_HD_Germany_Logo_2013.svg.png" group-title="GERMANY",DE:: VOX HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/21726.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/21726.m3u8
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="DE:: VOXUp" tvg-logo="https://www.dvbviewer.tv/forum/uploads/monthly_2019_12/Voxup.png.622a1f0cea251f08fd9b45b83bcefc5d.png" group-title="GERMANY",DE:: VOXUp
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/59261.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/59261.m3u8
 #EXTINF:-1 tvg-id="Tele5.de" tvg-name="DE:: Tele 5 HD" tvg-logo="https://www.dvbviewer.tv/forum/uploads/monthly_2018_05/311731798_tele5hd.png.d6e3d56f015452d38a587319695c74cb.png" group-title="GERMANY",DE:: Tele 5 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/37404.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/37404.m3u8
 #EXTINF:-1 tvg-id="Sixx.de" tvg-name="DE:: Sixx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/320px-Sixx_Logo.svg.png" group-title="GERMANY",DE:: Sixx
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7936.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7936.m3u8
 #EXTINF:-1 tvg-id="ServusHD.de" tvg-name="DE:: ServusTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/ServusTV_Logo.png/320px-ServusTV_Logo.png" group-title="GERMANY",DE:: ServusTV SD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/40233.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/40233.m3u8
 #EXTINF:-1 tvg-id="ServusHD.de" tvg-name="DE:: ServusTV HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-HDPlus-Transparent/master/1_0_19_1331_3EF_1_C00000_0_0_0.png" group-title="GERMANY",DE:: ServusTV HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/40232.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/40232.m3u8
 #EXTINF:-1 tvg-id="AnixeSerie.de" tvg-name="DE:: ANIXE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Anixe.svg/320px-Anixe.svg.png" group-title="GERMANY",DE:: ANIXE SD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7930.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7930.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="DE:: 3sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/320px-3sat_2019.svg.png" group-title="GERMANY",DE:: 3sat
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7877.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7877.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="DE:: 3Sat HD" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/3sat%20hd.png" group-title="GERMANY",DE:: 3Sat HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/52210.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/52210.m3u8
 #EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-name="DE:: MDR Thüringen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mdr_Logo_2017.png/320px-Mdr_Logo_2017.png" group-title="GERMANY",DE:: MDR Thüringen
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18037.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18037.m3u8
 #EXTINF:-1 tvg-id="WDR.de" tvg-name="DE:: WDR HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-ARD-Transparent/master/1_0_19_6EA5_4B1_1_C00000_0_0_0.png" group-title="GERMANY",DE:: WDR HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7878.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7878.m3u8
 #EXTINF:-1 tvg-id="SWR.de" tvg-name="DE:: SWR Rheinland-Pfalz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SWR_HD.svg/320px-SWR_HD.svg.png" group-title="GERMANY",DE:: SWR Rheinland-Pfalz
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/40234.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/40234.m3u8
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="DE:: NDR Niedersachsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NDR_HD.svg/320px-NDR_HD.svg.png" group-title="GERMANY",DE:: NDR Niedersachsen
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7883.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7883.m3u8
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="DE:: ZDFneo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ZDFneo.svg/320px-ZDFneo.svg.png" group-title="GERMANY",DE:: ZDFneo
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7873.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7873.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Euronews HD" tvg-logo="https://png2.kisspng.com/sh/423635e3adcaf8d2c6e02dbb1528b956/L0KzQYm4UcI3N6F0kpH0aYP2gLBuTfV2epDzfel8LXbyfsW0jP9od154geZuLXBpdrrqhb10cZhzRdRybXLsPcfwggJmb5huRadrZnO4RIK5gvM2PWY7RqMDNEazRIWCUcU1O2M7S6QAMEe6QYW1kP5o/kisspng-euronews-font-logo-site-office-sign-bimbi-viareggi-5bfc5412bc5556.1846044915432632507714.png" group-title="GERMANY",DE:: Euronews HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/47967.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/47967.m3u8
 #EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="DE:: Welt der Wunder HD" tvg-logo="https://www.pngfind.com/pngs/m/418-4187296_as-seen-on-tv-welt-der-wunder-logo.png" group-title="GERMANY",DE:: Welt der Wunder HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18852.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18852.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHD.de" tvg-name="DE:: Discovery HD" tvg-logo="https://enacademic.com/pictures/enwiki/68/Discovery_World_HD_%28large_globe%29.png" group-title="GERMANY",DE:: Discovery HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/102813.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/102813.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="DE: Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/AnimalPlanet_PrimaryLockup2_TM_RGB_Wiki.svg/800px-AnimalPlanet_PrimaryLockup2_TM_RGB_Wiki.svg.png" group-title="GERMANY",DE: Animal Planet HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7937.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7937.m3u8
 #EXTINF:-1 tvg-id="HistoryHD.de" tvg-name="DE:: History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/800px-History_HD_Logo.svg.png" group-title="GERMANY",DE:: History HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/19824.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/19824.m3u8
 #EXTINF:-1 tvg-id="PLANET.de" tvg-name="DE:: Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Planet_HD_Logo.svg/735px-Planet_HD_Logo.svg.png" group-title="GERMANY",DE:: Planet HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/39811.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/39811.m3u8
 #EXTINF:-1 tvg-id="SpiegelTV.de" tvg-name="DE:: Spiegel TV Wissen" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_31_D_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Spiegel TV Wissen
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7884.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7884.m3u8
 #EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="DE:: Kabel 1 Doku" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/800px-Kabel_eins_Doku_Logo_2016.svg.png" group-title="GERMANY",DE:: Kabel 1 Doku
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18900.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18900.m3u8
 #EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE:: Phoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Phoenix_Logo_2012.svg/320px-Phoenix_Logo_2012.svg.png" group-title="GERMANY",DE:: Phoenix
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/87282.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/87282.m3u8
 #EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE:: Phoenix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Phoenix_HD_Logo.svg/320px-Phoenix_HD_Logo.svg.png" group-title="GERMANY",DE:: Phoenix HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/30115.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/30115.m3u8
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="DE:: ZDF info" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-ARD-Transparent/master/1_0_1_6D6B_437_1_C00000_0_0_0.png" group-title="GERMANY",DE:: ZDF info
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7875.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7875.m3u8
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="DE:: ZDF Info HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ZDF_info_HD.svg/554px-ZDF_info_HD.svg.png" group-title="GERMANY",DE:: ZDF Info HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/52211.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/52211.m3u8
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-name="DE:: N24 DOKU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/N24Doku.png/320px-N24Doku.png" group-title="GERMANY",DE:: N24 DOKU
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18899.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18899.m3u8
 #EXTINF:-1 tvg-id="WELT.de" tvg-name="DE:: WELT" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_527E_41D_1_C00000_0_0_0.png" group-title="GERMANY",DE:: WELT
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7882.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7882.m3u8
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="DE:: n-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/512px-N-tv_logo-september2017.svg.png" group-title="GERMANY",DE:: n-tv
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7944.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7944.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE:: tagesschau24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/301px-Tagesschau24-2012.svg.png" group-title="GERMANY",DE:: tagesschau24 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/13116.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/13116.m3u8
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="DE:: DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="GERMANY",DE:: DMAX
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7905.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7905.m3u8
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="DE:: DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DMAX_HD.svg/300px-DMAX_HD.svg.png" group-title="GERMANY",DE:: DMAX HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/37403.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/37403.m3u8
 #EXTINF:-1 tvg-id="TLC.de" tvg-name="DE:: TLC" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_277E_409_1_C00000_0_0_0.png" group-title="GERMANY",DE:: TLC
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/19752.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/19752.m3u8
 #EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="DE:: E! Entertainment HD" tvg-logo="https://www.nicepng.com/png/full/292-2923277_e-entertainment-hd-e-latin-america-logos-wikia.png" group-title="GERMANY",DE:: E! Entertainment HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/102814.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/102814.m3u8
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="DE:: arte HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Arte_HD_Logo.svg/678px-Arte_HD_Logo.svg.png" group-title="GERMANY",DE:: arte HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/89308.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/89308.m3u8
 #EXTINF:-1 tvg-id="FixFoxi.de" tvg-name="DE:: Fix & Foxi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Fix_and_Fox_Channel_Logo.png" group-title="GERMANY",DE:: Fix & Foxi
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/44991.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/44991.m3u8
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="DE:: RIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RiC_Logo_2014.png/452px-RiC_Logo_2014.png" group-title="GERMANY",DE:: RIC
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/44762.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/44762.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral/VIVA.de" tvg-name="DE:: Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/800px-Comedy_Central_2018.svg.png" group-title="GERMANY",DE:: Comedy Central
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/19800.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/19800.m3u8
 #EXTINF:-1 tvg-id="Nick.de" tvg-name="DE:: Nickelodeon (AT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/798px-Nickelodeon_2009_logo.svg.png" group-title="GERMANY",DE:: Nickelodeon (AT)
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7954.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7954.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="DE:: Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="GERMANY",DE:: Nick HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/52288.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/52288.m3u8
 #EXTINF:-1 tvg-id="NickJr.de" tvg-name="DE:: Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/216px-Nick_Jr._logo_2009.svg.png" group-title="GERMANY",DE:: Nick Jr.
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7906.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7906.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="DE:: Nicktoons" tvg-logo="" group-title="GERMANY",DE:: Nicktoons
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/110363.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/110363.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral/VIVA.de" tvg-name="DE:: Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/29/Comedy_central_de_hd.png/600px-Comedy_central_de_hd.png" group-title="GERMANY",DE:: Comedy Central HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/22968.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/22968.m3u8
 #EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE:: Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/03/Disney-Channel-Logo-2014.png" group-title="GERMANY",DE:: Disney Channel
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7946.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7946.m3u8
 #EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE:: Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_1586_41F_1_C00000_0_0_0.png" group-title="GERMANY",DE:: Disney Channel HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/23164.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23164.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="DE:: Cartoon Network" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_194_B_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Cartoon Network
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7951.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7951.m3u8
 #EXTINF:-1 tvg-id="Boomerang.de" tvg-name="DE:: Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="GERMANY",DE:: Boomerang
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7950.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7950.m3u8
 #EXTINF:-1 tvg-id="Junior.de" tvg-name="DE:: Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Junior_Logo_2015.png/800px-Junior_Logo_2015.png" group-title="GERMANY",DE:: Junior
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7952.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7952.m3u8
 #EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="DE:: Super RTL" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Full-Transparent/master/1_0_1_708F_443_1_C00000_0_0_0.png" group-title="GERMANY",DE:: Super RTL
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7955.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7955.m3u8
 #EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="DE:: Super RTL HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-HDPlus-Transparent/master/1_0_19_2E9B_411_1_C00000_0_0_0.png" group-title="GERMANY",DE:: Super RTL HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/23578.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23578.m3u8
 #EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="DE:: Toggo Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_of_Toggo_Plus.png" group-title="GERMANY",DE:: Toggo Plus
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/13996.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/13996.m3u8
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="DE:: KiKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/KIKA-Logo.svg/800px-KIKA-Logo.svg.png" group-title="GERMANY",DE:: KiKA
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7953.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7953.m3u8
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="DE:: KiKA HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-ARD-Transparent/master/1_0_19_2B98_3F2_1_C00000_0_0_0.png" group-title="GERMANY",DE:: KiKA HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/52212.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/52212.m3u8
 #EXTINF:-1 tvg-id="Sky1.de" tvg-name="DE:: Sky One SD" tvg-logo="http://picons.darkside-iptv.co/skyone.png" group-title="GERMANY",DE:: Sky One SD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/61998.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/61998.m3u8
 #EXTINF:-1 tvg-id="Sky1.de" tvg-name="DE:: Sky One HD" tvg-logo="http://picons.darkside-iptv.co/skyone.png" group-title="GERMANY",DE:: Sky One HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/61997.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/61997.m3u8
 #EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="DE:: Sky Cinema Premieren" tvg-logo="http://picons.darkside-iptv.co/skycinemapremieren.png" group-title="GERMANY",DE:: Sky Cinema Premieren
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/62022.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/62022.m3u8
 #EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="DE:: Sky Cinema Premieren HD" tvg-logo="http://picons.darkside-iptv.co/skycinemapremieren.png" group-title="GERMANY",DE:: Sky Cinema Premieren HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/62009.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/62009.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="DE:: Sky Cinema Premieren +24" tvg-logo="http://picons.darkside-iptv.co/skycinemapremierenplus24.png" group-title="GERMANY",DE:: Sky Cinema Premieren +24
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/62026.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/62026.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="DE:: Sky Cinema Premieren +24 HD" tvg-logo="http://picons.darkside-iptv.co/skycinemapremierenplus24.png" group-title="GERMANY",DE:: Sky Cinema Premieren +24 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/62025.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/62025.m3u8
 #EXTINF:-1 tvg-id="SkyAction.de" tvg-name="DE:: Sky Cinema Action" tvg-logo="http://picons.darkside-iptv.co/skycinemaaction.png" group-title="GERMANY",DE:: Sky Cinema Action
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/99682.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/99682.m3u8
 #EXTINF:-1 tvg-id="SkyAction.de" tvg-name="DE:: Sky Cinema Action HD" tvg-logo="http://picons.darkside-iptv.co/skycinemaaction.png" group-title="GERMANY",DE:: Sky Cinema Action HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/23570.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23570.m3u8
 #EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="DE:: Sky Cinema Fun" tvg-logo="http://picons.darkside-iptv.co/skycinemafun.png" group-title="GERMANY",DE:: Sky Cinema Fun
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7920.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7920.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="DE:: Sky Cinema Family" tvg-logo="http://picons.darkside-iptv.co/skycinemafamily.png" group-title="GERMANY",DE:: Sky Cinema Family
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/79788.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/79788.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="DE:: Sky Cinema Family HD" tvg-logo="http://picons.darkside-iptv.co/skycinemafamily.png" group-title="GERMANY",DE:: Sky Cinema Family HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/99683.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/99683.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE:: Sky Cinema Best Of" tvg-logo="http://picons.darkside-iptv.co/skycinemabestof.png" group-title="GERMANY",DE:: Sky Cinema Best Of
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/100916.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/100916.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE:: Sky Cinema Best Of HD" tvg-logo="http://picons.darkside-iptv.co/skycinemabestof.png" group-title="GERMANY",DE:: Sky Cinema Best Of HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/34120.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/34120.m3u8
 #EXTINF:-1 tvg-id="SkyNostalgie.de" tvg-name="DE:: Sky Cinema Classics" tvg-logo="http://picons.darkside-iptv.co/skycinemaclassics.png" group-title="GERMANY",DE:: Sky Cinema Classics
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7923.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7923.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE:: Sky Cinema Special SD" tvg-logo="http://picons.darkside-iptv.co/skycinemaspecialhd.png" group-title="GERMANY",DE:: Sky Cinema Special SD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7947.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7947.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE:: Sky Cinema Special HD" tvg-logo="http://picons.darkside-iptv.co/skycinemaspecialhd.png" group-title="GERMANY",DE:: Sky Cinema Special HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/23162.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23162.m3u8
 #EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="DE:: Sky Atlantic SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sky_Atlantic_DE_Logo_2015.png" group-title="GERMANY",DE:: Sky Atlantic SD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/39816.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/39816.m3u8
 #EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="DE:: Sky Atlantic HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_6E_D_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Atlantic HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/39815.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/39815.m3u8
 #EXTINF:-1 tvg-id="AandE.de" tvg-name="DE:: Crime + Investigation" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_192_B_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Crime + Investigation
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/44144.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/44144.m3u8
 #EXTINF:-1 tvg-id="Fox.de" tvg-name="DE:: Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/800px-FOX-Channel-Germany.svg.png" group-title="GERMANY",DE:: Fox
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7935.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7935.m3u8
 #EXTINF:-1 tvg-id="Fox.de" tvg-name="DE:: Fox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/512px-FOX_HD.svg.png" group-title="GERMANY",DE:: Fox HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/23073.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23073.m3u8
 #EXTINF:-1 tvg-id="TNTGlitz.de" tvg-name="DE:: TNT Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/TNT_Comedy_HD_Logo_2016.png" group-title="GERMANY",DE:: TNT Comedy HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/87288.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/87288.m3u8
 #EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="DE:: TNT Film HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TNT_Film_HD_Logo_2016.png" group-title="GERMANY",DE:: TNT Film HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/87284.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/87284.m3u8
 #EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="DE:: TNT Serie HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="GERMANY",DE:: TNT Serie HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/87286.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/87286.m3u8
 #EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="DE:: Kinowelt" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/3/3d/Kinowelt-Logo.svg/800px-Kinowelt-Logo.svg.png" group-title="GERMANY",DE:: Kinowelt
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7925.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7925.m3u8
 #EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE:: 13th Street" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/13th_street_logo_uk_master_rgb_black.png/606px-13th_street_logo_uk_master_rgb_black.png" group-title="GERMANY",DE:: 13th Street
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7911.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7911.m3u8
 #EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE:: 13th Street HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/13th_Street_Universal_HD.svg/618px-13th_Street_Universal_HD.svg.png" group-title="GERMANY",DE:: 13th Street HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/22972.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/22972.m3u8
 #EXTINF:-1 tvg-id="SciFi.de" tvg-name="DE:: Syfy SD" tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/35546-1-0-19-7E-C-85-C00000-0-0-0-png/" group-title="GERMANY",DE:: Syfy SD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7927.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7927.m3u8
 #EXTINF:-1 tvg-id="SciFi.de" tvg-name="DE:: Syfy HD" tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/35616-1-0-19-7E-C-85-C00000-0-0-0-png/" group-title="GERMANY",DE:: Syfy HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/22970.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/22970.m3u8
 #EXTINF:-1 tvg-id="Universal.de" tvg-name="DE:: Universal HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_65_9_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Universal HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/102816.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/102816.m3u8
 #EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="DE:: Heimatkanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heimatkanal_Logo_2015.png/800px-Heimatkanal_Logo_2015.png" group-title="GERMANY",DE:: Heimatkanal
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7909.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7909.m3u8
 #EXTINF:-1 tvg-id="Romance.de" tvg-name="DE:: Romance TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/281px-Romance_TV_Logo_10.2019.svg.png" group-title="GERMANY",DE:: Romance TV
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/22466.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/22466.m3u8
 #EXTINF:-1 tvg-id="Event2.de" tvg-name="DE:: Event 2: Aktuell kein Live-Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Event_2010_logo.svg/798px-The_Event_2010_logo.svg.png" group-title="GERMANY",DE:: Event 2: Aktuell kein Live-Event
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/44915.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/44915.m3u8
 #EXTINF:-1 tvg-id="Event4.de" tvg-name="DE:: Event 4: Aktuell kein Live-Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Event_2010_logo.svg/798px-The_Event_2010_logo.svg.png" group-title="GERMANY",DE:: Event 4: Aktuell kein Live-Event
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/44918.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/44918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Comedy-Eye ( Produced by Darkside)" tvg-logo="" group-title="GERMANY",DE:: Comedy-Eye ( Produced by Darkside)
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/191158.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/191158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Drama-Eye (Produced by Darkside)" tvg-logo="" group-title="GERMANY",DE:: Drama-Eye (Produced by Darkside)
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/191156.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/191156.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Abenteuer-Eye (Produced by Darkside)" tvg-logo="" group-title="GERMANY",DE:: Abenteuer-Eye (Produced by Darkside)
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/191109.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/191109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Kids-Eye (Produced by Darkside)" tvg-logo="" group-title="GERMANY",DE:: Kids-Eye (Produced by Darkside)
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/191108.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/191108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Sky_Select_HD_Germany_Logo_2016.png" group-title="GERMANY",DE: Sky Select 3 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/40638.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/40638.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Sky_Select_HD_Germany_Logo_2016.png" group-title="GERMANY",DE: Sky Select 5 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/75782.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/75782.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Sky_Select_HD_Germany_Logo_2016.png" group-title="GERMANY",DE: Sky Select 7 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/77121.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/77121.m3u8
 #EXTINF:-1 tvg-id="Dazn2Bar.de" tvg-name="DE:: Dazn Bar 2 HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png" group-title="GERMANY",DE:: Dazn Bar 2 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/96413.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/96413.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE:: Eurosport 1" tvg-logo="https://cellkabel.hu/img/logo/Eurosport%201_logo.png" group-title="GERMANY",DE:: Eurosport 1
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/23388.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23388.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE:: Eurosport 1 HD" tvg-logo="https://cellkabel.hu/img/logo/Eurosport%201_logo_hd.png" group-title="GERMANY",DE:: Eurosport 1 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/55095.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/55095.m3u8
 #EXTINF:-1 tvg-id="Sky1.de" tvg-name="DE:: Eurosport 2 SD" tvg-logo="https://cellkabel.hu/img/logo/Eurosport%202_logo.png" group-title="GERMANY",DE:: Eurosport 2 SD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/23384.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23384.m3u8
 #EXTINF:-1 tvg-id="Sky1.de" tvg-name="DE:: Eurosport 2 HD" tvg-logo="https://cellkabel.hu/img/logo/Eurosport%202_logo_hd.png" group-title="GERMANY",DE:: Eurosport 2 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/23385.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23385.m3u8
 #EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE:: Eurosport 2 Xtra SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png/795px-Eurosport_2_HD_XTRA_Logo_2017.png" group-title="GERMANY",DE:: Eurosport 2 Xtra SD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/21719.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/21719.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Eurosport360 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eurosport_360_Logo.svg/250px-Eurosport_360_Logo.svg.png" group-title="GERMANY",DE:: Eurosport360 4 FHD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/80922.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/80922.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Eurosport360 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eurosport_360_Logo.svg/250px-Eurosport_360_Logo.svg.png" group-title="GERMANY",DE:: Eurosport360 6 FHD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/80926.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/80926.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Eurosport360 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eurosport_360_Logo.svg/250px-Eurosport_360_Logo.svg.png" group-title="GERMANY",DE:: Eurosport360 8 FHD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/80930.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/80930.m3u8
 #EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="DE:: sport1 SD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1.png?m=1458724281" group-title="GERMANY",DE:: sport1 SD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/22917.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/22917.m3u8
 #EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="DE:: sport1 HD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1%20hd.png?m=1458724278" group-title="GERMANY",DE:: sport1 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/19806.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/19806.m3u8
 #EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="DE:: sport1+ HD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1%2B%20hd-01.png?m=1458724281" group-title="GERMANY",DE:: sport1+ HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/19081.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/19081.m3u8
 #EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE:: Sportdigital HD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sportdigital_tv.png?m=1458724283" group-title="GERMANY",DE:: Sportdigital HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7963.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7963.m3u8
 #EXTINF:-1 tvg-id="MotorVision.de" tvg-name="DE:: Motorvision TV HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_A8_B_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Motorvision TV HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7962.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7962.m3u8
 #EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="DE:: Auto Motor Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Auto_motor_und_sport_channel.svg/320px-Auto_motor_und_sport_channel.svg.png" group-title="GERMANY",DE:: Auto Motor Sport HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/26949.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/26949.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: PDCTV 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/29/Professional_Darts_Corporation_logo.svg/709px-Professional_Darts_Corporation_logo.svg.png" group-title="GERMANY",DE:: PDCTV 1 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/101936.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/101936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: PDCTV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/29/Professional_Darts_Corporation_logo.svg/709px-Professional_Darts_Corporation_logo.svg.png" group-title="GERMANY",DE:: PDCTV 2 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/101937.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/101937.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: PDCTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/29/Professional_Darts_Corporation_logo.svg/709px-Professional_Darts_Corporation_logo.svg.png" group-title="GERMANY",DE:: PDCTV 3 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/101938.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/101938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="==== SKY SPORT =====" tvg-logo="" group-title="GERMANY",==== SKY SPORT =====
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/13005.m3u8
 #EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="DE:: Sky Sport News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sky_Sport_News_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport News
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/24584.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/24584.m3u8
 #EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="DE:: Sky Sport News HD" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301679_Sky_Sport_News_HD.png" group-title="GERMANY",DE:: Sky Sport News HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/24583.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/24583.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport Austria 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport Austria 1
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/40227.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/40227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport Austria 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sky_Sport_Austria_Logo_2016.png/799px-Sky_Sport_Austria_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport Austria 1 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/40228.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/40228.m3u8
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 1" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_DD_4_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 1
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7966.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport 14 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_187_B_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 14 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/40608.m3u8
+#EXTINF:-1 tvg-id="SkySportUHD.de" tvg-name="DE:: Sky Sport UHD (Außer Betrieb)" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_1F_229_10_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport UHD (Außer Betrieb)
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/49422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="====== SKY BUNDESLIGA =======" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/800px-Sky_Sport_Bundesliga_Logo_2016.png" group-title="GERMANY",====== SKY BUNDESLIGA =======
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/12391.m3u8
 #EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="DE:: Sky Sport Bundesliga 1" tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/31168-1-0-1-DF-4-85-FFFF0000-0-0-0-png/?s=0072698c84c89a4281fcc069e1ca66d7faddd7c5" group-title="GERMANY",DE:: Sky Sport Bundesliga 1
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7978.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7978.m3u8
 #EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="DE:: Sky Sport Bundesliga 1 HD" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301657_Sky_Sport_Bundesliga_1_HD.png" group-title="GERMANY",DE:: Sky Sport Bundesliga 1 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/23452.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23452.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fc Barcelona TV" tvg-logo="https://3.bp.blogspot.com/-vuReO40VefI/V7-Bf2MoYhI/AAAAAAAACH8/n3fInNzy74sLkbs5_IKP-Z6SQUUWpC2rACLcB/s1600/416501.png" group-title="GERMANY",Fc Barcelona TV
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/45479.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/45479.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Liverpool FC TV" tvg-logo="https://upload.wikimedia.orgh/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="GERMANY",Liverpool FC TV
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/45478.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/45478.m3u8
 #EXTINF:-1 tvg-id="TelekomFussball1.de" tvg-name="DE:: Telekom Fußball 1 HD" tvg-logo="https://png2.kisspng.com/sh/c4d0fc17172b0d9a2ae3260f6a5ddbde/L0KzQYm4UcA6N6hve5H0aYP2gLBuTfxwb5CyeuRqbnSwQ37zifdiNZd0huY2cILydMbqlL1lbaRuf9C2NXLoRYSBV8NjQWI5fqk3NEO7QYG6UcIyPWU2T6YDOEW0R4aBUb5xdpg=/kisspng-logo-brand-3-liga-font-product-design-5be53873b914f7.4381031215417488517581.png" group-title="GERMANY",DE:: Telekom Fußball 1 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/29443.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29443.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 3 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/29432.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 4 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 5 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 6 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 7 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 8 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 9 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29426.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Eishockey 3 HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/DEL2019.png?time=1556692875749&h=200" group-title="GERMANY",DE:: Telekom Eishockey 3 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/29423.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29423.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Eishockey 4 HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/DEL2019.png?time=1556692875749&h=200" group-title="GERMANY",DE:: Telekom Eishockey 4 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/29422.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29422.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Eishockey 5 HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/DEL2019.png?time=1556692875749&h=200" group-title="GERMANY",DE:: Telekom Eishockey 5 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/29421.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Eishockey 6 HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/DEL2019.png?time=1556692875749&h=200" group-title="GERMANY",DE:: Telekom Eishockey 6 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Eishockey 7 HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/DEL2019.png?time=1556692875749&h=200" group-title="GERMANY",DE:: Telekom Eishockey 7 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Eishockey 8 HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/DEL2019.png?time=1556692875749&h=200" group-title="GERMANY",DE:: Telekom Eishockey 8 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/52567.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 1 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 1 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/94571.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94571.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 2 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 2 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/94572.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 3 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 3 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 4 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 4 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 5 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 5 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 6 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 6 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 7 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 7 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 8 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 8 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="GERMANY",DE:: HGTV
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/86465.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/86465.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Health tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Healthtv-logo2018.svg/421px-Healthtv-logo2018.svg.png" group-title="GERMANY",DE:: Health tv HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/53447.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/53447.m3u8
 #EXTINF:-1 tvg-id="BibelTV.de" tvg-name="DE:: BibelTV HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-HDPlus-Transparent/master/1_0_19_33A8_3EB_1_C00000_0_0_0.png" group-title="GERMANY",DE:: BibelTV HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/47965.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/47965.m3u8
 #EXTINF:-1 tvg-id="KTV.de" tvg-name="DE:: K-TV HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-HDPlus-Transparent/master/1_0_1_3139_459_1_C00000_0_0_0.png" group-title="GERMANY",DE:: K-TV HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/47966.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/47966.m3u8
 #EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="DE:: rbb Brandenburg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RBB_Brandenburg_Logo.svg/650px-RBB_Brandenburg_Logo.svg.png" group-title="GERMANY",DE:: rbb Brandenburg
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/39447.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/39447.m3u8
 #EXTINF:-1 tvg-id="BR.de" tvg-name="DE:: BR Fernsehen Nord" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bayerisches_Fernsehen_Nord.png" group-title="GERMANY",DE:: BR Fernsehen Nord
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/39448.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/39448.m3u8
 #EXTINF:-1 tvg-id="HR.de" tvg-name="DE:: hr-fernsehen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hr-fernsehen-logo.svg/800px-Hr-fernsehen-logo.svg.png" group-title="GERMANY",DE:: hr-fernsehen
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/38716.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/38716.m3u8
 #EXTINF:-1 tvg-id="Jukebox.de" tvg-name="DE:: jukebox HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_191_9_85_C00000_0_0_0.png" group-title="GERMANY",DE:: jukebox HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/22934.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/22934.m3u8
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="DE:: Deutsches Musik Fernsehen HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Logo_Deutsches_Musik_Fernsehen.png" group-title="GERMANY",DE:: Deutsches Musik Fernsehen HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/53449.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/53449.m3u8
 #EXTINF:-1 tvg-id="EWTN.de" tvg-name="DE: XITE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png" group-title="GERMANY",DE: XITE
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/12909.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/12909.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: Kronehit" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/0/0f/Kronehit-Logo.svg/501px-Kronehit-Logo.svg.png" group-title="GERMANY",DE: Kronehit
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/9433.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/9433.m3u8
 #EXTINF:-1 tvg-id="Classica.de" tvg-name="DE:: Stingray Classica" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Full-Transparent/master/1_0_16_18_2_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Stingray Classica
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/7900.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: WMZ" tvg-logo="http://fsvbrieske.de/wp-content/uploads/2019/12/mabb-WMZ-Seenland-tv-768x191.png" group-title="GERMANY",DE: WMZ
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18842.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18842.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: erzTV Erzgebirge" tvg-logo="https://www.erzgebirge-gedachtgemacht.de/fileadmin/importedNewsImages/logo_erztv.jpg" group-title="GERMANY",DE: erzTV Erzgebirge
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18020.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18020.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: OK Wernigerode" tvg-logo="http://www.campus-tv-harz.de/titelbild.jpg" group-title="GERMANY",DE: OK Wernigerode
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18022.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18022.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: WMZ Senftenberg" tvg-logo="http://fsvbrieske.de/wp-content/uploads/2019/12/mabb-WMZ-Seenland-tv-768x191.png" group-title="GERMANY",DE: WMZ Senftenberg
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18029.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: SALZWEDEL" tvg-logo="https://ok-salzwedel.de/wp-content/themes/oksaw/images/footer-logo.png" group-title="GERMANY",DE: SALZWEDEL
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18024.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18024.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: Punktum SüdHarz" tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/PUNKTum-Fernsehen-logo.png" group-title="GERMANY",DE: Punktum SüdHarz
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18021.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18021.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: Merseburg" tvg-logo="https://www.klicksafe.de/fileadmin/media/images/sid/2018/OK_Merseburg.png" group-title="GERMANY",DE: Merseburg
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18025.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18025.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: Filstalwelle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Filstalwelle_dunkel.png/800px-Filstalwelle_dunkel.png" group-title="GERMANY",DE: Filstalwelle
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/11052.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/11052.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: ISAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Isar_TV.png" group-title="GERMANY",DE: ISAR TV
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/11051.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/11051.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: Rhein Neckar Fernsehen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RNF_Logo.svg/208px-RNF_Logo.svg.png" group-title="GERMANY",DE: Rhein Neckar Fernsehen
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/11047.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/11047.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: TRP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Trp1%281%29.gif/800px-Trp1%281%29.gif" group-title="GERMANY",DE: TRP 1
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/11050.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/11050.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Folx TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Folx_TV.png" group-title="GERMANY",DE:: Folx TV
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18846.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18846.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: RFH" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/ea/RFH-Logo.svg/800px-RFH-Logo.svg.png" group-title="GERMANY",DE: RFH
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/18844.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18844.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: travelxp HD" tvg-logo="" group-title="GERMANY",DE:: travelxp HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/108016.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/108016.m3u8
 #EXTINF:-1 tvg-id="GoldstarTV.de" tvg-name="DE:: Goldstar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/e9/Goldstar_TV_Logo.svg/800px-Goldstar_TV_Logo.svg.png" group-title="GERMANY",DE:: Goldstar TV
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/47963.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/47963.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Der Aktionär TV HD" tvg-logo="" group-title="GERMANY",DE:: Der Aktionär TV HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/53448.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/53448.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: Gute Laune TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/47/Gute_Laune_TV_Logo.svg/800px-Gute_Laune_TV_Logo.svg.png" group-title="GERMANY",DE:: Gute Laune TV HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/57897.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/57897.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: eoTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/EO_TV_HD_Logo_2016.svg/320px-EO_TV_HD_Logo_2016.svg.png" group-title="GERMANY",DE:: eoTV HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/57895.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/57895.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: TVO" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-HDPlus-Transparent/master/1_0_1_170F_419_1_C00000_0_0_0.png" group-title="GERMANY",DE: TVO
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/49418.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/49418.m3u8
 #EXTINF:-1 tvg-id="QVC.de" tvg-name="DE:: QVC" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/ac/Logo_QVC_2019.svg/800px-Logo_QVC_2019.svg.png" group-title="GERMANY",DE:: QVC
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/49417.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/49417.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: QVC STYLE" tvg-logo="" group-title="GERMANY",DE:: QVC STYLE
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/128317.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/128317.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: pearl.tv Shop" tvg-logo="" group-title="GERMANY",DE:: pearl.tv Shop
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/128314.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/128314.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: HandystarTV" tvg-logo="" group-title="GERMANY",DE:: HandystarTV
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/128319.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/128319.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE:: 1-2-3.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/1-2-3-tv_Logo.svg/799px-1-2-3-tv_Logo.svg.png" group-title="GERMANY",DE:: 1-2-3.tv
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/49421.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/49421.m3u8
 #EXTINF:-1 tvg-id="MarcoPoloTV.de" tvg-name="DE:: Marco Polo TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Marco_Polo_TV.png/800px-Marco_Polo_TV.png" group-title="GERMANY",DE:: Marco Polo TV HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/53440.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/53440.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AT:: ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/ATV_Austria_HD.svg/320px-ATV_Austria_HD.svg.png" group-title="AUSTRIA / SWISS",AT:: ATV HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/23503.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23503.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AT:: ORF 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ORFeins_HD.svg/320px-ORFeins_HD.svg.png" group-title="AUSTRIA / SWISS",AT:: ORF 1 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/26930.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/26930.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AT: ORF 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ORF_III_HD_Logo.png/320px-ORF_III_HD_Logo.png" group-title="AUSTRIA / SWISS",AT: ORF 3
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/10564.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/10564.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AT: ORF Sport +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/320px-ORF_Sport%2B.svg.png" group-title="AUSTRIA / SWISS",AT: ORF Sport +
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/26928.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/26928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Swiss: SRF 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/320px-Logo_SRF_zwei.svg.png" group-title="AUSTRIA / SWISS",Swiss: SRF 2
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/26925.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/26925.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Swiss: 4+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo_4plus.svg/266px-Logo_4plus.svg.png" group-title="AUSTRIA / SWISS",Swiss: 4+
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/26941.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/26941.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Swiss: S1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_S1_HD.png/320px-Logo_S1_HD.png" group-title="AUSTRIA / SWISS",Swiss: S1 HD
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/27054.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/27054.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Swiss: SRF Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Logo_SRF_info_HD.svg/800px-Logo_SRF_info_HD.svg.png" group-title="AUSTRIA / SWISS",Swiss: SRF Info
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/10565.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/10565.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Swiss: Blue Sport 2" tvg-logo="" group-title="AUSTRIA / SWISS",Swiss: Blue Sport 2
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/26918.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/26918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="test 13th" tvg-logo="" group-title="GERMANY",test 13th
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/124717.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/124717.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: ARD SENDER" tvg-logo="" group-title="GERMANY",DE: ARD SENDER
-http://live.darkside-iptv.com:8080/live/hApBEjxfAr/cWlemb4Mpt/170133.m3u8
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/170133.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-6 Underground " tvg-logo="https://www.dvdsreleasedates.com/posters/300/0/6-Underground-2019.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-6 Underground 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134191.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134191.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Allein gegen die Zeit - Der Film" tvg-logo="https://gfx.videobuster.de/archive/v/cfApgxg5L8aQKr2kJEx742Acz0lMkawrSUyRjA0JTJGaW1hmSUyRmpwZWclMkboMOc0Y2RmOWU5ZmFhZLe_ZGNlyGEwNWYxYmUuanBnJnI9d-84/allein-gegen-die-zeit-der-film.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Allein gegen die Zeit - Der Film
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134192.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134192.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Amazonas - Gefangen in der H�lle des Dschungels" tvg-logo="https://www.beyondmedia.at/media/catalog/product/cache/1/thumbnail/480x/17f82f742ffe127f42dca9de82fb58b1/a/m/amazonas_coverb_weiss.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Amazonas - Gefangen in der H�lle des Dschungels
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134193.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134193.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Arabische N�chte" tvg-logo="https://www.cinema.de/sites/default/files/styles/cin_portrait_320/public/sync/cms3.cinema.de/imgdb/moviedb/16/65d46503e5b38199cd678b7e3f867df9.jpeg.jpg?itok=qPcvDCJX" group-title="VOD-ABENTEUER ",VOD-ABE-Arabische N�chte
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134194.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134194.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-A River Within - Gemeinsam gegen den Strom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCpTNQJNMZPwRrPRuglm8rTPea9.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-A River Within - Gemeinsam gegen den Strom
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134195.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134195.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Auf der Suche nach dem goldenen Kind" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUHR55RhQVKsDAdZghDgFbaI3FU.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Auf der Suche nach dem goldenen Kind
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134196.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134196.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Ball der Hexen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70RiLlSIi5q17Ybnq61rUt8JVoU.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Ball der Hexen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134197.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134197.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Beethovens gro�er Durchbruch" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iX6v361wDJQRJc6ECxWeoYyxpc.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Beethovens gro�er Durchbruch
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134198.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134198.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Bis wir uns wiedersehen " tvg-logo="https://image.tmdb.org/t/p/w1280/dSh50Z43my0wTMrJuhDKyAyiL9V.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Bis wir uns wiedersehen 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134199.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134199.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-California Highway " tvg-logo="https://image.tmdb.org/t/p/w1280/ys77zIbDyFOqipBTcvNQ1ecM3Tn.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-California Highway 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134200.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134200.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Charlie & Louise ? Das doppelte Lottchen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uItvmCdD55UlLi57vTnY1jDWWDe.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Charlie & Louise ? Das doppelte Lottchen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134201.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134201.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Cool Runnings - Dabei sein ist alles" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zEKu3Ua5QwhASMUEtDILDeg8zp.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Cool Runnings - Dabei sein ist alles
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134202.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134202.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-DAS Dchungelbuch (2016)" tvg-logo="https://image.tmdb.org/t/p/w1280/umKOlYg5Ramxhu74XSn0Zg0FsLM.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-DAS Dchungelbuch (2016)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134203.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134203.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das doppelte Lottchen (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIzoKGa15QSoAeOZpgFkaPTpS05.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das doppelte Lottchen (2017)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134204.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134204.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das Eismeer ruft" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tn9H6r0wa1C00yVj9ikSQrHtQi.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das Eismeer ruft
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134205.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134205.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das Geheimnis des B�renfelsens" tvg-logo="https://image.tmdb.org/t/p/w1280/jfgg86fDvBh2pVjp8teMiPfATrt.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das Geheimnis des B�renfelsens
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134206.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134206.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das Geheimnis des zweik�pfigen Drachens" tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/5e00e4da9c3d4b0f54515732.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das Geheimnis des zweik�pfigen Drachens
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134207.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134207.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das Totenschiff " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kulmLl0Do4ZpGzWnfl7WlnQbYvL.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das Totenschiff 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134208.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134208.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Deliler-Sieben f�r die Gerechtigkeit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbwpLWydO5sfjWDfJvPKW7KJ9P0.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Deliler-Sieben f�r die Gerechtigkeit
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134209.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134209.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Gauner von Bagdad " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2bdqnwx8BUtlolcmPCNxcLrUDp.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Gauner von Bagdad 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134210.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134210.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der gro�e Krieg der Planeten" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Mh5PvxJZ3EObuxmlQKEkTzIiJ.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der gro�e Krieg der Planeten
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134211.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134211.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der kleine Vampir (2000) " tvg-logo="https://image.tmdb.org/t/p/w1280/zBGfZGKX3KJnljxsX6r24lzRe0i.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der kleine Vampir (2000) 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134212.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134212.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Mameluck" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3thUhFMHoID6OjblFiW7sULpNPY.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Mameluck
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134213.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134213.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Schatz von Walton Island" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRHyTg3vT8L15Rj8vGayCbpnYGM.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Schatz von Walton Island
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134214.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134214.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Schrei der schwarzen W�lfe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9oNazsDVxuD2CXMXVu5nXslWv4.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Schrei der schwarzen W�lfe
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134215.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134215.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Des K�nigs Dieb" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqYlgxeL4neIFAYJgBh1Z8pc1Ve.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Des K�nigs Dieb
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134216.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134216.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Drei !!!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kj2PWtKSgK5roc6ET5ZuHQOuFm.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Drei !!!
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134217.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134217.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die drei - Das Geheimnis der Geisterinsel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjdTts4LL1yJCbHWHa52bwiGZbx.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die drei - Das Geheimnis der Geisterinsel
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134218.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134218.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Flamme von Arabien " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8q7vv88Xqrc7EUFjq9BMrQ3RTTV.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Flamme von Arabien 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134219.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134219.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Insel der blutigen Plantage" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKb4vQllufLkpVDVYZQV9cvDmZx.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Insel der blutigen Plantage
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134220.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134220.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Jagd nach dem Bernsteinzimmer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0QImkxLoltU15MwcGB0RqWnDt9.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Jagd nach dem Bernsteinzimmer
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134221.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134221.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Prinzessin und der Sch�ler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMwBpirz5YHiazWgHGO6V6zKblc.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Prinzessin und der Sch�ler
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134222.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134222.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Prinzessin un der blinde Schmied" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3op8xSqbBAxE7A524G0ZkoaHdN3.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Prinzessin un der blinde Schmied
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134223.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134223.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die vertauschte K�nigin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvHQh8yT55LPtr3S9QuEupiMvDn.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die vertauschte K�nigin
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134224.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134224.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die vier Federn" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR0jAAQUyYoOM0ILu5XEhAn67aa.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die vier Federn
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134225.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134225.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Dumbo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnbAgkGZYGJ7wKZWMBPxjCfGH6r.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Dumbo
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134226.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134226.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Easy Rider The Ride Back" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9U7arTYfHeNXDoJV3YRBI5QfRz.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Easy Rider The Ride Back
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134227.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134227.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Emil und die Dedektive 2019" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51qX3rbmbRL._SX258_BO1,204,203,200_.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Emil und die Dedektive 2019
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134228.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134228.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Entf�hrt - Die Abenteuer des David Balfour" tvg-logo="https://image.tmdb.org/t/p/w1280/3fLp3lbrOxfGnnUEF5Y3ymfJv2j.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Entf�hrt - Die Abenteuer des David Balfour
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134229.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134229.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Fitzcarraldo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxhGOYfgobe5nEjISPJxrmvzqUJ.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Fitzcarraldo
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134230.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134230.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Fluch der Piraten" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4C7BpYX9leoHBwN9hBNsNaXEFtu.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Fluch der Piraten
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134231.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134231.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Geheimcode M." tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/5930b61738c07e28861b8231.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Geheimcode M.
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134232.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134232.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Heavysaurus - Ein rockiges Steinzeit-Abenteuer" tvg-logo="https://image.tmdb.org/t/p/w1280/kmp7sVEJz7kMuBT3KTJ5lOfAOII.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Heavysaurus - Ein rockiges Steinzeit-Abenteuer
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134233.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134233.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Hebt die Titanic" tvg-logo="https://image.tmdb.org/t/p/w1280/2nOQReIETtIYnGJGcAKtlEanq4P.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Hebt die Titanic
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134234.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134234.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Hudson Hawk ? Der Meisterdieb" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5bMqGZWffdSEhUV219CcI1ASeG.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Hudson Hawk ? Der Meisterdieb
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134235.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134235.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-H�nde weg von Mississippi " tvg-logo="https://image.tmdb.org/t/p/w1280/qwKxjLIxSoxLX7rqGFDCWYCkmlW.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-H�nde weg von Mississippi 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134236.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134236.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Invisible Sue - Pl�tzlich unsichtbar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVYjXhvnWljimJsO5EYiZHRcsvV.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Invisible Sue - Pl�tzlich unsichtbar
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134237.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134237.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Jaguar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8uO6q0luFN5tENcTgLUGxYAfFF.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Jaguar
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134238.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134238.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Krieg der Eispiraten" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wepZqo4I20z8TklnEHRJhs2fErH.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Krieg der Eispiraten
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134239.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134239.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-K�nig der Krieger" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ru7mOzyW8Ewyxc6IUCe7Uuj9hJS.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-K�nig der Krieger
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134240.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134240.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Liliane Susewind - Ein tierisches Abenteuer " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CmXUEVkz3Kz7jaRAyhOY2DwZgC.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Liliane Susewind - Ein tierisches Abenteuer 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134242.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134242.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Lola auf der Erbse " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioWFCQtsdKKONWteWSG8KTrKO7o.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Lola auf der Erbse 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134243.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134243.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Manou - flieg flink" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gH20oYh2TyofvUWWmZn8FmqC91w.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Manou - flieg flink
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134244.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134244.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Peter Hase " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWrsTlat9IpSvDlm0G1gBMS6R7f.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Peter Hase 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134245.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134245.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Phantastische Reise zum Mittelpunkt der Erde - 1976 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1GdaUgU65dKCeelUXe7H9UAIIo.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Phantastische Reise zum Mittelpunkt der Erde - 1976 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134246.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134246.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Prinz Eisenherz (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbwQUEEMDkpNiDYodnJMdtzoPHc.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Prinz Eisenherz (1954)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134247.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134247.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Rocca ver�ndert die Welt " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w97WqmH1crynTb5eNiZ0bi5g9nb.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Rocca ver�ndert die Welt 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134248.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134248.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Sierra Charriba " tvg-logo="https://image.tmdb.org/t/p/w1280/skv6Jsw6YyPKV4oQhs88zvwDCAL.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Sierra Charriba 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134249.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134249.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Snowdogs - Acht Helden auf vier Pfoten" tvg-logo="https://image.tmdb.org/t/p/w1280/rIPJRJZGleNaK1kfHBaFbGZ675m.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Snowdogs - Acht Helden auf vier Pfoten
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134250.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134250.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Sternenkrieg im Weltall" tvg-logo="https://image.tmdb.org/t/p/w1280/51YsJCVYhMgKjNpLEZYSlSMUwbR.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Sternenkrieg im Weltall
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134251.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134251.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Storm und der verbotene Brief" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sZBpsyk8WCRX3dJnexDfdAlHqJ.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Storm und der verbotene Brief
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134252.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134252.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Susi und strolch (2019)" tvg-logo="https://image.tmdb.org/t/p/w1280/pE4EztvL6bYRwU8FYBrW69u3sUs.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Susi und strolch (2019)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134253.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134253.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-The Adventures of Aladdin " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9tZW1ClaMBgoeQYBagDsrQXgha.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-The Adventures of Aladdin 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134254.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134254.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-The Lost Viking" tvg-logo="https://image.tmdb.org/t/p/w1280/9gFHSGKV5EZxJe6d6qsROpAiBgQ.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-The Lost Viking
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134255.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134255.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-The Peanut Butter Falcon " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xDGZDH8GxgwRxsIqZZYef02mQW.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-The Peanut Butter Falcon 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134256.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134256.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-The Wind Walker (2020) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwpRHz8bnvcpK963yUHsvDb7zcz.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-The Wind Walker (2020) 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134257.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134257.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-TKKG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfJ6GFmbrc6XVC9TaSlMlolhNn9.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-TKKG
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134258.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134258.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Tomb Raider (2018)" tvg-logo="https://image.tmdb.org/t/p/w1280/anY66lDSgl8m7KJep0Cv7fhZACI.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Tomb Raider (2018)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134259.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134259.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Vidocq - Herrscher der Unterwelt" tvg-logo="https://image.tmdb.org/t/p/w1280/oby4q2OO0f5EtDA7eYrFne1Gq5t.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Vidocq - Herrscher der Unterwelt
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134260.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134260.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Viking Legacy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKrLQt5UsXgZIwsAyPaLkxAnPTo.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Viking Legacy
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134261.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134261.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Wendy 2 - Freundschaft f�r immer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csHyq85xwXvoBRS092kHIFsZiM0.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Wendy 2 - Freundschaft f�r immer
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134262.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134262.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Africa Express" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ly38cDMgzQJ5eAtY7YVkEt7A59J.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Africa Express
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134805.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134805.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Alfred der Gro�e - Bezwinger der Wikinger" tvg-logo="https://image.tmdb.org/t/p/w1280/a6NLRt5c7PHlzu7TlKBFe1ZUjrg.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Alfred der Gro�e - Bezwinger der Wikinger
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134806.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134806.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Antarctica ? Gefangen im Eis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNdokSebFs6Ni5YXX1gn5KBtIia.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Antarctica ? Gefangen im Eis
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134807.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134807.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Apollo 13 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZWAz4DUrwe4qlVLQZSKdUSe6JJ.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Apollo 13 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134808.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134808.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Attila, die Gei�el Gottes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCmpUyqigyKZM3E4WwI0WW2z8ln.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Attila, die Gei�el Gottes
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134809.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134809.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Bernie, der Delfin 2 - Ein Sommer voller Abenteuer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jym4ozbnsKT65Oy6MEk8qzfLDQW.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Bernie, der Delfin 2 - Ein Sommer voller Abenteuer
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134810.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134810.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Coronado (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBjHPS2XltYfd0xi2kCNpO5oAG.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Coronado (2003)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134811.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134811.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das Dschungelbuch (1942)" tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/59309fcf38c07e2886197db5.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das Dschungelbuch (1942)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134814.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134814.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das Geheimnis der Inkas" tvg-logo="https://image.tmdb.org/t/p/w1280/j3Wt13WM8ub7pW5Tu4i3kdoQK8U.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das Geheimnis der Inkas
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134815.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134815.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das Morphus-Geheimnis " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipT3RGyL623fXKUBkuxIgiTliHU.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das Morphus-Geheimnis 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134816.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134816.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das Verm�chtnis der Tempelritter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZdoEoaB0GIuTksxUcKP12qMVV0.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das Verm�chtnis der Tempelritter
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134817.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134817.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das verschollene Medaillon - Die Abenteuer von Billy Stone" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cydYuT7j4JAmvWxsMGWTLtkLp2z.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das verschollene Medaillon - Die Abenteuer von Billy Stone
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134818.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134818.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Abenteurer - Der Fluch des Midas" tvg-logo="https://image.tmdb.org/t/p/w1280/31ykUoOS2RNdARk3B8z3y25gD8b.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Abenteurer - Der Fluch des Midas
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134819.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134819.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Dieb von Bagdad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgwmPto4C3ESwWdW8qd0g581wTz.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Dieb von Bagdad
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134820.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134820.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Fluch der Sphinx" tvg-logo="https://image.tmdb.org/t/p/w1280/ocJ60uJGvJ4boqegogkGNOTJK1e.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Fluch der Sphinx
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134821.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134821.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Flug des Phoenix (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmKfGqLnkY85BWlq1lkiI4heacJ.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Flug des Phoenix (2004)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134822.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134822.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Flug des Phoenix (2004)" tvg-logo="https://image.tmdb.org/t/p/w1280/tmKfGqLnkY85BWlq1lkiI4heacJ.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Flug des Phoenix (2004)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134823.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134823.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Hundertjaehrige, der aus dem Fenster stieg und verschwand" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYqiYbeKKNnVvLBsiHAIRCyEibQ.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Hundertjaehrige, der aus dem Fenster stieg und verschwand
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134824.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134824.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Junge und die Wildg�nse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBLKVNn3MRV1Rjfj3C7bnuiUJ4f.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Junge und die Wildg�nse
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134825.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134825.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Pirat des K�nigs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9RO618BwEeXBPjjgxhoGAhEWqB.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Pirat des K�nigs
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134826.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134826.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Seer�uber (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPeRNgHO8Oa9Ci394OlWeXiNrnp.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Seer�uber (1942)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134827.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134827.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Seewolf von Barracuda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZUtSHDFMrWgH06rENcgkQG2fdi.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Seewolf von Barracuda
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134828.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134828.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der wilde Korsar der Karibik" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZUtSHDFMrWgH06rENcgkQG2fdi.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der wilde Korsar der Karibik
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134829.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134829.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Wind und der L�we" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZUtSHDFMrWgH06rENcgkQG2fdi.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Wind und der L�we
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134830.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134830.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Zauberer von Oz (1925)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VSKBjwosptUyXktNOZ4AdZXArR.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Zauberer von Oz (1925)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134831.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134831.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Zauberer von Oz (1939)" tvg-logo="https://image.tmdb.org/t/p/w1280/687dPKnfjHV1k3j14TiivWGDV92.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Zauberer von Oz (1939)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134832.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134832.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Abenteuer der drei Musketiere (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avDXcXpwacxiNsDmR0kZYt3gInF.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Abenteuer der drei Musketiere (1953)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/134833.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/134833.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Abenteuer des Pinocchio 1947" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjn6qXtXvMOhiHs7FQvlESmEHnc.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Abenteuer des Pinocchio 1947
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135052.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135052.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Braut des Prinzen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDlFon0DCbRTOTJgXMTOHK5e6uk.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Braut des Prinzen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135053.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135053.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die eiserne Maske (1929) " tvg-logo="https://image.tmdb.org/t/p/w1280/9Yr7IHgbpTmS6gYA23VROcqY6EG.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die eiserne Maske (1929) 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135055.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135055.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die geheimnisvolle Insel" tvg-logo="https://image.tmdb.org/t/p/w1280/wtHFHTzyOpCWI8NoUIhVz9rNKq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die geheimnisvolle Insel
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135056.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135056.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die junge Katharina - Teil 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ZF442DBML._SL1200_.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die junge Katharina - Teil 1
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135057.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135057.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die junge Katharina - Teil 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ZF442DBML._SL1200_.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die junge Katharina - Teil 2
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135058.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135058.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Legende von Johnny Lingo" tvg-logo="https://image.tmdb.org/t/p/w1280/vIji70cOmSBAi7M9CeKPjnB8wB0.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Legende von Johnny Lingo
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135059.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135059.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Neuen Abenteuer von Pippi Langstrumpf" tvg-logo="https://assets.cdn.moviepilot.de/files/7c75fb392b20fa284c1ee3b91ce10165123abc9ed37558476d72b52210b0/limit/240/2000/49d3a9029d638.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Neuen Abenteuer von Pippi Langstrumpf
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135060.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135060.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die neuen M�rchen von Scheherezade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lq5iECjTolrsZLCOn0o36yJTzJq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die neuen M�rchen von Scheherezade
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135061.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135061.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Piratenbraut " tvg-logo="https://image.tmdb.org/t/p/w1280/8g4sF1QthlNEt3lJhXNlYlbbkHN.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Piratenbraut 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135062.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135062.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Rache des Ivanhoe " tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515l%2BQH5RXL.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Rache des Ivanhoe 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135063.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135063.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Schatzinsel 1950" tvg-logo="https://image.tmdb.org/t/p/w1280/g4GOfIMtOeU9pHasejwPAFrUIMu.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Schatzinsel 1950
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135064.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135064.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Schatzinsel 1972" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyBvYn6AjwLiTKy582SsajIT5UZ.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Schatzinsel 1972
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135065.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135065.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Schatzinsel 1999" tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/5930a28438c07e288619abad.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Schatzinsel 1999
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135066.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135066.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Sklavenkarawane" tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/5930a28438c07e288619abad.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Sklavenkarawane
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135067.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135067.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Sterntaler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fCuprV6I3KX0RKtIhAbwDjyVmk.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Sterntaler
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135068.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135068.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die total verr�ckte Zauberinsel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZOrl8tRpeYXfksdMAhpAeY20ja.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die total verr�ckte Zauberinsel
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135069.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135069.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Unbez�hmbaren (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9TvUGZGxDBIAuXa7EqGu7KMHhJ.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Unbez�hmbaren (1955)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135070.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135070.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die verruchte Lady" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpePR1PBAT3gQDsmDZQtB3q6ZLi.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die verruchte Lady
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135071.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135071.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die verzauberte Anicka" tvg-logo="https://image.tmdb.org/t/p/w1280/kT6vMMbOG8iRdG4nssCSrNusGM8.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die verzauberte Anicka
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135072.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135072.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Donner in der Sonne" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXAxyisXfTGNgZu4KTxETAqaO0e.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Donner in der Sonne
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135073.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135073.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Dragon Kingdom Das K�nigreich der Drachen" tvg-logo="https://image.tmdb.org/t/p/w1280/2BqULQedXbrYxwLlebQ8xoimFKY.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Dragon Kingdom Das K�nigreich der Drachen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135074.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135074.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Dschungelkind" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYVAuh8zLIGPTrgvFFWfSvqKSEF.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Dschungelkind
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135075.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135075.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-El Cid" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piDvr9V7ZkBK4TJgTcyAO7AXg0l.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-El Cid
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135076.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135076.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Elefanten-Boy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0vQrVaKDdQTPzvgWj6IAHuZSWk.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Elefanten-Boy
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135077.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135077.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-F�nf Gr�ber bis Kairo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16JpX1GoIZRVhvH2EGZHdMIsEI6.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-F�nf Gr�ber bis Kairo
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135078.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135078.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Gewehre f�r Bengali" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63QFMXOo8jSVxbnbRvyq4VpLHqE.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Gewehre f�r Bengali
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135079.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135079.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Goldjagd" tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/59309ff938c07e288619806c.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Goldjagd
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135080.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135080.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Heidi Auf 4 Pfoten" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uP3tEUDCrqfdpLQxcOhrHnIwSVh.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Heidi Auf 4 Pfoten
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135081.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135081.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Hercules The Thracian Wars" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Hercules_%282014_film%29.jpg/220px-Hercules_%282014_film%29.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Hercules The Thracian Wars
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135082.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135082.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Herr der Fliegen (1963)" tvg-logo="https://image.tmdb.org/t/p/w1280/3jhp9oxZpwcWCZ1vfn3PyMWovzq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Herr der Fliegen (1963)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135083.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135083.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Herrscher der Insel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCaVtXJxhJfR3q0DdBunBPZJokF.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Herrscher der Insel
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135084.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135084.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Ich liebe Victor" tvg-logo="https://image.tmdb.org/t/p/w1280/ww6qpMqZiDpV9jj80yLOaL91nYv.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Ich liebe Victor
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135085.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135085.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Im Banne der roten Tigerin - Rampage" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emt7611VXNtD9hRLT8jxecEaOrR.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Im Banne der roten Tigerin - Rampage
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135086.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135086.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Im Herzen der See" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvT4BXWwq2ReNmCNuOo1tBit3VX.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Im Herzen der See
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135087.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135087.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Kadmos - Tyrann von Theben" tvg-logo="https://image.tmdb.org/t/p/w1280/4qiTnZng1nlOL5RoLR8HF9ctidP.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Kadmos - Tyrann von Theben
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135088.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135088.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Kaiser der Gladiatoren" tvg-logo="https://image.tmdb.org/t/p/w1280/pCaRftK2Wxpig18B3V537evRAfs.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Kaiser der Gladiatoren
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135089.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135089.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Kampf um Atlantis" tvg-logo="https://image.tmdb.org/t/p/w1280/p0eKUs3q9DGGJ42lPz3xincBmMf.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Kampf um Atlantis
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135090.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135090.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-King Tut ? Der Fluch des Pharao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VKcZqdGSMdoI44cmm7g1mbaGij.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-King Tut ? Der Fluch des Pharao
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135091.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135091.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Last Knights" tvg-logo="https://image.tmdb.org/t/p/w1280/uGqlk7Hu8FRLVDcFZ16NxTy09ZE.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Last Knights
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135092.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135092.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Lederstrumpf Der Wildt�ter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI5eeWqSECEo2yD4oADqHJM0n2C.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Lederstrumpf Der Wildt�ter
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135093.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135093.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Liebling, jetzt haben wir ein Riesenbaby" tvg-logo="https://image.tmdb.org/t/p/w1280/nxbZrcLwbmXLhCddMQXvCjDWGpu.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Liebling, jetzt haben wir ein Riesenbaby
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135094.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135094.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Lucky Finde Dein Gl�ck" tvg-logo="https://image.tmdb.org/t/p/w1280/o0gBmmgCYX55xRtqdYkTJhHfqVc.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Lucky Finde Dein Gl�ck
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135095.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135095.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Mein gro�er Freund Joe " tvg-logo="https://image.tmdb.org/t/p/w1280/auKuehYgAWChviDo95d8XhENAM6.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Mein gro�er Freund Joe 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135096.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135096.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Mojin The Lost Legend" tvg-logo="https://image.tmdb.org/t/p/w1280/nJi9AeSyPG4zVemT58AuLxZjUQz.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Mojin The Lost Legend
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135097.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135097.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Oliver Twist (1948)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZnv0qWxuuo8gR2FVJ0QtoBtuvh.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Oliver Twist (1948)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135098.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135098.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Pfad des Kriegers" tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/5b9e8cd38ffd235c7291cc91.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Pfad des Kriegers
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135099.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135099.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Pirates ? Das Siegel des K�nigs" tvg-logo="https://image.tmdb.org/t/p/w1280/wYc1gWFyf7XHrFUDeQ15T1Mb6Tl.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Pirates ? Das Siegel des K�nigs
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135100.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135100.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Rivalen am rei�enden Strom " tvg-logo="https://image.tmdb.org/t/p/w1280/oiJ2SDQTeJTXY9D6gegA88TmQEt.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Rivalen am rei�enden Strom 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135101.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135101.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Roar ? Die L�wen sind los" tvg-logo="https://image.tmdb.org/t/p/w1280/dFI2504MT4JrhQuzDXNB1zwzt3d.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Roar ? Die L�wen sind los
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135102.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135102.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Robin Hood der Rebell (1959)" tvg-logo="https://image.tmdb.org/t/p/w1280/AcavlXPdckrEUvsAet6cLgnHncF.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Robin Hood der Rebell (1959)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135103.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135103.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Robo" tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/5eb0105616bc8d061e341bd4.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Robo
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135104.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135104.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Sandokan" tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/59f651abbcc34d26e390ab64.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Sandokan
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135105.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135105.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Schatzritter und das Geheimnis von Melusina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtus8UHPus9I7D8aJsnv9n9zeh1.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Schatzritter und das Geheimnis von Melusina
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135106.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135106.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Sein Freund Jello" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nM0j9Fl2Yhaw3LoVogydgqHkSa.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Sein Freund Jello
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135107.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135107.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Siegfried und das sagenhafte Liebesleben der Nibelungen" tvg-logo="https://image.tmdb.org/t/p/w1280/o0BNKlBalRhCl5fhp9ZcndEVFvX.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Siegfried und das sagenhafte Liebesleben der Nibelungen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135108.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135108.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-St�rtebekerTEIL 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9M4c2s5wwQJKJllBYebpxUw9nDk.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-St�rtebekerTEIL 1
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135109.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135109.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-St�rtebekerTEIL 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9M4c2s5wwQJKJllBYebpxUw9nDk.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-St�rtebekerTEIL 2
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135110.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135110.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Tartarus" tvg-logo="https://assets.cdn.moviepilot.de/files/7d1e4b08b6e5f11dd03ee45960d3af9af5dbb74e196492410244f2120bc3/limit/240/2000/zzzzzzz.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Tartarus
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135111.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135111.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Tarzans Todesduell" tvg-logo="https://image.tmdb.org/t/p/w1280/fDNdsYH1G4uLKtZ1ucpw321hVYK.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Tarzans Todesduell
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135112.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135112.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-The Conqueror Angst wird herrschen" tvg-logo="https://image.tmdb.org/t/p/w1280/4Exgr0ZhszZjxQqiWlG3G4javxG.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-The Conqueror Angst wird herrschen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135113.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135113.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-The Crying Dead T�dliche Vergangenheit" tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/5ecd52ba41c453491463acde.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-The Crying Dead T�dliche Vergangenheit
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135114.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135114.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-The Jungle - In der Gewalt der Kannibalen" tvg-logo="https://gfx.videobuster.de/archive/v/cwQmoN2jUDHj7Ftcqng2USgcz0lMkawqiUyRjA5JTJGaW1hmSUyRmpwZWclMkZj9_jzZjBiYmbNZWI0ZvA2ZTRh-c_ZYjIuanBnJnI9d-84/jungle-in-der-gewalt-der-kannibalen.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-The Jungle - In der Gewalt der Kannibalen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135115.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135115.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-The Kings of Summer" tvg-logo="https://image.tmdb.org/t/p/w1280/zGi8vj4CNdDioCcWlsRMcHsXXND.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-The Kings of Summer
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135116.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135116.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-The Legend of Hercules" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GD9nfxw68XWBreHeEq2Jz28qeb.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-The Legend of Hercules
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135117.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135117.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Trocadero" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71yMTXgN7KL._SL1200_.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Trocadero
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135119.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135119.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Warriors Of The Rainbow" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLfWP5F3NRPwTThpAlpfVwsBEID.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Warriors Of The Rainbow
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135120.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135120.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Welcome to the Jungle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOrhVzvvAY0jhGrAY3RWAxNPmSU.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Welcome to the Jungle
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135121.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135121.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Wundervogel" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51GVXRTRC6L._SY445_.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Wundervogel
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135122.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135122.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Zwei Kerle aus Granit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvPxHqOrKu76hGYXIE7orCCWjQW.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Zwei Kerle aus Granit
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135123.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135123.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-�berraschend unsichtbar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5rkjrbQMJoUHLXgVYfsrcaknsg.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-�berraschend unsichtbar
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/135124.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/135124.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Nordm�nner" tvg-logo="https://image.tmdb.org/t/p/w1280/lt4IxJ2J9QhSguqhya2SBwjeYh1.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Nordm�nner
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/146599.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/146599.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die R�ckkehr zur Insel der Abenteuer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blckGGvw77cCGb0KJVOw3lAUndX.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die R�ckkehr zur Insel der Abenteuer
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/146600.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/146600.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Mein Freund, der Dino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAazczQLusKdyrOeMYwSKrN0gwg.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Mein Freund, der Dino
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/146601.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/146601.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Mir nach, Canaillen!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mRyflNcANQoYyyL7nTjLebR5ea.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Mir nach, Canaillen!
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/146602.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/146602.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Schellen-Ursli" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEUn1UKnnvDfoxT936FEa1tfxkv.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Schellen-Ursli
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/146603.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/146603.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Zottis tolle Abenteuer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvFydg4YVveoG5NFcM8w2PIYFuP.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Zottis tolle Abenteuer
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/146604.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/146604.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Ben-Hur Sklave Roms" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHUjlnbGoLZRBVPkRyChzp6cAOr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Ben-Hur Sklave Roms
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/152216.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/152216.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Tataren" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGZekcetORyvY8g6eKRC6tgGCkE.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Tataren
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/152217.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/152217.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Im Land der Dinosaurier" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cfdxlBhwaVZrtSUqiTGu5M1Wck.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Im Land der Dinosaurier
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/152218.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/152218.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Kleine Goldgr�ber - Ein b�renstarkes Abenteuer in Kanada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLDc02dSnwIkvcLDydxCH7Z4HXu.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Kleine Goldgr�ber - Ein b�renstarkes Abenteuer in Kanada
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/152219.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/152219.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Underdog ? Unbesiegt weil er fliegt" tvg-logo="https://image.tmdb.org/t/p/w1280/bRtMzLoK4e5GFhi0w7PMLArVOnq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Underdog ? Unbesiegt weil er fliegt
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/152220.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/152220.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der blaue Tiger" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuXifHKroWUXriFfDzdMV2VVQJu.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der blaue Tiger
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/158769.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/158769.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Rebellion - Der Zorn des R�mischen Reichs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecJtmBXAmBmhrcDK3RRqihRirmF.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Rebellion - Der Zorn des R�mischen Reichs
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/158770.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/158770.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Henker von Venedig" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8D80oPWb1cRGWqcbrbaeFu8bOl.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Henker von Venedig
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/169903.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/169903.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der zerbrochne Krug (1937)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71%2B17JPVrVL._SL1200_.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der zerbrochne Krug (1937)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/169905.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/169905.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Flut bricht los" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yrRlxTM5KKrd0JlrxGrVMZH8tk.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Flut bricht los
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/169906.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/169906.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die G�nsemagd" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tE5SdXvkgKnKDQQRyL4OqCoOmgx.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die G�nsemagd
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/169907.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/169907.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Legende der wei�en Pferde" tvg-logo="https://image.tmdb.org/t/p/w1280/qRwp0dul5SqP7YEKu3Esb3Jggqf.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Legende der wei�en Pferde
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/169908.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/169908.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die verborgene Festung" tvg-logo="https://image.tmdb.org/t/p/w1280/vWMZd6Uwt7loSR6lFRJLrnvO7Tt.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die verborgene Festung
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/169909.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/169909.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Frozen Money" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQrZwKPHDZVIOTKXTrrwTZBqQGM.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Frozen Money
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/169910.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/169910.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Quo Vadis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxQX0mnJ16NrM8RHwOdJ1dYNLBM.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Quo Vadis
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/169912.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/169912.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Soldier - Die durch die H�lle gehen" tvg-logo="https://image.tmdb.org/t/p/w1280/kT8kldJkJjNnf1HnAQhiIdTjOal.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Soldier - Die durch die H�lle gehen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/169913.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/169913.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Cobra Verde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Cce5ZgJ9yyDqCmwAi6mcULfIop.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Cobra Verde
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173430.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173430.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Junge mit den Goldhosen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8gEMLoSkRsN4ux4aprRpepcaNv.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Junge mit den Goldhosen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173431.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173431.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Moorhund" tvg-logo="https://image.tmdb.org/t/p/w1280/pcwj5lI7mYiCgw24DUVi2iMV0bj.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Moorhund
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173432.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173432.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die drei Musketiere (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFLZ3GYTduUTLsPRw0EySuLqLYW.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die drei Musketiere (1973)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173433.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173433.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Feuerspringer von Montana" tvg-logo="https://image.tmdb.org/t/p/w1280/kG9cxC8FRVt05lpyAzdF72KqmO.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Feuerspringer von Montana
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173434.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173434.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die R�ckkehr der Musketiere" tvg-logo="https://image.tmdb.org/t/p/w1280/9kO70r5dDyxi8alDORonLI5jmCI.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die R�ckkehr der Musketiere
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173435.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173435.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die vier Musketiere ? Die Rache der Mylady" tvg-logo="https://image.tmdb.org/t/p/w1280/dm0ArEYWrrfyOkMUbKOE8ZnCc92.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die vier Musketiere ? Die Rache der Mylady
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173436.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173436.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Flammen �ber Fernost" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fA2opESOy7RXrVaAOIXCBBI77RG.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Flammen �ber Fernost
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173437.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173437.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Newsies - Die Zeitungsjungen" tvg-logo="https://image.tmdb.org/t/p/w1280/jempb3P3F4chHanhkT8cMydGW6r.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Newsies - Die Zeitungsjungen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173438.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173438.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-R�bezahls Schatz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQsnGYwdVSSwrySIw6jnjnIR7Vq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-R�bezahls Schatz
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173439.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173439.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Till Eulenspiegel - Teil1" tvg-logo="https://image.tmdb.org/t/p/w1280/rgTLIpbTiClB0pOSmggdi7ncdCz.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Till Eulenspiegel - Teil1
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173440.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173440.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Till Eulenspiegel - Teil2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPELIkrZdTev4CvZ8u6uEfWnJTd.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Till Eulenspiegel - Teil2
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173441.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173441.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Vier treue Pfoten" tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/5930bb9038c07e28861bd877.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Vier treue Pfoten
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/173442.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/173442.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Gladiatoren" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEx1vjonnETw9kXuUOwyXvzQu84.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Gladiatoren
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/176759.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/176759.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Apocalypto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjfRhpNdRfh1y0OqKyu97nBOajZ.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Apocalypto
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180411.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180411.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der kleine D�umling (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nW69jGcMLsHWBVpGpnvl46p5iCF.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der kleine D�umling (1958)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180412.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180412.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der tapfere Schulschw�nzer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogYL6PltaWUpy6sIylxdvMc2a5F.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der tapfere Schulschw�nzer
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180413.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180413.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Glorreichen" tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/5930a57638c07e288619d561.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Glorreichen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180414.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180414.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Doktor Proktors Pupspulver" tvg-logo="https://image.tmdb.org/t/p/w1280/xzk1NnJb2HiFAOBebb90kT6GmD9.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Doktor Proktors Pupspulver
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180415.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180415.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Into the Wild" tvg-logo="https://image.tmdb.org/t/p/w1280/8T3CCV6sot8atyf4wjKjpkGmAFb.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Into the Wild
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180416.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180416.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-King Kong lebt" tvg-logo="https://image.tmdb.org/t/p/w1280/pyRW20sVI1BAcQrrmJzNnxx6wuB.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-King Kong lebt
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180417.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180417.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Mein Schwert f�r den K�nig" tvg-logo="https://image.tmdb.org/t/p/w1280/4Ak7QhYhHMLi9QkcEVO2DLdzzAV.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Mein Schwert f�r den K�nig
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180418.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180418.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Quatsch und die Nasenb�rbande" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YACoA8TZL66MldHADDiaL8Eqqh.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Quatsch und die Nasenb�rbande
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180419.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180419.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-The Quest ? Der Fluch des Judaskelch" tvg-logo="https://image.tmdb.org/t/p/w1280/dNb7NiMtRdjTKeXVRrGcTQXgpEM.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-The Quest ? Der Fluch des Judaskelch
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180420.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180420.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-The Wind Walker - D�mon des Waldes" tvg-logo="https://image.tmdb.org/t/p/w1280/rwpRHz8bnvcpK963yUHsvDb7zcz.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-The Wind Walker - D�mon des Waldes
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180421.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180421.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Zaina ? K�nigin der Pferde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWkIA7GYXmjxWhPIaZrmuGsmnpN.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Zaina ? K�nigin der Pferde
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180422.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180422.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die fast vergessene Welt" tvg-logo="https://image.tmdb.org/t/p/w1280/y6LLcvldFOoogso43n92Mw4osLp.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die fast vergessene Welt
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/180958.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/180958.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Artus und Merlin Ritter von Camelot 2020" tvg-logo="https://image.tmdb.org/t/p/w1280/6A3pv1Q7MWkyu0Ft7whYSaQ9ht3.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Artus und Merlin Ritter von Camelot 2020
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/184545.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/184545.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Pontius Pilatus" tvg-logo="https://nox.tv/api/frontend/file/cover/thumbnail/5a00dba76b80da6e2c37ce6b.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Pontius Pilatus
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/184546.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/184546.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-So ein Bienchen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eLtC3FfKfx7rD327UIrCK94p5W.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-So ein Bienchen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/184547.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/184547.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Tom Sawyer (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ucauhcGVzANoY8RCdRuLxadVEI.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Tom Sawyer (2011)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/184548.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/184548.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das magische Buch von Arkandias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXznq58Cdwl6gbLpVq8ZO5bl1qf.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das magische Buch von Arkandias
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/185806.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/185806.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der alte Mann und das Meer" tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der alte Mann und das Meer
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/185807.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/185807.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Alpha" tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Alpha
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/189406.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/189406.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das doppelte Lottchen (1950) " tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das doppelte Lottchen (1950) 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/189407.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/189407.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das doppelte Lottchen (2007) " tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das doppelte Lottchen (2007) 
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/189408.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/189408.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Seer�uber" tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Seer�uber
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/189409.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/189409.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Untergang von Metropolis" tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Untergang von Metropolis
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/189410.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/189410.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Verbannte" tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Verbannte
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/189411.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/189411.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die drei Musketiere (1973)" tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die drei Musketiere (1973)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/189412.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/189412.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Fluchtweg Unbekannt They Met In Bombay" tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Fluchtweg Unbekannt They Met In Bombay
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/189413.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/189413.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-H�llenjagd bis ans Ende der Welt" tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-H�llenjagd bis ans Ende der Welt
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/189414.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/189414.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Kampf um Atlantis" tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Kampf um Atlantis
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/189415.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/189415.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Schatzsucher in der S�dsee" tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Schatzsucher in der S�dsee
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/189416.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/189416.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das Geheimnis der Murmel-Gang" tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das Geheimnis der Murmel-Gang
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/191042.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/191042.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Unter Piratenflagge" tvg-logo="https://image.tmdb.org/t/p/w1280/tlX71ziFH52SecHM3pdVcFj3Tbr.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Unter Piratenflagge
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/191043.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/191043.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Cinderellas silberner Schuh" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRRyq9LuRoMDRH23FNzIXdmo4eH.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Cinderellas silberner Schuh
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/191701.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/191701.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Herrscherin der W�ste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foCvE8j9WeEYBR7SiHqkjHX68Kn.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Herrscherin der W�ste
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/191702.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/191702.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Marcus - Der Gladiator von Rom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrlJVPBpOhOqz7YMp2selMNBpQe.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Marcus - Der Gladiator von Rom
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/191703.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/191703.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Pan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIoNepan4qXc0hiHIVbSR7kucoC.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Pan
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/191704.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/191704.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Robert The Bruce - K�nig von Schottland" tvg-logo="https://image.tmdb.org/t/p/w1280/e6eNN4EpGtbXAbsR97QgjnjHs6s.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Robert The Bruce - K�nig von Schottland
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/191705.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/191705.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Sword of Vengeance - Schwert der Rache" tvg-logo="https://image.tmdb.org/t/p/w1280/Amiy63LurXkazLZAjz57ivPvioJ.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Sword of Vengeance - Schwert der Rache
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/191706.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/191706.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-W�chter des K�nigs - The King's Guard" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-W�chter des K�nigs - The King's Guard
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/191707.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/191707.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Dark Island - Lost in Paradise" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Dark Island - Lost in Paradise
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/192477.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/192477.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Eisenhans" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Eisenhans
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/192478.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/192478.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Goldene Kompass" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Goldene Kompass
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/192479.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/192479.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Lola auf der Erbse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Lola auf der Erbse
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/192480.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/192480.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Zathura ? Ein Abenteuer im Weltraum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Zathura ? Ein Abenteuer im Weltraum
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/192481.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/192481.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Zwischen zwei Leben - The Mountain Between Us" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Zwischen zwei Leben - The Mountain Between Us
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/192482.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/192482.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die den Tod nicht f�rchten" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die den Tod nicht f�rchten
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/198512.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/198512.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Everybody?s Fine" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Everybody?s Fine
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/198513.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/198513.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Treasure Guards - Das Verm�chtnis des Salomo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Treasure Guards - Das Verm�chtnis des Salomo
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/198514.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/198514.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Okja" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Okja
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/199296.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/199296.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Africa Erotica - Der Sittenspiegel Afrikas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Africa Erotica - Der Sittenspiegel Afrikas
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203853.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203853.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Ao, der letzte Neandertaler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Ao, der letzte Neandertaler
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203854.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203854.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das gro�e Wagnis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das gro�e Wagnis
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203855.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203855.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Abenteuer des Hajji Baba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Abenteuer des Hajji Baba
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203856.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203856.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die B�reninsel in der H�lle der Arktis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die B�reninsel in der H�lle der Arktis
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203857.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203857.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-DIE Nordwest-Passage" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-DIE Nordwest-Passage
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203858.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203858.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Fracass, der freche Kavalier" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Fracass, der freche Kavalier
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203859.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203859.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Freddy unter fremden Sternen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Freddy unter fremden Sternen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203860.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203860.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Heidi Auf 4 Pfoten" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Heidi Auf 4 Pfoten
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203861.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203861.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Herkules und die K�nigin der Amazonen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Herkules und die K�nigin der Amazonen
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203862.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203862.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Luckys gro�e Abenteuer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Luckys gro�e Abenteuer
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203863.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203863.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Mein Pferd und ich" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Mein Pferd und ich
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203864.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203864.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Meister Eder und sein Pumuckl" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Meister Eder und sein Pumuckl
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203865.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203865.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Mulan ? Legende einer Kriegerin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Mulan ? Legende einer Kriegerin
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203866.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203866.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Mysterious Island - Die geheimnisvolle Insel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Mysterious Island - Die geheimnisvolle Insel
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203867.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203867.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Piraten an Bord" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Piraten an Bord
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203868.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203868.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Playboys und Abenteurer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Playboys und Abenteurer
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203869.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203869.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Tripolis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Tripolis
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203870.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203870.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Walhalla Rising" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Walhalla Rising
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/203871.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/203871.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Ben Hur (1925)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Ben Hur (1925)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/206133.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/206133.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Ben Hur (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Ben Hur (1959)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/206134.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/206134.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Blutroter Kongo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Blutroter Kongo
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/206135.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/206135.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Mann in der eisernen Maske (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Mann in der eisernen Maske (1977)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/206136.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/206136.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Gran Paradiso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Gran Paradiso
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/206137.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/206137.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Himmel �ber der W�ste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Himmel �ber der W�ste
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/206138.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/206138.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Katharina von Russland" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Katharina von Russland
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/206139.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/206139.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Zaubern�chte in Rio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Zaubern�chte in Rio
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/206140.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/206140.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der einzig wahre Ivan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der einzig wahre Ivan (2020)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/208236.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/208236.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Der Mongole" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Der Mongole
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/209342.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/209342.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Abenteuer des Werner Holt" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Abenteuer des Werner Holt
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/209343.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/209343.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Knights of Blood - Kampf der Barbaren" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Knights of Blood - Kampf der Barbaren
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/209344.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/209344.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Manatu ? Nur die Wahrheit rettet Dich" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Manatu ? Nur die Wahrheit rettet Dich
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/209345.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/209345.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Blood Diamond (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Blood Diamond (2006)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/209746.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/209746.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Davy Crockett und die Flusspiraten" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Davy Crockett und die Flusspiraten
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/209747.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/209747.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Abenteuer des Till Ulenspiegel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Abenteuer des Till Ulenspiegel
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/209748.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/209748.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Abenteuer des Herkules" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Abenteuer des Herkules
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/213308.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/213308.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Hexen hexen (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Hexen hexen (1990)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/213309.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/213309.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Jack and the Giants" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Jack and the Giants
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/213310.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/213310.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Crocodile Daddy - Ein total verr�ckter Roadtrip" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Crocodile Daddy - Ein total verr�ckter Roadtrip
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/213538.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/213538.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das total verr�ckte Wunderauto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das total verr�ckte Wunderauto
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/213539.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/213539.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-The Little Mermaid" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-The Little Mermaid
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/213540.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/213540.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Bebu - Held auf 4 Pfoten" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Bebu - Held auf 4 Pfoten
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/215962.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215962.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Das M�dchen auf dem Meeresgrund" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Das M�dchen auf dem Meeresgrund
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/215963.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215963.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Jagd zum magischen Berg" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Jagd zum magischen Berg
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/215964.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215964.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Die Teufel der Meere" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Die Teufel der Meere
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/215965.mkv
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215965.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Ein Zug f�r zwei Halunken" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Ein Zug f�r zwei Halunken
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/215966.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215966.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Emil und die Detektive (1931)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Emil und die Detektive (1931)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/215967.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215967.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Kampf um Rom - TEIL 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Kampf um Rom - TEIL 1
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/215968.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215968.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Kampf um Rom - TEIL 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Kampf um Rom - TEIL 2
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/215969.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215969.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Rotk�ppchen (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Rotk�ppchen (1989)
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/215970.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215970.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Suche nach der silbernen Glocke" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Suche nach der silbernen Glocke
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/215971.avi
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215971.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Zarak Khan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Zarak Khan
-http://live.darkside-iptv.com:8080/movie/hApBEjxfAr/cWlemb4Mpt/215972.mp4
+http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215972.mp4
+
 
 
 
