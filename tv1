@@ -251,6 +251,12 @@ http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/80930.m3u8
 http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/22917.m3u8
 #EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="DE:: sport1 HD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1%20hd.png?m=1458724278" group-title="GERMANY",DE:: sport1 HD
 http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/19806.m3u8
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE:: Sky Sport 3" tvg-logo="http://apps.iptv.lu/images/channel/original/205.png" group-title="GERMANY",DE:: Sky Sport 3
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7968.m3u8
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_10C_6_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 3 HD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23610.m3u8
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE:: Sky Sport 3 FHD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_10C_6_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 3 FHD
+http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23623.m3u8
 #EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="DE:: sport1+ HD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sport1%2B%20hd-01.png?m=1458724281" group-title="GERMANY",DE:: sport1+ HD
 http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/19081.m3u8
 #EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE:: Sportdigital HD" tvg-logo="http://jsat.tv/gallery/var/albums/TV%20Logos/sportdigital_tv.png?m=1458724283" group-title="GERMANY",DE:: Sportdigital HD
@@ -259,12 +265,6 @@ http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7963.m3u8
 http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7962.m3u8
 #EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="DE:: Auto Motor Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Auto_motor_und_sport_channel.svg/320px-Auto_motor_und_sport_channel.svg.png" group-title="GERMANY",DE:: Auto Motor Sport HD
 http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/26949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: PDCTV 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/29/Professional_Darts_Corporation_logo.svg/709px-Professional_Darts_Corporation_logo.svg.png" group-title="GERMANY",DE:: PDCTV 1 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/101936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: PDCTV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/29/Professional_Darts_Corporation_logo.svg/709px-Professional_Darts_Corporation_logo.svg.png" group-title="GERMANY",DE:: PDCTV 2 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/101937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: PDCTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/29/Professional_Darts_Corporation_logo.svg/709px-Professional_Darts_Corporation_logo.svg.png" group-title="GERMANY",DE:: PDCTV 3 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/101938.m3u8
 #EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="DE:: Sky Sport News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sky_Sport_News_Logo_2016.png" group-title="GERMANY",DE:: Sky Sport News
 http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/24584.m3u8
 #EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="DE:: Sky Sport News HD" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301679_Sky_Sport_News_HD.png" group-title="GERMANY",DE:: Sky Sport News HD
@@ -273,150 +273,6 @@ http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/24583.m3u8
 http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/40227.m3u8
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:: Sky Sport 1" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_DD_4_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 1
 http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Sky Sport 14 HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_19_187_B_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Sky Sport 14 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/40608.m3u8
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="DE:: Sky Sport Bundesliga 1" tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/31168-1-0-1-DF-4-85-FFFF0000-0-0-0-png/?s=0072698c84c89a4281fcc069e1ca66d7faddd7c5" group-title="GERMANY",DE:: Sky Sport Bundesliga 1
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fc Barcelona TV" tvg-logo="https://3.bp.blogspot.com/-vuReO40VefI/V7-Bf2MoYhI/AAAAAAAACH8/n3fInNzy74sLkbs5_IKP-Z6SQUUWpC2rACLcB/s1600/416501.png" group-title="GERMANY",Fc Barcelona TV
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/45479.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Liverpool FC TV" tvg-logo="https://upload.wikimedia.orgh/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="GERMANY",Liverpool FC TV
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/45478.m3u8
-#EXTINF:-1 tvg-id="TelekomFussball1.de" tvg-name="DE:: Telekom Fußball 1 HD" tvg-logo="https://png2.kisspng.com/sh/c4d0fc17172b0d9a2ae3260f6a5ddbde/L0KzQYm4UcA6N6hve5H0aYP2gLBuTfxwb5CyeuRqbnSwQ37zifdiNZd0huY2cILydMbqlL1lbaRuf9C2NXLoRYSBV8NjQWI5fqk3NEO7QYG6UcIyPWU2T6YDOEW0R4aBUb5xdpg=/kisspng-logo-brand-3-liga-font-product-design-5be53873b914f7.4381031215417488517581.png" group-title="GERMANY",DE:: Telekom Fußball 1 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 3 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 4 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 5 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 6 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 7 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 8 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Basketball 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/EasyCredit_BBL_logo.png" group-title="GERMANY",DE:: Telekom Basketball 9 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Eishockey 3 HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/DEL2019.png?time=1556692875749&h=200" group-title="GERMANY",DE:: Telekom Eishockey 3 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Eishockey 4 HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/DEL2019.png?time=1556692875749&h=200" group-title="GERMANY",DE:: Telekom Eishockey 4 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Eishockey 5 HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/DEL2019.png?time=1556692875749&h=200" group-title="GERMANY",DE:: Telekom Eishockey 5 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Eishockey 6 HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/DEL2019.png?time=1556692875749&h=200" group-title="GERMANY",DE:: Telekom Eishockey 6 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Eishockey 7 HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/DEL2019.png?time=1556692875749&h=200" group-title="GERMANY",DE:: Telekom Eishockey 7 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/29419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Telekom Eishockey 8 HD" tvg-logo="https://www.magentasport.de/images/editorial/Logos/Bewerb-Logos/DEL2019.png?time=1556692875749&h=200" group-title="GERMANY",DE:: Telekom Eishockey 8 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/52567.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 1 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 1 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 2 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 2 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 3 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 3 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 4 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 4 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 5 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 5 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94575.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 6 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 6 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 7 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 7 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: FLYERALARM Frauen-Bundesliga 8 HD" tvg-logo="https://www.dfb.de/fileadmin/_processed_/201907/csm_202300-DFB_FrauBuLiga_Logo_FA_rechts_RGB_Negativ_a934801de9.png" group-title="GERMANY",DE:: FLYERALARM Frauen-Bundesliga 8 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/94578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="GERMANY",DE:: HGTV
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/86465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Health tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Healthtv-logo2018.svg/421px-Healthtv-logo2018.svg.png" group-title="GERMANY",DE:: Health tv HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/53447.m3u8
-#EXTINF:-1 tvg-id="BibelTV.de" tvg-name="DE:: BibelTV HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-HDPlus-Transparent/master/1_0_19_33A8_3EB_1_C00000_0_0_0.png" group-title="GERMANY",DE:: BibelTV HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/47965.m3u8
-#EXTINF:-1 tvg-id="KTV.de" tvg-name="DE:: K-TV HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-HDPlus-Transparent/master/1_0_1_3139_459_1_C00000_0_0_0.png" group-title="GERMANY",DE:: K-TV HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/47966.m3u8
-#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="DE:: rbb Brandenburg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RBB_Brandenburg_Logo.svg/650px-RBB_Brandenburg_Logo.svg.png" group-title="GERMANY",DE:: rbb Brandenburg
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/39447.m3u8
-#EXTINF:-1 tvg-id="BR.de" tvg-name="DE:: BR Fernsehen Nord" tvg-logo="https://raw.githubusercontent.com/zag2me/TheLogoDB/master/Images/Bayerisches_Fernsehen_Nord.png" group-title="GERMANY",DE:: BR Fernsehen Nord
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/39448.m3u8
-#EXTINF:-1 tvg-id="HR.de" tvg-name="DE:: hr-fernsehen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hr-fernsehen-logo.svg/800px-Hr-fernsehen-logo.svg.png" group-title="GERMANY",DE:: hr-fernsehen
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/38716.m3u8
-#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="DE:: jukebox HD" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Sky.de-Transparent/master/1_0_16_191_9_85_C00000_0_0_0.png" group-title="GERMANY",DE:: jukebox HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/22934.m3u8
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="DE:: Deutsches Musik Fernsehen HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Logo_Deutsches_Musik_Fernsehen.png" group-title="GERMANY",DE:: Deutsches Musik Fernsehen HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/53449.m3u8
-#EXTINF:-1 tvg-id="EWTN.de" tvg-name="DE: XITE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png" group-title="GERMANY",DE: XITE
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/12909.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: Kronehit" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/0/0f/Kronehit-Logo.svg/501px-Kronehit-Logo.svg.png" group-title="GERMANY",DE: Kronehit
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/9433.m3u8
-#EXTINF:-1 tvg-id="Classica.de" tvg-name="DE:: Stingray Classica" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-Full-Transparent/master/1_0_16_18_2_85_C00000_0_0_0.png" group-title="GERMANY",DE:: Stingray Classica
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/7900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: WMZ" tvg-logo="http://fsvbrieske.de/wp-content/uploads/2019/12/mabb-WMZ-Seenland-tv-768x191.png" group-title="GERMANY",DE: WMZ
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: erzTV Erzgebirge" tvg-logo="https://www.erzgebirge-gedachtgemacht.de/fileadmin/importedNewsImages/logo_erztv.jpg" group-title="GERMANY",DE: erzTV Erzgebirge
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: OK Wernigerode" tvg-logo="http://www.campus-tv-harz.de/titelbild.jpg" group-title="GERMANY",DE: OK Wernigerode
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: WMZ Senftenberg" tvg-logo="http://fsvbrieske.de/wp-content/uploads/2019/12/mabb-WMZ-Seenland-tv-768x191.png" group-title="GERMANY",DE: WMZ Senftenberg
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: SALZWEDEL" tvg-logo="https://ok-salzwedel.de/wp-content/themes/oksaw/images/footer-logo.png" group-title="GERMANY",DE: SALZWEDEL
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: Punktum SüdHarz" tvg-logo="https://www.tvlivegucken.com/wp-content/uploads/2018/01/PUNKTum-Fernsehen-logo.png" group-title="GERMANY",DE: Punktum SüdHarz
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: Merseburg" tvg-logo="https://www.klicksafe.de/fileadmin/media/images/sid/2018/OK_Merseburg.png" group-title="GERMANY",DE: Merseburg
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: Filstalwelle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Filstalwelle_dunkel.png/800px-Filstalwelle_dunkel.png" group-title="GERMANY",DE: Filstalwelle
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/11052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: ISAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Isar_TV.png" group-title="GERMANY",DE: ISAR TV
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/11051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: Rhein Neckar Fernsehen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RNF_Logo.svg/208px-RNF_Logo.svg.png" group-title="GERMANY",DE: Rhein Neckar Fernsehen
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/11047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: TRP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Trp1%281%29.gif/800px-Trp1%281%29.gif" group-title="GERMANY",DE: TRP 1
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/11050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Folx TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Folx_TV.png" group-title="GERMANY",DE:: Folx TV
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: RFH" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/ea/RFH-Logo.svg/800px-RFH-Logo.svg.png" group-title="GERMANY",DE: RFH
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/18844.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: travelxp HD" tvg-logo="" group-title="GERMANY",DE:: travelxp HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/108016.m3u8
-#EXTINF:-1 tvg-id="GoldstarTV.de" tvg-name="DE:: Goldstar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/e9/Goldstar_TV_Logo.svg/800px-Goldstar_TV_Logo.svg.png" group-title="GERMANY",DE:: Goldstar TV
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/47963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Der Aktionär TV HD" tvg-logo="" group-title="GERMANY",DE:: Der Aktionär TV HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/53448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: Gute Laune TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/47/Gute_Laune_TV_Logo.svg/800px-Gute_Laune_TV_Logo.svg.png" group-title="GERMANY",DE:: Gute Laune TV HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/57897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: eoTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/EO_TV_HD_Logo_2016.svg/320px-EO_TV_HD_Logo_2016.svg.png" group-title="GERMANY",DE:: eoTV HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/57895.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: TVO" tvg-logo="https://raw.githubusercontent.com/OpenLD/Astra19.2-HDPlus-Transparent/master/1_0_1_170F_419_1_C00000_0_0_0.png" group-title="GERMANY",DE: TVO
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/49418.m3u8
-#EXTINF:-1 tvg-id="QVC.de" tvg-name="DE:: QVC" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/ac/Logo_QVC_2019.svg/800px-Logo_QVC_2019.svg.png" group-title="GERMANY",DE:: QVC
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/49417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: QVC STYLE" tvg-logo="" group-title="GERMANY",DE:: QVC STYLE
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/128317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: pearl.tv Shop" tvg-logo="" group-title="GERMANY",DE:: pearl.tv Shop
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/128314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: HandystarTV" tvg-logo="" group-title="GERMANY",DE:: HandystarTV
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/128319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE:: 1-2-3.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/1-2-3-tv_Logo.svg/799px-1-2-3-tv_Logo.svg.png" group-title="GERMANY",DE:: 1-2-3.tv
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/49421.m3u8
-#EXTINF:-1 tvg-id="MarcoPoloTV.de" tvg-name="DE:: Marco Polo TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Marco_Polo_TV.png/800px-Marco_Polo_TV.png" group-title="GERMANY",DE:: Marco Polo TV HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/53440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT:: ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/ATV_Austria_HD.svg/320px-ATV_Austria_HD.svg.png" group-title="AUSTRIA / SWISS",AT:: ATV HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/23503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT:: ORF 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ORFeins_HD.svg/320px-ORFeins_HD.svg.png" group-title="AUSTRIA / SWISS",AT:: ORF 1 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/26930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: ORF 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ORF_III_HD_Logo.png/320px-ORF_III_HD_Logo.png" group-title="AUSTRIA / SWISS",AT: ORF 3
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/10564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: ORF Sport +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/320px-ORF_Sport%2B.svg.png" group-title="AUSTRIA / SWISS",AT: ORF Sport +
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/26928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: SRF 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/320px-Logo_SRF_zwei.svg.png" group-title="AUSTRIA / SWISS",Swiss: SRF 2
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/26925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: 4+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo_4plus.svg/266px-Logo_4plus.svg.png" group-title="AUSTRIA / SWISS",Swiss: 4+
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/26941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: S1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_S1_HD.png/320px-Logo_S1_HD.png" group-title="AUSTRIA / SWISS",Swiss: S1 HD
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/27054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: SRF Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Logo_SRF_info_HD.svg/800px-Logo_SRF_info_HD.svg.png" group-title="AUSTRIA / SWISS",Swiss: SRF Info
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/10565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: Blue Sport 2" tvg-logo="" group-title="AUSTRIA / SWISS",Swiss: Blue Sport 2
-http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/26918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="test 13th" tvg-logo="" group-title="GERMANY",test 13th
 http://live.darkside-iptv.com:8080/live/JzrYKeHJCq/n8Q8SMsVXm/124717.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: ARD SENDER" tvg-logo="" group-title="GERMANY",DE: ARD SENDER
@@ -1033,6 +889,7 @@ http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215970.avi
 http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215971.avi
 #EXTINF:-1 tvg-id="" tvg-name="VOD-ABE-Zarak Khan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igR8dMuA4tQhYkbqPeMXSXtNarq.jpg" group-title="VOD-ABENTEUER ",VOD-ABE-Zarak Khan
 http://live.darkside-iptv.com:8080/movie/JzrYKeHJCq/n8Q8SMsVXm/215972.mp4
+
 
 
 
