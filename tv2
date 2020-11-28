@@ -10,325 +10,171 @@ http://
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl Programm Guide / EPG Daten 
 http://
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3451
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/3451
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste HD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/22824
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/22824
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste FHD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16493
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/16493
 #EXTINF:-1 tvg-id="One.de" tvg-name="One FHD DE" tvg-logo="https://picon-13398.kxcdn.com/onehd.jpg" group-title="Live: Germany",One FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15751
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/15751
+#EXTINF:-1 tvg-id="One.de" tvg-name="One TV FHD DE" tvg-logo="https://picon-13398.kxcdn.com/onetvde.jpg" group-title="Live: Germany",One TV FHD DE
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/23043
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://picon-13398.kxcdn.com/zdf.jpg" group-title="Live: Germany",ZDF DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/1629
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/1629
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/19098
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/19098
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16484
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfo.jpg" group-title="Live: Germany",ZDFinfo DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12295
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfohd.jpg" group-title="Live: Germany",ZDFinfo FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16483
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfneo.jpg" group-title="Live: Germany",ZDFneo DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3453
-#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="Kabel Eins FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinshd.jpg" group-title="Live: Germany",Kabel Eins FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/1649
-#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="Kabel Eins Classics DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsclassics.jpg" group-title="Live: Germany",Kabel Eins Classics DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16581
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsdoku.jpg" group-title="Live: Germany",Kabel Eins Doku DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/17167
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/16484
 #EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben DE" tvg-logo="https://picon-13398.kxcdn.com/prosieben.jpg" group-title="Live: Germany",ProSieben DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/1642
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/1642
 #EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenhd.jpg" group-title="Live: Germany",ProSieben HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14052
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/14052
 #EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenfunhd.jpg" group-title="Live: Germany",ProSieben Fun HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16627
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxx.jpg" group-title="Live: Germany",ProSieben Maxx DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3444
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL FS DE" tvg-logo="https://picon-13398.kxcdn.com/rtlfs.jpg" group-title="Live: Germany",RTL FS DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12300
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HB NDS DE" tvg-logo="https://picon-13398.kxcdn.com/rtl.jpg" group-title="Live: Germany",RTL HB NDS DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12299
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL WEST DE" tvg-logo="https://picon-13398.kxcdn.com/rtlwest.jpg" group-title="Live: Germany",RTL WEST DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12298
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/16627
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3825
-#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL Crime HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlcrimehd.jpg" group-title="Live: Germany",RTL Crime HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15570
-#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="Live: Germany",RTL Living HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3202
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO DE" tvg-logo="https://picon-13398.kxcdn.com/rtlnitro.jpg" group-title="Live: Germany",NITRO DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/1639
-#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlpassion.jpg" group-title="Live: Germany",RTL Passion HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/9563
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus DE" tvg-logo="https://picon-13398.kxcdn.com/rtlplusde.jpg" group-title="Live: Germany",RTL Plus DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/19655
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/3825
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL FHD DE
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/14049
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="Live: Germany",RTL II DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3826
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/3826
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2hd.jpg" group-title="Live: Germany",RTL II FHD DE
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/14050
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL UHD 4K DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL UHD 4K DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/27220
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/27220
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/1637
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/1637
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 FHD DE
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/14047
 #EXTINF:-1 tvg-id="Sat1Emotions.de" tvg-name="SAT.1 Emotions DE" tvg-logo="https://picon-13398.kxcdn.com/sat1emotions.jpg" group-title="Live: Germany",SAT.1 Emotions DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16836
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="Live: Germany",SAT.1 Gold DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12309
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://picon-13398.kxcdn.com/sixx.jpg" group-title="Live: Germany",Sixx DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/9560
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Germany",Tele 5 DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12325
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="Live: Germany",VOX DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/1630
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="https://picon-13398.kxcdn.com/3sat.jpg" group-title="Live: Germany",3sat DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12341
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="https://picon-13398.kxcdn.com/3sathd.jpg" group-title="Live: Germany",3sat HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16497
-#EXTINF:-1 tvg-id="Arte.de" tvg-name="Arte FHD DE" tvg-logo="https://picon-13398.kxcdn.com/artehd.jpg" group-title="Live: Germany",Arte FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16496
-#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal DE" tvg-logo="https://picon-13398.kxcdn.com/heimatkanal.jpg" group-title="Live: Germany",Heimatkanal DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/9558
-#EXTINF:-1 tvg-id="Romance.de" tvg-name="Romance TV DE" tvg-logo="https://picon-13398.kxcdn.com/romancetv.jpg" group-title="Live: Germany",Romance TV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/13111
-#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="Servus TV HD DE" tvg-logo="https://picon-13398.kxcdn.com/servustv.jpg" group-title="Live: Germany",Servus TV HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/27566
-#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="ServusTV DE" tvg-logo="https://picon-13398.kxcdn.com/servustv.jpg" group-title="Live: Germany",ServusTV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12307
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Fernsehen Nord DE" tvg-logo="https://picon-13398.kxcdn.com/br.jpg" group-title="Live: Germany",BR Fernsehen Nord DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12322
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Fernsehen Nord HD DE" tvg-logo="https://picon-13398.kxcdn.com/brhd.jpg" group-title="Live: Germany",BR Fernsehen Nord HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16495
-#EXTINF:-1 tvg-id="hr-Fernsehen.de" tvg-name="hr-Fernsehen DE" tvg-logo="https://picon-13398.kxcdn.com/hrfernsehen.jpg" group-title="Live: Germany",hr-Fernsehen DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12316
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/16836
 #EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDR SACHSEN-ANHALT FHD DE" tvg-logo="https://picon-13398.kxcdn.com/mdrsanhalthd.jpg" group-title="Live: Germany",MDR SACHSEN-ANHALT FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15750
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/15750
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3443
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/3443
 #EXTINF:-1 tvg-id="NDRFSSH.de" tvg-name="NDR Fernsehen Schleswig-Holstein FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR Fernsehen Schleswig-Holstein FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16488
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/16488
 #EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Berlin FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbberlinhd.jpg" group-title="Live: Germany",rbb Fernsehen Berlin FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15747
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/15747
 #EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Brandenburg FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbbrandenburg.jpg" group-title="Live: Germany",rbb Fernsehen Brandenburg FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15754
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/15754
 #EXTINF:-1 tvg-id="RegioTV.de" tvg-name="Regio TV DE" tvg-logo="https://picon-13398.kxcdn.com/regiotv.jpg" group-title="Live: Germany",Regio TV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12328
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/12328
 #EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen FHD DE" tvg-logo="https://picon-13398.kxcdn.com/srfernsehenhd.jpg" group-title="Live: Germany",SR Fernsehen FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15749
-#EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="https://picon-13398.kxcdn.com/swr.jpg" group-title="Live: Germany",SWR DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12296
-#EXTINF:-1 tvg-id="" tvg-name="SWR BW FHD DE" tvg-logo="https://picon-13398.kxcdn.com/swrhd.jpg" group-title="Live: Germany",SWR BW FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16486
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR DE" tvg-logo="https://picon-13398.kxcdn.com/wdrhd.jpg" group-title="Live: Germany",WDR DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3442
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR HD DE" tvg-logo="https://picon-13398.kxcdn.com/wdrhd.jpg" group-title="Live: Germany",WDR HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/23437
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Baby TV DE" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Germany",Baby TV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/19622
-#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="Boomerang DE" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Live: Germany",Boomerang DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12315
-#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network DE" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Live: Germany",Cartoon Network DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15565
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/15749
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannel.jpg" group-title="Live: Germany",Disney Channel DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3622
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/3622
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel FHD DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Germany",Disney Channel FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14056
-#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney Junior HD DE" tvg-logo="https://picon-13398.kxcdn.com/disneyjnrhd.jpg" group-title="Live: Germany",Disney Junior HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15566
-#EXTINF:-1 tvg-id="FIXandFOXI.de" tvg-name="Fix & Foxi DE" tvg-logo="https://picon-13398.kxcdn.com/fixundfoxi.jpg" group-title="Live: Germany",Fix & Foxi DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/20263
-#EXTINF:-1 tvg-id="Junior.de" tvg-name="Junior DE" tvg-logo="https://picon-13398.kxcdn.com/junior.jpg" group-title="Live: Germany",Junior DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/20207
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/14056
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKa DE" tvg-logo="https://picon-13398.kxcdn.com/kika.jpg" group-title="Live: Germany",KiKa DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/1648
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/1648
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kikahd.jpg" group-title="Live: Germany",KiKA FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16492
-#EXTINF:-1 tvg-id="NickJr.de" tvg-name="Nick Jr. DE" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Live: Germany",Nick Jr. DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/19165
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon DE" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Germany",Nickelodeon DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/19100
-#EXTINF:-1 tvg-id="nickMTV.de" tvg-name="Nick/MTV+ DE" tvg-logo="https://picon-13398.kxcdn.com/nickelodeonhd.jpg" group-title="Live: Germany",Nick/MTV+ DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14571
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://picon-13398.kxcdn.com/superrtl.jpg" group-title="Live: Germany",Super RTL DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3456
-#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus DE" tvg-logo="https://picon-13398.kxcdn.com/toggoplus.jpg" group-title="Live: Germany",TOGGO plus DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12323
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Germany",DAZN 2 FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/23281
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg" group-title="Live: Germany",Eurosport 1 DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/19101
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Germany",Eurosport 1 FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3435
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Germany",Eurosport 2 HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15568
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/16492
 #EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnews.jpg" group-title="Live: Germany",Sky Sport News DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14577
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/14577
 #EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnewshd.jpg" group-title="Live: Germany",Sky Sport News FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/7337
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/7337
 #EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg" group-title="Live: Germany",Sky Bundesliga 1 DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14550
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/14550
 #EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="Live: Germany",Sky Bundesliga 1 HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3436
-#EXTINF:-1 tvg-id="SkySport11.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport11hd.jpg" group-title="Live: Germany",Sky Sport 11 HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/7336
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 DE" tvg-logo="https://picon-13398.kxcdn.com/sport1-duslelaslu.jpg" group-title="Live: Germany",SPORT1 DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/9552
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sport1hd-duslelaslu.jpg" group-title="Live: Germany",SPORT1 FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15745
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigital.jpg" group-title="Live: Germany",sportdigital DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3841
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/3436
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Germany",Sky Sport 2 DE
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/14560
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 HD DE
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/1480
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 FHD DE
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/7327
 #EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital HD DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigitalhd.jpg" group-title="Live: Germany",sportdigital HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16582
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/16582
 #EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="Auto Motor und Sport HD DE" tvg-logo="https://picon-13398.kxcdn.com/automotorsporthd.jpg" group-title="Live: Germany",Auto Motor und Sport HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/19658
-#EXTINF:-1 tvg-id="" tvg-name="Ginx eSports TV FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ginx.jpg" group-title="Live: Germany",Ginx eSports TV FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/18820
-#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorvision TV DE" tvg-logo="https://picon-13398.kxcdn.com/motorvisiontv.jpg" group-title="Live: Germany",Motorvision TV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/9564
-#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: Germany",Animal Planet HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/9561
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE DE" tvg-logo="https://picon-13398.kxcdn.com/anixe.jpg" group-title="Live: Germany",ANIXE DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3445
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE FHD DE" tvg-logo="https://picon-13398.kxcdn.com/anixehd.jpg" group-title="Live: Germany",ANIXE FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14576
-#EXTINF:-1 tvg-id="CrimeInvestigation.de" tvg-name="Crime + Investigation DE" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="Live: Germany",Crime + Investigation DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/28577
-#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3426
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/19658
 #EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Live: Germany",DMAX DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3431
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/3431
 #EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX HD DE" tvg-logo="https://picon-13398.kxcdn.com/dmaxhd.jpg" group-title="Live: Germany",DMAX HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/19683
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/19683
 #EXTINF:-1 tvg-id="History.de" tvg-name="History DE" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="Live: Germany",History DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3424
-#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="National Geographic FHD DE" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Live: Germany",National Geographic FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14053
-#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild HD DE" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Germany",National Geographic Wild HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/1646
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="https://picon-13398.kxcdn.com/ntv.jpg" group-title="Live: Germany",n-tv DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3449
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ntvhd.jpg" group-title="Live: Germany",n-tv FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14054
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="https://picon-13398.kxcdn.com/phoenix.jpg" group-title="Live: Germany",Phoenix DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3454
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix FHD DE" tvg-logo="https://picon-13398.kxcdn.com/phoenixhd.jpg" group-title="Live: Germany",Phoenix FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16487
-#EXTINF:-1 tvg-id="Planet.de" tvg-name="Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/planetde.jpg" group-title="Live: Germany",Planet HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/18394
-#EXTINF:-1 tvg-id="SpiegelTVWissen.de" tvg-name="Spiegel TV Wissen DE" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissen.jpg" group-title="Live: Germany",Spiegel TV Wissen DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14045
-#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissenhd.jpg" group-title="Live: Germany",Spiegel Geschichte HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16573
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/3424
+#EXTINF:-1 tvg-id="History.de" tvg-name="History FHD DE" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Live: Germany",History FHD DE
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/14311
 #EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="tagesschau24 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tagesschau24hd.jpg" group-title="Live: Germany",tagesschau24 FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15752
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: Germany",TLC DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12324
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Germany",TLC FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15757
-#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal Channel HD DE" tvg-logo="https://picon-13398.kxcdn.com/universalchannelhd.jpg" group-title="Live: Germany",Universal Channel HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3439
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3448
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt HD DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14573
-#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="https://picon-13398.kxcdn.com/weltderwunder.jpg" group-title="Live: Germany",Welt der Wunder DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12305
-#EXTINF:-1 tvg-id="Classica.de" tvg-name="CLASSICA DE" tvg-logo="https://picon-13398.kxcdn.com/classica.jpg" group-title="Live: Germany",CLASSICA DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/9555
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusic.jpg" group-title="Live: Germany",Deluxe Music DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/9554
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music FHD DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusichd.jpg" group-title="Live: Germany",Deluxe Music FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14057
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://picon-13398.kxcdn.com/deutschesmusikfernsehen.jpg" group-title="Live: Germany",Deutsches Musik Fernsehen DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12334
-#EXTINF:-1 tvg-id="FolxTV.de" tvg-name="Folx TV DE" tvg-logo="https://picon-13398.kxcdn.com/folxtv.jpg" group-title="Live: Germany",Folx TV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12319
-#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="JukeBox DE" tvg-logo="https://picon-13398.kxcdn.com/jukebox.jpg" group-title="Live: Germany",JukeBox DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15579
-#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV HD DE" tvg-logo="https://picon-13398.kxcdn.com/mtvhd.jpg" group-title="Live: Germany",MTV HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15759
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12317
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central HD DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/19677
-#EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24 DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaplus24.jpg" group-title="Live: Germany",Sky Cinema Premieren +24 DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/1633
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/15752
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemahd.jpg" group-title="Live: Germany",Sky Cinema Premieren FHD DE
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/14061
 #EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemacomedy.jpg" group-title="Live: Germany",Sky Cinema Fun DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3430
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/3430
 #EXTINF:-1 tvg-id="" tvg-name="Sky Family FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemafamilyhd.jpg" group-title="Live: Germany",Sky Family FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15576
-#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="Sky Krimi DE" tvg-logo="https://picon-13398.kxcdn.com/skykrimi.jpg" group-title="Live: Germany",Sky Krimi DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3429
-#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaclassicsde.jpg" group-title="Live: Germany",Sky Cinema Classics DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/9556
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/15576
 #EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 1 Live DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/11265
-#EXTINF:-1 tvg-id="SkySelect9.de" tvg-name="Sky Select 9 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 9 Live DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12290
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Dark Future DE" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="Live: Germany",Sky Cinema Dark Future DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/28535
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/11265
 #EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street FHD DE" tvg-logo="https://picon-13398.kxcdn.com/13thstreethd.jpg" group-title="Live: Germany",13th Street FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14060
-#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! DE" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: Germany",E! DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16502
-#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! HD DE" tvg-logo="https://picon-13398.kxcdn.com/eentertainmenthd.jpg" group-title="Live: Germany",E! HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15567
-#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX HD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/3425
-#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX FHD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/14055
-#EXTINF:-1 tvg-id="AXN.de" tvg-name="Sony AXN FHD DE" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Live: Germany",Sony AXN FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/9562
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/14060
 #EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="TNT Comedy HD DE" tvg-logo="https://picon-13398.kxcdn.com/tntcomedyhd.jpg" group-title="Live: Germany",TNT Comedy HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/15577
-#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT Film FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tntfilmhd.jpg" group-title="Live: Germany",TNT Film FHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/16628
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/15577
 #EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 1 HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/18234
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 6 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 6 HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/18239
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 1 Premiere HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 1 Premiere HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/26323
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 8 Drama HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 8 Drama HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/26330
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/18234
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 4 Abenteuer HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 4 Abenteuer HD DE
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/26326
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 10 Lacheln HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 10 Lacheln HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/26332
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/26332
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Entdeckernatur 11 4K UHD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Entdeckernatur 11 4K UHD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/26333
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/26333
 #EXTINF:-1 tvg-id="AstroTV.de" tvg-name="Astro TV DE" tvg-logo="https://picon-13398.kxcdn.com/astrotv.jpg" group-title="Live: Germany",Astro TV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/12339
-#EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="München TV DE" tvg-logo="https://picon-13398.kxcdn.com/munchentv.jpg" group-title="Live: Germany",München TV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/11659
-#EXTINF:-1 tvg-id="DeutscheWelleArabic.de" tvg-name="DW Arabia DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="Live: Germany",DW Arabia DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/19620
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DW Deutsch DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="Live: Germany",DW Deutsch DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/27791
-#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DW English DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="Live: Germany",DW English DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/17300
-#EXTINF:-1 tvg-id="" tvg-name="German Tote TV DE" tvg-logo="https://picon-13398.kxcdn.com/germantotede.jpg" group-title="Live: Germany",German Tote TV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/23945
-#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="https://picon-13398.kxcdn.com/hgtv.jpg" group-title="Live: Germany",HGTV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/27656
-#EXTINF:-1 tvg-id="" tvg-name="Health TV DE" tvg-logo="https://picon-13398.kxcdn.com/healthtvde.jpg" group-title="Live: Germany",Health TV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/28231
-#EXTINF:-1 tvg-id="allgaeutv.de" tvg-name="Allgäu TV DE" tvg-logo="https://picon-13398.kxcdn.com/allgautvde.jpg" group-title="Live: Germany",Allgäu TV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/28232
-#EXTINF:-1 tvg-id="" tvg-name="Baden TV DE" tvg-logo="https://picon-13398.kxcdn.com/badentvde.jpg" group-title="Live: Germany",Baden TV DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/28233
-#EXTINF:-1 tvg-id="" tvg-name="noa4 Hamburg HD DE" tvg-logo="https://picon-13398.kxcdn.com/noa4de.jpg" group-title="Live: Germany",noa4 Hamburg HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/28238
-#EXTINF:-1 tvg-id="" tvg-name="noa4 Norderstedt HD DE" tvg-logo="https://picon-13398.kxcdn.com/noa4de.jpg" group-title="Live: Germany",noa4 Norderstedt HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/28239
-#EXTINF:-1 tvg-id="" tvg-name="RFO DE" tvg-logo="https://picon-13398.kxcdn.com/rfode.jpg" group-title="Live: Germany",RFO DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/28243
-#EXTINF:-1 tvg-id="RheinNeckarFernsehen.de" tvg-name="Rhein Neckar Fernsehen DE" tvg-logo="https://picon-13398.kxcdn.com/rheinneckarfernsehende.jpg" group-title="Live: Germany",Rhein Neckar Fernsehen DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/28244
-#EXTINF:-1 tvg-id="" tvg-name="TV Mainfranken DE" tvg-logo="https://picon-13398.kxcdn.com/tvmainfrankende.jpg" group-title="Live: Germany",TV Mainfranken DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/28247
-#EXTINF:-1 tvg-id="" tvg-name="Frauen Bundesliga HD DE" tvg-logo="https://picon-13398.kxcdn.com/frauenbundesligade.jpg" group-title="Live: Germany",Frauen Bundesliga HD DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/35184
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport KOMPAKT 1 HD (nur Spiel Tag) DE" tvg-logo="https://picon-13398.kxcdn.com/skysportkombat.jpg" group-title="Live: Germany",Sky Sport KOMPAKT 1 HD (nur Spiel Tag) DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/35185
-#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="Nicktoons DE" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Live: Germany",Nicktoons DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/37836
-#EXTINF:-1 tvg-id="" tvg-name="Voxup DE" tvg-logo="https://picon-13398.kxcdn.com/voxupde.jpg" group-title="Live: Germany",Voxup DE
-http://cloudcdn.tk:80/qX8sRRz9N7/cXEpK0Kuev/52134
+http://channels227070.clientportal.link:80/t7lRsVi43/GNSJF930/12339
+#EXTINF:-1 tvg-id="" tvg-name="Alien Abduction [DE] [2005]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArrWBqcGK5FFBmXQJk3Ug8uQhu7.jpg" group-title="Movie: German",Alien Abduction [DE] [2005]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien Domicile - Next Level [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqsFGMZxN2lXRVfEl3fArvR0Srh.jpg" group-title="Movie: German",Alien Domicile - Next Level [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alita - Battle Angel [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg" group-title="Movie: German",Alita - Battle Angel [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All Day and a Night [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xiV8j18GhWnnrfMGaDR0E5oOif.jpg" group-title="Movie: German",All Day and a Night [DE] [2020]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All die verdammt perfekten Tage [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SafxuMKQiw4reBiWKVZJpJn80I.jpg" group-title="Movie: German",All die verdammt perfekten Tage [DE] [2020]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Allein an der Front [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYIaFVXvXwlm1Jv998LbmSjlwC5.jpg" group-title="Movie: German",Allein an der Front [DE] [2018]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Always Be My Maybe [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BO6pPa7qDcpPYct061Luh9fvst.jpg" group-title="Movie: German",Always Be My Maybe [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amityville - Mt Misery Road [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zI8hbr7xddoIKXXr3qnc4kaieIN.jpg" group-title="Movie: German",Amityville - Mt Misery Road [DE] [2018]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amityville Horror - Wie alles begann [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czMYViYqaNrvxaRyhUR0PTPyOig.jpg" group-title="Movie: German",Amityville Horror - Wie alles begann [DE] [2018]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angel Has Fallen [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg" group-title="Movie: German",Angel Has Fallen [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angel of Mine [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8IxjDRqJ7jFtt5Fn0jcXjiRVoF.jpg" group-title="Movie: German",Angel of Mine [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angry Birds - Der Film [DE] [2016]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byaV6Y90rViDtxgYMDhULwu71z2.jpg" group-title="Movie: German",Angry Birds - Der Film [DE] [2016]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anna 2 - Ein neues Spiel beginnt [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5H8thBpBEhNfDac1MxyMqnsQjvb.jpg" group-title="Movie: German",Anna 2 - Ein neues Spiel beginnt [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle 3 [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg" group-title="Movie: German",Annabelle 3 [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anna [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybizg6RSYX3yvOQ2iLYucTrHGw2.jpg" group-title="Movie: German",Anna [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apartment 212 [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJcxMIajh7ZgSHEvdQ0qySEwSoa.jpg" group-title="Movie: German",Apartment 212 [DE] [2017]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arctic [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxRc0Y4IjSRLC2fYaguXQtJCI4e.jpg" group-title="Movie: German",Arctic [DE] [2018]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Score to Settle [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PBwZGBP6ziKuOgHRpbVRyGoqy3.jpg" group-title="Movie: German",A Score to Settle [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asher [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5p4Ev49KVR4itGWy3OHyqnRsz8.jpg" group-title="Movie: German",Asher [DE] [2018]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atlantique [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRvDHCqsYDFgEGpV0M2sSK728Xw.jpg" group-title="Movie: German",Atlantique [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Attraction 2 - Invasion [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpqfpSglhDpwihzsLaoketuYKbd.jpg" group-title="Movie: German",Attraction 2 - Invasion [DE] [2020]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengement - Blutiger Freigang [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXPxSAYf3FdQktnOtQnvhUPMhFp.jpg" group-title="Movie: German",Avengement - Blutiger Freigang [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers - Endgame [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg" group-title="Movie: German",Avengers - Endgame [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Backdraft 2 [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5QfKjWG5UcEbbo7btAmXnJpaOn.jpg" group-title="Movie: German",Backdraft 2 [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg" group-title="Movie: German",Bad Boys for Life [DE] [2020]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman - Hush [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg" group-title="Movie: German",Batman - Hush [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman vs. Teenage Mutant Ninja Turtles [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP3h0Pu8htyb9450mWJ9Vu1rU.jpg" group-title="Movie: German",Batman vs. Teenage Mutant Ninja Turtles [DE] [2019]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Battle Star Wars - Die Sternenkrieger [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sovKAK4oVFagEIC64zYFoQJmpoH.jpg" group-title="Movie: German",Battle Star Wars - Die Sternenkrieger [DE] [2020]
+http://channels227070.clientportal.link:80/movie/t7lRsVi43/GNSJF930/44766.mp4
 
 
 
