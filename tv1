@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png","T E S T S E N D E R"  Stabiles IPTV in vielen Sprachen 
-http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",48 Std Test unserer kompletten "Topline" auf Anfrage ! 
-http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Besucht uns auf Telegram *** https://ogy.de/77q6 ***
-http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl Programm Guide / EPG Daten 
-http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Incl ca.15.000 Filme + Serien in vielen Sprachen
-http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Wir wünschen Allen eine schöne Adventszeit :) 
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",  Wir wuenschen euch eine besinnliche Adventszeit :) 
 http://
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="DE:: Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/320px-Das_Erste_2014.svg.png" group-title="GERMANY",DE:: Das Erste
 http://live.darkside-iptv.com:8080/live/GstEOzIRlL/rOWhqdq6dg/80416.m3u8
@@ -383,7 +373,6 @@ http://live.darkside-iptv.com:8080/movie/GstEOzIRlL/rOWhqdq6dg/224795.mp4
 http://live.darkside-iptv.com:8080/movie/GstEOzIRlL/rOWhqdq6dg/224796.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-WEIH-The Christmas Chronicles Teil zwei  2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgjyUL2STLzjOGb3mXePXpNNC1O.jpg" group-title="VOD-WEIHNACHTEN",VOD-WEIH-The Christmas Chronicles Teil zwei  2020
 http://live.darkside-iptv.com:8080/movie/GstEOzIRlL/rOWhqdq6dg/225417.mkv
-
 
 
 
