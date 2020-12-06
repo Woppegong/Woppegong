@@ -2,153 +2,303 @@
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",  Wir wuenschen euch eine besinnliche Adventszeit :) 
 http://
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3451
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3451
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste HD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/22824
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/22824
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste FHD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/16493
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/16493
 #EXTINF:-1 tvg-id="One.de" tvg-name="One FHD DE" tvg-logo="https://picon-13398.kxcdn.com/onehd.jpg" group-title="Live: Germany",One FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/15751
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/15751
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://picon-13398.kxcdn.com/zdf.jpg" group-title="Live: Germany",ZDF DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/1629
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/1629
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/19098
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/16484
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/19098
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfo.jpg" group-title="Live: Germany",ZDFinfo DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/12295
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/12295
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfohd.jpg" group-title="Live: Germany",ZDFinfo FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/16483
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfneo.jpg" group-title="Live: Germany",ZDFneo DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3453
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfneohd.jpg" group-title="Live: Germany",ZDFneo FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/16482
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/16483
 #EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="Kabel Eins Classics DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsclassics.jpg" group-title="Live: Germany",Kabel Eins Classics DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/16581
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/16581
 #EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsdoku.jpg" group-title="Live: Germany",Kabel Eins Doku DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/17167
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/17167
 #EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben DE" tvg-logo="https://picon-13398.kxcdn.com/prosieben.jpg" group-title="Live: Germany",ProSieben DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/1642
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/1642
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenhd.jpg" group-title="Live: Germany",ProSieben HD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/14052
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3825
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3825
 #EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="Live: Germany",RTL Living HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3202
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3202
 #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO DE" tvg-logo="https://picon-13398.kxcdn.com/rtlnitro.jpg" group-title="Live: Germany",NITRO DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/1639
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL UHD 4K DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL UHD 4K DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/27220
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/1639
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlpassion.jpg" group-title="Live: Germany",RTL Passion HD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/9563
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="Live: Germany",RTL II DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3826
 #EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/1637
-#EXTINF:-1 tvg-id="Sat1Emotions.de" tvg-name="SAT.1 Emotions DE" tvg-logo="https://picon-13398.kxcdn.com/sat1emotions.jpg" group-title="Live: Germany",SAT.1 Emotions DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/16836
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="Live: Germany",VOX DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/1630
-#EXTINF:-1 tvg-id="Romance.de" tvg-name="Romance TV DE" tvg-logo="https://picon-13398.kxcdn.com/romancetv.jpg" group-title="Live: Germany",Romance TV DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/13111
-#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDR SACHSEN-ANHALT FHD DE" tvg-logo="https://picon-13398.kxcdn.com/mdrsanhalthd.jpg" group-title="Live: Germany",MDR SACHSEN-ANHALT FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/15750
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/1637
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 FHD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/14047
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="Live: Germany",SAT.1 Gold DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/12309
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://picon-13398.kxcdn.com/sixx.jpg" group-title="Live: Germany",Sixx DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/9560
+#EXTINF:-1 tvg-id="Arte.de" tvg-name="Arte FHD DE" tvg-logo="https://picon-13398.kxcdn.com/artehd.jpg" group-title="Live: Germany",Arte FHD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/16496
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3443
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3443
+#EXTINF:-1 tvg-id="NDRFSSH.de" tvg-name="NDR Fernsehen Schleswig-Holstein FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR Fernsehen Schleswig-Holstein FHD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/16488
 #EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen FHD DE" tvg-logo="https://picon-13398.kxcdn.com/srfernsehenhd.jpg" group-title="Live: Germany",SR Fernsehen FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/15749
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/15749
+#EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="https://picon-13398.kxcdn.com/swr.jpg" group-title="Live: Germany",SWR DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/12296
+#EXTINF:-1 tvg-id="" tvg-name="SWR BW FHD DE" tvg-logo="https://picon-13398.kxcdn.com/swrhd.jpg" group-title="Live: Germany",SWR BW FHD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/16486
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR DE" tvg-logo="https://picon-13398.kxcdn.com/wdrhd.jpg" group-title="Live: Germany",WDR DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3442
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network DE" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Live: Germany",Cartoon Network DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/15565
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannel.jpg" group-title="Live: Germany",Disney Channel DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3622
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3622
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel FHD DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Germany",Disney Channel FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/14056
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/14056
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKa DE" tvg-logo="https://picon-13398.kxcdn.com/kika.jpg" group-title="Live: Germany",KiKa DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/1648
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kikahd.jpg" group-title="Live: Germany",KiKA FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/16492
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/1648
 #EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://picon-13398.kxcdn.com/superrtl.jpg" group-title="Live: Germany",Super RTL DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3456
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3456
 #EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Germany",Eurosport 2 HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/15568
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/15568
 #EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnews.jpg" group-title="Live: Germany",Sky Sport News DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/14577
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/14577
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnewshd.jpg" group-title="Live: Germany",Sky Sport News FHD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/7337
 #EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg" group-title="Live: Germany",Sky Bundesliga 1 DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/14550
-#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport3.jpg" group-title="Live: Germany",Sky Sport 3 DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/14561
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigital.jpg" group-title="Live: Germany",sportdigital DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3841
-#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: Germany",Animal Planet HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/9561
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/14550
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Germany",Sky Sport 2 DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/14560
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 HD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/1480
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 FHD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/7327
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 DE" tvg-logo="https://picon-13398.kxcdn.com/sport1-duslelaslu.jpg" group-title="Live: Germany",SPORT1 DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/9552
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sport1hd-duslelaslu.jpg" group-title="Live: Germany",SPORT1 FHD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/15745
+#EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="Auto Motor und Sport HD DE" tvg-logo="https://picon-13398.kxcdn.com/automotorsporthd.jpg" group-title="Live: Germany",Auto Motor und Sport HD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/19658
+#EXTINF:-1 tvg-id="" tvg-name="eSports1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ginx.jpg" group-title="Live: Germany",eSports1 FHD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/18820
 #EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE DE" tvg-logo="https://picon-13398.kxcdn.com/anixe.jpg" group-title="Live: Germany",ANIXE DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3445
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3445
 #EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3426
-#EXTINF:-1 tvg-id="SpiegelTVWissen.de" tvg-name="Spiegel TV Wissen DE" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissen.jpg" group-title="Live: Germany",Spiegel TV Wissen DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/14045
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3426
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Live: Germany",DMAX DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3431
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX HD DE" tvg-logo="https://picon-13398.kxcdn.com/dmaxhd.jpg" group-title="Live: Germany",DMAX HD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/19683
 #EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissenhd.jpg" group-title="Live: Germany",Spiegel Geschichte HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/16573
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/16573
 #EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="tagesschau24 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tagesschau24hd.jpg" group-title="Live: Germany",tagesschau24 FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/15752
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: Germany",TLC DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/12324
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Germany",TLC FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/15757
-#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal Channel HD DE" tvg-logo="https://picon-13398.kxcdn.com/universalchannelhd.jpg" group-title="Live: Germany",Universal Channel HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3439
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3448
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://picon-13398.kxcdn.com/deutschesmusikfernsehen.jpg" group-title="Live: Germany",Deutsches Musik Fernsehen DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/12334
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/15752
+#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt HD DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt HD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/14573
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="https://picon-13398.kxcdn.com/weltderwunder.jpg" group-title="Live: Germany",Welt der Wunder DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/12305
+#EXTINF:-1 tvg-id="Classica.de" tvg-name="CLASSICA DE" tvg-logo="https://picon-13398.kxcdn.com/classica.jpg" group-title="Live: Germany",CLASSICA DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/9555
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusic.jpg" group-title="Live: Germany",Deluxe Music DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/9554
 #EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/12317
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/12317
 #EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren DE" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="Live: Germany",Sky Cinema Premieren DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/1634
-#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemahd.jpg" group-title="Live: Germany",Sky Cinema Premieren FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/14061
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/1634
 #EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemacomedy.jpg" group-title="Live: Germany",Sky Cinema Fun DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/3430
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3430
 #EXTINF:-1 tvg-id="" tvg-name="Sky Family FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemafamilyhd.jpg" group-title="Live: Germany",Sky Family FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/15576
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/15576
 #EXTINF:-1 tvg-id="SkySelect5.de" tvg-name="Sky Select 5 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 5 Live DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/11269
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/11269
 #EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street FHD DE" tvg-logo="https://picon-13398.kxcdn.com/13thstreethd.jpg" group-title="Live: Germany",13th Street FHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/14060
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/14060
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX HD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX HD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/3425
 #EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="TNT Comedy HD DE" tvg-logo="https://picon-13398.kxcdn.com/tntcomedyhd.jpg" group-title="Live: Germany",TNT Comedy HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/15577
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 6 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 6 HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/18239
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 3 Komodie HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 3 Komodie HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/26325
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 10 Lacheln HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 10 Lacheln HD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/26332
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/15577
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT Film FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tntfilmhd.jpg" group-title="Live: Germany",TNT Film FHD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/16628
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 5 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 5 HD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/18238
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 4 Abenteuer HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 4 Abenteuer HD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/26326
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 5 Animation HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 5 Animation HD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/26327
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Entdeckernatur 11 4K UHD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Entdeckernatur 11 4K UHD DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/26333
-#EXTINF:-1 tvg-id="AstroTV.de" tvg-name="Astro TV DE" tvg-logo="https://picon-13398.kxcdn.com/astrotv.jpg" group-title="Live: Germany",Astro TV DE
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/12339
-#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF III AT" tvg-logo="https://picon-13398.kxcdn.com/orfiii.jpg" group-title="Live: Austria",ORF III AT
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/12303
-#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF III HD AT" tvg-logo="https://picon-13398.kxcdn.com/orf3hd.jpg" group-title="Live: Austria",ORF III HD AT
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/16388
-#EXTINF:-1 tvg-id="OE24.at" tvg-name="Oe24 TV AT" tvg-logo="https://picon-13398.kxcdn.com/oe24at.jpg" group-title="Live: Austria",Oe24 TV AT
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/28228
-#EXTINF:-1 tvg-id="KT1.at" tvg-name="Kabel Eins AT" tvg-logo="https://picon-13398.kxcdn.com/kabel1.jpg" group-title="Live: Austria",Kabel Eins AT
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/12518
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon AT" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Austria",Nickelodeon AT
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/14570
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2ST HD AT" tvg-logo="https://picon-13398.kxcdn.com/orf2sthd.jpg" group-title="Live: Austria",ORF 2ST HD AT
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/16382
-#EXTINF:-1 tvg-id="Puls4.at" tvg-name="Puls 4 FHD AT" tvg-logo="https://picon-13398.kxcdn.com/puls4.jpg" group-title="Live: Austria",Puls 4 FHD AT
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/66356
-#EXTINF:-1 tvg-id="5Plus.ch" tvg-name="5+ FHD CH" tvg-logo="https://picon-13398.kxcdn.com/schweiz5.jpg" group-title="Live: Switzerland",5+ FHD CH
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/19594
-#EXTINF:-1 tvg-id="" tvg-name="Nick HD CH" tvg-logo="https://picon-13398.kxcdn.com/nickhduk.jpg" group-title="Live: Switzerland",Nick HD CH
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/35201
-#EXTINF:-1 tvg-id="TVO.ch" tvg-name="TVO CH" tvg-logo="https://picon-13398.kxcdn.com/tvoch.jpg" group-title="Live: Switzerland",TVO CH
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/19591
-#EXTINF:-1 tvg-id="MySports5.ch" tvg-name="MySports 5 FHD CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 5 FHD CH
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/17488
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="Blue Zoom D CH" tvg-logo="https://picon-13398.kxcdn.com/bluezoomdch.jpg" group-title="Live: Switzerland",Blue Zoom D CH
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/18213
-#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="Blue Stars FHD CH" tvg-logo="https://picon-13398.kxcdn.com/bluestarsch.jpg" group-title="Live: Switzerland",Blue Stars FHD CH
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/16305
-#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS Un HD CH" tvg-logo="https://picon-13398.kxcdn.com/rtsun.jpg" group-title="Live: Switzerland",RTS Un HD CH
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/11642
-#EXTINF:-1 tvg-id="MySports9.ch" tvg-name="MySports 9 FHD French CH" tvg-logo="https://picon-13398.kxcdn.com/mysportsch.jpg" group-title="Live: Switzerland",MySports 9 FHD French CH
-http://cloudcdn.tk:80/BusIqCe5Rq284/L3Qxjl387/18816
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/26333
+#EXTINF:-1 tvg-id="" tvg-name="Frauen Bundesliga HD DE" tvg-logo="https://picon-13398.kxcdn.com/frauenbundesligade.jpg" group-title="Live: Germany",Frauen Bundesliga HD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/35184
+#EXTINF:-1 tvg-id="" tvg-name="QVC UHD DE" tvg-logo="" group-title="Live: Germany",QVC UHD DE
+http://cloudcdn.tk:80/wChZfWN314/mQ29ya754/66354
+#EXTINF:-1 tvg-id="" tvg-name="Secret Society Of Second Born Royals [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0fojycYFbT0eqXXbEO6aDqkalX.jpg" group-title="Movie: German",Secret Society Of Second Born Royals [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/57574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Babysitter Killer Queen [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx7akzfwbPCLlxKgZ1NycThFC92.jpg" group-title="Movie: German",The Babysitter Killer Queen [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/57575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Willkommen in Der Hoelle [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ekcnn1rcuicpv1JiBb55RG6pRe.jpg" group-title="Movie: German",The Circle Willkommen in Der Hoelle [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/57576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Debt Collector 2 [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZzOPD5EPLWss5t3ZCrkpEkuBxl.jpg" group-title="Movie: German",The Debt Collector 2 [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/57577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Fanatic [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nojx83s8JWyYpI9oeKdQXniWMu6.jpg" group-title="Movie: German",The Fanatic [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/57578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Great War im Kampf Vereint [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB8sqwHkVZWBvhEn71ICewPCfNS.jpg" group-title="Movie: German",The Great War im Kampf Vereint [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/57579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Wave [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWFHGTfCOzMphfJW3DPdfbq7Vyp.jpg" group-title="Movie: German",The Wave [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/57580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vier Zauberhafte Schwestern [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OfMUA4IPmmhna9pyIdkKAeNf9Q.jpg" group-title="Movie: German",Vier Zauberhafte Schwestern [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/57581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Weisser Weisser Tag [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsx5tFeL3UuWa5ITqu6l8uLc7q5.jpg" group-title="Movie: German",Weisser Weisser Tag [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/57582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anderson Falls Ein Cop am Abgrund [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSLYhJkB7ziS0FbQJXW1AFgWtZ8.jpg" group-title="Movie: German",Anderson Falls Ein Cop am Abgrund [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clown Doll He Loves You to Death [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ItkVUQMo8lnot7kjZEOdur7BYF.jpg" group-title="Movie: German",Clown Doll He Loves You to Death [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Das Machts Du Schon [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bN7DbfJHrgOAnGLRuQUmImDaqY.jpg" group-title="Movie: German",Das Machts Du Schon [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Der Taucher [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNdeqqMFLYUQK39b5icLFVz5T9m.jpg" group-title="Movie: German",Der Taucher [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Die Perfekte Kandidatin [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUCIXoGAX2KI3PWKtSH5U3KuQ8z.jpg" group-title="Movie: German",Die Perfekte Kandidatin [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emily und Der Vergessene Zauber [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SWZFNQU1NLAPG5Q6BYWyuTb9kH.jpg" group-title="Movie: German",Emily und Der Vergessene Zauber [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Follow Me [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glwOyoD0Pzxzyb3l7nELEgjSjQ8.jpg" group-title="Movie: German",Follow Me [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monos Zwischen Himmel und Hoelle [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glwOyoD0Pzxzyb3l7nELEgjSjQ8.jpg" group-title="Movie: German",Monos Zwischen Himmel und Hoelle [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operation Red Snake Band of Sisters [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37O2c75obn0ThDcAkkfB0fTwpL6.jpg" group-title="Movie: German",Operation Red Snake Band of Sisters [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Robert the Bruce Koenig von Schottland [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6eNN4EpGtbXAbsR97QgjnjHs6s.jpg" group-title="Movie: German",Robert the Bruce Koenig von Schottland [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saga of Tanya the Evil The Movie [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGbxBNCi8Rrg2G3XdqgUGJrmUjP.jpg" group-title="Movie: German",Saga of Tanya the Evil The Movie [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sind wir Schon tot Death Is in Da House [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9D7y1J5cManK9gYXT1B3UFLKhr.jpg" group-title="Movie: German",Sind wir Schon tot Death Is in Da House [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys in the Band [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D2gi13hnrXWaspWuWmdbEZ8bef.jpg" group-title="Movie: German",The Boys in the Band [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vampires vs The Bronx [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VkE7YZKkolB2gTlVYCKjr92ma1.jpg" group-title="Movie: German",Vampires vs The Bronx [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/58125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Babysitters Guide To Monster Hunting [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkld8Me0WiLWipLORRNfF1yIPHu.jpg" group-title="Movie: German",A Babysitters Guide To Monster Hunting [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AK 47 Kalaschnikov [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApfjrFsGunqLo5MKYGtFMTSTaMq.jpg" group-title="Movie: German",AK 47 Kalaschnikov [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Box [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Z1zkb4Z9hUlEuC0oMagVJaPUeS.jpg" group-title="Movie: German",Black Box [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Surface Toedliche Tiefe [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97pM35EA3gRzuZsGndoq7xljE1X.jpg" group-title="Movie: German",Breaking Surface Toedliche Tiefe [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clouds [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YvT3pdGngzpbAuxamTz4ZlabnT.jpg" group-title="Movie: German",Clouds [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cut Throat City Stadt Ohne Gesetz [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9702nIZf5EVxS3FrzycamQUlSjw.jpg" group-title="Movie: German",Cut Throat City Stadt Ohne Gesetz [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Du Haettest Gehen Sollen [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg" group-title="Movie: German",Du Haettest Gehen Sollen [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Evil Eye [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhExfe0yTZL2DRVkou9hnNlOcc9.jpg" group-title="Movie: German",Evil Eye [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hubie Halloween [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbhC6qRydXyRmpUdcl9bL9rARya.jpg" group-title="Movie: German",Hubie Halloween [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kadaver [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zePYZdQFROGNP2IgODu2eGaVODI.jpg" group-title="Movie: German",Kadaver [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lovecut Liebe Sex Und Sehnsucht [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/subhzhanuzxPhh1jotcRJa8eJdU.jpg" group-title="Movie: German",Lovecut Liebe Sex Und Sehnsucht [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="On Halloween Die Nacht Des Horrorclowns [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/subhzhanuzxPhh1jotcRJa8eJdU.jpg" group-title="Movie: German",On Halloween Die Nacht Des Horrorclowns [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rebecca [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSKVKcCXdKxkbgf0LL8lBTPG02e.jpg" group-title="Movie: German",Rebecca [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seized Gekidnappt [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YtWsBAv3HvdeTXidyvAsiP4sVu.jpg" group-title="Movie: German",Seized Gekidnappt [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Postcard Killings [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPOHjGttfXfPsqhhv6x0fv5rU1H.jpg" group-title="Movie: German",The Postcard Killings [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Trial of the Chicago 7 [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqTMlH2J5Y5SR0MAhf859JXCoUX.jpg" group-title="Movie: German",The Trial of the Chicago 7 [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/61183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amulet [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51v67HYQtDkTiqHbIjq7tT8uCHP.jpg" group-title="Movie: German",Amulet [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/62496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Becky [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqbQtMffXwa3oprse4jiHBMBvdW.jpg" group-title="Movie: German",Becky [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/62497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Borat 2 Anschluss Moviefilm [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6agKYU5IQFpuDyUYPu39w7UCRrJ.jpg" group-title="Movie: German",Borat 2 Anschluss Moviefilm [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/62498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Code Ava Trained to Kill [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg" group-title="Movie: German",Code Ava Trained to Kill [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/62499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Der Fall Richard Jewell [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg" group-title="Movie: German",Der Fall Richard Jewell [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/62500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harriet Der Weg in die Freiheit [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg" group-title="Movie: German",Harriet Der Weg in die Freiheit [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/62501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Day Shall Come [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNUHlL3w31dF1Iyp9knGOUkBkWa.jpg" group-title="Movie: German",The Day Shall Come [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/62502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Waves [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg" group-title="Movie: German",Waves [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/62503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antebellum [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irkse1FMm9dWemwlxKJ7RINT9Iy.jpg" group-title="Movie: German",Antebellum [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Archive [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDnHgozW8vfOaLHzfpHluf1GZCW.jpg" group-title="Movie: German",Archive [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Banden von Marseille [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HT9982bzgN5on1sLRmc1GMn6ZC.jpg" group-title="Movie: German",Banden von Marseille [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bulletproof 2 [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGILkFnRrpdiNtDaHeekGZSn5o5.jpg" group-title="Movie: German",Bulletproof 2 [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cats and Dogs 3 Pfoten Vereint [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BgSWFMW2MJ0dT5metLzsRWO7IJ.jpg" group-title="Movie: German",Cats and Dogs 3 Pfoten Vereint [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Die Bunte Seite des Monds [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQfdytwN7eh0tXWjIiMceFdBBvD.jpg" group-title="Movie: German",Die Bunte Seite des Monds [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Die Wolf Gaeng [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbLDJ8bxEATrZkXopKBXQFzlSdq.jpg" group-title="Movie: German",Die Wolf Gaeng [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Downhill [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruLqLb2bfWKykckxVlVZayuBOgW.jpg" group-title="Movie: German",Downhill [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flucht aus Pretoria [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GGS0jkFFCnmdStvZED6NL6V7gd.jpg" group-title="Movie: German",Flucht aus Pretoria [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Holidate [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAaJc9842RDVrjvR3OLPMTeHkiA.jpg" group-title="Movie: German",Holidate [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Irresistible Unwiderstehlich [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUpYDriYa5YkwwxeafUsowTweBg.jpg" group-title="Movie: German",Irresistible Unwiderstehlich [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nobody Sleeps in The Woods Tonight [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vFCHFVLPcU4M8uNXM1ba9y83Iu.jpg" group-title="Movie: German",Nobody Sleeps in The Woods Tonight [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="On The Rocks [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg" group-title="Movie: German",On The Rocks [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Platzspitzbaby [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfqu51ZKilfjPOfwKTHssqnGVQU.jpg" group-title="Movie: German",Platzspitzbaby [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 5 Last Blood [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="Movie: German",Rambo 5 Last Blood [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Relic [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg" group-title="Movie: German",Relic [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siberia [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSCjeSAkdrAyi3XDIrNWpMsH5oP.jpg" group-title="Movie: German",Siberia [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sniper Assassins End [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiymaaYeAl9ZBoyUz2tz4k2XaKv.jpg" group-title="Movie: German",Sniper Assassins End [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SpongeBob Schwammkopf Eine Schwammtastische Rettung [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg" group-title="Movie: German",SpongeBob Schwammkopf Eine Schwammtastische Rettung [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Outpost Ueberleben Ist Alles [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPkqY2EMqWUnFEoedukilIUieVG.jpg" group-title="Movie: German",The Outpost Ueberleben Ist Alles [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/64042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alles Gute Kommt von Oben [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fUcKFDy58DhWYd5Y7Nu5DgpxaE.jpg" group-title="Movie: German",Alles Gute Kommt von Oben [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Der Hexenclub [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhMIra0pqWNuD6CIXoTmGwZ0EBS.jpg" group-title="Movie: German",Der Hexenclub [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Der Verlorene Prinz und das Reich der Traeume [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFcSfoMu9hQIX4t0CxIkDJKgIES.jpg" group-title="Movie: German",Der Verlorene Prinz und das Reich der Traeume [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Die Bestie [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iik8EaTX1ElExuZLfHKBi4dl9Zh.jpg" group-title="Movie: German",Die Bestie [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hillbilly Elegy [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg" group-title="Movie: German",Hillbilly Elegy [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inheritance Ein Dunkles Vermaechtnis [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l13mt3oHErSkkqJbN1bjzgtK0Vq.jpg" group-title="Movie: German",Inheritance Ein Dunkles Vermaechtnis [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jingle Jangle Journey Abenteuerlichte Weihnachten [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RbyHIVydD3Krmec1LlUV7rRjet.jpg" group-title="Movie: German",Jingle Jangle Journey Abenteuerlichte Weihnachten [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinocchio [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4w1ItwCJCTtSi9nPfJC1vU6NIVg.jpg" group-title="Movie: German",Pinocchio [DE] [2019]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tax Collector [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eg0kGC2Xh0vhydJHO37Sp4cmMt.jpg" group-title="Movie: German",Tax Collector [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tenet  [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k68nPLbIST6NP96JmTxmZijEvCA.jpg" group-title="Movie: German",Tenet  [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Doorman Toedlicher Empfang [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pklyUbh4k1DbHdnsOMASyw7C6NH.jpg" group-title="Movie: German",The Doorman Toedlicher Empfang [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Undine [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joGHKGWsNY3Snw7w3z7vdqsc7xK.jpg" group-title="Movie: German",Undine [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X-Men New Mutants [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrI4EnZWftpo1B7tTvlMUXVOikd.jpg" group-title="Movie: German",X-Men New Mutants [DE] [2020]
+http://cloudcdn.tk:80/movie/wChZfWN314/mQ29ya754/65669.mkv
 
 
 
