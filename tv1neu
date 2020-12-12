@@ -2,11 +2,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",  Wir wuenschen euch eine besinnliche Adventszeit :) 
 http://
-
-
-
-
-
 #EXTINF:-1,DE:: Das Erste
 http://live.darkside-iptv.com:8080/live/VFSOIrzqDG/6G06lYXxS1/80416.m3u8
 #EXTINF:-1,DE:: Das Erste HD
