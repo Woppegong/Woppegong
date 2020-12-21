@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Ab dem  23.12.20 wird der Betrieb hier eingestellt ! 
+http://
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Info's auf Telegram *** https://ogy.de/77q6 ***
+http://
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",  Wir wuenschen euch eine besinnliche Adventszeit :) 
 http://
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="DE:: Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/320px-Das_Erste_2014.svg.png" group-title="GERMANY",DE:: Das Erste
@@ -314,6 +317,8 @@ http://live.darkside-iptv.com:8080/movie/d5KKyfPuz9Dv/A54b01pMzxUm/230218.avi
 http://live.darkside-iptv.com:8080/movie/d5KKyfPuz9Dv/A54b01pMzxUm/230219.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VOD-WEIH-Weihnachtliche Begegnung - Liebe ist mehr als ein Zufall" tvg-logo="https://image.tmdb.org/t/p/w1280/qSAlA5PlKUGmn4S3sNszZ4iXFuM.jpg" group-title="VOD-WEIHNACHTEN",VOD-WEIH-Weihnachtliche Begegnung - Liebe ist mehr als ein Zufall
 http://live.darkside-iptv.com:8080/movie/d5KKyfPuz9Dv/A54b01pMzxUm/230220.mkv
+
+
 
 
 
