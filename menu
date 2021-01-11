@@ -7,7 +7,7 @@
 
  <item> <title>[B]Woppegong [COLORorange]TV 1[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/woppegong.png</thumbnail>  <fanart>http://psyco.tv/woppefan.jpg</fanart> <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/tv1neu</externallink> <info></info> </item> 
  
-### <em> <title>[B]Woppegong [COLORorange]TV 2[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/woppegong.png</thumbnail>  <fanart>http://psyco.tv/woppefan.jpg</fanart> <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/tv2</externallink> <info></info> </item>
+<item> <title>[B]Woppegong [COLORorange]TV 2[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/woppegong.png</thumbnail>  <fanart>http://psyco.tv/woppefan.jpg</fanart> <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/tv2</externallink> <info></info> </item>
  
 ### <em> <title>[B]Woppegong [COLORorange]TV 3[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/woppegong.png</thumbnail>  <fanart>http://psyco.tv/woppefan.jpg</fanart> <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/tv3</externallink> <info></info> </item>
  ###<em> <title>[B]Woppegong [COLORorange]TV 4[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/woppegong.png</thumbnail>  <fanart>http://psyco.tv/woppefan.jpg</fanart> <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/tv4</externallink> <info></info> </item>
@@ -25,11 +25,11 @@
 
  
 
- ###<em> <title>[B]Woppegong [COLORorange]TV Werbung[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/woppegong.png</thumbnail>  <fanart>http://psyco.tv/woppefan.jpg</fanart> <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/werbung</externallink> <info></info> </item>
+ <item> <title>[B]Woppegong [COLORorange]TV Werbung[/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/woppegong.png</thumbnail>  <fanart>http://psyco.tv/woppefan.jpg</fanart> <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/werbung</externallink> <info></info> </item>
 
 
  
- ###<em> <title>- - - - - - - - - - - - - - - - - - - - - - - - - - - - -<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/woppegong.png</thumbnail>  <fanart>http://psyco.tv/woppefan.jpg</fanart> <externallink></externallink> <info></info> </item> 
+ <item> <title>- - - - - - - - - - - - - - - - - - - - - - - - - - - - -<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/woppegong.png</thumbnail>  <fanart>http://psyco.tv/woppefan.jpg</fanart> <externallink></externallink> <info></info> </item> 
 
 
 ### <em> <title>[B][COLORred]Stabiles LiveTV zum kleinen Preis: [/COLOR][/B]<title> <link>http://ignorame<link><thumbnail>http://psyco.tv/woppegong.png</thumbnail>  <fanart>http://psyco.tv/woppefan.jpg</fanart> <externallink></externallink> <info></info> </item> 
