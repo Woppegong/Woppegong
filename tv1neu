@@ -1,7 +1,4 @@
-
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png","T E S T S E N D E R"  Stabiles IPTV in vielen Sprachen 
-http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Info's auf Telegram *** https://ogy.de/77q6 ***
+#EXTM3u:
 http://
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
 http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3451
@@ -37,7 +34,7 @@ http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/19655
 http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3826
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL UHD 4K DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL UHD 4K DE
 http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/27220
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 DE
+#EXTIUNF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 DE
 http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/1637
 #EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="Live: Germany",SAT.1 Gold DE
 http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/12309
