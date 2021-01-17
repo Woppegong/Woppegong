@@ -1,7 +1,4 @@
 #EXTM3U:
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png","T E S T S E N D E R"  Stabiles IPTV in vielen Sprachen 
-http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png",Info's auf Telegram *** https://ogy.de/77q6 ***
 http://
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
 http://channels227070.clientportal.link:80/A9o84NZ2593/kyC9Nd1962/3451
