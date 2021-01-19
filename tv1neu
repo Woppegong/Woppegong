@@ -1,287 +1,263 @@
 #EXTM3U:
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Besucht uns doch mal auf Telegram! 
+http://
+#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Alle Info's gibt's hier *** https://ogy.de/yxzw ***
 http://
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3451
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3451
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste HD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/22824
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/22824
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste FHD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/16493
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/16493
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://picon-13398.kxcdn.com/zdf.jpg" group-title="Live: Germany",ZDF DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/1629
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/1629
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/19098
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/19098
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/16484
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/16484
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfo.jpg" group-title="Live: Germany",ZDFinfo DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/12295
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/12295
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfohd.jpg" group-title="Live: Germany",ZDFinfo FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/16483
-#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="Kabel Eins Classics DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsclassics.jpg" group-title="Live: Germany",Kabel Eins Classics DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/16581
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/16483
 #EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben DE" tvg-logo="https://picon-13398.kxcdn.com/prosieben.jpg" group-title="Live: Germany",ProSieben DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/1642
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/1642
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenhd.jpg" group-title="Live: Germany",ProSieben HD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/14052
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenfunhd.jpg" group-title="Live: Germany",ProSieben Fun HD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/16627
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxx.jpg" group-title="Live: Germany",ProSieben Maxx DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3444
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3444
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3825
-#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="Live: Germany",RTL Living HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3202
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO DE" tvg-logo="https://picon-13398.kxcdn.com/rtlnitro.jpg" group-title="Live: Germany",NITRO DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/1639
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3825
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL FHD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/14049
 #EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus DE" tvg-logo="https://picon-13398.kxcdn.com/rtlplusde.jpg" group-title="Live: Germany",RTL Plus DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/19655
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="Live: Germany",RTL II DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3826
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/19655
 #EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL UHD 4K DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL UHD 4K DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/27220
-#EXTIUNF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/1637
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="Live: Germany",SAT.1 Gold DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/12309
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx DE" tvg-logo="https://picon-13398.kxcdn.com/sixx.jpg" group-title="Live: Germany",Sixx DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/9560
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="Live: Germany",VOX DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/1630
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX FHD DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="Live: Germany",VOX FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/14291
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="https://picon-13398.kxcdn.com/3sat.jpg" group-title="Live: Germany",3sat DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/12341
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="https://picon-13398.kxcdn.com/3sathd.jpg" group-title="Live: Germany",3sat HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/16497
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/27220
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/1637
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 FHD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/14047
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Germany",Tele 5 DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/12325
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Germany",Tele 5 FHD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/20208
 #EXTINF:-1 tvg-id="Arte.de" tvg-name="Arte FHD DE" tvg-logo="https://picon-13398.kxcdn.com/artehd.jpg" group-title="Live: Germany",Arte FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/16496
-#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal DE" tvg-logo="https://picon-13398.kxcdn.com/heimatkanal.jpg" group-title="Live: Germany",Heimatkanal DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/9558
-#EXTINF:-1 tvg-id="Romance.de" tvg-name="Romance TV DE" tvg-logo="https://picon-13398.kxcdn.com/romancetv.jpg" group-title="Live: Germany",Romance TV DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/13111
-#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="Servus TV HD DE" tvg-logo="https://picon-13398.kxcdn.com/servustv.jpg" group-title="Live: Germany",Servus TV HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/27566
-#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="ServusTV DE" tvg-logo="https://picon-13398.kxcdn.com/servustv.jpg" group-title="Live: Germany",ServusTV DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/12307
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/16496
+#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDR SACHSEN-ANHALT FHD DE" tvg-logo="https://picon-13398.kxcdn.com/mdrsanhalthd.jpg" group-title="Live: Germany",MDR SACHSEN-ANHALT FHD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/15750
 #EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3443
-#EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Brandenburg FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbbrandenburg.jpg" group-title="Live: Germany",rbb Fernsehen Brandenburg FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/15754
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3443
 #EXTINF:-1 tvg-id="SWRSR.de" tvg-name="SWR DE" tvg-logo="https://picon-13398.kxcdn.com/swr.jpg" group-title="Live: Germany",SWR DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/12296
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/12296
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Baby TV DE" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Germany",Baby TV DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/19622
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannel.jpg" group-title="Live: Germany",Disney Channel DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3622
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3622
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel FHD DE" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Germany",Disney Channel FHD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/14056
 #EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKa DE" tvg-logo="https://picon-13398.kxcdn.com/kika.jpg" group-title="Live: Germany",KiKa DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/1648
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://picon-13398.kxcdn.com/superrtl.jpg" group-title="Live: Germany",Super RTL DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3456
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/1648
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kikahd.jpg" group-title="Live: Germany",KiKA FHD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/16492
 #EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnews.jpg" group-title="Live: Germany",Sky Sport News DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/14577
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/14577
 #EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnewshd.jpg" group-title="Live: Germany",Sky Sport News FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/7337
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/7337
 #EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg" group-title="Live: Germany",Sky Bundesliga 1 DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/14550
-#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga9.jpg" group-title="Live: Germany",Sky Bundesliga 9 DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/14557
-#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga9hd.jpg" group-title="Live: Germany",Sky Bundesliga 9 FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/7346
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/14550
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="Live: Germany",Sky Bundesliga 1 HD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3436
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="Live: Germany",Sky Bundesliga 1 FHD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/7338
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga10hd.jpg" group-title="Live: Germany",Sky Bundesliga 10 FHD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/7347
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Germany",Sky Sport 2 DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/14560
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 HD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/1480
 #EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/7327
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/7327
 #EXTINF:-1 tvg-id="SkySport11.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport11hd.jpg" group-title="Live: Germany",Sky Sport 11 HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/7336
-#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 DE" tvg-logo="https://picon-13398.kxcdn.com/sport1-duslelaslu.jpg" group-title="Live: Germany",SPORT1 DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/9552
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/7336
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigital.jpg" group-title="Live: Germany",sportdigital DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3841
 #EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital HD DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigitalhd.jpg" group-title="Live: Germany",sportdigital HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/16582
-#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: Germany",Animal Planet HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/9561
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE DE" tvg-logo="https://picon-13398.kxcdn.com/anixe.jpg" group-title="Live: Germany",ANIXE DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3445
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/16582
 #EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3426
-#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild HD DE" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Germany",National Geographic Wild HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/1646
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3426
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel FHD DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel FHD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/14063
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Live: Germany",DMAX DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3431
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DMAX HD DE" tvg-logo="https://picon-13398.kxcdn.com/dmaxhd.jpg" group-title="Live: Germany",DMAX HD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/19683
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="https://picon-13398.kxcdn.com/ntv.jpg" group-title="Live: Germany",n-tv DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3449
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3449
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ntvhd.jpg" group-title="Live: Germany",n-tv FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/14054
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/14054
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="https://picon-13398.kxcdn.com/phoenix.jpg" group-title="Live: Germany",Phoenix DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3454
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3454
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix FHD DE" tvg-logo="https://picon-13398.kxcdn.com/phoenixhd.jpg" group-title="Live: Germany",Phoenix FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/16487
-#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissenhd.jpg" group-title="Live: Germany",Spiegel Geschichte HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/16573
-#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="tagesschau24 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tagesschau24hd.jpg" group-title="Live: Germany",tagesschau24 FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/15752
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/16487
 #EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: Germany",TLC DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/12324
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/12324
 #EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Germany",TLC FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/15757
-#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal Channel HD DE" tvg-logo="https://picon-13398.kxcdn.com/universalchannelhd.jpg" group-title="Live: Germany",Universal Channel HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3439
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3448
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt HD DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/14573
-#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="https://picon-13398.kxcdn.com/weltderwunder.jpg" group-title="Live: Germany",Welt der Wunder DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/12305
-#EXTINF:-1 tvg-id="Classica.de" tvg-name="CLASSICA DE" tvg-logo="https://picon-13398.kxcdn.com/classica.jpg" group-title="Live: Germany",CLASSICA DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/9555
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/15757
 #EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusic.jpg" group-title="Live: Germany",Deluxe Music DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/9554
-#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="JukeBox DE" tvg-logo="https://picon-13398.kxcdn.com/jukebox.jpg" group-title="Live: Germany",JukeBox DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/15579
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/9554
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music FHD DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusichd.jpg" group-title="Live: Germany",Deluxe Music FHD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/14057
 #EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/12317
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/12317
 #EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central HD DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/19677
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/19677
 #EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemacomedy.jpg" group-title="Live: Germany",Sky Cinema Fun DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/3430
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3430
 #EXTINF:-1 tvg-id="" tvg-name="Sky Family FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemafamilyhd.jpg" group-title="Live: Germany",Sky Family FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/15576
-#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaclassicsde.jpg" group-title="Live: Germany",Sky Cinema Classics DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/9556
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/15576
 #EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 1 Live DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/11265
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/11265
+#EXTINF:-1 tvg-id="SkySelect9.de" tvg-name="Sky Select 9 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 9 Live DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/12290
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX HD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX HD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/3425
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX FHD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX FHD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/14055
 #EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 1 HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/18234
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 1 Premiere HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 1 Premiere HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/26323
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/18234
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 3 Komodie HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 3 Komodie HD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/26325
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 10 Lacheln HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 10 Lacheln HD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/26332
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/26332
 #EXTINF:-1 tvg-id="" tvg-name="Eagle Entdeckernatur 11 4K UHD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Entdeckernatur 11 4K UHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/26333
-#EXTINF:-1 tvg-id="AstroTV.de" tvg-name="Astro TV DE" tvg-logo="https://picon-13398.kxcdn.com/astrotv.jpg" group-title="Live: Germany",Astro TV DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/12339
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/26333
+#EXTINF:-1 tvg-id="" tvg-name="Frauen Bundesliga HD DE" tvg-logo="https://picon-13398.kxcdn.com/frauenbundesligade.jpg" group-title="Live: Germany",Frauen Bundesliga HD DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/35184
 #EXTINF:-1 tvg-id="" tvg-name="Voxup DE" tvg-logo="https://picon-13398.kxcdn.com/voxupde.jpg" group-title="Live: Germany",Voxup DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/52134
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/52134
 #EXTINF:-1 tvg-id="" tvg-name="QVC UHD DE" tvg-logo="" group-title="Live: Germany",QVC UHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/66354
-#EXTINF:-1 tvg-id="" tvg-name="Bon Gusto FHD DE" tvg-logo="" group-title="Live: Germany",Bon Gusto FHD DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/70825
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport BBL 4 HD (nur Spiel Tag) DE" tvg-logo="https://picon-13398.kxcdn.com/telecomsportbblde.jpg" group-title="Live: Germany",Telekom Sport BBL 4 HD (nur Spiel Tag) DE
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/28380
-#EXTINF:-1 tvg-id="SkySportAustria2.at" tvg-name="Sky Sport Austria 2 HD (nur Spiel Tag) AT" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Austria",Sky Sport Austria 2 HD (nur Spiel Tag) AT
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/28374
-#EXTINF:-1 tvg-id="SRF2.ch" tvg-name="SRF zwei HD CH" tvg-logo="https://picon-13398.kxcdn.com/srfzweihd.jpg" group-title="Live: Switzerland",SRF zwei HD CH
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/11645
-#EXTINF:-1 tvg-id="SRFInfo.ch" tvg-name="SRF Info HD CH" tvg-logo="https://picon-13398.kxcdn.com/srfinfohd.jpg" group-title="Live: Switzerland",SRF Info HD CH
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/11652
-#EXTINF:-1 tvg-id="3Plus.ch" tvg-name="3+ FHD CH" tvg-logo="https://picon-13398.kxcdn.com/3plusch.jpg" group-title="Live: Switzerland",3+ FHD CH
-http://channels227070.clientportal.link:80/SJxeiXeSXm/oxibeIEbAN/19592
-#EXTINF:-1 tvg-id="" tvg-name="Scarecrows Revenge [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckJ3mV2XuLeCPh4V6P166PdAMsj.jpg" group-title="Movie: German",Scarecrows Revenge [DE] [2019]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scorpion King - Das Buch der Seelen [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSviUMejPmerwoQxdj7wR4Ky1Fd.jpg" group-title="Movie: German",Scorpion King - Das Buch der Seelen [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Searching [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk9R56ZFlofbBzfwBnHlDyg5DMs.jpg" group-title="Movie: German",Searching [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Senora Teresas Aufbruch in ein neues Leben [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufdIxLU0d0QMvtHDZGvRLu7ebrd.jpg" group-title="Movie: German",Senora Teresas Aufbruch in ein neues Leben [DE] [2017]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SEX DOLL - Jung & Kaeuflich [DE] [2016]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grWS1nNexgCQacAIF6Um5PS5N5y.jpg" group-title="Movie: German",SEX DOLL - Jung & Kaeuflich [DE] [2016]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shapeshifter [DE] [2016]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XVib5wjvsNePk1IlRbIPsB7ihw.jpg" group-title="Movie: German",Shapeshifter [DE] [2016]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sherlock Gnomes [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg" group-title="Movie: German",Sherlock Gnomes [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Show Dogs - Agenten auf vier Pfoten [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dvxCBUfDG2cAdkA921rERxhtcp.jpg" group-title="Movie: German",Show Dogs - Agenten auf vier Pfoten [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sicario 2 [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msqWSQkU403cQKjQHnWLnugv7EY.jpg" group-title="Movie: German",Sicario 2 [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Skin Creepers [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYE4HWgRpGnAxNGw9pKwriB83sr.jpg" group-title="Movie: German",Skin Creepers [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Skyscraper [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LYSsOPzuP13201qSzMjNxi8FxN.jpg" group-title="Movie: German",Skyscraper [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sleeper [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fzQnmmEaoSHCEF1eHpeEg9CavC.jpg" group-title="Movie: German",Sleeper [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Slender Man [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg" group-title="Movie: German",Slender Man [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Solis [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lea5bLww1ZwbNPRVk0RjB34xxVg.jpg" group-title="Movie: German",Solis [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Solo - A Star Wars Story [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg" group-title="Movie: German",Solo - A Star Wars Story [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Someone Great [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg" group-title="Movie: German",Someone Great [DE] [2019]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sommer der Krueppelbewegung [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBCoAbuFGiQeNQXU0QNjtR0RKzW.jpg" group-title="Movie: German",Sommer der Krueppelbewegung [DE] [2020]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spenser Confidential [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg" group-title="Movie: German",Spenser Confidential [DE] [2020]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man A New Universe [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg" group-title="Movie: German",Spider-Man A New Universe [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spielmacher [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0ij0ahAG1uJl6C40ZqzjKqAe3z.jpg" group-title="Movie: German",Spielmacher [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spinning Mang im dunkel deiner seele [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvIIUOoY2PQRQ6syWchzkfNaXT1.jpg" group-title="Movie: German",Spinning Mang im dunkel deiner seele [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spycies [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOY3dDCzjygXzumYeJ9UIyETzuj.jpg" group-title="Movie: German",Spycies [DE] [2020]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars - Die letzten Jedi [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg" group-title="Movie: German",Star Wars - Die letzten Jedi [DE] [2017]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Steig Nicht Aus! [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1051biKSE5MriLrfHCRuVZHS2Qc.jpg" group-title="Movie: German",Steig Nicht Aus! [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stephanie [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saH984W3ZGjRX0NMCEsuKh8VUP9.jpg" group-title="Movie: German",Stephanie [DE] [2017]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Step Sisters [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cncHzM37IbohkBX7tlSTiULfIsO.jpg" group-title="Movie: German",Step Sisters [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stronger [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg" group-title="Movie: German",Stronger [DE] [2017]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suburbicon - Willkommen in der Nachbarschaft [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg" group-title="Movie: German",Suburbicon - Willkommen in der Nachbarschaft [DE] [2017]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suicide Squad - Hell to Pay [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqnqzJ2dVq4tdK1ICpWUVKSFHuR.jpg" group-title="Movie: German",Suicide Squad - Hell to Pay [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SuperFly [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg" group-title="Movie: German",SuperFly [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Superman - Red Son [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FVU9HZ87VfYMe5vIJvM3hFTG5i.jpg" group-title="Movie: German",Superman - Red Son [DE] [2020]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Super Troopers 2 [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57SZgdugVClIy22rfnANeBJ5KsN.jpg" group-title="Movie: German",Super Troopers 2 [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suspiria [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzWTnkert9EoiPWldWJ15dnfAFl.jpg" group-title="Movie: German",Suspiria [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Swimming with Men - Ballett in Badehosen [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWqRDEUWgmtf7dI5sRebhyc4Vmi.jpg" group-title="Movie: German",Swimming with Men - Ballett in Badehosen [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Swinger - Verlangen, Lust, Leidenschaft [DE] [2015]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRjm5zztXRUYhXEl3FQKbIbgtMC.jpg" group-title="Movie: German",Swinger - Verlangen, Lust, Leidenschaft [DE] [2015]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tales from the Hood 2 [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k93d4au1KByYKi6FsE0dLrKWowj.jpg" group-title="Movie: German",Tales from the Hood 2 [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tango One [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtHF1l1ESIxVdFTxiv84ze7tqwk.jpg" group-title="Movie: German",Tango One [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Taxi 5 [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUs9qkQz8zPwi910jntTvrOmTOC.jpg" group-title="Movie: German",Taxi 5 [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tempus Tormentum [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZbJ7bDmcKr8GzqoKI00awhjqyH.jpg" group-title="Movie: German",Tempus Tormentum [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terminal - Rache war nie schoener [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faP4QqEpmf7K3Fx0WRaDOmQtnS6.jpg" group-title="Movie: German",Terminal - Rache war nie schoener [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Adventurers [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVKVucELauvZGsNUd37LgSusQWb.jpg" group-title="Movie: German",The Adventurers [DE] [2017]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Attack [DE] [2012]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRf3g14HK9UYUF2m8EbFP2W3hRL.jpg" group-title="Movie: German",The Attack [DE] [2012]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Ballad of Buster Scruggs [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voxl654m7p36y8FLu8oQD7dfwwK.jpg" group-title="Movie: German",The Ballad of Buster Scruggs [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Beast Within - Es lebt in dir [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ72SsxEP9XSx3StaazsMwBi9C0.jpg" group-title="Movie: German",The Beast Within - Es lebt in dir [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Christmas Chronicles [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg" group-title="Movie: German",The Christmas Chronicles [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Cloverfield Paradox [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJe4s2h9hac0Fu3pQVV4OuWe8kU.jpg" group-title="Movie: German",The Cloverfield Paradox [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Death of Superman [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg" group-title="Movie: German",The Death of Superman [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Diamond Job - Gauner, Bomben und Juwelen [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ixLHMV9RoyBGJz2yRuggsr0vyX.jpg" group-title="Movie: German",The Diamond Job - Gauner, Bomben und Juwelen [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Disaster Artist [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jj84nF5vYRD0HUTowBKcrKk8hZP.jpg" group-title="Movie: German",The Disaster Artist [DE] [2017]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Domestics [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j64I3u1wwgPct3stvvKU2ikl14w.jpg" group-title="Movie: German",The Domestics [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Dragon Unleashed [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SM3IiWuwLZVWvZpMb0Z0I2hyRF.jpg" group-title="Movie: German",The Dragon Unleashed [DE] [2019]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The End [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SM3IiWuwLZVWvZpMb0Z0I2hyRF.jpg" group-title="Movie: German",The End [DE] [2017]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Equalizer 2 [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg" group-title="Movie: German",The Equalizer 2 [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Favourite - Intrigen und Irrsinn [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg" group-title="Movie: German",The Favourite - Intrigen und Irrsinn [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The First Purge [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/litjsBoiydO6JlO70uOX4N3WnNL.jpg" group-title="Movie: German",The First Purge [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Guilty [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/litjsBoiydO6JlO70uOX4N3WnNL.jpg" group-title="Movie: German",The Guilty [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Happytime Murders [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWxkur51srfVnMn2QOFjE7mbq6h.jpg" group-title="Movie: German",The Happytime Murders [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Hate U Give [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg" group-title="Movie: German",The Hate U Give [DE] [2018]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Hunt [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg" group-title="Movie: German",The Hunt [DE] [2020]
-http://channels227070.clientportal.link:80/movie/SJxeiXeSXm/oxibeIEbAN/46714.mp4
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/66354
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Del Sport 3 HD (nur Spiel Tag) DE" tvg-logo="https://picon-13398.kxcdn.com/telecomsportde.jpg" group-title="Live: Germany",Telekom Del Sport 3 HD (nur Spiel Tag) DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/28383
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport BBL 3 HD (nur Spiel Tag) DE" tvg-logo="https://picon-13398.kxcdn.com/telecomsportbblde.jpg" group-title="Live: Germany",Telekom Sport BBL 3 HD (nur Spiel Tag) DE
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/28379
+#EXTINF:-1 tvg-id="SkySportAustria3.at" tvg-name="Sky Sport Austria 3 AT" tvg-logo="https://picon-13398.kxcdn.com/skysport3.jpg" group-title="Live: Austria",Sky Sport Austria 3 AT
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/28533
+#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF III AT" tvg-logo="https://picon-13398.kxcdn.com/orfiii.jpg" group-title="Live: Austria",ORF III AT
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/12303
+#EXTINF:-1 tvg-id="ATV2.at" tvg-name="ATV2 AT" tvg-logo="https://picon-13398.kxcdn.com/atv2.jpg" group-title="Live: Austria",ATV2 AT
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/12519
+#EXTINF:-1 tvg-id="" tvg-name="Sixx AT" tvg-logo="https://picon-13398.kxcdn.com/sixx.jpg" group-title="Live: Austria",Sixx AT
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/12306
+#EXTINF:-1 tvg-id="ORFSport.at" tvg-name="ORF Sport Plus HD AT" tvg-logo="https://picon-13398.kxcdn.com/orfsportplushd.jpg" group-title="Live: Austria",ORF Sport Plus HD AT
+http://channels227070.clientportal.link:80/YannisSon/LUjwhu773/16387
+#EXTINF:-1 tvg-id="" tvg-name="Die Eiskonigin 2 [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjeMs3yqRmFL3giJy4PMXWZTTPa.jpg" group-title="Movie: German",Die Eiskonigin 2 [DE] [2019]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Farbe des Horizonts [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gLDeADaETvwQlQow5szlyuhLbj.jpg" group-title="Movie: German",Die Farbe des Horizonts [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Frau des Zoodirektors [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg" group-title="Movie: German",Die Frau des Zoodirektors [DE] [2017]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Frau die vorausgeht [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qI5NcQHR0nsykPqlG2qnfFyMgW6.jpg" group-title="Movie: German",Die Frau die vorausgeht [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Frau im Eis [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGHmbjB60K8iqbLkCbhaiTwnXUT.jpg" group-title="Movie: German",Die Frau im Eis [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Heinzels - Ruckkehr der Heinzelmannchen [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7r4DQc1zUYZX7y7Y5S8WqpvsFo.jpg" group-title="Movie: German",Die Heinzels - Ruckkehr der Heinzelmannchen [DE] [2020]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Kinder von Windermere [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okccWF2PgHA8SMB4gJrvTUxTKP9.jpg" group-title="Movie: German",Die Kinder von Windermere [DE] [2020]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die kleine Hexe [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTRg6yy75VQ0yoszgLQgp3MTHtE.jpg" group-title="Movie: German",Die kleine Hexe [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Kunst des toten Mannes [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rViQPcrWthMNecp5XnkKev6BzW.jpg" group-title="Movie: German",Die Kunst des toten Mannes [DE] [2019]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die letzte Party deines Lebens [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR9kM3SSPOGnV55jDl5lQMII2k3.jpg" group-title="Movie: German",Die letzte Party deines Lebens [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Schtis in Paris [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm2L53AHKX2aju50reUfRmzMksn.jpg" group-title="Movie: German",Die Schtis in Paris [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diese 10 Dinge tun wir bevor wir uns trennen [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg" group-title="Movie: German",Diese 10 Dinge tun wir bevor wir uns trennen [DE] [2020]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Spur [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDtX0mPpvB69LUHW4mXytHzq8TQ.jpg" group-title="Movie: German",Die Spur [DE] [2017]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Toten am Meer [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN4GEhUQ1vCsHnmprxDGS149uzy.jpg" group-title="Movie: German",Die Toten am Meer [DE] [2020]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die traurigen Maedchen aus den Bergen [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h06vJcZU3Uhy2nFEkmasQEP0U5l.jpg" group-title="Movie: German",Die traurigen Maedchen aus den Bergen [DE] [2019]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Turteltauben [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg" group-title="Movie: German",Die Turteltauben [DE] [2020]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Wall Street Verschwoerung [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEu4OsF4Ol0kkB94AMRyEHfvTVf.jpg" group-title="Movie: German",Die Wall Street Verschwoerung [DE] [2017]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Die Weihnachtskarte [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg" group-title="Movie: German",Die Weihnachtskarte [DE] [2017]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dog Days [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wQcFJwj4tsHjWCXMpwb9OqNR9Y.jpg" group-title="Movie: German",Dog Days [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dogman [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaZq1G8sJHv9f9a5IzioQlS3REX.jpg" group-title="Movie: German",Dogman [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dont Worry Weglaufen geht nicht [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKsiN37qMt8jad5GikZzSeevyI9.jpg" group-title="Movie: German",Dont Worry Weglaufen geht nicht [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Downsizing [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlmtN33rMuimRq6bu0OoNzCGGs.jpg" group-title="Movie: German",Downsizing [DE] [2017]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drachenzaehmen leicht gemacht 3[DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg" group-title="Movie: German",Drachenzaehmen leicht gemacht 3[DE] [2019]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragonheart - Die Kraft des Feuers [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDaOX4BCGwc1im7XYjrzyEbUfX2.jpg" group-title="Movie: German",Dragonheart - Die Kraft des Feuers [DE] [2017]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragons - Die jungen Drachenretter - Die Suche nach dem goldenen Drachen [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4AmRuIZNHGGOMwOMzA3VeaYVLD.jpg" group-title="Movie: German",Dragons - Die jungen Drachenretter - Die Suche nach dem goldenen Drachen [DE] [2020]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drei Zinnen [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJGpG6vwCl8GLTOQalmYEo1lxbL.jpg" group-title="Movie: German",Drei Zinnen [DE] [2017]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Durch die Wand [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZQCNGb1II5eWASBhEgJBGxOPUM.jpg" group-title="Movie: German",Durch die Wand [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Early Man [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iW2rntwLZoGlFCYYy8TjHyblbw.jpg" group-title="Movie: German",Early Man [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eine Geheime Liebe [DE] {2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iW2rntwLZoGlFCYYy8TjHyblbw.jpg" group-title="Movie: German",Eine Geheime Liebe [DE] {2020]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ein Kind zur Zeit [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4bJtOuloUb495V2EWeSQC0VXP3.jpg" group-title="Movie: German",Ein Kind zur Zeit [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ein letzter Job [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtfS7y2XQ0vjTrm6khq508N0Ehk.jpg" group-title="Movie: German",Ein letzter Job [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ein verborgenes Leben - The Secret Scripture [DE] [2016]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVoZqwvGAwxvGVbYV5y04wpiBob.jpg" group-title="Movie: German",Ein verborgenes Leben - The Secret Scripture [DE] [2016]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elizabeth Harvest [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCDfQn6OOjecwKd9AZb0nGQbsgs.jpg" group-title="Movie: German",Elizabeth Harvest [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enchantimals spring intro harvest hills [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCDfQn6OOjecwKd9AZb0nGQbsgs.jpg" group-title="Movie: German",Enchantimals spring intro harvest hills [DE] [2020]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Errementari - Der Schmied und der Teufel [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltpi1uLkvx2BKHWwbpMjqdAtdHn.jpg" group-title="Movie: German",Errementari - Der Schmied und der Teufel [DE] [2017]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Plan 2 - Hades [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aqhl55vpzxNFqVfc2DpedUsR39L.jpg" group-title="Movie: German",Escape Plan 2 - Hades [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Everest - Ein Yeti will hoch hinaus [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20djTLqppfBx5WYA67Y300S6aPD.jpg" group-title="Movie: German",Everest - Ein Yeti will hoch hinaus [DE] [2019]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extinction [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjnNdjrZIdi7d316SjjkgEjJRSg.jpg" group-title="Movie: German",Extinction [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Familiye [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqjl8jkQpoeAXdUCO0qMy21fmnS.jpg" group-title="Movie: German",Familiye [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Family Blood [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ8SC6wCARc0pOTrHMCr8cFoHms.jpg" group-title="Movie: German",Family Blood [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Family Business - Wie der Vater, so der Sohn [DE] [2012]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC4pmYNBjSu9aO5ErJyGtjSGcT9.jpg" group-title="Movie: German",Family Business - Wie der Vater, so der Sohn [DE] [2012]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fear comes home - Wer bleibt am Leben [DE] [2013]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k989yAz1QairUqTQ9f2B9ZDsO9H.jpg" group-title="Movie: German",Fear comes home - Wer bleibt am Leben [DE] [2013]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feel the Beat [DE] [2020]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXBxd34dFEx6Wruf5Ch5jKLBxDi.jpg" group-title="Movie: German",Feel the Beat [DE] [2020]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feinde - Hostiles [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqoezyB51GfhiloOB5ZErg5HXas.jpg" group-title="Movie: German",Feinde - Hostiles [DE] [2017]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades of Grey - Befreite Lust [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZedQHPQVveaIYmDSTazhT3y273.jpg" group-title="Movie: German",Fifty Shades of Grey - Befreite Lust [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="First Reformed [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2UylV0hPefEuWPFMo1r56vu2nb.jpg" group-title="Movie: German",First Reformed [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flatliners [DE] [2017]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9NHATN0TJW6ZZPLLWFsKdilVl1.jpg" group-title="Movie: German",Flatliners [DE] [2017]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Forever My Girl [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKqdggnIPeOI15VqtBZTkvh4hA9.jpg" group-title="Movie: German",Forever My Girl [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Free Solo [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4QfYZMACODlWul9doN9RxE99ag.jpg" group-title="Movie: German",Free Solo [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Friedhof der Kuscheltiere [DE] [2019]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg" group-title="Movie: German",Friedhof der Kuscheltiere [DE] [2019]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuenf Freunde und das Tal der Dinosaurier [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFjvtRpqjPg07wQrojyK0HQH8Zt.jpg" group-title="Movie: German",Fuenf Freunde und das Tal der Dinosaurier [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Future World [DE] [2018]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZkXGa544XnUNf44CEwb7gpU8Ma.jpg" group-title="Movie: German",Future World [DE] [2018]
+http://channels227070.clientportal.link:80/movie/YannisSon/LUjwhu773/46484.mp4
+
 
 
 
