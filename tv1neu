@@ -2,286 +2,178 @@
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Besucht uns doch mal auf Telegram! 
 http://
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Alle Info's zur TOPLINE gibt's hier *** https://ogy.de/yxzw ***
-http://
-#EXTINF:-1,Das Erste HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13166
-#EXTINF:-1,Das Erste HD [B] DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6262
-#EXTINF:-1,Das Erste DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6256
-#EXTINF:-1,ZDF FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6151
-#EXTINF:-1,ZDF HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/17011
-#EXTINF:-1,ZDF Neo HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/17304
-#EXTINF:-1,Sat.1 FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6210
-#EXTINF:-1,Sat.1 HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/683455
-#EXTINF:-1,Pro 7 FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6220
-#EXTINF:-1,Pro 7 HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/683393
-#EXTINF:-1,Pro Sieben FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8235
-#EXTINF:-1,Pro Sieben HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13144
-#EXTINF:-1,VOX FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13553
-#EXTINF:-1,VOX DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6153
-#EXTINF:-1,VOXup DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/679836
-#EXTINF:-1,Kabel 1 FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6242
-#EXTINF:-1,Kabel 1 Classic HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/9151
-#EXTINF:-1,Kabel 1 Classic DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/679844
-#EXTINF:-1,Crime & Investigation FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6263
-#EXTINF:-1,Crime & Investigation HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8197
-#EXTINF:-1,RTL Living FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6150
-#EXTINF:-1,RTL Living HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6213
-#EXTINF:-1,Sat1 Emotion DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13135
-#EXTINF:-1,Sat1 Gold FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6209
-#EXTINF:-1,Pro 7 Fun FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6219
-#EXTINF:-1,Pro 7 Fun HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13145
-#EXTINF:-1,Pro 7 Fun [B] HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13142
-#EXTINF:-1,Pro 7 Max FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6218
-#EXTINF:-1,Pro 7 Max HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/683394
-#EXTINF:-1,Pro Sieben Maxx HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13143
-#EXTINF:-1,Pro Sieben Maxx FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8234
-#EXTINF:-1,E! Entertainment FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13569
-#EXTINF:-1,E! Entertainment HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/9137
-#EXTINF:-1,E! Entertainment DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/5095
-#EXTINF:-1,SRF 1 DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6170
-#EXTINF:-1,MDR HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6238
-#EXTINF:-1,MDR S-Anhalt HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8240
-#EXTINF:-1,MDR Sachsen HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8239
-#EXTINF:-1,3Sat FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/16289
-#EXTINF:-1,3sat HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6265
-#EXTINF:-1,NDR HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6225
-#EXTINF:-1,HR HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6243
-#EXTINF:-1,HR Fernsehen HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8225
-#EXTINF:-1,RBB Berlin HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6217
-#EXTINF:-1,BR DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13168
-#EXTINF:-1,SWR HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6165
-#EXTINF:-1,WDR HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6152
-#EXTINF:-1,Franken Fernsehen FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/677835
-#EXTINF:-1,BW Family TV FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6246
-#EXTINF:-1,BW Family TV HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/23772
-#EXTINF:-1,QVC HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13140
-#EXTINF:-1,QVC Beauty & Style DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13141
-#EXTINF:-1,Augsburg TV HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13170
-#EXTINF:-1,Sonnenklar TV FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13130
-#EXTINF:-1,Event - Covid Info FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/679845
-#EXTINF:-1,Sky Sports News FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13555
-#EXTINF:-1,Sky Sports News HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/684431
-#EXTINF:-1,Sky Sport 1 FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/684432
-#EXTINF:-1,Sky Sport 1 HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/683895
-#EXTINF:-1,Sky Sport 1 DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/9125
-#EXTINF:-1,Sky Sport 1 [B] DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/684429
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/684430
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/683408
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/683409
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13538
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/73136
-#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/684005
-#EXTINF:-1,Sport1 FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6173
-#EXTINF:-1,Sport1 HD  DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8221
-#EXTINF:-1,Sport1 HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8226
-#EXTINF:-1,Telekom FuÃball 2 HD [Match Time] DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/679822
-#EXTINF:-1,Telekom Eishockey 2 [Match Time] HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/679672
-#EXTINF:-1,Telekom Basketball 2 [Match Time] HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/679675
-#EXTINF:-1,Eurosport 1 FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8218
-#EXTINF:-1,Eurosport 2 FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/9131
-#EXTINF:-1,DEL Sport 2 HD [Match Time] DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/679852
-#EXTINF:-1,Sky Action HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/5093
-#EXTINF:-1,Sky Action DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6205
-#EXTINF:-1,Sky Cinema Fun HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/9144
-#EXTINF:-1,Sky Cinema Fun DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6190
-#EXTINF:-1,Sky Cinema Family FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/9145
-#EXTINF:-1,Sky Cinema Family HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/7369
-#EXTINF:-1,Sky 13TH Street HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/7365
-#EXTINF:-1,13th Street FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/5098
-#EXTINF:-1,13th Street HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8198
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/9147
-#EXTINF:-1,Fox FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13567
-#EXTINF:-1,Fox HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6245
-#EXTINF:-1,Fox DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/23770
-#EXTINF:-1,TNT Comedy FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6157
-#EXTINF:-1,Eagle Cinema Animation HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/681939
-#EXTINF:-1,Eagle Cinema Mythologie HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/681945
-#EXTINF:-1,Eagle Cinema LÃ¤cheln HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/681944
-#EXTINF:-1,Eagle Cinema Geschichte HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/681941
-#EXTINF:-1,Eagle Cinema Romantisch FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/681948
-#EXTINF:-1,Sky Select 1 FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/655131
-#EXTINF:-1,Sky Select 1 HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/7375
-#EXTINF:-1,Sky Select 8 HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8974
-#EXTINF:-1,PopCorn Select 1 HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/23778
-#EXTINF:-1,HyperCinema INFO FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/683523
-#EXTINF:-1,HyperCinema 1 FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/683535
-#EXTINF:-1,AXN FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/5097
-#EXTINF:-1,AXN HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6259
-#EXTINF:-1,Comedy Central FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6154
-#EXTINF:-1,Romance TV HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13152
-#EXTINF:-1,Romance TV DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6211
-#EXTINF:-1,Sky Heimat Kanal HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/678481
-#EXTINF:-1,Sky Heimat Kanal DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6188
-#EXTINF:-1,N24 Doku DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/679837
-#EXTINF:-1,Kabel Eins Doku FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13147
-#EXTINF:-1,Kabel 1 Doku DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/679843
-#EXTINF:-1,Discovery FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13570
-#EXTINF:-1,Discovery HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/5096
-#EXTINF:-1,Nat Geo Wild DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/5085
-#EXTINF:-1,Welt der Wunder HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/679838
-#EXTINF:-1,Welt der Wunder DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13129
-#EXTINF:-1,Dmax FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6249
-#EXTINF:-1,TLC HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8224
-#EXTINF:-1,Sky Arte HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/9139
-#EXTINF:-1,Sky Arte DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6261
-#EXTINF:-1,ARD Alpha HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13171
-#EXTINF:-1,Euronews DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6248
-#EXTINF:-1,Welt HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6228
-#EXTINF:-1,N-TV FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13149
-#EXTINF:-1,N-TV HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/8195
-#EXTINF:-1,N-TV DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13566
-#EXTINF:-1,Munchen TV DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6229
-#EXTINF:-1,Phoenix HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6221
-#EXTINF:-1,Tagesschau 24 HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6163
-#EXTINF:-1,KiKa FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/679839
-#EXTINF:-1,Kika HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6241
-#EXTINF:-1,Baby TV DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13169
-#EXTINF:-1,Disney Channel FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6253
-#EXTINF:-1,Fix & Foxi DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/23771
-#EXTINF:-1,MTV FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/35466
-#EXTINF:-1,Classica HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13167
-#EXTINF:-1,Trap Radio FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/679835
-#EXTINF:-1,Deluxe Music HD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/6255
-#EXTINF:-1,Kronehit FHD DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/14200
-#EXTINF:-1,Deutsches Musik Fernsehen DE
-http://mytv.fun:8080/cm0c30p0c9/47h41dhdkn/13165
+#EXTINF:-1,13th Street HD 
+http://149.62.177.130:3003/play/a03f/index.m3u8
+#EXTINF:-1,3sat HD 
+http://149.62.177.130:3003/play/a034/index.m3u8
+#EXTINF:-1,Boomerang 
+http://149.62.177.130:3003/play/a015/index.m3u8
+#EXTINF:-1,Cartoon Network 
+http://149.62.177.130:3003/play/a04i/index.m3u8
+#EXTINF:-1,Cinema Premieren HD
+http://149.62.177.130:3003/play/a02s/index.m3u8
+#EXTINF:-1,Classica 
+http://149.62.177.130:3003/play/a01b/index.m3u8
+#EXTINF:-1,CNBC HD
+http://149.62.177.130:3003/play/a03m/index.m3u8
+#EXTINF:-1,Comedy Central HD 
+http://149.62.177.130:3003/play/a01n/index.m3u8
+#EXTINF:-1,Crime + Investigation 
+http://149.62.177.130:3003/play/a04h/index.m3u8
+#EXTINF:-1,DAZN 1 Bar HD 
+http://149.62.177.130:3003/play/a023/index.m3u8
+#EXTINF:-1,DAZN 2 Bar HD
+http://149.62.177.130:3003/play/a02j/index.m3u8
+#EXTINF:-1,Discovery HD 
+http://149.62.177.130:3003/play/a02r/index.m3u8
+#EXTINF:-1,DMAX HD 
+http://149.62.177.130:3003/play/a045/index.m3u8
+#EXTINF:-1,E! Entertainm. HD 
+http://149.62.177.130:3003/play/a04d/index.m3u8
+#EXTINF:-1,Eurosport 1 HD 
+http://149.62.177.130:3003/play/a03k/index.m3u8
+#EXTINF:-1,Eurosport 2 HD 
+http://149.62.177.130:3003/play/a04b/index.m3u8
+#EXTINF:-1,Eurosport 2 HD Xtra 
+http://149.62.177.130:3003/play/a03l/index.m3u8
+#EXTINF:-1,Eurosport360HD 1
+http://149.62.177.130:3003/play/a02v/index.m3u8
+#EXTINF:-1,Eurosport360HD 2 
+http://149.62.177.130:3003/play/a03i/index.m3u8
+#EXTINF:-1,Eurosport360HD 4 
+http://149.62.177.130:3003/play/a026/index.m3u8
+#EXTINF:-1,Fox HD 
+http://149.62.177.130:3003/play/a048/index.m3u8
+#EXTINF:-1,Heimatkanal 
+http://149.62.177.130:3003/play/a01a/index.m3u8
+#EXTINF:-1,History HD 
+http://149.62.177.130:3003/play/a04c/index.m3u8
+#EXTINF:-1,Jukebox 
+http://149.62.177.130:3003/play/a027/index.m3u8
+#EXTINF:-1,Junior 
+http://149.62.177.130:3003/play/a019/index.m3u8
+#EXTINF:-1,Kabel Eins Doku HD 
+http://149.62.177.130:3003/play/a02h/index.m3u8
+#EXTINF:-1,kabel eins HD 
+http://149.62.177.130:3003/play/a02e/index.m3u8
+#EXTINF:-1,KiKA HD 
+http://149.62.177.130:3003/play/a035/index.m3u8
+#EXTINF:-1,Kinowelt TV
+http://149.62.177.130:3003/play/a01i/index.m3u8
+#EXTINF:-1,Motorvision TV 
+http://149.62.177.130:3003/play/a04g/index.m3u8
+#EXTINF:-1,n-tv HD 
+http://149.62.177.130:3003/play/a01s/index.m3u8
+#EXTINF:-1,Nat Geo Wild 
+http://149.62.177.130:3003/play/a02p/index.m3u8
+#EXTINF:-1,NatGeo HD 
+http://149.62.177.130:3003/play/a03d/index.m3u8
+#EXTINF:-1,Nicktoons
+http://149.62.177.130:3003/play/a039/index.m3u8
+#EXTINF:-1,NITRO HD 
+http://149.62.177.130:3003/play/a01w/index.m3u8
+#EXTINF:-1,Pro7 MAXX HD 
+http://149.62.177.130:3003/play/a02g/index.m3u8
+#EXTINF:-1,ProSieben HD 
+http://149.62.177.130:3003/play/a02d/index.m3u8
+#EXTINF:-1,Romance TV 
+http://149.62.177.130:3003/play/a01j/index.m3u8
+#EXTINF:-1,RTL HD 
+http://149.62.177.130:3003/play/a01q/index.m3u8
+#EXTINF:-1,RTLII HD
+http://149.62.177.130:3003/play/a01t/index.m3u8
+#EXTINF:-1,SAT.1 Gold HD 
+http://149.62.177.130:3003/play/a01y/index.m3u8
+#EXTINF:-1,SAT.1 HD
+http://149.62.177.130:3003/play/a02c/index.m3u8
+#EXTINF:-1,SIXX HD
+http://149.62.177.130:3003/play/a02f/index.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://149.62.177.130:3003/play/a03j/index.m3u8
+#EXTINF:-1,Sky Bundesliga 2 HD
+http://149.62.177.130:3003/play/a02t/index.m3u8
+#EXTINF:-1,Sky Bundesliga 3 HD 
+http://149.62.177.130:3003/play/a03g/index.m3u8
+#EXTINF:-1,Sky Bundesliga 6 HD
+http://149.62.177.130:3003/play/a03t/index.m3u8
+#EXTINF:-1,Sky Bundesliga 8 HD 
+http://149.62.177.130:3003/play/a02w/index.m3u8
+#EXTINF:-1,Sky Bundesliga 9 HD
+http://149.62.177.130:3003/play/a02l/index.m3u8
+#EXTINF:-1,Sky Cinema Action HD 
+http://149.62.177.130:3003/play/a021/index.m3u8
+#EXTINF:-1,Sky Cinema Best Of HD 
+http://149.62.177.130:3003/play/a040/index.m3u8
+#EXTINF:-1,Sky Cinema Family HD 
+http://149.62.177.130:3003/play/a01e/index.m3u8
+#EXTINF:-1,Sky Cinema Fun 
+http://149.62.177.130:3003/play/a013/index.m3u8
+#EXTINF:-1,Sky Cinema Premieren +24 HD 
+http://149.62.177.130:3003/play/a04e/index.m3u8
+#EXTINF:-1,Sky Cinema Special HD 
+http://149.62.177.130:3003/play/a03c/index.m3u8
+#EXTINF:-1,Sky Cinema Thriller
+http://149.62.177.130:3003/play/a03p/index.m3u8
+#EXTINF:-1,Sky Krimi
+http://149.62.177.130:3003/play/a03q/index.m3u8
+#EXTINF:-1,Sky One HD 
+http://149.62.177.130:3003/play/a01f/index.m3u8
+#EXTINF:-1,Sky Serien & Shows
+http://149.62.177.130:3003/play/a03r/index.m3u8
+#EXTINF:-1,Sky Sport 1 HD 
+http://149.62.177.130:3003/play/a02q/index.m3u8
+#EXTINF:-1,Sky Sport 10 HD
+http://149.62.177.130:3003/play/a02m/index.m3u8
+#EXTINF:-1,Sky Sport 2 HD 
+http://149.62.177.130:3003/play/a03e/index.m3u8
+#EXTINF:-1,Sky Sport 3 HD 
+http://149.62.177.130:3003/play/a02u/index.m3u8
+#EXTINF:-1,Sky Sport 4 HD 
+http://149.62.177.130:3003/play/a03h/index.m3u8
+#EXTINF:-1,Sky Sport 6 HD 
+http://149.62.177.130:3003/play/a025/index.m3u8
+#EXTINF:-1,Sky Sport 7 HD
+http://149.62.177.130:3003/play/a03u/index.m3u8
+#EXTINF:-1,Sky Sport 9 HD 
+http://149.62.177.130:3003/play/a02x/index.m3u8
+#EXTINF:-1,Sky Sport Austria 1 
+http://149.62.177.130:3003/play/a01c/index.m3u8
+#EXTINF:-1,Sky Sport Austria 1 HD
+http://149.62.177.130:3003/play/a042/index.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://149.62.177.130:3003/play/a03x/index.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://149.62.177.130:3003/play/a024/index.m3u8
+#EXTINF:-1,Sky Sport News HD
+http://149.62.177.130:3003/play/a041/index.m3u8
+#EXTINF:-1,Spiegel Geschichte HD 
+http://149.62.177.130:3003/play/a02k/index.m3u8
+#EXTINF:-1,Spiegel TV Wissen 
+http://149.62.177.130:3003/play/a03a/index.m3u8
+#EXTINF:-1,Sport Austria 2 HD 
+http://149.62.177.130:3003/play/a02y/index.m3u8
+#EXTINF:-1,SUPER RTL HD 
+http://149.62.177.130:3003/play/a01v/index.m3u8
+#EXTINF:-1,SYFY HD 
+http://149.62.177.130:3003/play/a049/index.m3u8
+#EXTINF:-1,TELE 5 HD
+http://149.62.177.130:3003/play/a044/index.m3u8
+#EXTINF:-1,TNT Comedy HD 
+http://149.62.177.130:3003/play/a04f/index.m3u8
+#EXTINF:-1,TNT Film HD
+http://149.62.177.130:3003/play/a03s/index.m3u8
+#EXTINF:-1,TNT Serie HD
+http://149.62.177.130:3003/play/a022/index.m3u8
+#EXTINF:-1,Universal TV HD 
+http://149.62.177.130:3003/play/a020/index.m3u8
+#EXTINF:-1,VOX HD 
+http://149.62.177.130:3003/play/a01r/index.m3u8
+#EXTINF:-1,WELT HD
+http://149.62.177.130:3003/play/a01o/index.m3u8
+#EXTINF:-1,ZDF HD 
+http://149.62.177.130:3003/play/a031/index.m3u8
+#EXTINF:-1,zdf_neo HD 
+http://149.62.177.130:3003/play/a032/index.m3u8
 
 
 
