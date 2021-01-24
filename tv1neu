@@ -2,6 +2,7 @@
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Besucht uns doch mal auf Telegram! 
 http://
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Alle Info's zur TOPLINE gibt's hier *** https://ogy.de/yxzw ***
+#EXTM3U:
 #EXTINF:-1,13th Street HD 
 http://149.62.177.130:3003/play/a03f/index.m3u8
 #EXTINF:-1,3sat HD 
