@@ -2,179 +2,261 @@
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Besucht uns doch mal auf Telegram! 
 http://
 #EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Alle Info's zur TOPLINE gibt's hier *** https://ogy.de/yxzw ***
-#EXTM3U:
-#EXTINF:-1,13th Street HD 
-http://149.62.177.130:3003/play/a03f/index.m3u8
-#EXTINF:-1,3sat HD 
-http://149.62.177.130:3003/play/a034/index.m3u8
-#EXTINF:-1,Boomerang 
-http://149.62.177.130:3003/play/a015/index.m3u8
-#EXTINF:-1,Cartoon Network 
-http://149.62.177.130:3003/play/a04i/index.m3u8
-#EXTINF:-1,Cinema Premieren HD
-http://149.62.177.130:3003/play/a02s/index.m3u8
-#EXTINF:-1,Classica 
-http://149.62.177.130:3003/play/a01b/index.m3u8
-#EXTINF:-1,CNBC HD
-http://149.62.177.130:3003/play/a03m/index.m3u8
-#EXTINF:-1,Comedy Central HD 
-http://149.62.177.130:3003/play/a01n/index.m3u8
-#EXTINF:-1,Crime + Investigation 
-http://149.62.177.130:3003/play/a04h/index.m3u8
-#EXTINF:-1,DAZN 1 Bar HD 
-http://149.62.177.130:3003/play/a023/index.m3u8
-#EXTINF:-1,DAZN 2 Bar HD
-http://149.62.177.130:3003/play/a02j/index.m3u8
-#EXTINF:-1,Discovery HD 
-http://149.62.177.130:3003/play/a02r/index.m3u8
-#EXTINF:-1,DMAX HD 
-http://149.62.177.130:3003/play/a045/index.m3u8
-#EXTINF:-1,E! Entertainm. HD 
-http://149.62.177.130:3003/play/a04d/index.m3u8
-#EXTINF:-1,Eurosport 1 HD 
-http://149.62.177.130:3003/play/a03k/index.m3u8
-#EXTINF:-1,Eurosport 2 HD 
-http://149.62.177.130:3003/play/a04b/index.m3u8
-#EXTINF:-1,Eurosport 2 HD Xtra 
-http://149.62.177.130:3003/play/a03l/index.m3u8
-#EXTINF:-1,Eurosport360HD 1
-http://149.62.177.130:3003/play/a02v/index.m3u8
-#EXTINF:-1,Eurosport360HD 2 
-http://149.62.177.130:3003/play/a03i/index.m3u8
-#EXTINF:-1,Eurosport360HD 4 
-http://149.62.177.130:3003/play/a026/index.m3u8
-#EXTINF:-1,Fox HD 
-http://149.62.177.130:3003/play/a048/index.m3u8
-#EXTINF:-1,Heimatkanal 
-http://149.62.177.130:3003/play/a01a/index.m3u8
-#EXTINF:-1,History HD 
-http://149.62.177.130:3003/play/a04c/index.m3u8
-#EXTINF:-1,Jukebox 
-http://149.62.177.130:3003/play/a027/index.m3u8
-#EXTINF:-1,Junior 
-http://149.62.177.130:3003/play/a019/index.m3u8
-#EXTINF:-1,Kabel Eins Doku HD 
-http://149.62.177.130:3003/play/a02h/index.m3u8
-#EXTINF:-1,kabel eins HD 
-http://149.62.177.130:3003/play/a02e/index.m3u8
-#EXTINF:-1,KiKA HD 
-http://149.62.177.130:3003/play/a035/index.m3u8
-#EXTINF:-1,Kinowelt TV
-http://149.62.177.130:3003/play/a01i/index.m3u8
-#EXTINF:-1,Motorvision TV 
-http://149.62.177.130:3003/play/a04g/index.m3u8
-#EXTINF:-1,n-tv HD 
-http://149.62.177.130:3003/play/a01s/index.m3u8
-#EXTINF:-1,Nat Geo Wild 
-http://149.62.177.130:3003/play/a02p/index.m3u8
-#EXTINF:-1,NatGeo HD 
-http://149.62.177.130:3003/play/a03d/index.m3u8
-#EXTINF:-1,Nicktoons
-http://149.62.177.130:3003/play/a039/index.m3u8
-#EXTINF:-1,NITRO HD 
-http://149.62.177.130:3003/play/a01w/index.m3u8
-#EXTINF:-1,Pro7 MAXX HD 
-http://149.62.177.130:3003/play/a02g/index.m3u8
-#EXTINF:-1,ProSieben HD 
-http://149.62.177.130:3003/play/a02d/index.m3u8
-#EXTINF:-1,Romance TV 
-http://149.62.177.130:3003/play/a01j/index.m3u8
-#EXTINF:-1,RTL HD 
-http://149.62.177.130:3003/play/a01q/index.m3u8
-#EXTINF:-1,RTLII HD
-http://149.62.177.130:3003/play/a01t/index.m3u8
-#EXTINF:-1,SAT.1 Gold HD 
-http://149.62.177.130:3003/play/a01y/index.m3u8
-#EXTINF:-1,SAT.1 HD
-http://149.62.177.130:3003/play/a02c/index.m3u8
-#EXTINF:-1,SIXX HD
-http://149.62.177.130:3003/play/a02f/index.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://149.62.177.130:3003/play/a03j/index.m3u8
-#EXTINF:-1,Sky Bundesliga 2 HD
-http://149.62.177.130:3003/play/a02t/index.m3u8
-#EXTINF:-1,Sky Bundesliga 3 HD 
-http://149.62.177.130:3003/play/a03g/index.m3u8
-#EXTINF:-1,Sky Bundesliga 6 HD
-http://149.62.177.130:3003/play/a03t/index.m3u8
-#EXTINF:-1,Sky Bundesliga 8 HD 
-http://149.62.177.130:3003/play/a02w/index.m3u8
-#EXTINF:-1,Sky Bundesliga 9 HD
-http://149.62.177.130:3003/play/a02l/index.m3u8
-#EXTINF:-1,Sky Cinema Action HD 
-http://149.62.177.130:3003/play/a021/index.m3u8
-#EXTINF:-1,Sky Cinema Best Of HD 
-http://149.62.177.130:3003/play/a040/index.m3u8
-#EXTINF:-1,Sky Cinema Family HD 
-http://149.62.177.130:3003/play/a01e/index.m3u8
-#EXTINF:-1,Sky Cinema Fun 
-http://149.62.177.130:3003/play/a013/index.m3u8
-#EXTINF:-1,Sky Cinema Premieren +24 HD 
-http://149.62.177.130:3003/play/a04e/index.m3u8
-#EXTINF:-1,Sky Cinema Special HD 
-http://149.62.177.130:3003/play/a03c/index.m3u8
-#EXTINF:-1,Sky Cinema Thriller
-http://149.62.177.130:3003/play/a03p/index.m3u8
-#EXTINF:-1,Sky Krimi
-http://149.62.177.130:3003/play/a03q/index.m3u8
-#EXTINF:-1,Sky One HD 
-http://149.62.177.130:3003/play/a01f/index.m3u8
-#EXTINF:-1,Sky Serien & Shows
-http://149.62.177.130:3003/play/a03r/index.m3u8
-#EXTINF:-1,Sky Sport 1 HD 
-http://149.62.177.130:3003/play/a02q/index.m3u8
-#EXTINF:-1,Sky Sport 10 HD
-http://149.62.177.130:3003/play/a02m/index.m3u8
-#EXTINF:-1,Sky Sport 2 HD 
-http://149.62.177.130:3003/play/a03e/index.m3u8
-#EXTINF:-1,Sky Sport 3 HD 
-http://149.62.177.130:3003/play/a02u/index.m3u8
-#EXTINF:-1,Sky Sport 4 HD 
-http://149.62.177.130:3003/play/a03h/index.m3u8
-#EXTINF:-1,Sky Sport 6 HD 
-http://149.62.177.130:3003/play/a025/index.m3u8
-#EXTINF:-1,Sky Sport 7 HD
-http://149.62.177.130:3003/play/a03u/index.m3u8
-#EXTINF:-1,Sky Sport 9 HD 
-http://149.62.177.130:3003/play/a02x/index.m3u8
-#EXTINF:-1,Sky Sport Austria 1 
-http://149.62.177.130:3003/play/a01c/index.m3u8
-#EXTINF:-1,Sky Sport Austria 1 HD
-http://149.62.177.130:3003/play/a042/index.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://149.62.177.130:3003/play/a03x/index.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5 HD
-http://149.62.177.130:3003/play/a024/index.m3u8
-#EXTINF:-1,Sky Sport News HD
-http://149.62.177.130:3003/play/a041/index.m3u8
-#EXTINF:-1,Spiegel Geschichte HD 
-http://149.62.177.130:3003/play/a02k/index.m3u8
-#EXTINF:-1,Spiegel TV Wissen 
-http://149.62.177.130:3003/play/a03a/index.m3u8
-#EXTINF:-1,Sport Austria 2 HD 
-http://149.62.177.130:3003/play/a02y/index.m3u8
-#EXTINF:-1,SUPER RTL HD 
-http://149.62.177.130:3003/play/a01v/index.m3u8
-#EXTINF:-1,SYFY HD 
-http://149.62.177.130:3003/play/a049/index.m3u8
-#EXTINF:-1,TELE 5 HD
-http://149.62.177.130:3003/play/a044/index.m3u8
-#EXTINF:-1,TNT Comedy HD 
-http://149.62.177.130:3003/play/a04f/index.m3u8
-#EXTINF:-1,TNT Film HD
-http://149.62.177.130:3003/play/a03s/index.m3u8
-#EXTINF:-1,TNT Serie HD
-http://149.62.177.130:3003/play/a022/index.m3u8
-#EXTINF:-1,Universal TV HD 
-http://149.62.177.130:3003/play/a020/index.m3u8
-#EXTINF:-1,VOX HD 
-http://149.62.177.130:3003/play/a01r/index.m3u8
-#EXTINF:-1,WELT HD
-http://149.62.177.130:3003/play/a01o/index.m3u8
-#EXTINF:-1,ZDF HD 
-http://149.62.177.130:3003/play/a031/index.m3u8
-#EXTINF:-1,zdf_neo HD 
-http://149.62.177.130:3003/play/a032/index.m3u8
+http://
+#EXTINF:-1,Das Erste DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3451
+#EXTINF:-1,Das Erste HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/22824
+#EXTINF:-1,Das Erste FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16493
+#EXTINF:-1,ZDF DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1629
+#EXTINF:-1,ZDF HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19098
+#EXTINF:-1,ZDF FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16484
+#EXTINF:-1,ZDFinfo DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12295
+#EXTINF:-1,ZDFinfo FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16483
+#EXTINF:-1,ZDFneo DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3453
+#EXTINF:-1,ZDFneo FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16482
+#EXTINF:-1,Kabel Eins FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1649
+#EXTINF:-1,Kabel Eins Classics DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16581
+#EXTINF:-1,Kabel Eins Doku HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/17167
+#EXTINF:-1,ProSieben DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1642
+#EXTINF:-1,ProSieben HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14052
+#EXTINF:-1,ProSieben Fun HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16627
+#EXTINF:-1,ProSieben Maxx DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3444
+#EXTINF:-1,ProSieben Maxx FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14051
+#EXTINF:-1,RTL HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3825
+#EXTINF:-1,RTL Living HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3202
+#EXTINF:-1,NITRO DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1639
+#EXTINF:-1,RTL II DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3826
+#EXTINF:-1,RTL II FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14050
+#EXTINF:-1,RTL UHD 4K DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/27220
+#EXTINF:-1,SAT.1 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1637
+#EXTINF:-1,Tele 5 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12325
+#EXTINF:-1,Tele 5 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/20208
+#EXTINF:-1,VOX DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1630
+#EXTINF:-1,hr-Fernsehen DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12316
+#EXTINF:-1,MDR SACHSEN-ANHALT FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15750
+#EXTINF:-1,NDR HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3443
+#EXTINF:-1,Disney Channel DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3622
+#EXTINF:-1,Disney Channel FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14056
+#EXTINF:-1,Disney Junior HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15566
+#EXTINF:-1,Fix & Foxi DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/20263
+#EXTINF:-1,KiKa DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1648
+#EXTINF:-1,Super RTL DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3456
+#EXTINF:-1,Super RTL FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14044
+#EXTINF:-1,Eurosport 1 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19101
+#EXTINF:-1,Eurosport 1 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3435
+#EXTINF:-1,Eurosport 2 HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15568
+#EXTINF:-1,Sky Sport News DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14577
+#EXTINF:-1,Sky Sport News FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/7337
+#EXTINF:-1,Sky Bundesliga 1 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14550
+#EXTINF:-1,Sky Bundesliga 10 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14558
+#EXTINF:-1,Sky Bundesliga 10 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/7347
+#EXTINF:-1,Sky Sport 1 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14559
+#EXTINF:-1,Sky Sport 1 HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1479
+#EXTINF:-1,Sky Sport 2 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14560
+#EXTINF:-1,Sky Sport 2 HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/1480
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/7327
+#EXTINF:-1,Sky Sport 11 HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/7336
+#EXTINF:-1,SPORT1 DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/9552
+#EXTINF:-1,SPORT1 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15745
+#EXTINF:-1,eSports1 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/18820
+#EXTINF:-1,ANIXE DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3445
+#EXTINF:-1,ANIXE FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14576
+#EXTINF:-1,Crime + Investigation DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28577
+#EXTINF:-1,Discovery Channel DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3426
+#EXTINF:-1,Discovery Channel FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14063
+#EXTINF:-1,DMAX DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3431
+#EXTINF:-1,DMAX HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19683
+#EXTINF:-1,n-tv DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3449
+#EXTINF:-1,n-tv FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14054
+#EXTINF:-1,Phoenix DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3454
+#EXTINF:-1,Phoenix FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16487
+#EXTINF:-1,Planet HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/18394
+#EXTINF:-1,Spiegel TV Wissen DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14045
+#EXTINF:-1,Spiegel Geschichte HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16573
+#EXTINF:-1,tagesschau24 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15752
+#EXTINF:-1,TLC DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12324
+#EXTINF:-1,TLC FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15757
+#EXTINF:-1,Universal Channel HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3439
+#EXTINF:-1,Welt DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3448
+#EXTINF:-1,Welt HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14573
+#EXTINF:-1,Welt der Wunder DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12305
+#EXTINF:-1,CLASSICA DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/9555
+#EXTINF:-1,Deluxe Music DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/9554
+#EXTINF:-1,JukeBox DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15579
+#EXTINF:-1,MTV HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15759
+#EXTINF:-1,Comedy Central DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12317
+#EXTINF:-1,Comedy Central HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19677
+#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15575
+#EXTINF:-1,Sky Cinema Fun DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3430
+#EXTINF:-1,Sky Family FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15576
+#EXTINF:-1,Sky Cinema Classics DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/9556
+#EXTINF:-1,Sky Select 1 Live DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/11265
+#EXTINF:-1,Sky Select 9 Live DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12290
+#EXTINF:-1,13th Street FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14060
+#EXTINF:-1,E! DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/16502
+#EXTINF:-1,E! HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15567
+#EXTINF:-1,FOX HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/3425
+#EXTINF:-1,FOX FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/14055
+#EXTINF:-1,Kinowelt TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12291
+#EXTINF:-1,TNT Comedy HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/15577
+#EXTINF:-1,Kino Premiere 1 HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/18234
+#EXTINF:-1,Eagle Cinema 3 Komodie HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/26325
+#EXTINF:-1,Eagle Cinema 10 Lacheln HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/26332
+#EXTINF:-1,Eagle Entdeckernatur 11 4K UHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/26333
+#EXTINF:-1,Astro TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12339
+#EXTINF:-1,München TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/11659
+#EXTINF:-1,DW Arabia DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19620
+#EXTINF:-1,DW Deutsch DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/27791
+#EXTINF:-1,DW English DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/17300
+#EXTINF:-1,German Tote TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/23945
+#EXTINF:-1,HGTV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/27656
+#EXTINF:-1,Health TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28231
+#EXTINF:-1,Allgäu TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28232
+#EXTINF:-1,Baden TV DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28233
+#EXTINF:-1,noa4 Hamburg HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28238
+#EXTINF:-1,noa4 Norderstedt HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28239
+#EXTINF:-1,Frauen Bundesliga HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/35184
+#EXTINF:-1,Nicktoons DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/37836
+#EXTINF:-1,Voxup DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/52134
+#EXTINF:-1,QVC UHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/66354
+#EXTINF:-1,Bon Gusto FHD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/70825
+#EXTINF:-1,Telekom Fussball 3 HD DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/24233
+#EXTINF:-1,Telekom Del Sport 3 HD (nur Spiel Tag) DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28383
+#EXTINF:-1,Telekom Sport BBL 3 HD (nur Spiel Tag) DE
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/28379
+#EXTINF:-1,3+ FHD CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19592
+#EXTINF:-1,Tele Basel CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/19599
+#EXTINF:-1,MySports 3 FHD CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/17486
+#EXTINF:-1,Blue Sport 2 CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/12475
+#EXTINF:-1,BeCurious TV CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/13160
+#EXTINF:-1,Canal Alpha HD CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/13150
+#EXTINF:-1,MySports 3 FHD French CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/17493
+#EXTINF:-1,RSI LA 2 HD CH
+http://tv.mtbox.hitv.one:80/Ks0BYUx739/yNu75c751/11651
 
 
 
