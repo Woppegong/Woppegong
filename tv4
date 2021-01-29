@@ -1,503 +1,213 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Besucht uns doch mal auf Telegram! 
+#EXTINF:-1, Besucht uns doch mal auf Telegram! 
 http://
-#EXTINF:-1 tvg-logo="http://psyco.tv/woppe.png", Alle Info's gibt's hier *** https://ogy.de/yxzw ***
+#EXTINF:-1, Alle Info's zur TOPLINE gibt's hier *** https://ogy.de/yxzw ***
 http://
-#EXTINF:-1,Das Erste DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3451
 #EXTINF:-1,Das Erste HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/22824
-#EXTINF:-1,Das Erste FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16493
-#EXTINF:-1,One FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15751
-#EXTINF:-1,One TV FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/23043
-#EXTINF:-1,ZDF DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/1629
-#EXTINF:-1,ZDF HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/19098
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13166
+#EXTINF:-1,Das Erste HD [B] DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6262
+#EXTINF:-1,Das Erste DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6256
 #EXTINF:-1,ZDF FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16484
-#EXTINF:-1,ZDFinfo DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12295
-#EXTINF:-1,ZDFinfo FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16483
-#EXTINF:-1,ZDFneo DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3453
-#EXTINF:-1,ZDFneo FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16482
-#EXTINF:-1,Kabel Eins FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/1649
-#EXTINF:-1,Kabel Eins Classics DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16581
-#EXTINF:-1,Kabel Eins Doku HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/17167
-#EXTINF:-1,ProSieben DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/1642
-#EXTINF:-1,ProSieben HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14052
-#EXTINF:-1,ProSieben Fun HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16627
-#EXTINF:-1,ProSieben Maxx DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3444
-#EXTINF:-1,ProSieben Maxx FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14051
-#EXTINF:-1,RTL FS DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12300
-#EXTINF:-1,RTL HB NDS DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12299
-#EXTINF:-1,RTL WEST DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12298
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6151
+#EXTINF:-1,ZDF HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/17011
+#EXTINF:-1,ZDF Neo HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/17304
 #EXTINF:-1,RTL HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3825
-#EXTINF:-1,RTL FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14049
-#EXTINF:-1,RTL Crime HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15570
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6216
+#EXTINF:-1,Sat.1 HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/683455
+#EXTINF:-1,Pro 7 HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/683393
+#EXTINF:-1,Kabel 1 Classic DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/679844
+#EXTINF:-1,RTL Nitro FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6212
+#EXTINF:-1,RTL Nitro HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13137
+#EXTINF:-1,RTL Living FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6150
 #EXTINF:-1,RTL Living HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3202
-#EXTINF:-1,NITRO DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/1639
-#EXTINF:-1,NITRO FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14048
-#EXTINF:-1,RTL Passion HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/9563
-#EXTINF:-1,RTL Plus DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/19655
-#EXTINF:-1,RTL II DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3826
-#EXTINF:-1,RTL II FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14050
-#EXTINF:-1,RTL UHD 4K DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/27220
-#EXTINF:-1,SAT.1 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/1637
-#EXTINF:-1,SAT.1 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14047
-#EXTINF:-1,SAT.1 Emotions DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16836
-#EXTINF:-1,SAT.1 Gold DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12309
-#EXTINF:-1,Sixx DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/9560
-#EXTINF:-1,Sixx FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14046
-#EXTINF:-1,Tele 5 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12325
-#EXTINF:-1,Tele 5 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/20208
-#EXTINF:-1,VOX DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/1630
-#EXTINF:-1,VOX FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14291
-#EXTINF:-1,3sat DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12341
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6213
+#EXTINF:-1,Sat1 Emotion DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13135
+#EXTINF:-1,Sat1 Gold FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6209
+#EXTINF:-1,Pro 7 Fun HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13145
+#EXTINF:-1,Pro 7 Fun [B] HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13142
+#EXTINF:-1,E! Entertainment FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13569
+#EXTINF:-1,E! Entertainment HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/9137
+#EXTINF:-1,E! Entertainment DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/5095
+#EXTINF:-1,SRF 1 DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6170
+#EXTINF:-1,MDR HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6238
+#EXTINF:-1,MDR S-Anhalt HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/8240
+#EXTINF:-1,MDR Sachsen HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/8239
+#EXTINF:-1,3Sat FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/16289
 #EXTINF:-1,3sat HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16497
-#EXTINF:-1,Arte FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16496
-#EXTINF:-1,Heimatkanal DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/9558
-#EXTINF:-1,Romance TV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/13111
-#EXTINF:-1,Servus TV HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/27566
-#EXTINF:-1,ServusTV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12307
-#EXTINF:-1,BR Fernsehen Nord DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12322
-#EXTINF:-1,BR Fernsehen Nord HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16495
-#EXTINF:-1,hr-Fernsehen DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12316
-#EXTINF:-1,MDR SACHSEN-ANHALT FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15750
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6265
 #EXTINF:-1,NDR HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3443
-#EXTINF:-1,NDR Fernsehen Schleswig-Holstein FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16488
-#EXTINF:-1,rbb Fernsehen Berlin FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15747
-#EXTINF:-1,rbb Fernsehen Brandenburg FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15754
-#EXTINF:-1,Regio TV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12328
-#EXTINF:-1,SR Fernsehen FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15749
-#EXTINF:-1,SWR DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12296
-#EXTINF:-1,SWR BW FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16486
-#EXTINF:-1,WDR DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3442
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6225
+#EXTINF:-1,HR FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13150
+#EXTINF:-1,HR HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6243
+#EXTINF:-1,HR Fernsehen HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/8225
+#EXTINF:-1,RBB Berlin HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6217
+#EXTINF:-1,BR DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13168
+#EXTINF:-1,SWR HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6165
 #EXTINF:-1,WDR HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/23437
-#EXTINF:-1,Baby TV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/19622
-#EXTINF:-1,Boomerang DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12315
-#EXTINF:-1,Cartoon Network DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15565
-#EXTINF:-1,Disney Channel DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3622
-#EXTINF:-1,Disney Channel FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14056
-#EXTINF:-1,Disney Junior HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15566
-#EXTINF:-1,Fix & Foxi DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/20263
-#EXTINF:-1,Junior DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/20207
-#EXTINF:-1,KiKa DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/1648
-#EXTINF:-1,KiKA FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16492
-#EXTINF:-1,Nick Jr. DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/19165
-#EXTINF:-1,Nickelodeon DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/19100
-#EXTINF:-1,Nick/MTV+ DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14571
-#EXTINF:-1,Super RTL DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3456
-#EXTINF:-1,Super RTL FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14044
-#EXTINF:-1,TOGGO plus DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12323
-#EXTINF:-1,DAZN 1 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/23280
-#EXTINF:-1,DAZN 2 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/23281
-#EXTINF:-1,Eurosport 1 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/19101
-#EXTINF:-1,Eurosport 1 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3435
-#EXTINF:-1,Eurosport 2 HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15568
-#EXTINF:-1,Eurosport 2 Xtra HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/17281
-#EXTINF:-1,Eurosport 2 Xtra FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/19099
-#EXTINF:-1,Sky Sport News DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14577
-#EXTINF:-1,Sky Sport News FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7337
-#EXTINF:-1,Sky Bundesliga 1 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14550
-#EXTINF:-1,Sky Bundesliga 1 HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3436
-#EXTINF:-1,Sky Bundesliga 1 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7338
-#EXTINF:-1,Sky Bundesliga 2 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14551
-#EXTINF:-1,Sky Bundesliga 2 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7339
-#EXTINF:-1,Sky Bundesliga 3 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14552
-#EXTINF:-1,Sky Bundesliga 3 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7340
-#EXTINF:-1,Sky Bundesliga 4 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14553
-#EXTINF:-1,Sky Bundesliga 4 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7341
-#EXTINF:-1,Sky Bundesliga 5 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14554
-#EXTINF:-1,Sky Bundesliga 5 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7342
-#EXTINF:-1,Sky Bundesliga 6 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14555
-#EXTINF:-1,Sky Bundesliga 6 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7343
-#EXTINF:-1,Sky Bundesliga 7 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/24735
-#EXTINF:-1,Sky Bundesliga 7 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7344
-#EXTINF:-1,Sky Bundesliga 8 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14556
-#EXTINF:-1,Sky Bundesliga 8 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7345
-#EXTINF:-1,Sky Bundesliga 9 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14557
-#EXTINF:-1,Sky Bundesliga 9 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7346
-#EXTINF:-1,Sky Bundesliga 10 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14558
-#EXTINF:-1,Sky Bundesliga 10 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7347
-#EXTINF:-1,Sky Sport 1 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14559
-#EXTINF:-1,Sky Sport 1 HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/1479
-#EXTINF:-1,Sky Sport 1 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7326
-#EXTINF:-1,Sky Sport 2 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14560
-#EXTINF:-1,Sky Sport 2 HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/1480
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6152
+#EXTINF:-1,Franken Fernsehen FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/677835
+#EXTINF:-1,BW Family TV FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6246
+#EXTINF:-1,BW Family TV HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/23772
+#EXTINF:-1,QVC HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13140
+#EXTINF:-1,QVC Beauty & Style DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13141
+#EXTINF:-1,Augsburg TV HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13170
+#EXTINF:-1,Sonnenklar TV FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13130
+#EXTINF:-1,Event - Covid Info FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/679845
+#EXTINF:-1,Sky Sports News FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13555
+#EXTINF:-1,Sky Sports News HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/684431
 #EXTINF:-1,Sky Sport 2 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7327
-#EXTINF:-1,Sky Sport 3 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14561
-#EXTINF:-1,Sky Sport 3 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7328
-#EXTINF:-1,Sky Sport 4 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14562
-#EXTINF:-1,Sky Sport 4 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7329
-#EXTINF:-1,Sky Sport 5 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14563
-#EXTINF:-1,Sky Sport 5 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7330
-#EXTINF:-1,Sky Sport 6 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14564
-#EXTINF:-1,Sky Sport 6 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7331
-#EXTINF:-1,Sky Sport 7 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14565
-#EXTINF:-1,Sky Sport 7 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7332
-#EXTINF:-1,Sky Sport 8 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14566
-#EXTINF:-1,Sky Sport 8 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7333
-#EXTINF:-1,Sky Sport 9 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14567
-#EXTINF:-1,Sky Sport 9 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7334
-#EXTINF:-1,Sky Sport 10 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7335
-#EXTINF:-1,Sky Sport 11 HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/7336
-#EXTINF:-1,SPORT1 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/9552
-#EXTINF:-1,SPORT1 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15745
-#EXTINF:-1,sportdigital DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3841
-#EXTINF:-1,sportdigital HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16582
-#EXTINF:-1,Auto Motor und Sport HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/19658
-#EXTINF:-1,eSports1 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/18820
-#EXTINF:-1,FC Bayern FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16767
-#EXTINF:-1,Motorvision TV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/9564
-#EXTINF:-1,Animal Planet HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/9561
-#EXTINF:-1,ANIXE DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3445
-#EXTINF:-1,ANIXE FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14576
-#EXTINF:-1,Crime + Investigation DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/28577
-#EXTINF:-1,Discovery Channel DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3426
-#EXTINF:-1,Discovery Channel FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14063
-#EXTINF:-1,DMAX DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3431
-#EXTINF:-1,DMAX HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/19683
-#EXTINF:-1,History DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3424
-#EXTINF:-1,History FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14311
-#EXTINF:-1,National Geographic FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14053
-#EXTINF:-1,National Geographic Wild HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/1646
-#EXTINF:-1,National Geographic Wild FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14062
-#EXTINF:-1,n-tv DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3449
-#EXTINF:-1,n-tv FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14054
-#EXTINF:-1,Phoenix DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3454
-#EXTINF:-1,Phoenix FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16487
-#EXTINF:-1,Planet HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/18394
-#EXTINF:-1,Spiegel TV Wissen DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14045
-#EXTINF:-1,Spiegel Geschichte HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16573
-#EXTINF:-1,tagesschau24 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15752
-#EXTINF:-1,TLC DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12324
-#EXTINF:-1,TLC FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15757
-#EXTINF:-1,Universal Channel HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3439
-#EXTINF:-1,Welt DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3448
-#EXTINF:-1,Welt HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14573
-#EXTINF:-1,Welt der Wunder DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12305
-#EXTINF:-1,CLASSICA DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/9555
-#EXTINF:-1,Deluxe Music DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/9554
-#EXTINF:-1,Deluxe Music FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14057
-#EXTINF:-1,Deutsches Musik Fernsehen DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12334
-#EXTINF:-1,Folx TV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12319
-#EXTINF:-1,JukeBox DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15579
-#EXTINF:-1,MTV HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15759
-#EXTINF:-1,Comedy Central DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12317
-#EXTINF:-1,Comedy Central HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/19677
-#EXTINF:-1,Sky 1 HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/9557
-#EXTINF:-1,Sky Cinema Premieren DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/1634
-#EXTINF:-1,Sky Cinema Premieren FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14061
-#EXTINF:-1,Sky Cinema Premieren +24 DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/1633
-#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15575
-#EXTINF:-1,Sky Cinema Special FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14312
-#EXTINF:-1,Sky Cinema Action DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3432
-#EXTINF:-1,Sky Cinema Action FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14307
-#EXTINF:-1,Sky Atlantic FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14306
-#EXTINF:-1,Sky Cinema Thriller FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/37451
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/7362
+#EXTINF:-1,Sky Sport 10 [Match Time] HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6177
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13538
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/73136
+#EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6195
+#EXTINF:-1,Sport1 HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/8226
+#EXTINF:-1,Telekom Fußball 2 HD [Match Time] DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/679822
+#EXTINF:-1,Telekom Eishockey 2 [Match Time] HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/679672
+#EXTINF:-1,Telekom Basketball 2 [Match Time] HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/679675
+#EXTINF:-1,Eurosport 1 FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/8218
+#EXTINF:-1,Eurosport 2 FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/9131
+#EXTINF:-1,Motorvision HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/8222
+#EXTINF:-1,DEL Sport 2 HD [Match Time] DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/679852
+#EXTINF:-1,Sky Cinema Premieren +24 HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13133
 #EXTINF:-1,Sky Cinema Fun DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3430
-#EXTINF:-1,Sky Family FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15576
-#EXTINF:-1,Sky Cinema Best Of DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16803
-#EXTINF:-1,Sky Cinema Best Of FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14305
-#EXTINF:-1,Sky Krimi DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3429
-#EXTINF:-1,Sky Cinema Classics DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/9556
-#EXTINF:-1,Sky Select 1 Live DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/11265
-#EXTINF:-1,Sky Select 2 Live DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/11266
-#EXTINF:-1,Sky Select 3 Live DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/11267
-#EXTINF:-1,Sky Select 4 Live DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/11268
-#EXTINF:-1,Sky Select 5 Live DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/11269
-#EXTINF:-1,Sky Select 6 Live DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/11270
-#EXTINF:-1,Sky Select 7 Live DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/11271
-#EXTINF:-1,Sky Select 8 Live DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/11272
-#EXTINF:-1,Sky Select 9 Live DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12290
-#EXTINF:-1,Sky Cinema Dark Future DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/28535
-#EXTINF:-1,13th Street FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14060
-#EXTINF:-1,E! DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16502
-#EXTINF:-1,E! HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15567
-#EXTINF:-1,FOX HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/3425
-#EXTINF:-1,FOX FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14055
-#EXTINF:-1,Kinowelt TV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12291
-#EXTINF:-1,Sony AXN FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/9562
-#EXTINF:-1,Sony AXN HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/17498
-#EXTINF:-1,Syfy FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14043
-#EXTINF:-1,TNT Comedy HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/15577
-#EXTINF:-1,TNT Film FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/16628
-#EXTINF:-1,TNT Serie FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/14303
-#EXTINF:-1,Kino Premiere 1 HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/18234
-#EXTINF:-1,Kino Premiere 2 HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/18235
-#EXTINF:-1,Kino Premiere 3 HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/18236
-#EXTINF:-1,Kino Premiere 4 HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/18237
-#EXTINF:-1,Kino Premiere 5 HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/18238
-#EXTINF:-1,Kino Premiere 6 HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/18239
-#EXTINF:-1,Eagle Cinema 1 Premiere HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/26323
-#EXTINF:-1,Eagle Cinema 2 Aktion HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/26324
-#EXTINF:-1,Eagle Cinema 3 Komodie HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/26325
-#EXTINF:-1,Eagle Cinema 4 Abenteuer HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/26326
-#EXTINF:-1,Eagle Cinema 5 Animation HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/26327
-#EXTINF:-1,Eagle Cinema 6 Thriller HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/26328
-#EXTINF:-1,Eagle Cinema 7 Horror HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/26329
-#EXTINF:-1,Eagle Cinema 8 Drama HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/26330
-#EXTINF:-1,Eagle Cinema 9 Sci-Fi HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/26331
-#EXTINF:-1,Eagle Cinema 10 Lacheln HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/26332
-#EXTINF:-1,Eagle Entdeckernatur 11 4K UHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/26333
-#EXTINF:-1,Astro TV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/12339
-#EXTINF:-1,München TV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/11659
-#EXTINF:-1,DW Arabia DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/19620
-#EXTINF:-1,DW Deutsch DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/27791
-#EXTINF:-1,DW English DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/17300
-#EXTINF:-1,German Tote TV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/23945
-#EXTINF:-1,HGTV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/27656
-#EXTINF:-1,Health TV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/28231
-#EXTINF:-1,Allgäu TV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/28232
-#EXTINF:-1,Baden TV DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/28233
-#EXTINF:-1,noa4 Hamburg HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/28238
-#EXTINF:-1,noa4 Norderstedt HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/28239
-#EXTINF:-1,Frauen Bundesliga HD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/35184
-#EXTINF:-1,Nicktoons DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/37836
-#EXTINF:-1,Voxup DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/52134
-#EXTINF:-1,QVC UHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/66354
-#EXTINF:-1,Bon Gusto FHD DE
-http://tv.refundoiptv.iptv.uno:80/IwrsWhl0090/McZIOF7186/70825
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6190
+#EXTINF:-1,Sky Cinema Family FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/9145
+#EXTINF:-1,Sky Cinema Family HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/7369
+#EXTINF:-1,Sky 13TH Street HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/7365
+#EXTINF:-1,Fox FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13567
+#EXTINF:-1,Fox HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6245
+#EXTINF:-1,Fox DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/23770
+#EXTINF:-1,TNT Comedy FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6157
+#EXTINF:-1,Eagle Cinema Premiere FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/681946
+#EXTINF:-1,Eagle Cinema Lächeln HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/681944
+#EXTINF:-1,Eagle Cinema Geschichte HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/681941
+#EXTINF:-1,Sky Select 1 HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/7375
+#EXTINF:-1,PopCorn Select 1 HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/23778
+#EXTINF:-1,HyperCinema INFO FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/683523
+#EXTINF:-1,HyperCinema 1 FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/683535
+#EXTINF:-1,AXN HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6259
+#EXTINF:-1,Comedy Central FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6154
+#EXTINF:-1,Sky Heimat Kanal DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6188
+#EXTINF:-1,Servus TV HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6208
+#EXTINF:-1,Tele 5 HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/9150
+#EXTINF:-1,Bibel TV HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/677497
+#EXTINF:-1,ZDF Info HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/9148
+#EXTINF:-1,Discovery HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/5096
+#EXTINF:-1,DOXX HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/679846
+#EXTINF:-1,Welt der Wunder DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13129
+#EXTINF:-1,Anixe HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6264
+#EXTINF:-1,TLC HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/8224
+#EXTINF:-1,Luxe TV FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/676714
+#EXTINF:-1,Sky Arte DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6261
+#EXTINF:-1,ARD Alpha HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13171
+#EXTINF:-1,Euronews DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6248
+#EXTINF:-1,Welt HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6228
+#EXTINF:-1,N-TV DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13566
+#EXTINF:-1,Munchen TV DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6229
+#EXTINF:-1,Phoenix HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6221
+#EXTINF:-1,Tagesschau 24 HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6163
+#EXTINF:-1,Kika HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6241
+#EXTINF:-1,Baby TV DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13169
+#EXTINF:-1,Junior HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6239
+#EXTINF:-1,Fix & Foxi DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/23771
+#EXTINF:-1,Sky Classica DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6191
+#EXTINF:-1,Classic Radio FHD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/679834
+#EXTINF:-1,Rainy Jazz Radio HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/679831
+#EXTINF:-1,Jukebox DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/13148
+#EXTINF:-1,Deluxe Music HD DE
+http://ipflix.click:8080/83bmlfhp2n/uvytk47zw9/6255
