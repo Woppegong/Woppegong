@@ -2,6 +2,103 @@
 #EXTINF:-1, Besucht uns doch mal auf Telegram! 
 http://
 #EXTINF:-1, Alle Info's zur TOPLINE gibt's hier *** https://ogy.de/yxzw ***
+#EXTM3U
+#EXTINF:-1,RTL
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/bb49390f5e924a1.ts|User-Agent=1m3u8
+#EXTINF:-1,RTL 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/e561f9e8728a30a.ts|User-Agent=1m3u8
+#EXTINF:-1,SUPER RTL
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/5a48dca9acba309.ts|User-Agent=1m3u8
+#EXTINF:-1,RTL NITRO
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/5bdca2882ec6aab.ts|User-Agent=1m3u8
+#EXTINF:-1,RTL PASSION
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/3ab013d13eed6fe.ts|User-Agent=1m3u8
+#EXTINF:-1,RTL CRIME
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/5fbb79eec99b057.ts|User-Agent=1m3u8
+#EXTINF:-1,AXN DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/d729aafc628194f.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY CINEMA
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/e13e10b50e7727c.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY CINEMA 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/cca990d588a824c.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY CINEMA 24
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/c52422c9c6a0f4f.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY ACTION
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/d6d02a95333c92e.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY ATLATNIC
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/3606a24b47dcf21.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY COMEDY
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/55ec39061fb7a32.ts|User-Agent=1m3u8
+#EXTINF:-1,KIKA TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/522d86b3186aa98.ts|User-Agent=1m3u8
+#EXTINF:-1,PRO 7
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/cce265607814943.ts|User-Agent=1m3u8
+#EXTINF:-1,VOX DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/b704ac4bc75bbfb.ts|User-Agent=1m3u8
+#EXTINF:-1,ZDF TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/0da5f7f8242ade8.ts|User-Agent=1m3u8
+#EXTINF:-1,SAT 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/55f86d55fc5cb56.ts|User-Agent=1m3u8
+#EXTINF:-1,ARD 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/56e8f34f20e7eb7.ts|User-Agent=1m3u8
+#EXTINF:-1,NTV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/c860c6249ac6c55.ts|User-Agent=1m3u8
+#EXTINF:-1,N24
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/1e96456eed32879.ts|User-Agent=1m3u8
+#EXTINF:-1,DISCOVERY DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/bc49104d7b51af2.ts|User-Agent=1m3u8
+#EXTINF:-1,HISTORY DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/1b85184ec3df3c3.ts|User-Agent=1m3u8
+#EXTINF:-1,NAT GEO WILD DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/1e32dfd2075f7a7.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY HITS
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/79ff36f9a705b2a.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SELECT 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/2a867ca63902007.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SELECT 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/8c707b7acbdbe78.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SELECT 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/f5b69fcc95581d9.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SELECT 4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/7c27f868d20cab0.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SELECT 5
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/49d07344fb00b89.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS 1 DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/bfefe82e3456531.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS 2 DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/5c017d7784d925d.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS 3 DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/ced996c745cc0be.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS 4 DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/61c1742cca2fdff.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS 5 DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/4a963d08db9b511.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS 6 DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/a881cfeaf98be93.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS AUSTRIA DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/bfa34d58dab0d01.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS BUNDESLIGA 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/c1c2a69763693b9.ts|User-Agent=1m3u8
+#EXTINF:-1,SKY SPORTS BUNDESLIGA 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/56bc8c9b42a1994.ts|User-Agent=1m3u8
+#EXTINF:-1,DISNEY CHANNEL DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/214d35a65ff661d.ts|User-Agent=1m3u8
+#EXTINF:-1,DISNEY XD DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/2df6dcb8110bfd8.ts|User-Agent=1m3u8
+#EXTINF:-1,TNT FILM
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/54d1fb07e2f3f66.ts|User-Agent=1m3u8
+#EXTINF:-1,TNT SERIES
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/7b20cc304edf4dc.ts|User-Agent=1m3u8
+#EXTINF:-1,PRO7 MAXX
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/4fabc831018b8c1.ts|User-Agent=1m3u8
+#EXTINF:-1,ANIMAL PLANET DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/6cd75a6ad8c0ada.ts|User-Agent=1m3u8
+#EXTINF:-1,NAT GEO DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/9baed309b7068e9.ts|User-Agent=1m3u8
+#EXTINF:-1,NAT GEO PEOPLE DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/a149b020b55fea7.ts|User-Agent=1m3u8
+#EXTINF:-1,ZEE ONE 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/fb874da20d6287a.ts|User-Agent=1m3u8
 http://
 #EXTINF:-1,Das Erste DE
 http://cloudcdn.tk:80/6B5DjXp7738/wgrW1n54/3451
