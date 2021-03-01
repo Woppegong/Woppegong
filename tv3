@@ -3,205 +3,146 @@
 http://
 #EXTINF:-1, Alle Info's zur TOPLINE gibt's hier *** https://ogy.de/yxzw ***
 http://
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3451
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste HD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/22824
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste FHD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/16493
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://picon-13398.kxcdn.com/zdf.jpg" group-title="Live: Germany",ZDF DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/1629
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/19098
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfhd.jpg" group-title="Live: Germany",ZDF FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/16484
-#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="Kabel Eins Classics DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsclassics.jpg" group-title="Live: Germany",Kabel Eins Classics DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/16581
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel Eins Doku HD DE" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsdoku.jpg" group-title="Live: Germany",Kabel Eins Doku HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/17167
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben DE" tvg-logo="https://picon-13398.kxcdn.com/prosieben.jpg" group-title="Live: Germany",ProSieben DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/1642
-#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben HD DE" tvg-logo="https://picon-13398.kxcdn.com/prosiebenhd.jpg" group-title="Live: Germany",ProSieben HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/14052
-#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living HD DE" tvg-logo="https://picon-13398.kxcdn.com/rtlliving.jpg" group-title="Live: Germany",RTL Living HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3202
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO DE" tvg-logo="https://picon-13398.kxcdn.com/rtlnitro.jpg" group-title="Live: Germany",NITRO DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/1639
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus DE" tvg-logo="https://picon-13398.kxcdn.com/rtlplusde.jpg" group-title="Live: Germany",RTL Plus DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/19655
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II DE" tvg-logo="https://picon-13398.kxcdn.com/rtl2.jpg" group-title="Live: Germany",RTL II DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3826
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL UHD 4K DE" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Germany",RTL UHD 4K DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/27220
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1 DE" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Germany",SAT.1 DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/1637
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="SAT.1 Emotions DE" tvg-logo="https://picon-13398.kxcdn.com/sat1emotions.jpg" group-title="Live: Germany",SAT.1 Emotions DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/16836
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold DE" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="Live: Germany",SAT.1 Gold DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12309
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Germany",Tele 5 DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12325
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX DE" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="Live: Germany",VOX DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/1630
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat DE" tvg-logo="https://picon-13398.kxcdn.com/3sat.jpg" group-title="Live: Germany",3sat DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12341
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="https://picon-13398.kxcdn.com/3sathd.jpg" group-title="Live: Germany",3sat HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/16497
-#EXTINF:-1 tvg-id="Arte.de" tvg-name="Arte FHD DE" tvg-logo="https://picon-13398.kxcdn.com/artehd.jpg" group-title="Live: Germany",Arte FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/16496
-#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal DE" tvg-logo="https://picon-13398.kxcdn.com/heimatkanal.jpg" group-title="Live: Germany",Heimatkanal DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/9558
-#EXTINF:-1 tvg-id="Romance.de" tvg-name="Romance TV DE" tvg-logo="https://picon-13398.kxcdn.com/romancetv.jpg" group-title="Live: Germany",Romance TV DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/13111
-#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="Servus TV HD DE" tvg-logo="https://picon-13398.kxcdn.com/servustv.jpg" group-title="Live: Germany",Servus TV HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/27566
-#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="ServusTV DE" tvg-logo="https://picon-13398.kxcdn.com/servustv.jpg" group-title="Live: Germany",ServusTV DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12307
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Fernsehen Nord DE" tvg-logo="https://picon-13398.kxcdn.com/br.jpg" group-title="Live: Germany",BR Fernsehen Nord DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12322
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR Fernsehen Nord HD DE" tvg-logo="https://picon-13398.kxcdn.com/brhd.jpg" group-title="Live: Germany",BR Fernsehen Nord HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/16495
-#EXTINF:-1 tvg-id="hr-Fernsehen.de" tvg-name="hr-Fernsehen DE" tvg-logo="https://picon-13398.kxcdn.com/hrfernsehen.jpg" group-title="Live: Germany",hr-Fernsehen DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12316
-#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDR SACHSEN-ANHALT FHD DE" tvg-logo="https://picon-13398.kxcdn.com/mdrsanhalthd.jpg" group-title="Live: Germany",MDR SACHSEN-ANHALT FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/15750
-#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3443
-#EXTINF:-1 tvg-id="NDRFSSH.de" tvg-name="NDR Fernsehen Schleswig-Holstein FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ndrhd.jpg" group-title="Live: Germany",NDR Fernsehen Schleswig-Holstein FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/16488
-#EXTINF:-1 tvg-id="" tvg-name="rbb Fernsehen Berlin FHD DE" tvg-logo="https://picon-13398.kxcdn.com/rbbberlinhd.jpg" group-title="Live: Germany",rbb Fernsehen Berlin FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/15747
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR HD DE" tvg-logo="https://picon-13398.kxcdn.com/wdrhd.jpg" group-title="Live: Germany",WDR HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/23437
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKa DE" tvg-logo="https://picon-13398.kxcdn.com/kika.jpg" group-title="Live: Germany",KiKa DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/1648
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Germany",Eurosport 2 HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/15568
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnews.jpg" group-title="Live: Germany",Sky Sport News DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/14577
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnewshd.jpg" group-title="Live: Germany",Sky Sport News FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/7337
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg" group-title="Live: Germany",Sky Bundesliga 1 DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/14550
-#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga10.jpg" group-title="Live: Germany",Sky Bundesliga 10 DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/14558
-#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga10hd.jpg" group-title="Live: Germany",Sky Bundesliga 10 FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/7347
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Germany",Sky Sport 2 DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/14560
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/1480
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/7327
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigital.jpg" group-title="Live: Germany",sportdigital DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3841
-#EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="Auto Motor und Sport HD DE" tvg-logo="https://picon-13398.kxcdn.com/automotorsporthd.jpg" group-title="Live: Germany",Auto Motor und Sport HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/19658
-#EXTINF:-1 tvg-id="" tvg-name="eSports1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ginx.jpg" group-title="Live: Germany",eSports1 FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/18820
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE DE" tvg-logo="https://picon-13398.kxcdn.com/anixe.jpg" group-title="Live: Germany",ANIXE DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3445
-#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3426
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Live: Germany",DMAX DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3431
-#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild HD DE" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Germany",National Geographic Wild HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/1646
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="https://picon-13398.kxcdn.com/ntv.jpg" group-title="Live: Germany",n-tv DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3449
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ntvhd.jpg" group-title="Live: Germany",n-tv FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/14054
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="https://picon-13398.kxcdn.com/phoenix.jpg" group-title="Live: Germany",Phoenix DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3454
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix FHD DE" tvg-logo="https://picon-13398.kxcdn.com/phoenixhd.jpg" group-title="Live: Germany",Phoenix FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/16487
-#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissenhd.jpg" group-title="Live: Germany",Spiegel Geschichte HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/16573
-#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="tagesschau24 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tagesschau24hd.jpg" group-title="Live: Germany",tagesschau24 FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/15752
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: Germany",TLC DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12324
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Germany",TLC FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/15757
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3448
-#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt HD DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/14573
-#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="https://picon-13398.kxcdn.com/weltderwunder.jpg" group-title="Live: Germany",Welt der Wunder DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12305
-#EXTINF:-1 tvg-id="Classica.de" tvg-name="CLASSICA DE" tvg-logo="https://picon-13398.kxcdn.com/classica.jpg" group-title="Live: Germany",CLASSICA DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/9555
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusic.jpg" group-title="Live: Germany",Deluxe Music DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/9554
-#EXTINF:-1 tvg-id="FolxTV.de" tvg-name="Folx TV DE" tvg-logo="https://picon-13398.kxcdn.com/folxtv.jpg" group-title="Live: Germany",Folx TV DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12319
-#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="JukeBox DE" tvg-logo="https://picon-13398.kxcdn.com/jukebox.jpg" group-title="Live: Germany",JukeBox DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/15579
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12317
-#EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24 DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaplus24.jpg" group-title="Live: Germany",Sky Cinema Premieren +24 DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/1633
-#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemacomedy.jpg" group-title="Live: Germany",Sky Cinema Fun DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3430
-#EXTINF:-1 tvg-id="" tvg-name="Sky Family FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemafamilyhd.jpg" group-title="Live: Germany",Sky Family FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/15576
-#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 1 Live DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/11265
-#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! DE" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: Germany",E! DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/16502
-#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! HD DE" tvg-logo="https://picon-13398.kxcdn.com/eentertainmenthd.jpg" group-title="Live: Germany",E! HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/15567
-#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX HD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/3425
-#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 1 HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/18234
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 1 Premiere HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 1 Premiere HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/26323
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 10 Lacheln HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 10 Lacheln HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/26332
-#EXTINF:-1 tvg-id="AstroTV.de" tvg-name="Astro TV DE" tvg-logo="https://picon-13398.kxcdn.com/astrotv.jpg" group-title="Live: Germany",Astro TV DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12339
-#EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="MÃ¼nchen TV DE" tvg-logo="https://picon-13398.kxcdn.com/munchentv.jpg" group-title="Live: Germany",MÃ¼nchen TV DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/11659
-#EXTINF:-1 tvg-id="" tvg-name="noa4 Norderstedt HD DE" tvg-logo="https://picon-13398.kxcdn.com/noa4de.jpg" group-title="Live: Germany",noa4 Norderstedt HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/28239
-#EXTINF:-1 tvg-id="" tvg-name="Frauen Bundesliga HD DE" tvg-logo="https://picon-13398.kxcdn.com/frauenbundesligade.jpg" group-title="Live: Germany",Frauen Bundesliga HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/35184
-#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="Nicktoons DE" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Live: Germany",Nicktoons DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/37836
-#EXTINF:-1 tvg-id="" tvg-name="QVC UHD DE" tvg-logo="https://picon-13398.kxcdn.com/qvcUHDde.jpg" group-title="Live: Germany",QVC UHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/66354
-#EXTINF:-1 tvg-id="" tvg-name="Bon Gusto FHD DE" tvg-logo="https://picon-13398.kxcdn.com/bongustode.jpg" group-title="Live: Germany",Bon Gusto FHD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/70825
-#EXTINF:-1 tvg-id="" tvg-name="Geo TV HD DE" tvg-logo="https://picon-13398.kxcdn.com/geotvde.jpg" group-title="Live: Germany",Geo TV HD DE
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/72670
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2 AT" tvg-logo="https://picon-13398.kxcdn.com/orf2.jpg" group-title="Live: Austria",ORF 2 AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/1644
-#EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV AT" tvg-logo="https://picon-13398.kxcdn.com/atv.jpg" group-title="Live: Austria",ATV AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12521
-#EXTINF:-1 tvg-id="" tvg-name="NITRO AT" tvg-logo="https://picon-13398.kxcdn.com/rtlnitro.jpg" group-title="Live: Austria",NITRO AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12510
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD AT" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Austria",TLC HD AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/15758
-#EXTINF:-1 tvg-id="ORFSport.at" tvg-name="ORF Sport Plus AT" tvg-logo="https://picon-13398.kxcdn.com/orfsportplus.jpg" group-title="Live: Austria",ORF Sport Plus AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12516
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD AT" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Austria",Disney Channel HD AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/15756
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon AT" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Austria",Nickelodeon AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/14570
-#EXTINF:-1 tvg-id="" tvg-name="Dorf TV AT" tvg-logo="https://picon-13398.kxcdn.com/dorfat.jpg" group-title="Live: Austria",Dorf TV AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/28226
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2B HD AT" tvg-logo="https://picon-13398.kxcdn.com/orf2bhd.jpg" group-title="Live: Austria",ORF 2B HD AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/16386
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central AT" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Austria",Comedy Central AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/29863
-#EXTINF:-1 tvg-id="" tvg-name="Kronehit TV AT" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Live: Austria",Kronehit TV AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/9393
-#EXTINF:-1 tvg-id="" tvg-name="StarParadies AT" tvg-logo="https://picon-13398.kxcdn.com/starparadies.jpg" group-title="Live: Austria",StarParadies AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/12507
-#EXTINF:-1 tvg-id="Puls4.at" tvg-name="Puls 4 FHD AT" tvg-logo="https://picon-13398.kxcdn.com/puls4.jpg" group-title="Live: Austria",Puls 4 FHD AT
-http://channels227070.clientportal.link:80/Norbert_Germany/XrTdUWh3WZ/66356
-
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste HD DE" tvg-logo="http://pici.life/DE/daserstehd.png" group-title="Germany",Das Erste HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/13166
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste HD [B] DE" tvg-logo="http://pici.life/daserstehd_2.png" group-title="Germany",Das Erste HD [B] DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6262
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste DE" tvg-logo="http://pici.life/daserstehd_2.png" group-title="Germany",Das Erste DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6256
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF FHD DE" tvg-logo="http://pici.life/zdfhd.png" group-title="Germany",ZDF FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6151
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD DE" tvg-logo="http://pici.life/DE/zdf.png" group-title="Germany",ZDF HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/17011
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD DE" tvg-logo="http://pici.life/rtlhd_2.png" group-title="Germany",RTL HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6216
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1 HD DE" tvg-logo="http://pici.life/sat1hd_2.png" group-title="Germany",Sat.1 HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/683455
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="Pro 7 HD DE" tvg-logo="http://pici.life/DE/prosiebenhd.png" group-title="Germany",Pro 7 HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/683393
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classic HD DE" tvg-logo="http://pici.life/DE/kabeleinsclassics.png" group-title="Germany",Kabel 1 Classic HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/9151
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classic DE" tvg-logo="http://pici.life/DE/kabeleinsclassics.png" group-title="Germany",Kabel 1 Classic DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/679844
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living FHD DE" tvg-logo="http://pici.life/rtlliving.png" group-title="Germany",RTL Living FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6150
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living HD DE" tvg-logo="http://pici.life/rtlliving.png" group-title="Germany",RTL Living HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6213
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment FHD DE" tvg-logo="http://pici.life/US/e.png" group-title="Germany",E! Entertainment FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/13569
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR HD DE" tvg-logo="http://pici.life/mdrsanhalthd.png" group-title="Germany",MDR HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6238
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR HD DE" tvg-logo="http://pici.life/hrfernsehen.png" group-title="Germany",HR HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6243
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD DE" tvg-logo="http://pici.life/wdrhd.png" group-title="Germany",WDR HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6152
+#EXTINF:-1 tvg-id="" tvg-name="Franken Fernsehen FHD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Franken_Fernsehen_Logo_2010.svg/300px-Franken_Fernsehen_Logo_2010.svg.png" group-title="Germany",Franken Fernsehen FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/677835
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News FHD DE" tvg-logo="http://pici.life/DE/skysportnewshd.png" group-title="Germany",Sky Sports News FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/13555
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News HD DE" tvg-logo="http://pici.life/skysportnewshd.png" group-title="Germany",Sky Sports News HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/684431
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="http://pici.life/skysport2hd_2.png" group-title="Germany",Sky Sport 2 FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/7362
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="http://pici.life/DE/skysport2.png" group-title="Germany",Sky Sport 2 HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/683896
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga1hd.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/684430
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] FHD DE" tvg-logo="http://pici.life/DE/skysportbundesliga1hd.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/683408
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/683409
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time] DE" tvg-logo="http://pici.life/DE/skysportbundesliga1.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/13538
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time] DE" tvg-logo="http://pici.life/skysportbundesliga1hd_2.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/73136
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] DE" tvg-logo="http://pici.life/DE/skysportbundesliga1hd.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time-B] DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/684005
+#EXTINF:-1 tvg-id="" tvg-name="Sport1+ FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Sport1+ FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/679847
+#EXTINF:-1 tvg-id="" tvg-name="Sport1+ HD [B] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Sport1+ HD [B] DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/679848
+#EXTINF:-1 tvg-id="" tvg-name="Telekom FuÃball 2 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom FuÃball 2 HD [Match Time] DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/679822
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 2 [Match Time] HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Telekom Eishockey 2 [Match Time] HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/679672
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="Eurosport 2 FHD DE" tvg-logo="http://pici.life/UK/Eurosport-2-UK.jpg" group-title="Germany",Eurosport 2 FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/9131
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital HD DE" tvg-logo="http://pici.life/sportdigital.png" group-title="Germany",Sport Digital HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6171
+#EXTINF:-1 tvg-id="" tvg-name="DEL Sport 2 HD [Match Time] DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",DEL Sport 2 HD [Match Time] DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/679852
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="http://pici.life/skycinemaplus24hd.png" group-title="Germany",Sky Cinema Premieren +24 FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6192
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 HD DE" tvg-logo="http://pici.life/DE/skycinemaplus24hd.png" group-title="Germany",Sky Cinema Premieren +24 HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/13133
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun HD DE" tvg-logo="http://pici.life/skycinemacomedyhd.png" group-title="Germany",Sky Cinema Fun HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/9144
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="http://pici.life/skycomedy.png" group-title="Germany",Sky Cinema Fun DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6190
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family FHD DE" tvg-logo="http://pici.life/skycinemafamilyhd_2.png" group-title="Germany",Sky Cinema Family FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/9145
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family HD DE" tvg-logo="http://pici.life/skycinemafamilyhd_2.png" group-title="Germany",Sky Cinema Family HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/7369
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street HD DE" tvg-logo="http://pici.life/13thstreethd.png" group-title="Germany",Sky 13TH Street HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/7365
+#EXTINF:-1 tvg-id="fox.de" tvg-name="Fox DE" tvg-logo="http://pici.life/DE/fox.png" group-title="Germany",Fox DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/23770
+#EXTINF:-1 tvg-id="tntcomedy.de" tvg-name="TNT Comedy FHD DE" tvg-logo="http://pici.life/tntcomedyhd.png" group-title="Germany",TNT Comedy FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6157
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema LÃ¤cheln HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Eagle Cinema LÃ¤cheln HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/681944
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Geschichte HD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Eagle Cinema Geschichte HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/681941
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 FHD DE" tvg-logo="http://pici.life/DE/SkySelect1.de.png" group-title="Germany",Sky Select 1 FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/655131
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 HD DE" tvg-logo="http://pici.life/DE/Sky%20select%20hd.png" group-title="Germany",Sky Select 1 HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/7375
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 1 HD DE" tvg-logo="http://pici.life/DE/Popcorn.png" group-title="Germany",PopCorn Select 1 HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/23778
+#EXTINF:-1 tvg-id="" tvg-name="HiperCinema 4K DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HiperCinema 4K DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/683524
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema Boxset FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HyperCinema Boxset FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/683534
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema INFO FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",HyperCinema INFO FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/683523
+#EXTINF:-1 tvg-id="axn.de" tvg-name="AXN HD DE" tvg-logo="http://pici.life/axn_2.png" group-title="Germany",AXN HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6259
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="Comedy Central FHD DE" tvg-logo="http://pici.life/DE/VIVA-COMEDY-CENTRAL.png" group-title="Germany",Comedy Central FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6154
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="Tele 5 HD DE" tvg-logo="http://pici.life/tele5hd.png" group-title="Germany",Tele 5 HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/9150
+#EXTINF:-1 tvg-id="bibeltv.de" tvg-name="Bibel TV HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bibel_TV_logo.png/300px-Bibel_TV_logo.png" group-title="Germany",Bibel TV HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/677497
+#EXTINF:-1 tvg-id="skyarts.de" tvg-name="Sky Arte FHD DE" tvg-logo="http://pici.life/skyartehd_2.png" group-title="Germany",Sky Arte FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/5091
+#EXTINF:-1 tvg-id="skyarts.de" tvg-name="Sky Arte HD DE" tvg-logo="http://pici.life/skyartehd_2.png" group-title="Germany",Sky Arte HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/9139
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Sky Arte DE" tvg-logo="http://pici.life/arte.png" group-title="Germany",Sky Arte DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6261
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="ARD Alpha HD DE" tvg-logo="http://pici.life/DE/astrotv.png" group-title="Germany",ARD Alpha HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/13171
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV FHD DE" tvg-logo="http://pici.life/DE/InTV.jpg" group-title="Germany",N-TV FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/13149
+#EXTINF:-1 tvg-id="n-tv DE" tvg-name="N-TV HD DE" tvg-logo="http://pici.life/DE/ntvhd.png" group-title="Germany",N-TV HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/8195
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV DE" tvg-logo="http://pici.life/DE/ntvhd.png" group-title="Germany",N-TV DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/13566
+#EXTINF:-1 tvg-id="munchentv.de" tvg-name="Munchen TV DE" tvg-logo="http://pici.life/munchentv.png" group-title="Germany",Munchen TV DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6229
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix HD DE" tvg-logo="http://pici.life/phoenixhd.png" group-title="Germany",Phoenix HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6221
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau 24 HD DE" tvg-logo="http://pici.life/tagesschau24hd.png" group-title="Germany",Tagesschau 24 HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6163
+#EXTINF:-1 tvg-id="" tvg-name="KiKa FHD DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",KiKa FHD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/679839
+#EXTINF:-1 tvg-id="kika.de" tvg-name="Kika HD DE" tvg-logo="http://pici.life/kikahd.png" group-title="Germany",Kika HD DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/6241
+#EXTINF:-1 tvg-id="babytv.de" tvg-name="Baby TV DE" tvg-logo="http://pici.life/DE/baby_tv_eu.png" group-title="Germany",Baby TV DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/13169
+#EXTINF:-1 tvg-id="fixandfoxi.de" tvg-name="Fix & Foxi DE" tvg-logo="http://pici.life/DE/FIXandFOXI.de.png" group-title="Germany",Fix & Foxi DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/23771
+#EXTINF:-1 tvg-id="" tvg-name="Kids Tom&Jerry DE" tvg-logo="http://pici.life/logo.png" group-title="Germany",Kids Tom&Jerry DE
+http://mytv.fun:8080/raymundvietnam/hh25102020/679840
 
 
 
